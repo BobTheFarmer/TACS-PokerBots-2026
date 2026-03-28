@@ -78,6 +78,34 @@ python3 engine.py
 
 Configure player paths and match parameters in `config.py`.
 
+### Monte Carlo vs Redraw Hunter
+
+This repo is now preconfigured for a head-to-head match between:
+
+- `mc_equity` -> `./python_skeleton`
+- `redraw_hunter` -> `./bot_redraw_hunter`
+
+To run that battle:
+
+```bash
+source .venv/bin/activate
+python3 engine.py
+```
+
+Artifacts will be written to:
+
+- `results/montecarlo_vs_redraw_hunter/gamelog.txt`
+- `results/montecarlo_vs_redraw_hunter/mc_equity.txt`
+- `results/montecarlo_vs_redraw_hunter/redraw_hunter.txt`
+
+To change the matchup later, edit these fields in `config.py`:
+
+- `PLAYER_1_NAME`
+- `PLAYER_1_PATH`
+- `PLAYER_2_NAME`
+- `PLAYER_2_PATH`
+- `NUM_ROUNDS`
+
 There are two example strategies in the [all_in_bot/](all_in_bot) and [check_call_bot/](check_call_bot) folders. At a minimum, you should ensure your poker bot can beat these basic strategies. 
 
 ## Building Your Bot

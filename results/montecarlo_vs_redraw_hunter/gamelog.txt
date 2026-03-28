@@ -1,0 +1,5696 @@
+TACS Pokerbots - mc_equity vs redraw_hunter
+
+Round #1, mc_equity (0), redraw_hunter (0)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3s 7s]
+redraw_hunter dealt [4h 6s]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #2, redraw_hunter (1), mc_equity (-1)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9s Qh]
+mc_equity dealt [6s 2h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #3, mc_equity (-3), redraw_hunter (3)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kd 2d]
+redraw_hunter dealt [Qd 5c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [3s Td 9s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X5c
+redraw_hunter redraws hole card 1 and bets 4
+Redraw reveal for 1: WB0 X3s
+mc_equity redraws board card 0 and calls
+Turn [6d Td 9s Qs], mc_equity (9), redraw_hunter (9)
+redraw_hunter bets 12
+mc_equity raises to 24
+redraw_hunter calls
+River [6d Td 9s Qs Kc], mc_equity (33), redraw_hunter (33)
+redraw_hunter bets 46
+mc_equity raises to 92
+redraw_hunter calls
+mc_equity shows [Kd 2d]
+redraw_hunter shows [Qd 2s]
+mc_equity awarded 125
+redraw_hunter awarded -125
+
+Round #4, redraw_hunter (-122), mc_equity (122)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Tc 7s]
+mc_equity dealt [Jd 6c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6s Th 9d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 XTh
+mc_equity redraws board card 1 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+Turn [6s 8h 9d 6d], redraw_hunter (15), mc_equity (15)
+mc_equity bets 21
+Redraw reveal for 1: WB3 X6d
+redraw_hunter redraws board card 3 and raises to 42
+mc_equity raises to 86
+redraw_hunter raises to 168
+mc_equity raises to 284
+redraw_hunter raises to 385
+mc_equity calls
+redraw_hunter shows [Tc 7s]
+mc_equity shows [Jd 6c]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #5, mc_equity (-278), redraw_hunter (278)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jh 3h]
+redraw_hunter dealt [3c 7c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #6, redraw_hunter (276), mc_equity (-276)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4h Td]
+mc_equity dealt [Qd Jh]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [2c 9s 7h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 XQd
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4h
+redraw_hunter redraws hole card 0 and checks
+Turn [2c 9s 7h 3d], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [2c 9s 7h 3d 2s], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [Ah Td]
+mc_equity shows [8s Jh]
+redraw_hunter awarded 5
+mc_equity awarded -5
+
+Round #7, mc_equity (-281), redraw_hunter (281)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4h 4s]
+redraw_hunter dealt [Ah Kc]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity calls
+Flop [2d 5s 9d], mc_equity (19), redraw_hunter (19)
+Redraw reveal for 0: WB2 X9d
+redraw_hunter redraws board card 2 and checks
+mc_equity bets 19
+redraw_hunter calls
+Turn [2d 5s Ad 9s], mc_equity (38), redraw_hunter (38)
+redraw_hunter bets 49
+mc_equity raises to 98
+redraw_hunter raises to 227
+mc_equity raises to 362
+redraw_hunter calls
+mc_equity shows [4h 4s]
+redraw_hunter shows [Ah Kc]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #8, redraw_hunter (681), mc_equity (-681)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kd 6s]
+mc_equity dealt [7d Th]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [8c Qh Kh], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X7d
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [8c Qh Kh 6d], redraw_hunter (19), mc_equity (19)
+mc_equity checks
+redraw_hunter bets 26
+mc_equity raises to 52
+redraw_hunter raises to 118
+mc_equity raises to 197
+redraw_hunter raises to 381
+mc_equity calls
+redraw_hunter shows [Kd 6s]
+mc_equity shows [Ks Th]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #9, mc_equity (-1081), redraw_hunter (1081)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kc Jh]
+redraw_hunter dealt [Qd Jc]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity raises to 400
+redraw_hunter calls
+mc_equity shows [Kc Jh]
+redraw_hunter shows [Qd Jc]
+mc_equity awarded 400
+redraw_hunter awarded -400
+
+Round #10, redraw_hunter (681), mc_equity (-681)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9c 8c]
+mc_equity dealt [Ah 6d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [5h 5c 5s], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+Redraw reveal for 1: WH1 X8c
+redraw_hunter redraws hole card 1 and calls
+Turn [5h 5c 5s 3c], redraw_hunter (10), mc_equity (10)
+Redraw reveal for 0: WB3 X3c
+mc_equity redraws board card 3 and checks
+redraw_hunter checks
+River [5h 5c 5s 2h Qh], redraw_hunter (10), mc_equity (10)
+mc_equity bets 10
+redraw_hunter calls
+redraw_hunter shows [9c Qd]
+mc_equity shows [Ah 6d]
+redraw_hunter awarded 20
+mc_equity awarded -20
+
+Round #11, mc_equity (-701), redraw_hunter (701)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2c Jd]
+redraw_hunter dealt [6s 5d]
+mc_equity calls
+redraw_hunter checks
+Flop [Jh 7c 4s], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+Redraw reveal for 1: WH0 X2c
+mc_equity redraws hole card 0 and checks
+Turn [Jh 7c 4s Ts], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WB0 XJh
+redraw_hunter redraws board card 0 and bets 2
+mc_equity raises to 4
+redraw_hunter calls
+River [3s 7c 4s Ts Ah], mc_equity (6), redraw_hunter (6)
+redraw_hunter bets 8
+mc_equity calls
+mc_equity shows [Ac Jd]
+redraw_hunter shows [6s 5d]
+mc_equity awarded -14
+redraw_hunter awarded 14
+
+Round #12, redraw_hunter (715), mc_equity (-715)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5s 4h]
+mc_equity dealt [9c 8h]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jh 9h Ad], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 XAd
+mc_equity redraws board card 2 and checks
+Redraw reveal for 1: WH0 X5s
+redraw_hunter redraws hole card 0 and checks
+Turn [Jh 9h 5d 2s], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [Jh 9h 5d 2s Tc], redraw_hunter (12), mc_equity (12)
+mc_equity bets 12
+redraw_hunter calls
+redraw_hunter shows [3c 4h]
+mc_equity shows [9c 8h]
+redraw_hunter awarded -24
+mc_equity awarded 24
+
+Round #13, mc_equity (-691), redraw_hunter (691)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4d 7c]
+redraw_hunter dealt [2c Th]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #14, redraw_hunter (692), mc_equity (-692)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8h Jd]
+mc_equity dealt [8s 8c]
+Redraw reveal for 1: WH0 X8h
+redraw_hunter redraws hole card 0 and raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [Kh 3c Kd], redraw_hunter (17), mc_equity (17)
+mc_equity bets 23
+redraw_hunter calls
+Turn [Kh 3c Kd 4d], redraw_hunter (40), mc_equity (40)
+mc_equity bets 56
+redraw_hunter calls
+River [Kh 3c Kd 4d 3s], redraw_hunter (96), mc_equity (96)
+mc_equity bets 134
+redraw_hunter calls
+redraw_hunter shows [6c Jd]
+mc_equity shows [8s 8c]
+redraw_hunter awarded -230
+mc_equity awarded 230
+
+Round #15, mc_equity (-462), redraw_hunter (462)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ts Qs]
+redraw_hunter dealt [5d 5h]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity raises to 400
+redraw_hunter calls
+mc_equity shows [Ts Qs]
+redraw_hunter shows [5d 5h]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #16, redraw_hunter (862), mc_equity (-862)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3h 7h]
+mc_equity dealt [8s 2h]
+Redraw reveal for 1: WH0 X3h
+redraw_hunter redraws hole card 0 and raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #17, mc_equity (-864), redraw_hunter (864)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kd Qs]
+redraw_hunter dealt [3d Qh]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X3d
+redraw_hunter redraws hole card 0 and calls
+Flop [2d Td 2h], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+Redraw reveal for 1: WB2 X2h
+mc_equity redraws board card 2 and checks
+Turn [2d Td 9d 8h], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [2d Td 9d 8h 6s], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 4
+redraw_hunter calls
+mc_equity shows [Kd Qs]
+redraw_hunter shows [Ks Qh]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #18, redraw_hunter (864), mc_equity (-864)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c 7d]
+mc_equity dealt [5c 6c]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #19, mc_equity (-866), redraw_hunter (866)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3s Kd]
+redraw_hunter dealt [4c Ac]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8s Ad 9d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 X3s
+mc_equity redraws hole card 0 and calls
+Turn [8s Ad 9d Qc], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WB2 X9d
+redraw_hunter redraws board card 2 and bets 15
+mc_equity raises to 30
+redraw_hunter calls
+River [8s Ad Jh Qc Qd], mc_equity (41), redraw_hunter (41)
+redraw_hunter bets 57
+mc_equity raises to 114
+redraw_hunter calls
+mc_equity shows [6s Kd]
+redraw_hunter shows [4c Ac]
+mc_equity awarded -155
+redraw_hunter awarded 155
+
+Round #20, redraw_hunter (1021), mc_equity (-1021)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7c Kh]
+mc_equity dealt [9c 6d]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #21, mc_equity (-1023), redraw_hunter (1023)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kh 7c]
+redraw_hunter dealt [4c Td]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #22, redraw_hunter (1021), mc_equity (-1021)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7s 7c]
+mc_equity dealt [Tc 6s]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #23, mc_equity (-1023), redraw_hunter (1023)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d 3c]
+redraw_hunter dealt [As Ah]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #24, redraw_hunter (1028), mc_equity (-1028)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9h Ah]
+mc_equity dealt [6s Jh]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6c Qd 8d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 X8d
+mc_equity redraws board card 2 and checks
+Redraw reveal for 1: WB0 X6c
+redraw_hunter redraws board card 0 and bets 5
+mc_equity calls
+Turn [Ad Qd 3c 9s], redraw_hunter (10), mc_equity (10)
+mc_equity checks
+redraw_hunter bets 14
+mc_equity calls
+River [Ad Qd 3c 9s 9c], redraw_hunter (24), mc_equity (24)
+mc_equity checks
+redraw_hunter bets 33
+mc_equity calls
+redraw_hunter shows [9h Ah]
+mc_equity shows [6s Jh]
+redraw_hunter awarded 57
+mc_equity awarded -57
+
+Round #25, mc_equity (-1085), redraw_hunter (1085)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5d Js]
+redraw_hunter dealt [5c Ac]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8h Qs 9c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 X8h
+redraw_hunter redraws board card 0 and checks
+Redraw reveal for 1: WH0 X5d
+mc_equity redraws hole card 0 and checks
+Turn [Qd Qs 9c 9d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+River [Qd Qs 9c 9d Qc], mc_equity (19), redraw_hunter (19)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [7h Js]
+redraw_hunter shows [5c Ac]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #26, redraw_hunter (1085), mc_equity (-1085)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qs As]
+mc_equity dealt [8s 7s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Qc 2h 6d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X2h
+mc_equity redraws board card 1 and checks
+redraw_hunter bets 7
+mc_equity calls
+Turn [Qc 8c 6d 4c], redraw_hunter (12), mc_equity (12)
+mc_equity bets 12
+Redraw reveal for 1: WB1 X8c
+redraw_hunter redraws board card 1 and calls
+River [Qc 5d 6d 4c 8h], redraw_hunter (24), mc_equity (24)
+mc_equity bets 33
+redraw_hunter calls
+redraw_hunter shows [Qs As]
+mc_equity shows [8s 7s]
+redraw_hunter awarded -57
+mc_equity awarded 57
+
+Round #27, mc_equity (-1028), redraw_hunter (1028)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ts 9s]
+redraw_hunter dealt [3d 6c]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X3d
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #28, redraw_hunter (1026), mc_equity (-1026)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Td Jd]
+mc_equity dealt [2h 7c]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #29, mc_equity (-1028), redraw_hunter (1028)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ks 6h]
+redraw_hunter dealt [Qh 9d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7d Ah 8d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 XAh
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WB0 X7d
+mc_equity redraws board card 0 and checks
+Turn [8c 6d 8d As], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+River [8c 6d 8d As 9h], mc_equity (10), redraw_hunter (10)
+redraw_hunter bets 14
+mc_equity raises to 28
+redraw_hunter calls
+mc_equity shows [Ks 6h]
+redraw_hunter shows [Qh 9d]
+mc_equity awarded -38
+redraw_hunter awarded 38
+
+Round #30, redraw_hunter (1066), mc_equity (-1066)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2h 5d]
+mc_equity dealt [Js 9h]
+Redraw reveal for 1: WH0 X2h
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #31, mc_equity (-1065), redraw_hunter (1065)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ah 6d]
+redraw_hunter dealt [6s 7c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #32, redraw_hunter (1063), mc_equity (-1063)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ad 6c]
+mc_equity dealt [6s Td]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Qc 2c 2s], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X2c
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH1 X6c
+redraw_hunter redraws hole card 1 and checks
+Turn [Qc 7h 2s Ks], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter bets 5
+mc_equity folds
+redraw_hunter awarded 5
+mc_equity awarded -5
+
+Round #33, mc_equity (-1068), redraw_hunter (1068)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Tc 2h]
+redraw_hunter dealt [7h Td]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qd 4d 4s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X7h
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2h
+mc_equity redraws hole card 1 and checks
+Turn [Qd 4d 4s Kh], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [Qd 4d 4s Kh 9d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+mc_equity shows [Tc 2s]
+redraw_hunter shows [As Td]
+mc_equity awarded -15
+redraw_hunter awarded 15
+
+Round #34, redraw_hunter (1083), mc_equity (-1083)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6d Kc]
+mc_equity dealt [9s 7c]
+Redraw reveal for 1: WH0 X6d
+redraw_hunter redraws hole card 0 and raises to 5
+mc_equity calls
+Flop [7h 7d 5s], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+Turn [7h 7d 5s 4d], redraw_hunter (12), mc_equity (12)
+Redraw reveal for 0: WH0 X9s
+mc_equity redraws hole card 0 and checks
+redraw_hunter checks
+River [7h 7d 5s 4d Ts], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [7s Kc]
+mc_equity shows [6c 7c]
+redraw_hunter awarded 28
+mc_equity awarded -28
+
+Round #35, mc_equity (-1111), redraw_hunter (1111)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9s Qd]
+redraw_hunter dealt [2h 8d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #36, redraw_hunter (1109), mc_equity (-1109)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4c Th]
+mc_equity dealt [7d 9s]
+redraw_hunter calls
+mc_equity checks
+Flop [Ts Ad 4s], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 X7d
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 2
+mc_equity raises to 4
+redraw_hunter raises to 10
+mc_equity raises to 16
+redraw_hunter raises to 34
+mc_equity raises to 53
+redraw_hunter raises to 106
+mc_equity raises to 167
+redraw_hunter raises to 327
+mc_equity raises to 398
+redraw_hunter calls
+redraw_hunter shows [4c Th]
+mc_equity shows [8c 9s]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #37, mc_equity (-1509), redraw_hunter (1509)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2d 8c]
+redraw_hunter dealt [Jc 6h]
+mc_equity calls
+redraw_hunter checks
+Flop [Ad 5c 7c], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH1 X6h
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2d
+mc_equity redraws hole card 0 and checks
+Turn [Ad 5c 7c 2c], mc_equity (2), redraw_hunter (2)
+redraw_hunter bets 2
+mc_equity raises to 4
+redraw_hunter calls
+River [Ad 5c 7c 2c 4d], mc_equity (6), redraw_hunter (6)
+redraw_hunter checks
+mc_equity bets 6
+redraw_hunter calls
+mc_equity shows [2h 8c]
+redraw_hunter shows [Jc Qs]
+mc_equity awarded 12
+redraw_hunter awarded -12
+
+Round #38, redraw_hunter (1497), mc_equity (-1497)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [As 9h]
+mc_equity dealt [3d 6s]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #39, mc_equity (-1499), redraw_hunter (1499)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Js 3c]
+redraw_hunter dealt [Ks 5s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Jh Kc 5h], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH1 X3c
+mc_equity redraws hole card 1 and calls
+Turn [Jh Kc 5h 2s], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 15
+mc_equity raises to 30
+redraw_hunter raises to 68
+mc_equity raises to 114
+redraw_hunter raises to 231
+mc_equity raises to 370
+redraw_hunter raises to 389
+mc_equity calls
+mc_equity shows [Js Ad]
+redraw_hunter shows [Ks 5s]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #40, redraw_hunter (1899), mc_equity (-1899)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7c Td]
+mc_equity dealt [3s Js]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Kc Ad 9d], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+Redraw reveal for 1: WH0 X7c
+redraw_hunter redraws hole card 0 and checks
+Turn [Kc Ad 9d 2c], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X3s
+mc_equity redraws hole card 0 and checks
+redraw_hunter checks
+River [Kc Ad 9d 2c 6h], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [Qd Td]
+mc_equity shows [7h Js]
+redraw_hunter awarded 5
+mc_equity awarded -5
+
+Round #41, mc_equity (-1904), redraw_hunter (1904)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9h 4h]
+redraw_hunter dealt [Jd 8c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Kc 6s 4d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X8c
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB0 XKc
+mc_equity redraws board card 0 and checks
+Turn [Qd 6s 4d Ac], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+River [Qd 6s 4d Ac 7h], mc_equity (10), redraw_hunter (10)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [9h 4h]
+redraw_hunter shows [Jd Ts]
+mc_equity awarded 10
+redraw_hunter awarded -10
+
+Round #42, redraw_hunter (1894), mc_equity (-1894)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9s 3s]
+mc_equity dealt [6d 9d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6h 5c Kd], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X9d
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and checks
+Turn [6h 5c Kd 8c], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [6h 5c Kd 8c As], redraw_hunter (12), mc_equity (12)
+mc_equity bets 12
+redraw_hunter calls
+redraw_hunter shows [9s 8s]
+mc_equity shows [6d 6s]
+redraw_hunter awarded -24
+mc_equity awarded 24
+
+Round #43, mc_equity (-1870), redraw_hunter (1870)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7c 6d]
+redraw_hunter dealt [8s Ts]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qs Kh 9c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 XKh
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WH1 X6d
+mc_equity redraws hole card 1 and checks
+Turn [Qs Ah 9c Td], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 7
+mc_equity calls
+River [Qs Ah 9c Td 5d], mc_equity (12), redraw_hunter (12)
+redraw_hunter bets 16
+mc_equity calls
+mc_equity shows [7c 8h]
+redraw_hunter shows [8s Ts]
+mc_equity awarded -28
+redraw_hunter awarded 28
+
+Round #44, redraw_hunter (1898), mc_equity (-1898)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4c 9h]
+mc_equity dealt [Ad 3d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jh 8d Ah], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X3d
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X4c
+redraw_hunter redraws hole card 0 and bets 4
+mc_equity raises to 9
+redraw_hunter calls
+Turn [Jh 8d Ah 9d], redraw_hunter (14), mc_equity (14)
+mc_equity bets 19
+redraw_hunter calls
+River [Jh 8d Ah 9d Jd], redraw_hunter (33), mc_equity (33)
+mc_equity bets 46
+redraw_hunter calls
+redraw_hunter shows [Th 9h]
+mc_equity shows [Ad Ac]
+redraw_hunter awarded -79
+mc_equity awarded 79
+
+Round #45, mc_equity (-1819), redraw_hunter (1819)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3d 8c]
+redraw_hunter dealt [3h Jd]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X3h
+redraw_hunter redraws hole card 0 and calls
+Flop [4d Qd Ks], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+Redraw reveal for 1: WH0 X3d
+mc_equity redraws hole card 0 and calls
+Turn [4d Qd Ks Js], mc_equity (10), redraw_hunter (10)
+redraw_hunter bets 14
+mc_equity calls
+River [4d Qd Ks Js 5h], mc_equity (24), redraw_hunter (24)
+redraw_hunter bets 33
+mc_equity calls
+mc_equity shows [2s 8c]
+redraw_hunter shows [5c Jd]
+mc_equity awarded -57
+redraw_hunter awarded 57
+
+Round #46, redraw_hunter (1876), mc_equity (-1876)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2h 5s]
+mc_equity dealt [4h 7s]
+redraw_hunter calls
+mc_equity checks
+Flop [6d 5d Kc], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WB2 XKc
+mc_equity redraws board card 2 and checks
+Redraw reveal for 1: WB0 X6d
+redraw_hunter redraws board card 0 and bets 2
+mc_equity calls
+Turn [2c 5d Qs Td], redraw_hunter (4), mc_equity (4)
+mc_equity bets 3
+redraw_hunter raises to 8
+mc_equity folds
+redraw_hunter awarded 7
+mc_equity awarded -7
+
+Round #47, mc_equity (-1883), redraw_hunter (1883)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d 7h]
+redraw_hunter dealt [Jd 3c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qc Kh 8c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X3c
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB2 X8c
+mc_equity redraws board card 2 and checks
+Turn [Qc Kh 6h Ts], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+River [Qc Kh 6h Ts 2d], mc_equity (15), redraw_hunter (15)
+redraw_hunter bets 16
+mc_equity raises to 32
+redraw_hunter calls
+mc_equity shows [7d 7h]
+redraw_hunter shows [Jd 4c]
+mc_equity awarded 47
+redraw_hunter awarded -47
+
+Round #48, redraw_hunter (1836), mc_equity (-1836)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kc 9d]
+mc_equity dealt [Th 8s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jc 3c 5s], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 XTh
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WB2 X5s
+redraw_hunter redraws board card 2 and checks
+Turn [Jc 3c Td 6d], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [Jc 3c Td 6d 2s], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [Kc 9d]
+mc_equity shows [2h 8s]
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #49, mc_equity (-1831), redraw_hunter (1831)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6d 4h]
+redraw_hunter dealt [7s 5h]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #50, redraw_hunter (1832), mc_equity (-1832)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8s 3c]
+mc_equity dealt [3h 9c]
+Redraw reveal for 1: WH1 X3c
+redraw_hunter redraws hole card 1 and calls
+mc_equity checks
+Flop [Th 5s 7d], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 X3h
+mc_equity redraws hole card 0 and checks
+redraw_hunter checks
+Turn [Th 5s 7d Kc], redraw_hunter (2), mc_equity (2)
+mc_equity checks
+redraw_hunter checks
+River [Th 5s 7d Kc 4h], redraw_hunter (2), mc_equity (2)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [8s As]
+mc_equity shows [5h 9c]
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #51, mc_equity (-1830), redraw_hunter (1830)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2s 8c]
+redraw_hunter dealt [4c Qh]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8s 5d Jh], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X4c
+redraw_hunter redraws hole card 0 and checks
+mc_equity bets 7
+redraw_hunter calls
+Turn [8s 5d Jh 3c], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+Redraw reveal for 1: WH0 X2s
+mc_equity redraws hole card 0 and checks
+River [8s 5d Jh 3c 9c], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+mc_equity shows [3h 8c]
+redraw_hunter shows [4s Qh]
+mc_equity awarded 28
+redraw_hunter awarded -28
+
+Round #52, redraw_hunter (1802), mc_equity (-1802)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2d 6c]
+mc_equity dealt [9d 4s]
+Redraw reveal for 1: WH0 X2d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #53, mc_equity (-1801), redraw_hunter (1801)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5h Ad]
+redraw_hunter dealt [6h Qh]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [As 8s 7h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X6h
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WB1 X8s
+mc_equity redraws board card 1 and checks
+Turn [As 9c 7h 5s], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 7
+redraw_hunter calls
+River [As 9c 7h 5s 2s], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+mc_equity shows [5h Ad]
+redraw_hunter shows [Td Qh]
+mc_equity awarded 28
+redraw_hunter awarded -28
+
+Round #54, redraw_hunter (1773), mc_equity (-1773)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ts Tc]
+mc_equity dealt [Jh As]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [7c Kc Qh], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 X7c
+mc_equity redraws board card 0 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+Redraw reveal for 1: WB2 XQh
+redraw_hunter redraws board card 2 and calls
+Turn [6d Kc Ks 2s], redraw_hunter (19), mc_equity (19)
+mc_equity checks
+redraw_hunter bets 26
+mc_equity raises to 52
+redraw_hunter raises to 118
+mc_equity raises to 197
+redraw_hunter calls
+River [6d Kc Ks 2s 2d], redraw_hunter (216), mc_equity (216)
+mc_equity bets 184
+redraw_hunter calls
+redraw_hunter shows [Ts Tc]
+mc_equity shows [Jh As]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #55, mc_equity (-2173), redraw_hunter (2173)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9d Ts]
+redraw_hunter dealt [2s 9s]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #56, redraw_hunter (2171), mc_equity (-2171)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8d Jh]
+mc_equity dealt [3c Tc]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [4s 8c Ah], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X3c
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [4s 8c Ah 2s], redraw_hunter (19), mc_equity (19)
+mc_equity checks
+Redraw reveal for 1: WH1 XJh
+redraw_hunter redraws hole card 1 and bets 26
+mc_equity calls
+River [4s 8c Ah 2s 7s], redraw_hunter (45), mc_equity (45)
+mc_equity checks
+redraw_hunter bets 62
+mc_equity folds
+redraw_hunter awarded 45
+mc_equity awarded -45
+
+Round #57, mc_equity (-2216), redraw_hunter (2216)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ah 5d]
+redraw_hunter dealt [Qc 5c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qd 7h 9h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X5c
+redraw_hunter redraws hole card 1 and bets 6
+Redraw reveal for 1: WB0 XQd
+mc_equity redraws board card 0 and calls
+Turn [2d 7h 9h 4d], mc_equity (11), redraw_hunter (11)
+redraw_hunter checks
+mc_equity checks
+River [2d 7h 9h 4d 2s], mc_equity (11), redraw_hunter (11)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [Ah 5d]
+redraw_hunter shows [Qc 4c]
+mc_equity awarded -11
+redraw_hunter awarded 11
+
+Round #58, redraw_hunter (2227), mc_equity (-2227)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7c Th]
+mc_equity dealt [4c Tc]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [5c 5h 5s], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X5h
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WB2 X5s
+redraw_hunter redraws board card 2 and checks
+Turn [5c Jc 2h 4h], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #59, mc_equity (-2222), redraw_hunter (2222)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5h 3c]
+redraw_hunter dealt [4s 5s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7d 8c 7h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB2 X7h
+redraw_hunter redraws board card 2 and bets 4
+Redraw reveal for 1: WB1 X8c
+mc_equity redraws board card 1 and calls
+Turn [7d Jh Ks Jd], mc_equity (9), redraw_hunter (9)
+redraw_hunter checks
+mc_equity checks
+River [7d Jh Ks Jd As], mc_equity (9), redraw_hunter (9)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [5h 3c]
+redraw_hunter shows [4s 5s]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #60, redraw_hunter (2222), mc_equity (-2222)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Tc 3s]
+mc_equity dealt [Qs 3h]
+redraw_hunter calls
+mc_equity checks
+Flop [7c 5h 3c], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 XQs
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 2
+mc_equity raises to 4
+Redraw reveal for 1: WB1 X5h
+redraw_hunter redraws board card 1 and calls
+Turn [7c Qc 3c 6d], redraw_hunter (6), mc_equity (6)
+mc_equity bets 6
+redraw_hunter calls
+River [7c Qc 3c 6d 5c], redraw_hunter (12), mc_equity (12)
+mc_equity checks
+redraw_hunter bets 15
+mc_equity raises to 30
+redraw_hunter raises to 70
+mc_equity raises to 116
+redraw_hunter raises to 238
+mc_equity raises to 380
+redraw_hunter raises to 388
+mc_equity calls
+redraw_hunter shows [Tc 3s]
+mc_equity shows [4d 3h]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #61, mc_equity (-2622), redraw_hunter (2622)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d 5c]
+redraw_hunter dealt [Td Qd]
+mc_equity calls
+redraw_hunter checks
+Flop [8s 2c 8d], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WB0 X8s
+redraw_hunter redraws board card 0 and checks
+Redraw reveal for 1: WH0 X7d
+mc_equity redraws hole card 0 and checks
+Turn [5h 2c 8d 2s], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity bets 2
+redraw_hunter calls
+River [5h 2c 8d 2s 6d], mc_equity (4), redraw_hunter (4)
+redraw_hunter bets 3
+mc_equity raises to 7
+redraw_hunter calls
+mc_equity shows [3s 5c]
+redraw_hunter shows [Td Qd]
+mc_equity awarded 11
+redraw_hunter awarded -11
+
+Round #62, redraw_hunter (2611), mc_equity (-2611)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9s 2s]
+mc_equity dealt [Ah 6h]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #63, mc_equity (-2606), redraw_hunter (2606)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d Ac]
+redraw_hunter dealt [6c Jc]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8d 5s 5c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 X8d
+redraw_hunter redraws board card 0 and checks
+Redraw reveal for 1: WH0 X7d
+mc_equity redraws hole card 0 and checks
+Turn [2c 5s 5c Js], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter raises to 31
+mc_equity raises to 52
+redraw_hunter calls
+River [2c 5s 5c Js 3d], mc_equity (57), redraw_hunter (57)
+redraw_hunter bets 79
+mc_equity raises to 158
+redraw_hunter calls
+mc_equity shows [3s Ac]
+redraw_hunter shows [6c Jc]
+mc_equity awarded -215
+redraw_hunter awarded 215
+
+Round #64, redraw_hunter (2821), mc_equity (-2821)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6h 8s]
+mc_equity dealt [Tc Ah]
+Redraw reveal for 1: WH0 X6h
+redraw_hunter redraws hole card 0 and calls
+mc_equity raises to 6
+redraw_hunter folds
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #65, mc_equity (-2819), redraw_hunter (2819)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kh 7d]
+redraw_hunter dealt [9s 3c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Jd 5d 2s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X3c
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X7d
+mc_equity redraws hole card 1 and checks
+Turn [Jd 5d 2s Js], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [Jd 5d 2s Js 2d], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [Kh 9c]
+redraw_hunter shows [9s 6h]
+mc_equity awarded 5
+redraw_hunter awarded -5
+
+Round #66, redraw_hunter (2814), mc_equity (-2814)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4d As]
+mc_equity dealt [5h Kh]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Ks Ad 6d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 XAd
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH0 X4d
+redraw_hunter redraws hole card 0 and checks
+Turn [Ks 8c 6d 5s], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [Ks 8c 6d 5s 4s], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [8h As]
+mc_equity shows [5h Kh]
+redraw_hunter awarded -28
+mc_equity awarded 28
+
+Round #67, mc_equity (-2786), redraw_hunter (2786)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3d Ks]
+redraw_hunter dealt [2c Qd]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [5h Tc 7h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X2c
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WB0 X5h
+mc_equity redraws board card 0 and checks
+Turn [7d Tc 7h Ah], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [7d Tc 7h Ah 6h], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [3d Ks]
+redraw_hunter shows [3s Qd]
+mc_equity awarded 5
+redraw_hunter awarded -5
+
+Round #68, redraw_hunter (2781), mc_equity (-2781)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qs Qh]
+mc_equity dealt [4d Ad]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [3h 8s 3s], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X4d
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WB0 X3h
+redraw_hunter redraws board card 0 and bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [Ac 8s 3s 8d], redraw_hunter (19), mc_equity (19)
+mc_equity bets 26
+redraw_hunter calls
+River [Ac 8s 3s 8d 5d], redraw_hunter (45), mc_equity (45)
+mc_equity bets 62
+redraw_hunter calls
+redraw_hunter shows [Qs Qh]
+mc_equity shows [7s Ad]
+redraw_hunter awarded -107
+mc_equity awarded 107
+
+Round #69, mc_equity (-2674), redraw_hunter (2674)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4d 2h]
+redraw_hunter dealt [6c Tc]
+mc_equity calls
+redraw_hunter checks
+Flop [3c 3d As], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH0 X6c
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X2h
+mc_equity redraws hole card 1 and checks
+Turn [3c 3d As 9h], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity checks
+River [3c 3d As 9h 8c], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [4d Td]
+redraw_hunter shows [8h Tc]
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #70, redraw_hunter (2676), mc_equity (-2676)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kc 8c]
+mc_equity dealt [9h 7s]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #71, mc_equity (-2678), redraw_hunter (2678)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4d 9s]
+redraw_hunter dealt [9d Ad]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #72, redraw_hunter (2683), mc_equity (-2683)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6h Jc]
+mc_equity dealt [4c Jd]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #73, mc_equity (-2685), redraw_hunter (2685)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2d Qc]
+redraw_hunter dealt [Ac 8d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Ts 4s 7c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X4s
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WB0 XTs
+mc_equity redraws board card 0 and checks
+Turn [2c Kh 7c Qh], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 7
+redraw_hunter calls
+River [2c Kh 7c Qh 2s], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+mc_equity shows [2d Qc]
+redraw_hunter shows [Ac 8d]
+mc_equity awarded 28
+redraw_hunter awarded -28
+
+Round #74, redraw_hunter (2657), mc_equity (-2657)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9h Th]
+mc_equity dealt [2d Jh]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #75, mc_equity (-2659), redraw_hunter (2659)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5d 2d]
+redraw_hunter dealt [5h 6s]
+mc_equity calls
+redraw_hunter checks
+Flop [2c 6c 4c], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WB2 X4c
+redraw_hunter redraws board card 2 and bets 2
+Redraw reveal for 1: WH0 X5d
+mc_equity redraws hole card 0 and calls
+Turn [2c 6c Kh Ks], mc_equity (4), redraw_hunter (4)
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+River [2c 6c Kh Ks 7h], mc_equity (14), redraw_hunter (14)
+redraw_hunter bets 19
+mc_equity raises to 38
+redraw_hunter calls
+mc_equity shows [2h 2d]
+redraw_hunter shows [5h 6s]
+mc_equity awarded 52
+redraw_hunter awarded -52
+
+Round #76, redraw_hunter (2607), mc_equity (-2607)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2s 7s]
+mc_equity dealt [4h 3h]
+Redraw reveal for 1: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #77, mc_equity (-2606), redraw_hunter (2606)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qs 3c]
+redraw_hunter dealt [9s Ts]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [5c 2d 5d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X9s
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X3c
+mc_equity redraws hole card 1 and checks
+Turn [5c 2d 5d As], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [5c 2d 5d As 6s], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [Qs Jc]
+redraw_hunter shows [Jd Ts]
+mc_equity awarded 5
+redraw_hunter awarded -5
+
+Round #78, redraw_hunter (2601), mc_equity (-2601)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5c 2c]
+mc_equity dealt [4c 9h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #79, mc_equity (-2603), redraw_hunter (2603)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d 5d]
+redraw_hunter dealt [Th 6s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Ts Jc Ad], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 XJc
+redraw_hunter redraws board card 1 and bets 5
+Redraw reveal for 1: WB0 XTs
+mc_equity redraws board card 0 and calls
+Turn [7h Js Ad 2s], mc_equity (10), redraw_hunter (10)
+redraw_hunter checks
+mc_equity bets 10
+redraw_hunter folds
+mc_equity awarded 10
+redraw_hunter awarded -10
+
+Round #80, redraw_hunter (2593), mc_equity (-2593)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2h Td]
+mc_equity dealt [Ac Js]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [8d 8s Kh], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 XJs
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2h
+redraw_hunter redraws hole card 0 and checks
+Turn [8d 8s Kh 4d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [8d 8s Kh 4d 7h], redraw_hunter (12), mc_equity (12)
+mc_equity bets 12
+redraw_hunter calls
+redraw_hunter shows [Th Td]
+mc_equity shows [Ac 5s]
+redraw_hunter awarded 24
+mc_equity awarded -24
+
+Round #81, mc_equity (-2617), redraw_hunter (2617)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7h 4d]
+redraw_hunter dealt [Ac Qs]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #82, redraw_hunter (2622), mc_equity (-2622)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8h 5c]
+mc_equity dealt [3h Qd]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6h 2c Ad], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X3h
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5c
+redraw_hunter redraws hole card 1 and checks
+Turn [6h 2c Ad 4s], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [6h 2c Ad 4s Jd], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [8h 2d]
+mc_equity shows [3c Qd]
+redraw_hunter awarded 5
+mc_equity awarded -5
+
+Round #83, mc_equity (-2627), redraw_hunter (2627)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4d 2h]
+redraw_hunter dealt [2s 8d]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #84, redraw_hunter (2625), mc_equity (-2625)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4d 5h]
+mc_equity dealt [Kd 6d]
+Redraw reveal for 1: WH0 X4d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #85, mc_equity (-2624), redraw_hunter (2624)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7c 5c]
+redraw_hunter dealt [4d 9d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #86, redraw_hunter (2622), mc_equity (-2622)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9c Qc]
+mc_equity dealt [Ts Kc]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter raises to 400
+mc_equity calls
+redraw_hunter shows [9c Qc]
+mc_equity shows [Ts Kc]
+redraw_hunter awarded -400
+mc_equity awarded 400
+
+Round #87, mc_equity (-2222), redraw_hunter (2222)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8d Qs]
+redraw_hunter dealt [9s 6h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8h 3s 7c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X3s
+redraw_hunter redraws board card 1 and checks
+mc_equity bets 7
+redraw_hunter calls
+Turn [8h Qc 7c 6d], mc_equity (12), redraw_hunter (12)
+redraw_hunter bets 12
+Redraw reveal for 1: WB2 X7c
+mc_equity redraws board card 2 and calls
+River [8h Qc As 6d 6s], mc_equity (24), redraw_hunter (24)
+redraw_hunter bets 33
+mc_equity raises to 66
+redraw_hunter raises to 150
+mc_equity raises to 250
+redraw_hunter raises to 376
+mc_equity calls
+mc_equity shows [8d Qs]
+redraw_hunter shows [9s 6h]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #88, redraw_hunter (2622), mc_equity (-2622)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6d Jc]
+mc_equity dealt [5s Th]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [2s 8c 2h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X5s
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6d
+redraw_hunter redraws hole card 0 and checks
+Turn [2s 8c 2h 4h], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [2s 8c 2h 4h 9s], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [5c Jc]
+mc_equity shows [4s Th]
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #89, mc_equity (-2617), redraw_hunter (2617)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Js 7c]
+redraw_hunter dealt [4d 9d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9h 6s 7d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 XJs
+mc_equity redraws hole card 0 and calls
+Turn [9h 6s 7d 5s], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WB2 X7d
+redraw_hunter redraws board card 2 and bets 11
+mc_equity raises to 23
+redraw_hunter calls
+River [9h 6s Kd 5s 5c], mc_equity (34), redraw_hunter (34)
+redraw_hunter bets 44
+mc_equity calls
+mc_equity shows [3s 7c]
+redraw_hunter shows [4d 9d]
+mc_equity awarded -78
+redraw_hunter awarded 78
+
+Round #90, redraw_hunter (2695), mc_equity (-2695)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7h Jc]
+mc_equity dealt [4h 5c]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #91, mc_equity (-2697), redraw_hunter (2697)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2h Jc]
+redraw_hunter dealt [6s 6d]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity calls
+Flop [2d As 9d], mc_equity (19), redraw_hunter (19)
+Redraw reveal for 0: WB2 X9d
+redraw_hunter redraws board card 2 and bets 19
+mc_equity raises to 39
+redraw_hunter calls
+Turn [2d As Ac 3c], mc_equity (58), redraw_hunter (58)
+redraw_hunter bets 75
+Redraw reveal for 1: WB2 XAc
+mc_equity redraws board card 2 and calls
+River [2d As 6h 3c 7d], mc_equity (133), redraw_hunter (133)
+redraw_hunter bets 172
+mc_equity raises to 267
+redraw_hunter calls
+mc_equity shows [2h Jc]
+redraw_hunter shows [6s 6d]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #92, redraw_hunter (3097), mc_equity (-3097)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ah 3s]
+mc_equity dealt [Ks 9h]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jc 2c 8h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X2c
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and checks
+Turn [Jc Ts 8h 8d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+River [Jc Ts 8h 8d Tc], redraw_hunter (10), mc_equity (10)
+mc_equity checks
+redraw_hunter bets 14
+mc_equity raises to 28
+redraw_hunter calls
+redraw_hunter shows [Ah 7d]
+mc_equity shows [Ks 9h]
+redraw_hunter awarded 38
+mc_equity awarded -38
+
+Round #93, mc_equity (-3135), redraw_hunter (3135)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [As 3d]
+redraw_hunter dealt [4s Kh]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qc 8s 5s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X8s
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WH1 X3d
+mc_equity redraws hole card 1 and checks
+Turn [Qc 2c 5s 7c], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [Qc 2c 5s 7c 7s], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 4
+mc_equity raises to 9
+redraw_hunter calls
+mc_equity shows [As Qh]
+redraw_hunter shows [4s Kh]
+mc_equity awarded 14
+redraw_hunter awarded -14
+
+Round #94, redraw_hunter (3121), mc_equity (-3121)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [As 2h]
+mc_equity dealt [Ts 5d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jc Jh 6h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X5d
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+Turn [Jc Jh 6h 2d], redraw_hunter (15), mc_equity (15)
+mc_equity checks
+Redraw reveal for 1: WB2 X6h
+redraw_hunter redraws board card 2 and bets 21
+mc_equity raises to 42
+redraw_hunter calls
+River [Jc Jh 8h 2d 5h], redraw_hunter (57), mc_equity (57)
+mc_equity checks
+redraw_hunter bets 62
+mc_equity calls
+redraw_hunter shows [As 2h]
+mc_equity shows [Ts Qc]
+redraw_hunter awarded 119
+mc_equity awarded -119
+
+Round #95, mc_equity (-3240), redraw_hunter (3240)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6d 5d]
+redraw_hunter dealt [9d 8h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Js 9s Ks], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 XJs
+redraw_hunter redraws board card 0 and bets 5
+Redraw reveal for 1: WH1 X5d
+mc_equity redraws hole card 1 and calls
+Turn [Tc 9s Ks Ac], mc_equity (10), redraw_hunter (10)
+redraw_hunter bets 11
+mc_equity calls
+River [Tc 9s Ks Ac 2c], mc_equity (21), redraw_hunter (21)
+redraw_hunter checks
+mc_equity bets 18
+redraw_hunter calls
+mc_equity shows [6d 3c]
+redraw_hunter shows [9d 8h]
+mc_equity awarded -39
+redraw_hunter awarded 39
+
+Round #96, redraw_hunter (3279), mc_equity (-3279)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Js Ah]
+mc_equity dealt [Td Qd]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jc 8d 3c], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 X3c
+mc_equity redraws board card 2 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [Jc 8d 3d 7d], redraw_hunter (19), mc_equity (19)
+mc_equity bets 26
+Redraw reveal for 1: WB1 X8d
+redraw_hunter redraws board card 1 and calls
+River [Jc 9d 3d 7d Qh], redraw_hunter (45), mc_equity (45)
+mc_equity bets 62
+redraw_hunter calls
+redraw_hunter shows [Js Ah]
+mc_equity shows [Td Qd]
+redraw_hunter awarded -107
+mc_equity awarded 107
+
+Round #97, mc_equity (-3172), redraw_hunter (3172)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s 3c]
+redraw_hunter dealt [8h Th]
+mc_equity calls
+redraw_hunter raises to 6
+mc_equity folds
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #98, redraw_hunter (3174), mc_equity (-3174)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5c Ks]
+mc_equity dealt [4s 9c]
+Redraw reveal for 1: WH0 X5c
+redraw_hunter redraws hole card 0 and raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #99, mc_equity (-3176), redraw_hunter (3176)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jc 7d]
+redraw_hunter dealt [Ks Td]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qs Kc Qc], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH1 X7d
+mc_equity redraws hole card 1 and calls
+Turn [Qs Kc Qc 4s], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WB2 XQc
+redraw_hunter redraws board card 2 and bets 15
+mc_equity raises to 30
+redraw_hunter raises to 68
+mc_equity raises to 114
+redraw_hunter raises to 231
+mc_equity raises to 370
+redraw_hunter raises to 389
+mc_equity calls
+mc_equity shows [Jc Th]
+redraw_hunter shows [Ks Td]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #100, redraw_hunter (3576), mc_equity (-3576)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2h 9s]
+mc_equity dealt [6h 8s]
+Redraw reveal for 1: WH0 X2h
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #101, mc_equity (-3575), redraw_hunter (3575)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5h 3s]
+redraw_hunter dealt [Ac 2h]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #102, redraw_hunter (3576), mc_equity (-3576)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6c 5d]
+mc_equity dealt [Kc 8s]
+redraw_hunter calls
+mc_equity raises to 6
+redraw_hunter folds
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #103, mc_equity (-3574), redraw_hunter (3574)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6h Js]
+redraw_hunter dealt [Ts 7h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9d Tc 5s], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 X6h
+mc_equity redraws hole card 0 and calls
+Turn [9d Tc 5s 5c], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 15
+mc_equity calls
+River [9d Tc 5s 5c 7d], mc_equity (26), redraw_hunter (26)
+redraw_hunter bets 36
+mc_equity calls
+mc_equity shows [Qh Js]
+redraw_hunter shows [Ts 7h]
+mc_equity awarded -62
+redraw_hunter awarded 62
+
+Round #104, redraw_hunter (3636), mc_equity (-3636)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3h Kc]
+mc_equity dealt [7s 9h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #105, mc_equity (-3638), redraw_hunter (3638)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9s 8c]
+redraw_hunter dealt [6c Jc]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8s Ad Ah], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X6c
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X9s
+mc_equity redraws hole card 0 and checks
+Turn [8s Ad Ah 4d], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 7
+redraw_hunter calls
+River [8s Ad Ah 4d 3h], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+mc_equity shows [2d 8c]
+redraw_hunter shows [7d Jc]
+mc_equity awarded 28
+redraw_hunter awarded -28
+
+Round #106, redraw_hunter (3610), mc_equity (-3610)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8d 5c]
+mc_equity dealt [8c Jc]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Qh Js 9h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 XQh
+mc_equity redraws board card 0 and checks
+Redraw reveal for 1: WH1 X5c
+redraw_hunter redraws hole card 1 and checks
+Turn [9s Js 9h Tc], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [9s Js 9h Tc 4c], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [8d 9d]
+mc_equity shows [8c Jc]
+redraw_hunter awarded 28
+mc_equity awarded -28
+
+Round #107, mc_equity (-3638), redraw_hunter (3638)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ad As]
+redraw_hunter dealt [Kd 7s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [2d 2h 8h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X7s
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB2 X8h
+mc_equity redraws board card 2 and checks
+Turn [2d 2h 3d 3s], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+River [2d 2h 3d 3s Td], mc_equity (15), redraw_hunter (15)
+redraw_hunter bets 21
+mc_equity raises to 42
+redraw_hunter calls
+mc_equity shows [Ad As]
+redraw_hunter shows [Kd 2c]
+mc_equity awarded -57
+redraw_hunter awarded 57
+
+Round #108, redraw_hunter (3695), mc_equity (-3695)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c 6d]
+mc_equity dealt [3h As]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Ac 6h 9d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+Turn [Ac 6h 9d 4h], redraw_hunter (12), mc_equity (12)
+Redraw reveal for 0: WB1 X6h
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH1 X6d
+redraw_hunter redraws hole card 1 and checks
+River [Ac 4s 9d 4h Jc], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [8c Qh]
+mc_equity shows [3h As]
+redraw_hunter awarded -28
+mc_equity awarded 28
+
+Round #109, mc_equity (-3667), redraw_hunter (3667)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6d 2c]
+redraw_hunter dealt [2d Jh]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #110, redraw_hunter (3668), mc_equity (-3668)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9c 6h]
+mc_equity dealt [Qd 3s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Tc 5s 8d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X3s
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WB1 X5s
+redraw_hunter redraws board card 1 and checks
+Turn [Tc 9d 8d 5h], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+River [Tc 9d 8d 5h 2s], redraw_hunter (10), mc_equity (10)
+mc_equity checks
+redraw_hunter bets 14
+mc_equity raises to 28
+redraw_hunter calls
+redraw_hunter shows [9c 6h]
+mc_equity shows [Qd Td]
+redraw_hunter awarded -38
+mc_equity awarded 38
+
+Round #111, mc_equity (-3630), redraw_hunter (3630)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Js 9h]
+redraw_hunter dealt [5h 7c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #112, redraw_hunter (3628), mc_equity (-3628)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 4c]
+mc_equity dealt [2s 8h]
+redraw_hunter calls
+mc_equity checks
+Flop [Th Jh Ah], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 X2s
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X4c
+redraw_hunter redraws hole card 1 and checks
+Turn [Th Jh Ah 9s], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter calls
+River [Th Jh Ah 9s 5c], redraw_hunter (4), mc_equity (4)
+mc_equity bets 4
+redraw_hunter folds
+redraw_hunter awarded -4
+mc_equity awarded 4
+
+Round #113, mc_equity (-3624), redraw_hunter (3624)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qs 4s]
+redraw_hunter dealt [2h 4h]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X2h
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #114, redraw_hunter (3622), mc_equity (-3622)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5s 3h]
+mc_equity dealt [As Td]
+Redraw reveal for 1: WH1 X3h
+redraw_hunter redraws hole card 1 and calls
+mc_equity raises to 6
+redraw_hunter folds
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #115, mc_equity (-3620), redraw_hunter (3620)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4d 5h]
+redraw_hunter dealt [5d 7s]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #116, redraw_hunter (3621), mc_equity (-3621)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8s Jh]
+mc_equity dealt [6c Kc]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [9h 5h 8c], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 X9h
+mc_equity redraws board card 0 and checks
+redraw_hunter bets 6
+mc_equity raises to 12
+redraw_hunter calls
+Turn [Qd 5h 8c 7c], redraw_hunter (17), mc_equity (17)
+mc_equity bets 17
+Redraw reveal for 1: WH1 XJh
+redraw_hunter redraws hole card 1 and calls
+River [Qd 5h 8c 7c 3c], redraw_hunter (34), mc_equity (34)
+mc_equity bets 47
+redraw_hunter calls
+redraw_hunter shows [8s Ts]
+mc_equity shows [6c Kc]
+redraw_hunter awarded -81
+mc_equity awarded 81
+
+Round #117, mc_equity (-3540), redraw_hunter (3540)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9s Jd]
+redraw_hunter dealt [Qh 3d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Ts 5c 2h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X3d
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 XJd
+mc_equity redraws hole card 1 and checks
+Turn [Ts 5c 2h Kd], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [Ts 5c 2h Kd 7d], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [9s 8d]
+redraw_hunter shows [Qh Ah]
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #118, redraw_hunter (3545), mc_equity (-3545)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3d 2c]
+mc_equity dealt [Ac 6h]
+Redraw reveal for 1: WH0 X3d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #119, mc_equity (-3544), redraw_hunter (3544)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ac As]
+redraw_hunter dealt [2c 2s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qc Kd 9c], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+Redraw reveal for 1: WB2 X9c
+mc_equity redraws board card 2 and checks
+Turn [Qc Kd 7s 6d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB3 X6d
+redraw_hunter redraws board card 3 and checks
+mc_equity bets 7
+redraw_hunter calls
+River [Qc Kd 7s 9h 3s], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+mc_equity shows [Ac As]
+redraw_hunter shows [2c 2s]
+mc_equity awarded 28
+redraw_hunter awarded -28
+
+Round #120, redraw_hunter (3516), mc_equity (-3516)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4c 9h]
+mc_equity dealt [Jc 7s]
+Redraw reveal for 1: WH0 X4c
+redraw_hunter redraws hole card 0 and calls
+mc_equity checks
+Flop [3d 6c 4h], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 XJc
+mc_equity redraws hole card 0 and checks
+redraw_hunter checks
+Turn [3d 6c 4h Qs], redraw_hunter (2), mc_equity (2)
+mc_equity checks
+redraw_hunter bets 2
+mc_equity raises to 4
+redraw_hunter calls
+River [3d 6c 4h Qs Kd], redraw_hunter (6), mc_equity (6)
+mc_equity checks
+redraw_hunter bets 4
+mc_equity raises to 11
+redraw_hunter calls
+redraw_hunter shows [Td 9h]
+mc_equity shows [5d 7s]
+redraw_hunter awarded -17
+mc_equity awarded 17
+
+Round #121, mc_equity (-3499), redraw_hunter (3499)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s 4s]
+redraw_hunter dealt [2s 3h]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #122, redraw_hunter (3497), mc_equity (-3497)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8h Ah]
+mc_equity dealt [6c 9s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Th Ks 3h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X6c
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WB1 XKs
+redraw_hunter redraws board card 1 and bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [Th Qd 3h Jc], redraw_hunter (19), mc_equity (19)
+mc_equity bets 19
+redraw_hunter calls
+River [Th Qd 3h Jc Qc], redraw_hunter (38), mc_equity (38)
+mc_equity bets 38
+redraw_hunter calls
+redraw_hunter shows [8h Ah]
+mc_equity shows [9c 9s]
+redraw_hunter awarded -76
+mc_equity awarded 76
+
+Round #123, mc_equity (-3421), redraw_hunter (3421)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2d 5h]
+redraw_hunter dealt [Qh As]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #124, redraw_hunter (3422), mc_equity (-3422)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2c Ac]
+mc_equity dealt [7d Td]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [3s 8d Jc], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X7d
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X2c
+redraw_hunter redraws hole card 0 and checks
+Turn [3s 8d Jc Ah], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter bets 7
+mc_equity calls
+River [3s 8d Jc Ah 3h], redraw_hunter (12), mc_equity (12)
+mc_equity checks
+redraw_hunter bets 16
+mc_equity raises to 32
+redraw_hunter raises to 73
+mc_equity calls
+redraw_hunter shows [4c Ac]
+mc_equity shows [Jd Td]
+redraw_hunter awarded 85
+mc_equity awarded -85
+
+Round #125, mc_equity (-3507), redraw_hunter (3507)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4s 7d]
+redraw_hunter dealt [4h 5h]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #126, redraw_hunter (3505), mc_equity (-3505)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3d 8c]
+mc_equity dealt [2d 8s]
+redraw_hunter calls
+mc_equity checks
+Flop [8d 6d 4h], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WB2 X4h
+mc_equity redraws board card 2 and checks
+redraw_hunter bets 2
+mc_equity raises to 4
+Redraw reveal for 1: WB1 X6d
+redraw_hunter redraws board card 1 and calls
+Turn [8d 4d Th 8h], redraw_hunter (6), mc_equity (6)
+mc_equity bets 8
+redraw_hunter raises to 16
+mc_equity raises to 33
+redraw_hunter raises to 64
+mc_equity raises to 109
+redraw_hunter raises to 212
+mc_equity raises to 342
+redraw_hunter raises to 394
+mc_equity calls
+redraw_hunter shows [3d 8c]
+mc_equity shows [2d 8s]
+redraw_hunter awarded 0
+mc_equity awarded 0
+
+Round #127, mc_equity (-3505), redraw_hunter (3505)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2c Qh]
+redraw_hunter dealt [2d 4s]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #128, redraw_hunter (3503), mc_equity (-3503)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c 3s]
+mc_equity dealt [Ad Qd]
+redraw_hunter raises to 5
+mc_equity raises to 17
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #129, mc_equity (-3498), redraw_hunter (3498)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [As Tc]
+redraw_hunter dealt [5s 4d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #130, redraw_hunter (3496), mc_equity (-3496)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qd 8h]
+mc_equity dealt [3s Qs]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [8d 9d 2d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 XQs
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 6
+mc_equity calls
+Turn [8d 9d 2d 7s], redraw_hunter (11), mc_equity (11)
+mc_equity checks
+Redraw reveal for 1: WB3 X7s
+redraw_hunter redraws board card 3 and bets 14
+mc_equity calls
+River [8d 9d 2d 9c Tc], redraw_hunter (25), mc_equity (25)
+mc_equity checks
+redraw_hunter bets 32
+mc_equity calls
+redraw_hunter shows [Qd 8h]
+mc_equity shows [3s 6h]
+redraw_hunter awarded 57
+mc_equity awarded -57
+
+Round #131, mc_equity (-3553), redraw_hunter (3553)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ks 5s]
+redraw_hunter dealt [Tc Jd]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [4d Th 2h], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH1 X5s
+mc_equity redraws hole card 1 and calls
+Turn [4d Th 2h 4h], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WB3 X4h
+redraw_hunter redraws board card 3 and bets 15
+mc_equity raises to 30
+redraw_hunter calls
+River [4d Th 2h As 6h], mc_equity (41), redraw_hunter (41)
+redraw_hunter bets 57
+mc_equity raises to 114
+redraw_hunter calls
+mc_equity shows [Ks Kc]
+redraw_hunter shows [Tc Jd]
+mc_equity awarded 155
+redraw_hunter awarded -155
+
+Round #132, redraw_hunter (3398), mc_equity (-3398)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2c Td]
+mc_equity dealt [2d 9h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #133, mc_equity (-3400), redraw_hunter (3400)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7h 5h]
+redraw_hunter dealt [Tc 3c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [6d 4h Ac], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 X6d
+redraw_hunter redraws board card 0 and checks
+Redraw reveal for 1: WB2 XAc
+mc_equity redraws board card 2 and checks
+Turn [5d 4h Qs 7d], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 7
+redraw_hunter folds
+mc_equity awarded 5
+redraw_hunter awarded -5
+
+Round #134, redraw_hunter (3395), mc_equity (-3395)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c 3d]
+mc_equity dealt [5d 8d]
+redraw_hunter calls
+mc_equity raises to 6
+Redraw reveal for 1: WH1 X3d
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #135, mc_equity (-3393), redraw_hunter (3393)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4h Tc]
+redraw_hunter dealt [Ac 2h]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #136, redraw_hunter (3394), mc_equity (-3394)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9s 6d]
+mc_equity dealt [7d Ac]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [Jh Qc 8d], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WH0 X7d
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X6d
+redraw_hunter redraws hole card 1 and bets 13
+mc_equity raises to 32
+redraw_hunter calls
+Turn [Jh Qc 8d 4s], redraw_hunter (49), mc_equity (49)
+mc_equity bets 49
+redraw_hunter calls
+River [Jh Qc 8d 4s 3c], redraw_hunter (98), mc_equity (98)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [9s Ah]
+mc_equity shows [Ad Ac]
+redraw_hunter awarded -98
+mc_equity awarded 98
+
+Round #137, mc_equity (-3296), redraw_hunter (3296)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2c 7h]
+redraw_hunter dealt [6s 5h]
+mc_equity calls
+redraw_hunter checks
+Flop [6c Kd Tc], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH1 X5h
+redraw_hunter redraws hole card 1 and bets 2
+Redraw reveal for 1: WH1 X7h
+mc_equity redraws hole card 1 and calls
+Turn [6c Kd Tc Qs], mc_equity (4), redraw_hunter (4)
+redraw_hunter bets 4
+mc_equity raises to 8
+redraw_hunter calls
+River [6c Kd Tc Qs 2s], mc_equity (12), redraw_hunter (12)
+redraw_hunter bets 16
+mc_equity raises to 32
+redraw_hunter calls
+mc_equity shows [2c 2d]
+redraw_hunter shows [6s 4s]
+mc_equity awarded 44
+redraw_hunter awarded -44
+
+Round #138, redraw_hunter (3252), mc_equity (-3252)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8s 5c]
+mc_equity dealt [6d Ts]
+redraw_hunter calls
+mc_equity checks
+Flop [Qh 9s Th], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 X6d
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X5c
+redraw_hunter redraws hole card 1 and checks
+Turn [Qh 9s Th As], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter calls
+River [Qh 9s Th As 8c], redraw_hunter (4), mc_equity (4)
+mc_equity bets 4
+redraw_hunter calls
+redraw_hunter shows [8s Kd]
+mc_equity shows [Js Ts]
+redraw_hunter awarded -8
+mc_equity awarded 8
+
+Round #139, mc_equity (-3244), redraw_hunter (3244)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s 5d]
+redraw_hunter dealt [Ac 9s]
+mc_equity calls
+redraw_hunter raises to 6
+mc_equity folds
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #140, redraw_hunter (3246), mc_equity (-3246)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ks 9h]
+mc_equity dealt [Ac Qh]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [2d 6d 9s], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WB0 X2d
+mc_equity redraws board card 0 and checks
+redraw_hunter bets 23
+mc_equity raises to 46
+redraw_hunter calls
+Turn [4s 6d 9s 7d], redraw_hunter (63), mc_equity (63)
+mc_equity checks
+Redraw reveal for 1: WB1 X6d
+redraw_hunter redraws board card 1 and bets 88
+mc_equity raises to 176
+redraw_hunter calls
+River [4s Jh 9s 7d Tc], redraw_hunter (239), mc_equity (239)
+mc_equity bets 161
+redraw_hunter calls
+redraw_hunter shows [Ks 9h]
+mc_equity shows [Ac Qh]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #141, mc_equity (-3646), redraw_hunter (3646)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8c 4d]
+redraw_hunter dealt [7c Th]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7d 7s 3d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 X8c
+mc_equity redraws hole card 0 and calls
+Turn [7d 7s 3d 4s], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 15
+mc_equity raises to 30
+Redraw reveal for 0: WH1 XTh
+redraw_hunter redraws hole card 1 and raises to 68
+mc_equity raises to 114
+redraw_hunter raises to 231
+mc_equity raises to 370
+redraw_hunter raises to 389
+mc_equity calls
+mc_equity shows [Ah 4d]
+redraw_hunter shows [7c 6h]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #142, redraw_hunter (4046), mc_equity (-4046)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8s 4c]
+mc_equity dealt [6h Jh]
+Redraw reveal for 1: WH0 X8s
+redraw_hunter redraws hole card 0 and calls
+mc_equity checks
+Flop [Jc 4h 4s], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WB1 X4h
+mc_equity redraws board card 1 and checks
+redraw_hunter bets 2
+mc_equity raises to 4
+redraw_hunter calls
+Turn [Jc 6s 4s Qc], redraw_hunter (6), mc_equity (6)
+mc_equity bets 8
+redraw_hunter calls
+River [Jc 6s 4s Qc Ac], redraw_hunter (14), mc_equity (14)
+mc_equity bets 19
+redraw_hunter calls
+redraw_hunter shows [Qh 4c]
+mc_equity shows [6h Jh]
+redraw_hunter awarded 33
+mc_equity awarded -33
+
+Round #143, mc_equity (-4079), redraw_hunter (4079)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ad 8d]
+redraw_hunter dealt [Th 6s]
+mc_equity raises to 5
+Redraw reveal for 0: WH1 X6s
+redraw_hunter redraws hole card 1 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #144, redraw_hunter (4077), mc_equity (-4077)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Th 9d]
+mc_equity dealt [As 8s]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [5c 3s Js], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WB0 X5c
+mc_equity redraws board card 0 and checks
+Redraw reveal for 1: WB1 X3s
+redraw_hunter redraws board card 1 and checks
+Turn [2s 4d Js 9c], redraw_hunter (17), mc_equity (17)
+mc_equity checks
+redraw_hunter bets 23
+mc_equity raises to 46
+redraw_hunter calls
+River [2s 4d Js 9c 6s], redraw_hunter (63), mc_equity (63)
+mc_equity bets 88
+redraw_hunter calls
+redraw_hunter shows [Th 9d]
+mc_equity shows [As 8s]
+redraw_hunter awarded -151
+mc_equity awarded 151
+
+Round #145, mc_equity (-3926), redraw_hunter (3926)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Th 8h]
+redraw_hunter dealt [Jc 2h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7s 8s Jd], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X8s
+redraw_hunter redraws board card 1 and bets 6
+Redraw reveal for 1: WB1 X9d
+mc_equity redraws board card 1 and calls
+Turn [7s Kd Jd 5s], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 14
+mc_equity folds
+mc_equity awarded -11
+redraw_hunter awarded 11
+
+Round #146, redraw_hunter (3937), mc_equity (-3937)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kh Td]
+mc_equity dealt [9d 8s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [5d 8c Jd], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 X5d
+mc_equity redraws board card 0 and checks
+Redraw reveal for 1: WB1 X8c
+redraw_hunter redraws board card 1 and checks
+Turn [2c Th Jd Ah], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter bets 7
+mc_equity calls
+River [2c Th Jd Ah Kc], redraw_hunter (12), mc_equity (12)
+mc_equity checks
+redraw_hunter bets 16
+mc_equity folds
+redraw_hunter awarded 12
+mc_equity awarded -12
+
+Round #147, mc_equity (-3949), redraw_hunter (3949)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s 5h]
+redraw_hunter dealt [Jc 9d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [2d 5d Qc], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X5d
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WH1 X5h
+mc_equity redraws hole card 1 and checks
+Turn [2d 6h Qc Td], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [2d 6h Qc Td 6s], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [7s Jd]
+redraw_hunter shows [Jc 9d]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #148, redraw_hunter (3949), mc_equity (-3949)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Tc As]
+mc_equity dealt [6h 9s]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #149, mc_equity (-3951), redraw_hunter (3951)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kh Jc]
+redraw_hunter dealt [6s 9h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Jd 7c 8h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 XJd
+redraw_hunter redraws board card 0 and checks
+Redraw reveal for 1: WH1 XJc
+mc_equity redraws hole card 1 and checks
+Turn [3c 7c 8h 3s], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 4
+mc_equity raises to 9
+redraw_hunter calls
+River [3c 7c 8h 3s 4s], mc_equity (14), redraw_hunter (14)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [Kh 5c]
+redraw_hunter shows [6s 9h]
+mc_equity awarded 14
+redraw_hunter awarded -14
+
+Round #150, redraw_hunter (3937), mc_equity (-3937)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c 2s]
+mc_equity dealt [6d 3s]
+Redraw reveal for 1: WH1 X2s
+redraw_hunter redraws hole card 1 and calls
+mc_equity checks
+Flop [Kh 9h 5d], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X3s
+mc_equity redraws hole card 1 and checks
+redraw_hunter checks
+Turn [Kh 9h 5d 3h], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter calls
+River [Kh 9h 5d 3h 8s], redraw_hunter (4), mc_equity (4)
+mc_equity checks
+redraw_hunter bets 5
+mc_equity calls
+redraw_hunter shows [8c Ks]
+mc_equity shows [6d 5s]
+redraw_hunter awarded 9
+mc_equity awarded -9
+
+Round #151, mc_equity (-3946), redraw_hunter (3946)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7c 8c]
+redraw_hunter dealt [3c Ad]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [2d 8h 5c], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+mc_equity raises to 10
+Redraw reveal for 0: WB1 X8h
+redraw_hunter redraws board card 1 and calls
+Turn [2d 2c 5c 3h], mc_equity (15), redraw_hunter (15)
+redraw_hunter bets 15
+Redraw reveal for 1: WB0 X2d
+mc_equity redraws board card 0 and calls
+River [As 2c 5c 3h Kh], mc_equity (30), redraw_hunter (30)
+redraw_hunter bets 42
+mc_equity folds
+mc_equity awarded -30
+redraw_hunter awarded 30
+
+Round #152, redraw_hunter (3976), mc_equity (-3976)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 5c]
+mc_equity dealt [5h 9s]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #153, mc_equity (-3978), redraw_hunter (3978)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qd Ks]
+redraw_hunter dealt [9d 3s]
+mc_equity raises to 5
+Redraw reveal for 0: WH1 X3s
+redraw_hunter redraws hole card 1 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #154, redraw_hunter (3976), mc_equity (-3976)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qc Qs]
+mc_equity dealt [Kh 3c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Qd Js Kc], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 XQd
+mc_equity redraws board card 0 and checks
+redraw_hunter bets 6
+mc_equity raises to 12
+redraw_hunter calls
+Turn [2h Js Kc Ks], redraw_hunter (17), mc_equity (17)
+mc_equity bets 23
+redraw_hunter raises to 46
+mc_equity raises to 95
+redraw_hunter raises to 186
+mc_equity raises to 315
+redraw_hunter raises to 383
+mc_equity calls
+redraw_hunter shows [Qc Qs]
+mc_equity shows [Kh 3c]
+redraw_hunter awarded -400
+mc_equity awarded 400
+
+Round #155, mc_equity (-3576), redraw_hunter (3576)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8h 6d]
+redraw_hunter dealt [Jh 5s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9s Qs 3c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X5s
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6d
+mc_equity redraws hole card 1 and checks
+Turn [9s Qs 3c 2d], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [9s Qs 3c 2d 4h], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [8h 2s]
+redraw_hunter shows [Jh 6s]
+mc_equity awarded 5
+redraw_hunter awarded -5
+
+Round #156, redraw_hunter (3571), mc_equity (-3571)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Td 6c]
+mc_equity dealt [8s Ah]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [Tc 5d 7d], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WB0 XTc
+mc_equity redraws board card 0 and checks
+redraw_hunter checks
+Turn [5c 5d 7d Ts], redraw_hunter (17), mc_equity (17)
+mc_equity checks
+Redraw reveal for 1: WH1 X6c
+redraw_hunter redraws hole card 1 and bets 22
+mc_equity raises to 44
+redraw_hunter calls
+River [5c 5d 7d Ts 8d], redraw_hunter (61), mc_equity (61)
+mc_equity bets 85
+redraw_hunter raises to 170
+mc_equity raises to 339
+redraw_hunter calls
+redraw_hunter shows [Td 9s]
+mc_equity shows [8s Ah]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #157, mc_equity (-3971), redraw_hunter (3971)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jc Kc]
+redraw_hunter dealt [Ad 2c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Kd 3c Qd], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X2c
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH0 XJc
+mc_equity redraws hole card 0 and checks
+Turn [Kd 3c Qd 3h], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+mc_equity raises to 12
+redraw_hunter calls
+River [Kd 3c Qd 3h 5h], mc_equity (17), redraw_hunter (17)
+redraw_hunter bets 17
+mc_equity raises to 35
+redraw_hunter calls
+mc_equity shows [Ks Kc]
+redraw_hunter shows [Ad 6s]
+mc_equity awarded 52
+redraw_hunter awarded -52
+
+Round #158, redraw_hunter (3919), mc_equity (-3919)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2h 9c]
+mc_equity dealt [7s 6s]
+Redraw reveal for 1: WH0 X2h
+redraw_hunter redraws hole card 0 and calls
+mc_equity checks
+Flop [Js 5s 9d], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WB2 X9d
+mc_equity redraws board card 2 and checks
+redraw_hunter checks
+Turn [Js 5s Ts 5d], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter calls
+River [Js 5s Ts 5d 7c], redraw_hunter (4), mc_equity (4)
+mc_equity bets 5
+redraw_hunter calls
+redraw_hunter shows [Kd 9c]
+mc_equity shows [7s 6s]
+redraw_hunter awarded -9
+mc_equity awarded 9
+
+Round #159, mc_equity (-3910), redraw_hunter (3910)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4s 2c]
+redraw_hunter dealt [Ts 9h]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #160, redraw_hunter (3911), mc_equity (-3911)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Jh 3s]
+mc_equity dealt [2d Qs]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Ts 5d Qh], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X2d
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and checks
+Turn [Ts 5d Qh 8c], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [Ts 5d Qh 8c Ad], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [Jh Kd]
+mc_equity shows [3h Qs]
+redraw_hunter awarded 28
+mc_equity awarded -28
+
+Round #161, mc_equity (-3939), redraw_hunter (3939)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2s 5s]
+redraw_hunter dealt [5d 9h]
+mc_equity calls
+Redraw reveal for 0: WH0 X5d
+redraw_hunter redraws hole card 0 and checks
+Flop [5c 6d Qc], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+Redraw reveal for 1: WH0 X2s
+mc_equity redraws hole card 0 and checks
+Turn [5c 6d Qc Jh], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity bets 2
+redraw_hunter calls
+River [5c 6d Qc Jh As], mc_equity (4), redraw_hunter (4)
+redraw_hunter checks
+mc_equity bets 4
+redraw_hunter calls
+mc_equity shows [4s 5s]
+redraw_hunter shows [8c 9h]
+mc_equity awarded 8
+redraw_hunter awarded -8
+
+Round #162, redraw_hunter (3931), mc_equity (-3931)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2s 3h]
+mc_equity dealt [Jh 9h]
+Redraw reveal for 1: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #163, mc_equity (-3930), redraw_hunter (3930)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qh 5s]
+redraw_hunter dealt [Qc Qd]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #164, redraw_hunter (3935), mc_equity (-3935)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ts Jh]
+mc_equity dealt [Ah 3d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [4c Ks 4d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X3d
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WB0 X4c
+redraw_hunter redraws board card 0 and checks
+Turn [7h Ks 4d 7c], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+River [7h Ks 4d 7c 4h], redraw_hunter (10), mc_equity (10)
+mc_equity bets 14
+redraw_hunter folds
+redraw_hunter awarded -10
+mc_equity awarded 10
+
+Round #165, mc_equity (-3925), redraw_hunter (3925)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3c 5c]
+redraw_hunter dealt [6c 9h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Kh 5d 9d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X6c
+redraw_hunter redraws hole card 0 and bets 6
+Redraw reveal for 1: WH0 X3c
+mc_equity redraws hole card 0 and calls
+Turn [Kh 5d 9d Ac], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 15
+mc_equity raises to 30
+redraw_hunter calls
+River [Kh 5d 9d Ac 4s], mc_equity (41), redraw_hunter (41)
+redraw_hunter bets 57
+mc_equity raises to 114
+redraw_hunter calls
+mc_equity shows [2c 5c]
+redraw_hunter shows [3d 9h]
+mc_equity awarded -155
+redraw_hunter awarded 155
+
+Round #166, redraw_hunter (4080), mc_equity (-4080)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Td 3s]
+mc_equity dealt [As 8d]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [Qd Jd 7c], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WB1 XJd
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and checks
+Turn [Qd Qs 7c 2s], redraw_hunter (17), mc_equity (17)
+mc_equity bets 17
+redraw_hunter calls
+River [Qd Qs 7c 2s 5h], redraw_hunter (34), mc_equity (34)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [Td 8c]
+mc_equity shows [As 8d]
+redraw_hunter awarded -34
+mc_equity awarded 34
+
+Round #167, mc_equity (-4046), redraw_hunter (4046)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8s 4d]
+redraw_hunter dealt [7d 9h]
+mc_equity calls
+redraw_hunter checks
+Flop [6h 4h Qc], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH0 X7d
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WB0 X6h
+mc_equity redraws board card 0 and checks
+Turn [Jd 4h Qc 7c], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity checks
+River [Jd 4h Qc 7c 3d], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity bets 2
+redraw_hunter calls
+mc_equity shows [8s 4d]
+redraw_hunter shows [7s 9h]
+mc_equity awarded -4
+redraw_hunter awarded 4
+
+Round #168, redraw_hunter (4050), mc_equity (-4050)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ts 4c]
+mc_equity dealt [Jc Kc]
+Redraw reveal for 1: WH1 X4c
+redraw_hunter redraws hole card 1 and raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [2s 9h 5c], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WB2 X5c
+mc_equity redraws board card 2 and checks
+redraw_hunter checks
+Turn [2s 9h Ks 6h], redraw_hunter (17), mc_equity (17)
+mc_equity bets 23
+redraw_hunter calls
+River [2s 9h Ks 6h 5d], redraw_hunter (40), mc_equity (40)
+mc_equity bets 56
+redraw_hunter calls
+redraw_hunter shows [Ts 2h]
+mc_equity shows [Jc Kc]
+redraw_hunter awarded -96
+mc_equity awarded 96
+
+Round #169, mc_equity (-3954), redraw_hunter (3954)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4c 4s]
+redraw_hunter dealt [Jh Ts]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [5h 5s Tc], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WB0 X5h
+mc_equity redraws board card 0 and calls
+Turn [9h 5s Tc 8s], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 15
+mc_equity raises to 30
+redraw_hunter calls
+River [9h 5s Tc 8s 5c], mc_equity (41), redraw_hunter (41)
+redraw_hunter bets 57
+mc_equity raises to 114
+redraw_hunter raises to 259
+mc_equity raises to 359
+redraw_hunter calls
+mc_equity shows [4c 4s]
+redraw_hunter shows [Jh Ts]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #170, redraw_hunter (4354), mc_equity (-4354)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7c Ks]
+mc_equity dealt [8s Kh]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [8h 2d Js], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 XJs
+mc_equity redraws board card 2 and checks
+redraw_hunter checks
+Turn [8h 2d Qh 7d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+Redraw reveal for 1: WB0 X8h
+redraw_hunter redraws board card 0 and calls
+River [Tc 2d Qh 7d Qs], redraw_hunter (12), mc_equity (12)
+mc_equity checks
+redraw_hunter bets 15
+mc_equity calls
+redraw_hunter shows [7c Ks]
+mc_equity shows [8s Kh]
+redraw_hunter awarded 27
+mc_equity awarded -27
+
+Round #171, mc_equity (-4381), redraw_hunter (4381)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jh 2d]
+redraw_hunter dealt [Th Ad]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Qc Qh 7h], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH1 X2d
+mc_equity redraws hole card 1 and calls
+Turn [Qc Qh 7h Ks], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WB2 X7h
+redraw_hunter redraws board card 2 and bets 12
+mc_equity raises to 24
+redraw_hunter calls
+River [Qc Qh 6d Ks Qs], mc_equity (35), redraw_hunter (35)
+redraw_hunter bets 38
+mc_equity raises to 76
+redraw_hunter calls
+mc_equity shows [Jh Ah]
+redraw_hunter shows [Th Ad]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #172, redraw_hunter (4381), mc_equity (-4381)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [As 8h]
+mc_equity dealt [9c Kd]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Js Ts Jc], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+Turn [Js Ts Jc 7d], redraw_hunter (10), mc_equity (10)
+mc_equity checks
+Redraw reveal for 1: WH1 X8h
+redraw_hunter redraws hole card 1 and bets 10
+Redraw reveal for 0: WB0 XJs
+mc_equity redraws board card 0 and calls
+River [4d Ts Jc 7d 8d], redraw_hunter (20), mc_equity (20)
+mc_equity bets 28
+redraw_hunter calls
+redraw_hunter shows [As Th]
+mc_equity shows [9c Kd]
+redraw_hunter awarded -48
+mc_equity awarded 48
+
+Round #173, mc_equity (-4333), redraw_hunter (4333)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5h Qd]
+redraw_hunter dealt [Js 8s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7s 6c 6d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X6c
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WH0 X5h
+mc_equity redraws hole card 0 and checks
+Turn [7s Jc 6d 2d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+River [7s Jc 6d 2d 6h], mc_equity (19), redraw_hunter (19)
+redraw_hunter bets 26
+mc_equity calls
+mc_equity shows [8h Qd]
+redraw_hunter shows [Js 8s]
+mc_equity awarded -45
+redraw_hunter awarded 45
+
+Round #174, redraw_hunter (4378), mc_equity (-4378)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qs 3s]
+mc_equity dealt [Tc 9c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [3c Ac 2h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 X2h
+mc_equity redraws board card 2 and checks
+Redraw reveal for 1: WB1 XAc
+redraw_hunter redraws board card 1 and bets 5
+mc_equity raises to 10
+redraw_hunter calls
+Turn [3c 4d 3d 8c], redraw_hunter (15), mc_equity (15)
+mc_equity checks
+redraw_hunter bets 21
+mc_equity calls
+River [3c 4d 3d 8c 7d], redraw_hunter (36), mc_equity (36)
+mc_equity bets 32
+redraw_hunter raises to 83
+mc_equity folds
+redraw_hunter awarded 68
+mc_equity awarded -68
+
+Round #175, mc_equity (-4446), redraw_hunter (4446)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6c 7h]
+redraw_hunter dealt [8h 8c]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity calls
+Flop [3s 8d 4h], mc_equity (19), redraw_hunter (19)
+redraw_hunter bets 24
+Redraw reveal for 1: WH0 X6c
+mc_equity redraws hole card 0 and calls
+Turn [3s 8d 4h 2d], mc_equity (43), redraw_hunter (43)
+redraw_hunter bets 60
+mc_equity folds
+mc_equity awarded -43
+redraw_hunter awarded 43
+
+Round #176, redraw_hunter (4489), mc_equity (-4489)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kh 6d]
+mc_equity dealt [6c 9h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #177, mc_equity (-4491), redraw_hunter (4491)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9h Kc]
+redraw_hunter dealt [Td Ts]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity raises to 400
+redraw_hunter calls
+mc_equity shows [9h Kc]
+redraw_hunter shows [Td Ts]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #178, redraw_hunter (4891), mc_equity (-4891)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Jh 7s]
+mc_equity dealt [4s 6d]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #179, mc_equity (-4893), redraw_hunter (4893)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6s 9c]
+redraw_hunter dealt [9h 5d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Ac 3h 4c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X9h
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X6s
+mc_equity redraws hole card 0 and checks
+Turn [Ac 3h 4c Tc], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+River [Ac 3h 4c Tc Ks], mc_equity (10), redraw_hunter (10)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [Qh 9c]
+redraw_hunter shows [5h 5d]
+mc_equity awarded -10
+redraw_hunter awarded 10
+
+Round #180, redraw_hunter (4903), mc_equity (-4903)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [As Th]
+mc_equity dealt [8s 8h]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter raises to 400
+mc_equity calls
+redraw_hunter shows [As Th]
+mc_equity shows [8s 8h]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #181, mc_equity (-5303), redraw_hunter (5303)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5c 2h]
+redraw_hunter dealt [4d Js]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9c 6h 2s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X4d
+redraw_hunter redraws hole card 0 and checks
+mc_equity bets 5
+redraw_hunter calls
+Turn [9c 6h 2s 9s], mc_equity (10), redraw_hunter (10)
+redraw_hunter checks
+Redraw reveal for 1: WH0 X5c
+mc_equity redraws hole card 0 and checks
+River [9c 6h 2s 9s Th], mc_equity (10), redraw_hunter (10)
+redraw_hunter checks
+mc_equity bets 10
+redraw_hunter calls
+mc_equity shows [4s 2h]
+redraw_hunter shows [Jd Js]
+mc_equity awarded -20
+redraw_hunter awarded 20
+
+Round #182, redraw_hunter (5323), mc_equity (-5323)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kc 2c]
+mc_equity dealt [7s 5s]
+Redraw reveal for 1: WH1 X2c
+redraw_hunter redraws hole card 1 and raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #183, mc_equity (-5325), redraw_hunter (5325)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Tc 4s]
+redraw_hunter dealt [3h 8d]
+mc_equity calls
+redraw_hunter checks
+Flop [6d Td 7s], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH0 X3h
+redraw_hunter redraws hole card 0 and bets 2
+Redraw reveal for 1: WB0 X6d
+mc_equity redraws board card 0 and calls
+Turn [4h Td 7s 4d], mc_equity (4), redraw_hunter (4)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+River [4h Td 7s 4d 3s], mc_equity (9), redraw_hunter (9)
+redraw_hunter checks
+mc_equity bets 12
+redraw_hunter calls
+mc_equity shows [Tc 4s]
+redraw_hunter shows [Kc 8d]
+mc_equity awarded 21
+redraw_hunter awarded -21
+
+Round #184, redraw_hunter (5304), mc_equity (-5304)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5h Qs]
+mc_equity dealt [7h Qh]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jd 4s Ts], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X7h
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X5h
+redraw_hunter redraws hole card 0 and checks
+Turn [Jd 4s Ts 8s], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+River [Jd 4s Ts 8s 4d], redraw_hunter (19), mc_equity (19)
+mc_equity bets 19
+redraw_hunter calls
+redraw_hunter shows [8c Qs]
+mc_equity shows [3d Qh]
+redraw_hunter awarded 38
+mc_equity awarded -38
+
+Round #185, mc_equity (-5342), redraw_hunter (5342)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9c As]
+redraw_hunter dealt [7c Qd]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8h Qc 2c], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 X9c
+mc_equity redraws hole card 0 and calls
+Turn [8h Qc 2c 4s], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WH0 X7c
+redraw_hunter redraws hole card 0 and bets 14
+mc_equity raises to 28
+redraw_hunter raises to 65
+mc_equity raises to 108
+redraw_hunter raises to 221
+mc_equity raises to 353
+redraw_hunter raises to 389
+mc_equity calls
+mc_equity shows [7h As]
+redraw_hunter shows [4h Qd]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #186, redraw_hunter (5742), mc_equity (-5742)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7c Ah]
+mc_equity dealt [5s 6d]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #187, mc_equity (-5744), redraw_hunter (5744)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9s 4c]
+redraw_hunter dealt [Qc As]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #188, redraw_hunter (5749), mc_equity (-5749)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Tc Kc]
+mc_equity dealt [9s 6d]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #189, mc_equity (-5751), redraw_hunter (5751)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8d 3s]
+redraw_hunter dealt [5s 2c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #190, redraw_hunter (5749), mc_equity (-5749)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6s 5c]
+mc_equity dealt [9h 4h]
+redraw_hunter calls
+mc_equity checks
+Flop [Ac Jd Jc], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X4h
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X6s
+redraw_hunter redraws hole card 0 and checks
+Turn [Ac Jd Jc 6c], redraw_hunter (2), mc_equity (2)
+mc_equity checks
+redraw_hunter bets 2
+mc_equity calls
+River [Ac Jd Jc 6c Qc], redraw_hunter (4), mc_equity (4)
+mc_equity checks
+redraw_hunter bets 5
+mc_equity calls
+redraw_hunter shows [Ts 5c]
+mc_equity shows [9h Qh]
+redraw_hunter awarded 9
+mc_equity awarded -9
+
+Round #191, mc_equity (-5758), redraw_hunter (5758)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5d As]
+redraw_hunter dealt [2h Qs]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X2h
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #192, redraw_hunter (5756), mc_equity (-5756)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5s Td]
+mc_equity dealt [Jc 8d]
+redraw_hunter calls
+mc_equity checks
+Flop [Jh 9s Ah], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X8d
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WB2 XAh
+redraw_hunter redraws board card 2 and checks
+Turn [Jh 9s Kd Ad], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter calls
+River [Jh 9s Kd Ad Th], redraw_hunter (4), mc_equity (4)
+mc_equity bets 4
+redraw_hunter calls
+redraw_hunter shows [5s Td]
+mc_equity shows [Jc Tc]
+redraw_hunter awarded -8
+mc_equity awarded 8
+
+Round #193, mc_equity (-5748), redraw_hunter (5748)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qs 2c]
+redraw_hunter dealt [8c Qh]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8d 8s 2h], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 XQs
+mc_equity redraws hole card 0 and calls
+Turn [8d 8s 2h 5d], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 14
+mc_equity raises to 28
+redraw_hunter raises to 65
+mc_equity raises to 108
+redraw_hunter raises to 221
+mc_equity raises to 353
+redraw_hunter raises to 389
+mc_equity calls
+mc_equity shows [Th 2c]
+redraw_hunter shows [8c Qh]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #194, redraw_hunter (6148), mc_equity (-6148)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kc 4d]
+mc_equity dealt [3d Ks]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6s 3s 5d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 X6s
+mc_equity redraws board card 0 and checks
+redraw_hunter checks
+Turn [5h 3s 5d 2s], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+Redraw reveal for 1: WH0 XKc
+redraw_hunter redraws hole card 0 and calls
+River [5h 3s 5d 2s Kh], redraw_hunter (10), mc_equity (10)
+mc_equity bets 14
+redraw_hunter calls
+redraw_hunter shows [6c 4d]
+mc_equity shows [3d Ks]
+redraw_hunter awarded 24
+mc_equity awarded -24
+
+Round #195, mc_equity (-6172), redraw_hunter (6172)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8h 5d]
+redraw_hunter dealt [3h 3d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Ad 6c Jc], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X6c
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WB2 XJc
+mc_equity redraws board card 2 and checks
+Turn [Ad Qs 3s 3c], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #196, redraw_hunter (6177), mc_equity (-6177)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5d 8c]
+mc_equity dealt [Qh 7c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jc Qs As], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 XAs
+mc_equity redraws board card 2 and checks
+Redraw reveal for 1: WH0 X5d
+redraw_hunter redraws hole card 0 and checks
+Turn [Jc Qs 4d 7d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [Jc Qs 4d 7d 7h], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [Ad 8c]
+mc_equity shows [Qh 7c]
+redraw_hunter awarded -28
+mc_equity awarded 28
+
+Round #197, mc_equity (-6149), redraw_hunter (6149)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2c 6d]
+redraw_hunter dealt [Qd 9d]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #198, redraw_hunter (6150), mc_equity (-6150)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kh Qd]
+mc_equity dealt [Kc 5c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [3s 7s Ah], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X7s
+mc_equity redraws board card 1 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+Redraw reveal for 1: WB0 X3s
+redraw_hunter redraws board card 0 and calls
+Turn [8s Ks Ah 2h], redraw_hunter (15), mc_equity (15)
+mc_equity bets 21
+redraw_hunter calls
+River [8s Ks Ah 2h As], redraw_hunter (36), mc_equity (36)
+mc_equity bets 50
+redraw_hunter raises to 100
+mc_equity raises to 205
+redraw_hunter raises to 364
+mc_equity calls
+redraw_hunter shows [Kh Qd]
+mc_equity shows [Kc 5c]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #199, mc_equity (-6550), redraw_hunter (6550)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s Th]
+redraw_hunter dealt [8h Kh]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #200, redraw_hunter (6555), mc_equity (-6555)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5d Ks]
+mc_equity dealt [9c 2c]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #201, mc_equity (-6557), redraw_hunter (6557)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Js 2h]
+redraw_hunter dealt [4h Th]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Tc Ah As], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH1 X2h
+mc_equity redraws hole card 1 and calls
+Turn [Tc Ah As 8d], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WH0 X4h
+redraw_hunter redraws hole card 0 and bets 15
+mc_equity raises to 30
+redraw_hunter calls
+River [Tc Ah As 8d 3d], mc_equity (41), redraw_hunter (41)
+redraw_hunter bets 57
+mc_equity raises to 114
+redraw_hunter raises to 259
+mc_equity raises to 359
+redraw_hunter calls
+mc_equity shows [Js 9h]
+redraw_hunter shows [Ac Th]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #202, redraw_hunter (6957), mc_equity (-6957)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3h Jc]
+mc_equity dealt [6h 6d]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #203, mc_equity (-6952), redraw_hunter (6952)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s 2s]
+redraw_hunter dealt [Ac 8c]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #204, redraw_hunter (6957), mc_equity (-6957)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4c 2h]
+mc_equity dealt [Qh Kh]
+redraw_hunter folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #205, mc_equity (-6956), redraw_hunter (6956)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4d 2c]
+redraw_hunter dealt [5d 9d]
+mc_equity calls
+redraw_hunter checks
+Flop [7d 7h Js], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH0 X5d
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4d
+mc_equity redraws hole card 0 and checks
+Turn [7d 7h Js 2h], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity bets 2
+redraw_hunter calls
+River [7d 7h Js 2h 7s], mc_equity (4), redraw_hunter (4)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+mc_equity shows [2s 2c]
+redraw_hunter shows [8s 9d]
+mc_equity awarded 9
+redraw_hunter awarded -9
+
+Round #206, redraw_hunter (6947), mc_equity (-6947)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7s Js]
+mc_equity dealt [7d Qh]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [3s 3d Ad], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+Redraw reveal for 1: WB2 XAd
+redraw_hunter redraws board card 2 and checks
+Turn [3s 3d 4h 6s], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 X3s
+mc_equity redraws board card 0 and checks
+redraw_hunter checks
+River [Th 3d 4h 6s 3h], redraw_hunter (5), mc_equity (5)
+mc_equity bets 4
+redraw_hunter folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #207, mc_equity (-6942), redraw_hunter (6942)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8h 7s]
+redraw_hunter dealt [Qh Jd]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Th Jc 2s], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WB2 X2s
+mc_equity redraws board card 2 and calls
+Turn [Th Jc Ad Td], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 15
+mc_equity calls
+River [Th Jc Ad Td Jh], mc_equity (26), redraw_hunter (26)
+redraw_hunter bets 36
+mc_equity calls
+mc_equity shows [8h 7s]
+redraw_hunter shows [Qh Jd]
+mc_equity awarded -62
+redraw_hunter awarded 62
+
+Round #208, redraw_hunter (7004), mc_equity (-7004)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5c 9c]
+mc_equity dealt [4h 4d]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [Ac Kc 8s], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WB0 XAc
+mc_equity redraws board card 0 and checks
+Redraw reveal for 1: WH0 X5c
+redraw_hunter redraws hole card 0 and checks
+Turn [8h Kc 8s Ah], redraw_hunter (17), mc_equity (17)
+mc_equity checks
+redraw_hunter checks
+River [8h Kc 8s Ah 9h], redraw_hunter (17), mc_equity (17)
+mc_equity checks
+redraw_hunter bets 22
+mc_equity raises to 44
+redraw_hunter calls
+redraw_hunter shows [Ts 9c]
+mc_equity shows [4h 4d]
+redraw_hunter awarded 61
+mc_equity awarded -61
+
+Round #209, mc_equity (-7065), redraw_hunter (7065)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3d 7s]
+redraw_hunter dealt [Kh 8h]
+mc_equity calls
+redraw_hunter raises to 6
+mc_equity folds
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #210, redraw_hunter (7067), mc_equity (-7067)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kc 5d]
+mc_equity dealt [Jc 6c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [3s Jd Jh], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+Redraw reveal for 1: WH1 X5d
+redraw_hunter redraws hole card 1 and calls
+Turn [3s Jd Jh Qc], redraw_hunter (12), mc_equity (12)
+Redraw reveal for 0: WB3 XQc
+mc_equity redraws board card 3 and checks
+redraw_hunter bets 12
+mc_equity raises to 25
+redraw_hunter calls
+River [3s Jd Jh 9s Ad], redraw_hunter (37), mc_equity (37)
+mc_equity bets 51
+redraw_hunter calls
+redraw_hunter shows [Kc Kh]
+mc_equity shows [Jc 6c]
+redraw_hunter awarded -88
+mc_equity awarded 88
+
+Round #211, mc_equity (-6979), redraw_hunter (6979)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ah 7c]
+redraw_hunter dealt [4h Td]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9d 5d 9h], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X4h
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH1 X7c
+mc_equity redraws hole card 1 and checks
+Turn [9d 5d 9h Ac], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 7
+redraw_hunter calls
+River [9d 5d 9h Ac 8h], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+mc_equity shows [Ah Tc]
+redraw_hunter shows [2d Td]
+mc_equity awarded 28
+redraw_hunter awarded -28
+
+Round #212, redraw_hunter (6951), mc_equity (-6951)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9d As]
+mc_equity dealt [8c 4s]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #213, mc_equity (-6953), redraw_hunter (6953)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9d Qh]
+redraw_hunter dealt [Js Ts]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity raises to 400
+redraw_hunter calls
+mc_equity shows [9d Qh]
+redraw_hunter shows [Js Ts]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #214, redraw_hunter (7353), mc_equity (-7353)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8h 4c]
+mc_equity dealt [Ks 7h]
+Redraw reveal for 1: WH1 X4c
+redraw_hunter redraws hole card 1 and calls
+mc_equity raises to 6
+redraw_hunter calls
+Flop [Ah Ac 3d], redraw_hunter (6), mc_equity (6)
+Redraw reveal for 0: WB2 X3d
+mc_equity redraws board card 2 and checks
+redraw_hunter checks
+Turn [Ah Ac 2c 6h], redraw_hunter (6), mc_equity (6)
+mc_equity checks
+redraw_hunter checks
+River [Ah Ac 2c 6h Ts], redraw_hunter (6), mc_equity (6)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [8h Td]
+mc_equity shows [Ks 7h]
+redraw_hunter awarded 6
+mc_equity awarded -6
+
+Round #215, mc_equity (-7359), redraw_hunter (7359)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Td 8h]
+redraw_hunter dealt [7c 7h]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity calls
+Flop [5c Ac Jc], mc_equity (19), redraw_hunter (19)
+redraw_hunter bets 24
+Redraw reveal for 1: WH0 XTd
+mc_equity redraws hole card 0 and calls
+Turn [5c Ac Jc Ts], mc_equity (43), redraw_hunter (43)
+Redraw reveal for 0: WB3 XTs
+redraw_hunter redraws board card 3 and bets 43
+mc_equity calls
+River [5c Ac Jc 2c 9s], mc_equity (86), redraw_hunter (86)
+redraw_hunter bets 111
+mc_equity calls
+mc_equity shows [4h 8h]
+redraw_hunter shows [7c 7h]
+mc_equity awarded -197
+redraw_hunter awarded 197
+
+Round #216, redraw_hunter (7556), mc_equity (-7556)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ah 5c]
+mc_equity dealt [Ks 2d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [4c 3c Tc], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X2d
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+Turn [4c 3c Tc As], redraw_hunter (15), mc_equity (15)
+mc_equity checks
+Redraw reveal for 1: WB1 X3c
+redraw_hunter redraws board card 1 and bets 21
+mc_equity raises to 42
+redraw_hunter calls
+River [4c 3s Tc As 8d], redraw_hunter (57), mc_equity (57)
+mc_equity checks
+redraw_hunter bets 79
+mc_equity raises to 158
+redraw_hunter raises to 343
+mc_equity calls
+redraw_hunter shows [Ah 5c]
+mc_equity shows [Ks 7c]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #217, mc_equity (-7956), redraw_hunter (7956)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8c 6c]
+redraw_hunter dealt [9s 4d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Jc Ah Kc], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X4d
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB1 XAh
+mc_equity redraws board card 1 and checks
+Turn [Jc 9d Kc 3d], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+mc_equity calls
+River [Jc 9d Kc 3d Qc], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 11
+mc_equity raises to 23
+redraw_hunter calls
+mc_equity shows [8c 6c]
+redraw_hunter shows [9s 2d]
+mc_equity awarded 34
+redraw_hunter awarded -34
+
+Round #218, redraw_hunter (7922), mc_equity (-7922)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Jh 5d]
+mc_equity dealt [Kh 2d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [4c 3d Td], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X2d
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X5d
+redraw_hunter redraws hole card 1 and bets 4
+mc_equity raises to 9
+redraw_hunter calls
+Turn [4c 3d Td Ks], redraw_hunter (14), mc_equity (14)
+mc_equity bets 19
+redraw_hunter calls
+River [4c 3d Td Ks 7h], redraw_hunter (33), mc_equity (33)
+mc_equity bets 46
+redraw_hunter calls
+redraw_hunter shows [Jh 2h]
+mc_equity shows [Kh 4h]
+redraw_hunter awarded -79
+mc_equity awarded 79
+
+Round #219, mc_equity (-7843), redraw_hunter (7843)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2s Tc]
+redraw_hunter dealt [Jc 7h]
+mc_equity calls
+redraw_hunter checks
+Flop [5d 5s 6s], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH0 XJc
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X2s
+mc_equity redraws hole card 0 and checks
+Turn [5d 5s 6s Kd], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity checks
+River [5d 5s 6s Kd Qh], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [9s Tc]
+redraw_hunter shows [Qd 7h]
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #220, redraw_hunter (7845), mc_equity (-7845)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6d 4s]
+mc_equity dealt [7d 9h]
+redraw_hunter folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #221, mc_equity (-7844), redraw_hunter (7844)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kh 4s]
+redraw_hunter dealt [Ts 7s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Kc Kd As], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X7s
+redraw_hunter redraws hole card 1 and checks
+mc_equity bets 7
+redraw_hunter calls
+Turn [Kc Kd As 3s], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+mc_equity bets 16
+redraw_hunter calls
+River [Kc Kd As 3s 2c], mc_equity (28), redraw_hunter (28)
+redraw_hunter checks
+mc_equity bets 39
+redraw_hunter calls
+mc_equity shows [Kh 4s]
+redraw_hunter shows [Ts 9d]
+mc_equity awarded 67
+redraw_hunter awarded -67
+
+Round #222, redraw_hunter (7777), mc_equity (-7777)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3d Kh]
+mc_equity dealt [Kd Kc]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [9h 5s 2c], redraw_hunter (17), mc_equity (17)
+mc_equity bets 23
+Redraw reveal for 1: WB0 X9h
+redraw_hunter redraws board card 0 and calls
+Turn [9d 5s 2c Ad], redraw_hunter (40), mc_equity (40)
+Redraw reveal for 0: WB3 XAd
+mc_equity redraws board card 3 and checks
+redraw_hunter checks
+River [9d 5s 2c 5d 8c], redraw_hunter (40), mc_equity (40)
+mc_equity bets 56
+redraw_hunter calls
+redraw_hunter shows [3d Kh]
+mc_equity shows [Kd Kc]
+redraw_hunter awarded -96
+mc_equity awarded 96
+
+Round #223, mc_equity (-7681), redraw_hunter (7681)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9h 7s]
+redraw_hunter dealt [9c Jh]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #224, redraw_hunter (7682), mc_equity (-7682)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5s Tc]
+mc_equity dealt [3s Js]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [7h 7d Jc], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+Redraw reveal for 1: WH0 X5s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #225, mc_equity (-7677), redraw_hunter (7677)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2s 4s]
+redraw_hunter dealt [Qc Qh]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity folds
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #226, redraw_hunter (7682), mc_equity (-7682)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [2d 4c]
+mc_equity dealt [2h 8c]
+Redraw reveal for 1: WH1 X4c
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #227, mc_equity (-7681), redraw_hunter (7681)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7h Jh]
+redraw_hunter dealt [Jc 6c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9d 6s As], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 XJc
+redraw_hunter redraws hole card 0 and bets 6
+Redraw reveal for 1: WB0 X9d
+mc_equity redraws board card 0 and calls
+Turn [7s 6s As Kd], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 11
+mc_equity raises to 23
+redraw_hunter calls
+River [7s 6s As Kd Tc], mc_equity (34), redraw_hunter (34)
+redraw_hunter bets 34
+mc_equity raises to 71
+redraw_hunter calls
+mc_equity shows [7h Jh]
+redraw_hunter shows [9h 6c]
+mc_equity awarded 105
+redraw_hunter awarded -105
+
+Round #228, redraw_hunter (7576), mc_equity (-7576)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 7h]
+mc_equity dealt [Jh Kh]
+redraw_hunter calls
+mc_equity raises to 6
+redraw_hunter folds
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #229, mc_equity (-7574), redraw_hunter (7574)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Js Ah]
+redraw_hunter dealt [Ac Th]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity raises to 400
+redraw_hunter calls
+mc_equity shows [Js Ah]
+redraw_hunter shows [Ac Th]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #230, redraw_hunter (7974), mc_equity (-7974)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8d 9c]
+mc_equity dealt [Tc 6d]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #231, mc_equity (-7976), redraw_hunter (7976)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kc Ac]
+redraw_hunter dealt [2c 6c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #232, redraw_hunter (7974), mc_equity (-7974)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c Jc]
+mc_equity dealt [7c Ad]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Qs 6h 4h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X7c
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X8c
+redraw_hunter redraws hole card 0 and checks
+Turn [Qs 6h 4h 3h], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [Qs 6h 4h 3h 3s], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [Kh Jc]
+mc_equity shows [Kd Ad]
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #233, mc_equity (-7969), redraw_hunter (7969)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ks 3d]
+redraw_hunter dealt [2s 5d]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #234, redraw_hunter (7967), mc_equity (-7967)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4s Ac]
+mc_equity dealt [Jd 8c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6d 3d Qs], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X8c
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WB0 X6d
+redraw_hunter redraws board card 0 and checks
+Turn [Th 3d Qs 6h], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [Th 3d Qs 6h Ts], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [4s Ac]
+mc_equity shows [Jd Js]
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #235, mc_equity (-7962), redraw_hunter (7962)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s Ks]
+redraw_hunter dealt [6d Ad]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [8d 2h Jh], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB2 XJh
+redraw_hunter redraws board card 2 and checks
+Redraw reveal for 1: WB2 X8h
+mc_equity redraws board card 2 and checks
+Turn [8d 2h Qc 5c], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [8d 2h Qc 5c 5h], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [7s Ks]
+redraw_hunter shows [6d Ad]
+mc_equity awarded -5
+redraw_hunter awarded 5
+
+Round #236, redraw_hunter (7967), mc_equity (-7967)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9d 4s]
+mc_equity dealt [Ts 8c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Kh 8s 2d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+Redraw reveal for 1: WH0 X9d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -5
+mc_equity awarded 5
+
+Round #237, mc_equity (-7962), redraw_hunter (7962)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ks Kd]
+redraw_hunter dealt [5s Jd]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9d 3d 2s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X5s
+redraw_hunter redraws hole card 0 and checks
+mc_equity bets 7
+redraw_hunter calls
+Turn [9d 3d 2s Qc], mc_equity (12), redraw_hunter (12)
+redraw_hunter checks
+Redraw reveal for 1: WB2 X2s
+mc_equity redraws board card 2 and checks
+River [9d 3d Js Qc 6s], mc_equity (12), redraw_hunter (12)
+redraw_hunter bets 16
+mc_equity raises to 32
+redraw_hunter calls
+mc_equity shows [Ks Kd]
+redraw_hunter shows [4c Jd]
+mc_equity awarded 44
+redraw_hunter awarded -44
+
+Round #238, redraw_hunter (7918), mc_equity (-7918)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5s 4h]
+mc_equity dealt [Ac 4c]
+Redraw reveal for 1: WH1 X4h
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #239, mc_equity (-7917), redraw_hunter (7917)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9c Jh]
+redraw_hunter dealt [2d 4c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #240, redraw_hunter (7915), mc_equity (-7915)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Tc 2c]
+mc_equity dealt [5c 2h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #241, mc_equity (-7917), redraw_hunter (7917)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ts Kc]
+redraw_hunter dealt [9c 3c]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #242, redraw_hunter (7915), mc_equity (-7915)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 4s]
+mc_equity dealt [8s 4d]
+redraw_hunter calls
+mc_equity checks
+Flop [6s 5d Jd], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X4d
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WB2 XJd
+redraw_hunter redraws board card 2 and checks
+Turn [6s 5d Qh 7d], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter raises to 4
+mc_equity raises to 9
+redraw_hunter raises to 17
+mc_equity raises to 30
+redraw_hunter raises to 57
+mc_equity raises to 93
+redraw_hunter raises to 180
+mc_equity raises to 286
+redraw_hunter raises to 398
+mc_equity calls
+redraw_hunter shows [3c 4s]
+mc_equity shows [8s 7c]
+redraw_hunter awarded -400
+mc_equity awarded 400
+
+Round #243, mc_equity (-7515), redraw_hunter (7515)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3d 5s]
+redraw_hunter dealt [Ac Th]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #244, redraw_hunter (7516), mc_equity (-7516)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Kc 8c]
+mc_equity dealt [4s Qc]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6s Qd As], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X4s
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WB0 X6s
+redraw_hunter redraws board card 0 and checks
+Turn [3d Qd As Ks], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [3d Qd As Ks 7d], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [Kc 8c]
+mc_equity shows [8s Qc]
+redraw_hunter awarded 28
+mc_equity awarded -28
+
+Round #245, mc_equity (-7544), redraw_hunter (7544)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d Qh]
+redraw_hunter dealt [2d Ks]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Th Tc 8c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X2d
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X7d
+mc_equity redraws hole card 0 and checks
+Turn [Th Tc 8c 9s], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [Th Tc 8c 9s Kc], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+mc_equity shows [Kh Qh]
+redraw_hunter shows [Qs Ks]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #246, redraw_hunter (7544), mc_equity (-7544)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5c 3h]
+mc_equity dealt [4d 2s]
+redraw_hunter calls
+mc_equity checks
+Flop [2c 9s Qd], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WB1 X9s
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH0 X5c
+redraw_hunter redraws hole card 0 and bets 2
+mc_equity raises to 4
+redraw_hunter calls
+Turn [2c Jh Qd Qs], redraw_hunter (6), mc_equity (6)
+mc_equity checks
+redraw_hunter checks
+River [2c Jh Qd Qs 7c], redraw_hunter (6), mc_equity (6)
+mc_equity bets 6
+redraw_hunter calls
+redraw_hunter shows [2h 3h]
+mc_equity shows [4d 2s]
+redraw_hunter awarded 0
+mc_equity awarded 0
+
+Round #247, mc_equity (-7544), redraw_hunter (7544)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8d Tc]
+redraw_hunter dealt [Kh 5s]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [5h 8c 4c], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+mc_equity raises to 12
+redraw_hunter calls
+Turn [5h 8c 4c 6d], mc_equity (17), redraw_hunter (17)
+Redraw reveal for 0: WB3 X6d
+redraw_hunter redraws board card 3 and checks
+Redraw reveal for 1: WB0 X5h
+mc_equity redraws board card 0 and checks
+River [Qh 8c 4c Ac Ks], mc_equity (17), redraw_hunter (17)
+redraw_hunter bets 23
+mc_equity raises to 46
+redraw_hunter calls
+mc_equity shows [8d Tc]
+redraw_hunter shows [Kh 5s]
+mc_equity awarded -63
+redraw_hunter awarded 63
+
+Round #248, redraw_hunter (7607), mc_equity (-7607)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [7h 9c]
+mc_equity dealt [Ad 3s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [4h 5s Kh], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB2 XKh
+mc_equity redraws board card 2 and checks
+Redraw reveal for 1: WH1 X9c
+redraw_hunter redraws hole card 1 and checks
+Turn [4h 5s Jc 5c], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+River [4h 5s Jc 5c 9s], redraw_hunter (10), mc_equity (10)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [7h 8h]
+mc_equity shows [Ad 3s]
+redraw_hunter awarded -10
+mc_equity awarded 10
+
+Round #249, mc_equity (-7597), redraw_hunter (7597)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jc 3c]
+redraw_hunter dealt [8s Kd]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [6s Qc 4c], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X8s
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WB0 X6s
+mc_equity redraws board card 0 and checks
+Turn [5h Qc 4c Ts], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 4
+redraw_hunter calls
+River [5h Qc 4c Ts 9d], mc_equity (9), redraw_hunter (9)
+redraw_hunter checks
+mc_equity checks
+mc_equity shows [Jc 3c]
+redraw_hunter shows [2s Kd]
+mc_equity awarded -9
+redraw_hunter awarded 9
+
+Round #250, redraw_hunter (7606), mc_equity (-7606)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 8d]
+mc_equity dealt [Js 6c]
+redraw_hunter calls
+mc_equity checks
+Flop [3s 2s 7h], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X6c
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X8d
+redraw_hunter redraws hole card 1 and bets 2
+mc_equity raises to 4
+redraw_hunter calls
+Turn [3s 2s 7h 6s], redraw_hunter (6), mc_equity (6)
+mc_equity bets 6
+redraw_hunter calls
+River [3s 2s 7h 6s Td], redraw_hunter (12), mc_equity (12)
+mc_equity checks
+redraw_hunter bets 13
+mc_equity raises to 26
+redraw_hunter calls
+redraw_hunter shows [3c 2h]
+mc_equity shows [Js 9c]
+redraw_hunter awarded 38
+mc_equity awarded -38
+
+Round #251, mc_equity (-7644), redraw_hunter (7644)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3s 6h]
+redraw_hunter dealt [8c 7h]
+mc_equity calls
+redraw_hunter checks
+Flop [Qc Ac 3c], mc_equity (2), redraw_hunter (2)
+Redraw reveal for 0: WH1 X7h
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB0 XQc
+mc_equity redraws board card 0 and checks
+Turn [Qs Ac 3c 6s], mc_equity (2), redraw_hunter (2)
+redraw_hunter checks
+mc_equity bets 2
+redraw_hunter calls
+River [Qs Ac 3c 6s 2h], mc_equity (4), redraw_hunter (4)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+mc_equity shows [3s 6h]
+redraw_hunter shows [8c 9c]
+mc_equity awarded 9
+redraw_hunter awarded -9
+
+Round #252, redraw_hunter (7635), mc_equity (-7635)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5h 8s]
+mc_equity dealt [Qc 9s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Qd 5s Jc], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+Redraw reveal for 1: WB2 XJc
+redraw_hunter redraws board card 2 and calls
+Turn [Qd 5s 5d 3d], redraw_hunter (12), mc_equity (12)
+Redraw reveal for 0: WH1 X9s
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 15
+mc_equity raises to 30
+redraw_hunter raises to 70
+mc_equity raises to 116
+redraw_hunter raises to 238
+mc_equity raises to 380
+redraw_hunter raises to 388
+mc_equity calls
+redraw_hunter shows [5h 8s]
+mc_equity shows [Qc 7s]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #253, mc_equity (-8035), redraw_hunter (8035)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [As 7c]
+redraw_hunter dealt [6d 7d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [2s 5c 7s], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 XAs
+mc_equity redraws hole card 0 and calls
+Turn [2s 5c 7s Ac], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WH0 X6d
+redraw_hunter redraws hole card 0 and bets 14
+mc_equity raises to 28
+redraw_hunter calls
+River [2s 5c 7s Ac Qd], mc_equity (39), redraw_hunter (39)
+redraw_hunter bets 50
+mc_equity raises to 100
+redraw_hunter calls
+mc_equity shows [2c 7c]
+redraw_hunter shows [Js 7d]
+mc_equity awarded 139
+redraw_hunter awarded -139
+
+Round #254, redraw_hunter (7896), mc_equity (-7896)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [As 8h]
+mc_equity dealt [6s Th]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #255, mc_equity (-7898), redraw_hunter (7898)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [5c 7h]
+redraw_hunter dealt [Jc 3h]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [9c Qd 2s], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X3h
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X5c
+mc_equity redraws hole card 0 and checks
+Turn [9c Qd 2s Ac], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity checks
+River [9c Qd 2s Ac 8c], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+mc_equity calls
+mc_equity shows [2h 7h]
+redraw_hunter shows [Jc 8d]
+mc_equity awarded -10
+redraw_hunter awarded 10
+
+Round #256, redraw_hunter (7908), mc_equity (-7908)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6h 8h]
+mc_equity dealt [5s Ts]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [2h 8d 4h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 XTs
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 6
+mc_equity raises to 12
+redraw_hunter raises to 28
+mc_equity raises to 47
+redraw_hunter raises to 96
+mc_equity calls
+Turn [2h 8d 4h 9s], redraw_hunter (101), mc_equity (101)
+mc_equity checks
+Redraw reveal for 1: WB3 X9s
+redraw_hunter redraws board card 3 and bets 131
+mc_equity calls
+River [2h 8d 4h Qd 2s], redraw_hunter (232), mc_equity (232)
+mc_equity checks
+redraw_hunter bets 168
+mc_equity calls
+redraw_hunter shows [6h 8h]
+mc_equity shows [5s 4s]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #257, mc_equity (-8308), redraw_hunter (8308)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7d 9s]
+redraw_hunter dealt [Jc 3c]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Ah 2d Ks], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X3c
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X9s
+mc_equity redraws hole card 1 and checks
+Turn [Ah 2d Ks Qs], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 5
+mc_equity calls
+River [Ah 2d Ks Qs Ad], mc_equity (10), redraw_hunter (10)
+redraw_hunter bets 10
+mc_equity calls
+mc_equity shows [7d 2s]
+redraw_hunter shows [Jc As]
+mc_equity awarded -20
+redraw_hunter awarded 20
+
+Round #258, redraw_hunter (8328), mc_equity (-8328)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4d 4c]
+mc_equity dealt [8s 7h]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Ah Qs 5s], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X7h
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WB2 X5s
+redraw_hunter redraws board card 2 and checks
+Turn [Ah Qs 5h Ad], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+River [Ah Qs 5h Ad Td], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [4d 4c]
+mc_equity shows [8s 9s]
+redraw_hunter awarded 5
+mc_equity awarded -5
+
+Round #259, mc_equity (-8333), redraw_hunter (8333)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6c Kc]
+redraw_hunter dealt [Td Ad]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity calls
+Flop [Jc Jd 3s], mc_equity (19), redraw_hunter (19)
+redraw_hunter bets 24
+mc_equity raises to 48
+Redraw reveal for 0: WB2 X3s
+redraw_hunter redraws board card 2 and calls
+Turn [Jc Jd 9d 3d], mc_equity (67), redraw_hunter (67)
+redraw_hunter bets 87
+Redraw reveal for 1: WB1 XJd
+mc_equity redraws board card 1 and calls
+River [Jc Ah 9d 3d Ks], mc_equity (154), redraw_hunter (154)
+redraw_hunter bets 200
+mc_equity raises to 246
+redraw_hunter calls
+mc_equity shows [6c Kc]
+redraw_hunter shows [Td Ad]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #260, redraw_hunter (8733), mc_equity (-8733)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 4c]
+mc_equity dealt [Ks 4d]
+Redraw reveal for 1: WH1 X4c
+redraw_hunter redraws hole card 1 and calls
+mc_equity checks
+Flop [Tc Ah 2h], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X4d
+mc_equity redraws hole card 1 and checks
+redraw_hunter checks
+Turn [Tc Ah 2h Qd], redraw_hunter (2), mc_equity (2)
+mc_equity bets 2
+redraw_hunter calls
+River [Tc Ah 2h Qd 8d], redraw_hunter (4), mc_equity (4)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [3c Qs]
+mc_equity shows [Ks 2d]
+redraw_hunter awarded 4
+mc_equity awarded -4
+
+Round #261, mc_equity (-8737), redraw_hunter (8737)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Tc 8d]
+redraw_hunter dealt [8h Td]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7h Ad 2d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB2 X2d
+redraw_hunter redraws board card 2 and bets 4
+Redraw reveal for 1: WH1 X8d
+mc_equity redraws hole card 1 and calls
+Turn [7h Ad Jc Jd], mc_equity (9), redraw_hunter (9)
+redraw_hunter checks
+mc_equity checks
+River [7h Ad Jc Jd Th], mc_equity (9), redraw_hunter (9)
+redraw_hunter bets 12
+mc_equity raises to 24
+redraw_hunter calls
+mc_equity shows [Tc 3h]
+redraw_hunter shows [8h Td]
+mc_equity awarded 0
+redraw_hunter awarded 0
+
+Round #262, redraw_hunter (8737), mc_equity (-8737)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9c 6s]
+mc_equity dealt [3c 3d]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6d Qh Ad], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 XQh
+mc_equity redraws board card 1 and checks
+Redraw reveal for 1: WH0 X9c
+redraw_hunter redraws hole card 0 and bets 6
+mc_equity raises to 12
+redraw_hunter calls
+Turn [6d Jc Ad 9s], redraw_hunter (17), mc_equity (17)
+mc_equity checks
+redraw_hunter bets 22
+mc_equity raises to 44
+redraw_hunter calls
+River [6d Jc Ad 9s Kh], redraw_hunter (61), mc_equity (61)
+mc_equity checks
+redraw_hunter bets 61
+mc_equity raises to 128
+redraw_hunter calls
+redraw_hunter shows [Kd 6s]
+mc_equity shows [3c 3d]
+redraw_hunter awarded 189
+mc_equity awarded -189
+
+Round #263, mc_equity (-8926), redraw_hunter (8926)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kh 7c]
+redraw_hunter dealt [7d 2d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #264, redraw_hunter (8924), mc_equity (-8924)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [9s Td]
+mc_equity dealt [5c As]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Jd 4d Ks], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X5c
+mc_equity redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X9s
+redraw_hunter redraws hole card 0 and checks
+Turn [Jd 4d Ks Qs], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+River [Jd 4d Ks Qs Qh], redraw_hunter (10), mc_equity (10)
+mc_equity bets 10
+redraw_hunter calls
+redraw_hunter shows [Kd Td]
+mc_equity shows [5h As]
+redraw_hunter awarded 20
+mc_equity awarded -20
+
+Round #265, mc_equity (-8944), redraw_hunter (8944)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jc Jd]
+redraw_hunter dealt [2s 8d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #266, redraw_hunter (8942), mc_equity (-8942)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3c 4s]
+mc_equity dealt [7h Tc]
+redraw_hunter calls
+mc_equity checks
+Flop [4d Kd 4c], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH0 X7h
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 2
+mc_equity raises to 4
+redraw_hunter raises to 10
+mc_equity raises to 16
+redraw_hunter raises to 34
+mc_equity raises to 53
+redraw_hunter raises to 106
+mc_equity raises to 167
+redraw_hunter raises to 327
+mc_equity raises to 398
+redraw_hunter calls
+redraw_hunter shows [3c 4s]
+mc_equity shows [Td Tc]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #267, mc_equity (-9342), redraw_hunter (9342)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9s 9c]
+redraw_hunter dealt [2h 5d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #268, redraw_hunter (9340), mc_equity (-9340)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6h 9h]
+mc_equity dealt [3d 3c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Tc Td 4h], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+Redraw reveal for 1: WH0 X6h
+redraw_hunter redraws hole card 0 and checks
+Turn [Tc Td 4h 8d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 XTc
+mc_equity redraws board card 0 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+River [Jh Td 4h 8d 4s], redraw_hunter (15), mc_equity (15)
+mc_equity checks
+redraw_hunter bets 15
+mc_equity raises to 31
+redraw_hunter calls
+redraw_hunter shows [Kd 9h]
+mc_equity shows [3d 3c]
+redraw_hunter awarded -46
+mc_equity awarded 46
+
+Round #269, mc_equity (-9294), redraw_hunter (9294)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Ks Jh]
+redraw_hunter dealt [5c 7d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [2s Ad 3d], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X7d
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB0 X2s
+mc_equity redraws board card 0 and checks
+Turn [As Ad 3d 3s], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 5
+redraw_hunter calls
+River [As Ad 3d 3s Kc], mc_equity (10), redraw_hunter (10)
+redraw_hunter checks
+mc_equity bets 14
+redraw_hunter calls
+mc_equity shows [Ks Jh]
+redraw_hunter shows [5c 4s]
+mc_equity awarded 24
+redraw_hunter awarded -24
+
+Round #270, redraw_hunter (9270), mc_equity (-9270)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qd 8c]
+mc_equity dealt [4s As]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [5s 5c 6h], redraw_hunter (5), mc_equity (5)
+mc_equity checks
+Redraw reveal for 1: WB2 X6h
+redraw_hunter redraws board card 2 and checks
+Turn [5s 5c 2c Qc], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X4s
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+River [5s 5c 2c Qc 3c], redraw_hunter (19), mc_equity (19)
+mc_equity checks
+redraw_hunter bets 26
+mc_equity raises to 52
+redraw_hunter calls
+redraw_hunter shows [Qd 8c]
+mc_equity shows [4d As]
+redraw_hunter awarded 71
+mc_equity awarded -71
+
+Round #271, mc_equity (-9341), redraw_hunter (9341)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [2h 5h]
+redraw_hunter dealt [Th Jc]
+mc_equity calls
+redraw_hunter raises to 6
+mc_equity folds
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #272, redraw_hunter (9343), mc_equity (-9343)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Qh 8d]
+mc_equity dealt [Kc 8h]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Kh 7d Tc], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X8h
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X8d
+redraw_hunter redraws hole card 1 and checks
+Turn [Kh 7d Tc 9s], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+redraw_hunter calls
+River [Kh 7d Tc 9s 2c], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [Qh Th]
+mc_equity shows [Kc 4c]
+redraw_hunter awarded -28
+mc_equity awarded 28
+
+Round #273, mc_equity (-9315), redraw_hunter (9315)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qd 2s]
+redraw_hunter dealt [7h 3d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #274, redraw_hunter (9313), mc_equity (-9313)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [4c 2h]
+mc_equity dealt [9c 8h]
+Redraw reveal for 1: WH1 X2h
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #275, mc_equity (-9312), redraw_hunter (9312)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3d 7h]
+redraw_hunter dealt [9s Jd]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #276, redraw_hunter (9313), mc_equity (-9313)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ad Tc]
+mc_equity dealt [Td 2h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #277, mc_equity (-9315), redraw_hunter (9315)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [6h Qs]
+redraw_hunter dealt [3s 6d]
+mc_equity raises to 5
+redraw_hunter folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #278, redraw_hunter (9313), mc_equity (-9313)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6c Js]
+mc_equity dealt [Ah 4s]
+redraw_hunter raises to 5
+mc_equity raises to 17
+redraw_hunter calls
+Flop [Jh 2h 3c], redraw_hunter (17), mc_equity (17)
+Redraw reveal for 0: WH1 X4s
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 23
+mc_equity raises to 46
+redraw_hunter calls
+Turn [Jh 2h 3c Qs], redraw_hunter (63), mc_equity (63)
+mc_equity bets 63
+Redraw reveal for 1: WB3 XQs
+redraw_hunter redraws board card 3 and calls
+River [Jh 2h 3c Ac 9d], redraw_hunter (126), mc_equity (126)
+mc_equity bets 176
+redraw_hunter calls
+redraw_hunter shows [6c Js]
+mc_equity shows [Ah 3s]
+redraw_hunter awarded -302
+mc_equity awarded 302
+
+Round #279, mc_equity (-9011), redraw_hunter (9011)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Kd Ad]
+redraw_hunter dealt [3d 8s]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X3d
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #280, redraw_hunter (9009), mc_equity (-9009)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [8c 6c]
+mc_equity dealt [8s Ts]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Th Tc 5d], redraw_hunter (5), mc_equity (5)
+mc_equity bets 7
+Redraw reveal for 1: WB2 X5d
+redraw_hunter redraws board card 2 and calls
+Turn [Th Tc Qd 9d], redraw_hunter (12), mc_equity (12)
+Redraw reveal for 0: WB2 XQd
+mc_equity redraws board card 2 and checks
+redraw_hunter checks
+River [Th Tc Js 9d 6h], redraw_hunter (12), mc_equity (12)
+mc_equity bets 16
+redraw_hunter calls
+redraw_hunter shows [8c 6c]
+mc_equity shows [8s Ts]
+redraw_hunter awarded -28
+mc_equity awarded 28
+
+Round #281, mc_equity (-8981), redraw_hunter (8981)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8h 6h]
+redraw_hunter dealt [Tc Td]
+mc_equity calls
+redraw_hunter raises to 6
+mc_equity folds
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #282, redraw_hunter (8983), mc_equity (-8983)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Td Jd]
+mc_equity dealt [Ah 4h]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [7c 7s 2h], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X4h
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH0 XTd
+redraw_hunter redraws hole card 0 and checks
+Turn [7c 7s 2h 3c], redraw_hunter (5), mc_equity (5)
+mc_equity bets 5
+redraw_hunter calls
+River [7c 7s 2h 3c 4c], redraw_hunter (10), mc_equity (10)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [9s Jd]
+mc_equity shows [Ah Js]
+redraw_hunter awarded -10
+mc_equity awarded 10
+
+Round #283, mc_equity (-8973), redraw_hunter (8973)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Jh Js]
+redraw_hunter dealt [Th 9d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [5s 6s Kc], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 XTh
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WB1 X6s
+mc_equity redraws board card 1 and checks
+Turn [5s 7c Kc 3h], mc_equity (5), redraw_hunter (5)
+redraw_hunter checks
+mc_equity bets 7
+redraw_hunter calls
+River [5s 7c Kc 3h Ks], mc_equity (12), redraw_hunter (12)
+redraw_hunter bets 9
+mc_equity raises to 23
+redraw_hunter calls
+mc_equity shows [Jh Js]
+redraw_hunter shows [Ac 9d]
+mc_equity awarded 35
+redraw_hunter awarded -35
+
+Round #284, redraw_hunter (8938), mc_equity (-8938)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Jc 9c]
+mc_equity dealt [8c Ac]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [9h 7s 7c], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X7s
+mc_equity redraws board card 1 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [9h Ks 7c 2d], redraw_hunter (19), mc_equity (19)
+mc_equity checks
+redraw_hunter bets 26
+mc_equity raises to 52
+Redraw reveal for 1: WB1 XKs
+redraw_hunter redraws board card 1 and calls
+River [9h Th 7c 2d 9s], redraw_hunter (71), mc_equity (71)
+mc_equity checks
+redraw_hunter bets 99
+mc_equity raises to 198
+redraw_hunter raises to 329
+mc_equity calls
+redraw_hunter shows [Jc 9c]
+mc_equity shows [8c Ac]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #285, mc_equity (-9338), redraw_hunter (9338)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3h 9h]
+redraw_hunter dealt [Jc 9d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [Th 4d Jd], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH0 X3h
+mc_equity redraws hole card 0 and calls
+Turn [Th 4d Jd 6h], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WH1 X9d
+redraw_hunter redraws hole card 1 and bets 15
+mc_equity calls
+River [Th 4d Jd 6h Js], mc_equity (26), redraw_hunter (26)
+redraw_hunter bets 36
+mc_equity calls
+mc_equity shows [2s 9h]
+redraw_hunter shows [Jc 6c]
+mc_equity awarded -62
+redraw_hunter awarded 62
+
+Round #286, redraw_hunter (9400), mc_equity (-9400)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5d 2d]
+mc_equity dealt [2c 3s]
+redraw_hunter calls
+mc_equity checks
+Flop [As Js Jd], redraw_hunter (2), mc_equity (2)
+Redraw reveal for 0: WH1 X3s
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X2d
+redraw_hunter redraws hole card 1 and checks
+Turn [As Js Jd 6h], redraw_hunter (2), mc_equity (2)
+mc_equity checks
+redraw_hunter checks
+River [As Js Jd 6h 4d], redraw_hunter (2), mc_equity (2)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [5d 9s]
+mc_equity shows [2c Ks]
+redraw_hunter awarded -2
+mc_equity awarded 2
+
+Round #287, mc_equity (-9398), redraw_hunter (9398)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qc 4s]
+redraw_hunter dealt [3h 9s]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X3h
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #288, redraw_hunter (9396), mc_equity (-9396)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [5c 5d]
+mc_equity dealt [6d 9s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [2d Qc 7c], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X9s
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+Turn [2d Qc 7c 6s], redraw_hunter (15), mc_equity (15)
+mc_equity bets 21
+Redraw reveal for 1: WB3 X6s
+redraw_hunter redraws board card 3 and calls
+River [2d Qc 7c 8h Jc], redraw_hunter (36), mc_equity (36)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [5c 5d]
+mc_equity shows [6d Kd]
+redraw_hunter awarded 36
+mc_equity awarded -36
+
+Round #289, mc_equity (-9432), redraw_hunter (9432)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [9s 2s]
+redraw_hunter dealt [6d 8d]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [7d 8h Ac], mc_equity (5), redraw_hunter (5)
+Redraw reveal for 0: WB2 XAc
+redraw_hunter redraws board card 2 and bets 6
+Redraw reveal for 1: WH1 X2s
+mc_equity redraws hole card 1 and calls
+Turn [7d 8h Ah Ks], mc_equity (11), redraw_hunter (11)
+redraw_hunter bets 12
+mc_equity calls
+River [7d 8h Ah Ks 4d], mc_equity (23), redraw_hunter (23)
+redraw_hunter bets 32
+mc_equity calls
+mc_equity shows [9s 2h]
+redraw_hunter shows [6d 8d]
+mc_equity awarded -55
+redraw_hunter awarded 55
+
+Round #290, redraw_hunter (9487), mc_equity (-9487)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [3s 7c]
+mc_equity dealt [Th 2c]
+Redraw reveal for 1: WH0 X3s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+mc_equity awarded 1
+
+Round #291, mc_equity (-9486), redraw_hunter (9486)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [4h 6d]
+redraw_hunter dealt [Ad Kh]
+mc_equity folds
+mc_equity awarded -1
+redraw_hunter awarded 1
+
+Round #292, redraw_hunter (9487), mc_equity (-9487)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ad As]
+mc_equity dealt [6d 4h]
+redraw_hunter raises to 5
+mc_equity folds
+redraw_hunter awarded 2
+mc_equity awarded -2
+
+Round #293, mc_equity (-9489), redraw_hunter (9489)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [8c 2h]
+redraw_hunter dealt [5d Th]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X5d
+redraw_hunter redraws hole card 0 and folds
+mc_equity awarded 2
+redraw_hunter awarded -2
+
+Round #294, redraw_hunter (9487), mc_equity (-9487)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [6h 4d]
+mc_equity dealt [Qc 8s]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6c 5c Ad], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH1 X8s
+mc_equity redraws hole card 1 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter calls
+Turn [6c 5c Ad Js], redraw_hunter (19), mc_equity (19)
+mc_equity checks
+Redraw reveal for 1: WH1 X4d
+redraw_hunter redraws hole card 1 and bets 26
+mc_equity raises to 52
+redraw_hunter calls
+River [6c 5c Ad Js 6s], redraw_hunter (71), mc_equity (71)
+mc_equity checks
+redraw_hunter bets 99
+mc_equity raises to 198
+redraw_hunter raises to 329
+mc_equity calls
+redraw_hunter shows [6h Kd]
+mc_equity shows [Qc 5h]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #295, mc_equity (-9887), redraw_hunter (9887)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [7s Ad]
+redraw_hunter dealt [As Kd]
+mc_equity raises to 5
+redraw_hunter raises to 19
+mc_equity raises to 400
+redraw_hunter calls
+mc_equity shows [7s Ad]
+redraw_hunter shows [As Kd]
+mc_equity awarded 400
+redraw_hunter awarded -400
+
+Round #296, redraw_hunter (9487), mc_equity (-9487)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Jd 2d]
+mc_equity dealt [9d 6h]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [Td 2s 6d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB1 X2s
+mc_equity redraws board card 1 and checks
+redraw_hunter bets 5
+mc_equity raises to 10
+redraw_hunter calls
+Turn [Td 7c 6d 7s], redraw_hunter (15), mc_equity (15)
+mc_equity bets 15
+Redraw reveal for 1: WB1 X7c
+redraw_hunter redraws board card 1 and calls
+River [Td 5h 6d 7s Qc], redraw_hunter (30), mc_equity (30)
+mc_equity checks
+redraw_hunter checks
+redraw_hunter shows [Jd 2d]
+mc_equity shows [9d 6h]
+redraw_hunter awarded -30
+mc_equity awarded 30
+
+Round #297, mc_equity (-9457), redraw_hunter (9457)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [Qd 5s]
+redraw_hunter dealt [Td Js]
+mc_equity raises to 5
+redraw_hunter calls
+Flop [2d Jd Ks], mc_equity (5), redraw_hunter (5)
+redraw_hunter bets 6
+Redraw reveal for 1: WH1 X5s
+mc_equity redraws hole card 1 and calls
+Turn [2d Jd Ks 4c], mc_equity (11), redraw_hunter (11)
+Redraw reveal for 0: WB2 XKs
+redraw_hunter redraws board card 2 and bets 15
+mc_equity raises to 30
+redraw_hunter raises to 68
+mc_equity raises to 114
+redraw_hunter calls
+River [2d Jd Ac 4c Ts], mc_equity (125), redraw_hunter (125)
+redraw_hunter bets 175
+mc_equity raises to 275
+redraw_hunter calls
+mc_equity shows [Qd 3h]
+redraw_hunter shows [Td Js]
+mc_equity awarded -400
+redraw_hunter awarded 400
+
+Round #298, redraw_hunter (9857), mc_equity (-9857)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Ks Kd]
+mc_equity dealt [Kh 4c]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [9d Qd 2d], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WB0 X9d
+mc_equity redraws board card 0 and checks
+redraw_hunter bets 6
+mc_equity raises to 12
+redraw_hunter raises to 28
+mc_equity raises to 47
+redraw_hunter raises to 96
+mc_equity raises to 154
+redraw_hunter raises to 304
+mc_equity calls
+Turn [8s Qd 2d Qs], redraw_hunter (309), mc_equity (309)
+mc_equity checks
+redraw_hunter bets 91
+mc_equity calls
+redraw_hunter shows [Ks Kd]
+mc_equity shows [Kh 4c]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Round #299, mc_equity (-10257), redraw_hunter (10257)
+mc_equity posts blind 1
+redraw_hunter posts blind 2
+mc_equity dealt [3d 9s]
+redraw_hunter dealt [Ad Th]
+mc_equity calls
+redraw_hunter raises to 6
+mc_equity folds
+mc_equity awarded -2
+redraw_hunter awarded 2
+
+Round #300, redraw_hunter (10259), mc_equity (-10259)
+redraw_hunter posts blind 1
+mc_equity posts blind 2
+redraw_hunter dealt [Jc Kd]
+mc_equity dealt [2c Ac]
+redraw_hunter raises to 5
+mc_equity calls
+Flop [6c Ks Qs], redraw_hunter (5), mc_equity (5)
+Redraw reveal for 0: WH0 X2c
+mc_equity redraws hole card 0 and checks
+redraw_hunter bets 7
+mc_equity raises to 14
+redraw_hunter raises to 31
+mc_equity raises to 52
+redraw_hunter raises to 105
+mc_equity raises to 168
+redraw_hunter calls
+Turn [6c Ks Qs 2s], redraw_hunter (173), mc_equity (173)
+mc_equity checks
+Redraw reveal for 1: WB2 XQs
+redraw_hunter redraws board card 2 and bets 227
+mc_equity calls
+redraw_hunter shows [Jc Kd]
+mc_equity shows [5s Ac]
+redraw_hunter awarded 400
+mc_equity awarded -400
+
+Final, mc_equity (-10659), redraw_hunter (10659)

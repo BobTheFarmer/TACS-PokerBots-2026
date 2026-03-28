@@ -29,23 +29,30 @@ ALL_CARDS = [r + s for r in RANKS for s in SUITS]
 
 # ── Monte Carlo equity ────────────────────────────────────────────────────────
 
+def _known_cards(*groups):
+    cards = []
+    for group in groups:
+        for card in group:
+            if card and card != '??':
+                cards.append(card)
+    return cards
+
+
 def mc_equity(my_cards, board, excluded_extra=None, n_sims=300):
     """
     Estimate win probability via Monte Carlo vs a random opponent range.
     Completes the board to 5 cards and evaluates with pkrbot.
-    '??' hole cards (post-redraw unknowns) are sampled randomly each sim.
+    Any '??' placeholders are sampled randomly each sim.
     Returns a value in [0, 1] (ties count as 0.5).
     """
-    known_mine = [c for c in my_cards if c and c != '??']
-    n_unknown_mine = len(my_cards) - len(known_mine)
-
-    excluded = set(known_mine) | set(board)
+    excluded = set(_known_cards(my_cards, board))
     if excluded_extra:
         excluded |= {c for c in excluded_extra if c and c != '??'}
 
     avail = [c for c in ALL_CARDS if c not in excluded]
-    # need: unknown hole cards + opp 2 hole cards + board completion
-    n_need = n_unknown_mine + 2 + (5 - len(board))
+    my_unknown = sum(1 for c in my_cards if c == '??')
+    board_unknown = sum(1 for c in board if c == '??')
+    n_need = my_unknown + board_unknown + 2 + (5 - len(board))
 
     if n_need > len(avail):
         return 0.5
@@ -53,13 +60,26 @@ def mc_equity(my_cards, board, excluded_extra=None, n_sims=300):
     wins = 0.0
     for _ in range(n_sims):
         idx = np.random.choice(len(avail), n_need, replace=False)
-        i = 0
-        # Fill in any unknown hole cards
-        my_full = list(known_mine)
-        for _ in range(n_unknown_mine):
-            my_full.append(avail[idx[i]]); i += 1
-        opp = [avail[idx[i]], avail[idx[i + 1]]]; i += 2
-        full_board = board + [avail[idx[i + j]] for j in range(5 - len(board))]
+        cursor = 0
+
+        my_full = list(my_cards)
+        for i, card in enumerate(my_full):
+            if card == '??':
+                my_full[i] = avail[idx[cursor]]
+                cursor += 1
+
+        full_board = list(board)
+        for i, card in enumerate(full_board):
+            if card == '??':
+                full_board[i] = avail[idx[cursor]]
+                cursor += 1
+
+        opp = [avail[idx[cursor]], avail[idx[cursor + 1]]]
+        cursor += 2
+
+        for _ in range(5 - len(board)):
+            full_board.append(avail[idx[cursor]])
+            cursor += 1
 
         my_score  = pkrbot.evaluate(my_full + full_board)
         opp_score = pkrbot.evaluate(opp + full_board)
@@ -79,65 +99,23 @@ def mc_redraw_equity(my_cards, board, target_type, target_index,
     Old card is excluded from sampling (it's revealed / dead).
     """
     if target_type == 'hole':
-        old_card  = my_cards[target_index]
-        my_other  = my_cards[1 - target_index]
-        excluded  = {my_other, old_card} | set(board)
+        candidate_my_cards = list(my_cards)
+        old_card = candidate_my_cards[target_index]
+        if old_card != '??':
+            candidate_my_cards[target_index] = '??'
+        extra = [old_card]
         if excluded_extra:
-            excluded |= {c for c in excluded_extra if c and c != '??'}
+            extra.extend(excluded_extra)
+        return mc_equity(candidate_my_cards, board, excluded_extra=extra, n_sims=n_sims)
 
-        avail  = [c for c in ALL_CARDS if c not in excluded]
-        n_need = 1 + 2 + (5 - len(board))   # new_hole + opp_hole + board
-
-        if n_need > len(avail):
-            return 0.5
-
-        wins = 0.0
-        for _ in range(n_sims):
-            idx = np.random.choice(len(avail), n_need, replace=False)
-            new_hole   = avail[idx[0]]
-            opp        = [avail[idx[1]], avail[idx[2]]]
-            full_board = board + [avail[idx[i]] for i in range(3, n_need)]
-
-            my_score  = pkrbot.evaluate([new_hole, my_other] + full_board)
-            opp_score = pkrbot.evaluate(opp + full_board)
-
-            if my_score > opp_score:
-                wins += 1.0
-            elif my_score == opp_score:
-                wins += 0.5
-
-        return wins / n_sims
-
-    else:  # board card swap
-        old_card       = board[target_index]
-        trimmed_board  = [c for i, c in enumerate(board) if i != target_index]
-        excluded       = set(my_cards) | set(trimmed_board) | {old_card}
-        if excluded_extra:
-            excluded |= {c for c in excluded_extra if c and c != '??'}
-
-        avail  = [c for c in ALL_CARDS if c not in excluded]
-        # after swap the board still has len(board) cards; still need 5 - len(board) more
-        n_need = 1 + 2 + (5 - len(board))
-
-        if n_need > len(avail):
-            return 0.5
-
-        wins = 0.0
-        for _ in range(n_sims):
-            idx           = np.random.choice(len(avail), n_need, replace=False)
-            new_bc        = avail[idx[0]]
-            opp           = [avail[idx[1]], avail[idx[2]]]
-            full_board    = trimmed_board + [new_bc] + [avail[idx[i]] for i in range(3, n_need)]
-
-            my_score  = pkrbot.evaluate(my_cards + full_board)
-            opp_score = pkrbot.evaluate(opp + full_board)
-
-            if my_score > opp_score:
-                wins += 1.0
-            elif my_score == opp_score:
-                wins += 0.5
-
-        return wins / n_sims
+    candidate_board = list(board)
+    old_card = candidate_board[target_index]
+    if old_card != '??':
+        candidate_board[target_index] = '??'
+    extra = [old_card]
+    if excluded_extra:
+        extra.extend(excluded_extra)
+    return mc_equity(my_cards, candidate_board, excluded_extra=extra, n_sims=n_sims)
 
 
 # ── Enhanced runner (captures opponent's revealed redraw card) ────────────────
