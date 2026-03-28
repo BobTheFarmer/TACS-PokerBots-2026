@@ -1,0 +1,1138 @@
+TACS Pokerbots - gto_balanced vs redraw_hunter
+
+Round #1, gto_balanced (0), redraw_hunter (0)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Ts 5c]
+redraw_hunter dealt [3d 2d]
+Redraw reveal for 1: WH1 X5c
+gto_balanced redraws hole card 1 and raises to 5
+redraw_hunter folds
+gto_balanced awarded 2
+redraw_hunter awarded -2
+
+Round #2, redraw_hunter (-2), gto_balanced (2)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Kd Tc]
+gto_balanced dealt [2s 8h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X2s
+gto_balanced redraws hole card 0 and calls
+Flop [2h 4s Th], redraw_hunter (5), gto_balanced (5)
+gto_balanced checks
+redraw_hunter bets 7
+gto_balanced calls
+Turn [2h 4s Th Kc], redraw_hunter (12), gto_balanced (12)
+gto_balanced checks
+redraw_hunter bets 16
+gto_balanced folds
+redraw_hunter awarded 12
+gto_balanced awarded -12
+
+Round #3, gto_balanced (-10), redraw_hunter (10)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7s 5h]
+redraw_hunter dealt [As 2s]
+Redraw reveal for 1: WH1 X5h
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #4, redraw_hunter (11), gto_balanced (-11)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ad 4s]
+gto_balanced dealt [7d 6h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X6h
+gto_balanced redraws hole card 1 and folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #5, gto_balanced (-13), redraw_hunter (13)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [3h 9d]
+redraw_hunter dealt [Th 7d]
+Redraw reveal for 1: WH0 X3h
+gto_balanced redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [2h Kc Jc], gto_balanced (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X7d
+redraw_hunter redraws hole card 1 and checks
+gto_balanced checks
+Turn [2h Kc Jc Ks], gto_balanced (5), redraw_hunter (5)
+redraw_hunter checks
+gto_balanced checks
+River [2h Kc Jc Ks Kh], gto_balanced (5), redraw_hunter (5)
+redraw_hunter checks
+gto_balanced checks
+gto_balanced shows [4c 9d]
+redraw_hunter shows [Th Ad]
+gto_balanced awarded -5
+redraw_hunter awarded 5
+
+Round #6, redraw_hunter (18), gto_balanced (-18)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qh 2h]
+gto_balanced dealt [3s 5c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5c
+gto_balanced redraws hole card 1 and folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #7, gto_balanced (-20), redraw_hunter (20)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7h 2d]
+redraw_hunter dealt [Qh 9d]
+Redraw reveal for 1: WH0 X7h
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #8, redraw_hunter (21), gto_balanced (-21)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [9d Jh]
+gto_balanced dealt [Th 7s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 XTh
+gto_balanced redraws hole card 0 and calls
+Flop [3d 5s 5c], redraw_hunter (5), gto_balanced (5)
+gto_balanced bets 4
+Redraw reveal for 1: WH0 X9d
+redraw_hunter redraws hole card 0 and calls
+Turn [3d 5s 5c 5d], redraw_hunter (9), gto_balanced (9)
+gto_balanced checks
+redraw_hunter checks
+River [3d 5s 5c 5d 9h], redraw_hunter (9), gto_balanced (9)
+gto_balanced checks
+redraw_hunter checks
+redraw_hunter shows [7h Jh]
+gto_balanced shows [2h 7s]
+redraw_hunter awarded 9
+gto_balanced awarded -9
+
+Round #9, gto_balanced (-30), redraw_hunter (30)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [4s 5h]
+redraw_hunter dealt [Ah 9c]
+Redraw reveal for 1: WH0 X4s
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #10, redraw_hunter (31), gto_balanced (-31)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ad 9d]
+gto_balanced dealt [8h Ks]
+redraw_hunter raises to 5
+gto_balanced calls
+Flop [5h 4h 7c], redraw_hunter (5), gto_balanced (5)
+Redraw reveal for 0: WH1 XKs
+gto_balanced redraws hole card 1 and bets 4
+Redraw reveal for 1: WB0 X5h
+redraw_hunter redraws board card 0 and calls
+Turn [2s 4h 7c 3d], redraw_hunter (9), gto_balanced (9)
+gto_balanced bets 9
+redraw_hunter calls
+River [2s 4h 7c 3d Td], redraw_hunter (18), gto_balanced (18)
+gto_balanced checks
+redraw_hunter checks
+redraw_hunter shows [Ad 9d]
+gto_balanced shows [8h 9h]
+redraw_hunter awarded 18
+gto_balanced awarded -18
+
+Round #11, gto_balanced (-49), redraw_hunter (49)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7d 7s]
+redraw_hunter dealt [6c Qd]
+gto_balanced raises to 5
+redraw_hunter calls
+Flop [4h 3d 2c], gto_balanced (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 XQd
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB0 X4h
+gto_balanced redraws board card 0 and bets 7
+redraw_hunter calls
+Turn [Jd 3d 2c 6s], gto_balanced (12), redraw_hunter (12)
+redraw_hunter bets 16
+gto_balanced calls
+River [Jd 3d 2c 6s As], gto_balanced (28), redraw_hunter (28)
+redraw_hunter bets 39
+gto_balanced calls
+gto_balanced shows [7d 7s]
+redraw_hunter shows [6c 9c]
+gto_balanced awarded 67
+redraw_hunter awarded -67
+
+Round #12, redraw_hunter (-18), gto_balanced (18)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [4c Qh]
+gto_balanced dealt [3d 2c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2c
+gto_balanced redraws hole card 1 and calls
+Flop [6h 9h 4s], redraw_hunter (5), gto_balanced (5)
+gto_balanced checks
+redraw_hunter bets 7
+gto_balanced calls
+Turn [6h 9h 4s 4h], redraw_hunter (12), gto_balanced (12)
+gto_balanced checks
+redraw_hunter bets 16
+gto_balanced folds
+redraw_hunter awarded 12
+gto_balanced awarded -12
+
+Round #13, gto_balanced (6), redraw_hunter (-6)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [6s Ac]
+redraw_hunter dealt [Qc 4d]
+Redraw reveal for 1: WH0 X6s
+gto_balanced redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [4h 7d 2c], gto_balanced (5), redraw_hunter (5)
+redraw_hunter bets 7
+gto_balanced calls
+Turn [4h 7d 2c Ad], gto_balanced (12), redraw_hunter (12)
+Redraw reveal for 0: WH0 XQc
+redraw_hunter redraws hole card 0 and bets 13
+gto_balanced raises to 32
+redraw_hunter calls
+River [4h 7d 2c Ad 4s], gto_balanced (44), redraw_hunter (44)
+redraw_hunter bets 61
+gto_balanced calls
+gto_balanced shows [Ts Ac]
+redraw_hunter shows [6c 4d]
+gto_balanced awarded -105
+redraw_hunter awarded 105
+
+Round #14, redraw_hunter (99), gto_balanced (-99)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [2s 7d]
+gto_balanced dealt [8c Qc]
+redraw_hunter calls
+Redraw reveal for 0: WH0 X8c
+gto_balanced redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -2
+gto_balanced awarded 2
+
+Round #15, gto_balanced (-97), redraw_hunter (97)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [5h 4s]
+redraw_hunter dealt [5c 6d]
+Redraw reveal for 1: WH0 X5h
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #16, redraw_hunter (98), gto_balanced (-98)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [5c 5h]
+gto_balanced dealt [8c Ts]
+redraw_hunter raises to 5
+gto_balanced calls
+Flop [2c 9c Qh], redraw_hunter (5), gto_balanced (5)
+Redraw reveal for 0: WB0 X2c
+gto_balanced redraws board card 0 and checks
+redraw_hunter checks
+Turn [Qc 9c Qh As], redraw_hunter (5), gto_balanced (5)
+gto_balanced bets 4
+Redraw reveal for 1: WB1 X9c
+redraw_hunter redraws board card 1 and calls
+River [Qc 3c Qh As Th], redraw_hunter (9), gto_balanced (9)
+gto_balanced bets 14
+redraw_hunter calls
+redraw_hunter shows [5c 5h]
+gto_balanced shows [8c Ts]
+redraw_hunter awarded -23
+gto_balanced awarded 23
+
+Round #17, gto_balanced (-75), redraw_hunter (75)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7d Jh]
+redraw_hunter dealt [2s As]
+Redraw reveal for 1: WH0 X7d
+gto_balanced redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [3s 4h 5d], gto_balanced (5), redraw_hunter (5)
+redraw_hunter bets 7
+gto_balanced calls
+Turn [3s 4h 5d Jc], gto_balanced (12), redraw_hunter (12)
+redraw_hunter bets 16
+gto_balanced raises to 35
+redraw_hunter raises to 76
+gto_balanced raises to 137
+redraw_hunter raises to 265
+gto_balanced raises to 388
+redraw_hunter calls
+gto_balanced shows [6h Jh]
+redraw_hunter shows [2s As]
+gto_balanced awarded -400
+redraw_hunter awarded 400
+
+Round #18, redraw_hunter (475), gto_balanced (-475)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qc 4c]
+gto_balanced dealt [Jc Th]
+redraw_hunter raises to 5
+gto_balanced calls
+Flop [8s 3c Tc], redraw_hunter (5), gto_balanced (5)
+gto_balanced bets 7
+redraw_hunter calls
+Turn [8s 3c Tc 5c], redraw_hunter (12), gto_balanced (12)
+Redraw reveal for 0: WB0 X8s
+gto_balanced redraws board card 0 and bets 16
+redraw_hunter raises to 32
+gto_balanced response misformatted: 
+gto_balanced folds
+redraw_hunter awarded 28
+gto_balanced awarded -28
+gto_balanced response misformatted: 
+
+Round #19, gto_balanced (-503), redraw_hunter (503)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Tc 5d]
+redraw_hunter dealt [6d 9d]
+gto_balanced disconnected
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #20, redraw_hunter (504), gto_balanced (-504)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qd Ks]
+gto_balanced dealt [2h 4d]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #21, gto_balanced (-506), redraw_hunter (506)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Jd Td]
+redraw_hunter dealt [3s 4s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #22, redraw_hunter (507), gto_balanced (-507)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qh 8s]
+gto_balanced dealt [3s 6c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #23, gto_balanced (-509), redraw_hunter (509)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Ts Jc]
+redraw_hunter dealt [5c Kh]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #24, redraw_hunter (510), gto_balanced (-510)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3s Qh]
+gto_balanced dealt [3c 7d]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #25, gto_balanced (-512), redraw_hunter (512)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [9h Td]
+redraw_hunter dealt [8s Ac]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #26, redraw_hunter (513), gto_balanced (-513)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Td 6s]
+gto_balanced dealt [3c 6c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #27, gto_balanced (-515), redraw_hunter (515)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Qh As]
+redraw_hunter dealt [3h 9h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #28, redraw_hunter (516), gto_balanced (-516)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [9c 7h]
+gto_balanced dealt [7s Jc]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #29, gto_balanced (-518), redraw_hunter (518)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Qh Js]
+redraw_hunter dealt [6d 4c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #30, redraw_hunter (519), gto_balanced (-519)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qs Jh]
+gto_balanced dealt [9s 9h]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #31, gto_balanced (-521), redraw_hunter (521)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7h Jh]
+redraw_hunter dealt [Js 2s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #32, redraw_hunter (522), gto_balanced (-522)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [2s Th]
+gto_balanced dealt [2c 4s]
+Redraw reveal for 1: WH0 X2s
+redraw_hunter redraws hole card 0 and calls
+gto_balanced checks
+Flop [7c 7h 3h], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter checks
+Turn [7c 7h 3h 9d], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter checks
+River [7c 7h 3h 9d Jc], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter checks
+redraw_hunter shows [5c Th]
+gto_balanced shows [2c 4s]
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #33, gto_balanced (-524), redraw_hunter (524)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Tc Qd]
+redraw_hunter dealt [7c Jd]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #34, redraw_hunter (525), gto_balanced (-525)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [2s 7c]
+gto_balanced dealt [8s 4s]
+Redraw reveal for 1: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+gto_balanced awarded 1
+
+Round #35, gto_balanced (-524), redraw_hunter (524)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Js 8s]
+redraw_hunter dealt [Kc 6s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #36, redraw_hunter (525), gto_balanced (-525)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [4h 7c]
+gto_balanced dealt [Tc 6c]
+redraw_hunter calls
+gto_balanced checks
+Flop [Js 3d Ac], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+Redraw reveal for 1: WH0 X4h
+redraw_hunter redraws hole card 0 and checks
+Turn [Js 3d Ac As], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter checks
+River [Js 3d Ac As Ks], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter bets 2
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #37, gto_balanced (-527), redraw_hunter (527)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [2c 8h]
+redraw_hunter dealt [Qc Ac]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #38, redraw_hunter (528), gto_balanced (-528)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ks Ad]
+gto_balanced dealt [5h 7c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #39, gto_balanced (-530), redraw_hunter (530)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Qc Jc]
+redraw_hunter dealt [3h 4s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #40, redraw_hunter (531), gto_balanced (-531)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [4h Th]
+gto_balanced dealt [Kc 5c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #41, gto_balanced (-533), redraw_hunter (533)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [4d 7c]
+redraw_hunter dealt [2c Jd]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #42, redraw_hunter (534), gto_balanced (-534)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [4h Qd]
+gto_balanced dealt [As 6s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #43, gto_balanced (-536), redraw_hunter (536)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [2d Jh]
+redraw_hunter dealt [2c 6c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #44, redraw_hunter (537), gto_balanced (-537)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [5s Qd]
+gto_balanced dealt [6s 3s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #45, gto_balanced (-539), redraw_hunter (539)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [2h 3d]
+redraw_hunter dealt [9c 4s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #46, redraw_hunter (540), gto_balanced (-540)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [6d Js]
+gto_balanced dealt [4s 8d]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #47, gto_balanced (-542), redraw_hunter (542)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Qc 7h]
+redraw_hunter dealt [3d 9h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #48, redraw_hunter (543), gto_balanced (-543)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [5d 7d]
+gto_balanced dealt [7c 8c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #49, gto_balanced (-545), redraw_hunter (545)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Jc Tc]
+redraw_hunter dealt [4s 2h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #50, redraw_hunter (546), gto_balanced (-546)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qh Kh]
+gto_balanced dealt [7d 9c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #51, gto_balanced (-548), redraw_hunter (548)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [4c 2d]
+redraw_hunter dealt [4d Jd]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #52, redraw_hunter (549), gto_balanced (-549)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [6c 4h]
+gto_balanced dealt [5s Js]
+redraw_hunter calls
+gto_balanced checks
+Flop [5c 9h 5h], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+Redraw reveal for 1: WH0 X6c
+redraw_hunter redraws hole card 0 and checks
+Turn [5c 9h 5h 2h], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter bets 2
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #53, gto_balanced (-551), redraw_hunter (551)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Th Tc]
+redraw_hunter dealt [Qc 7s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #54, redraw_hunter (552), gto_balanced (-552)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ah 8s]
+gto_balanced dealt [Jh 5h]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #55, gto_balanced (-554), redraw_hunter (554)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [8s 6c]
+redraw_hunter dealt [Td Kh]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #56, redraw_hunter (555), gto_balanced (-555)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qc Kc]
+gto_balanced dealt [As 6s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #57, gto_balanced (-557), redraw_hunter (557)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Kh 8d]
+redraw_hunter dealt [2s Ad]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #58, redraw_hunter (558), gto_balanced (-558)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qd Kh]
+gto_balanced dealt [7c 6h]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #59, gto_balanced (-560), redraw_hunter (560)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [8d Js]
+redraw_hunter dealt [6s Ac]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #60, redraw_hunter (561), gto_balanced (-561)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3d Js]
+gto_balanced dealt [6h 2s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #61, gto_balanced (-563), redraw_hunter (563)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [8d Th]
+redraw_hunter dealt [8h 7h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #62, redraw_hunter (564), gto_balanced (-564)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ah 5h]
+gto_balanced dealt [6c 4s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #63, gto_balanced (-566), redraw_hunter (566)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [8h Tc]
+redraw_hunter dealt [Ts 5c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #64, redraw_hunter (567), gto_balanced (-567)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [8s 5c]
+gto_balanced dealt [4c Js]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #65, gto_balanced (-569), redraw_hunter (569)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [6c 5d]
+redraw_hunter dealt [Ks 8h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #66, redraw_hunter (570), gto_balanced (-570)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3h Ac]
+gto_balanced dealt [Th 4c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #67, gto_balanced (-572), redraw_hunter (572)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Jd Qd]
+redraw_hunter dealt [Jc Jh]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #68, redraw_hunter (573), gto_balanced (-573)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [8c 8h]
+gto_balanced dealt [Js 9s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #69, gto_balanced (-575), redraw_hunter (575)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [9h Td]
+redraw_hunter dealt [4s As]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #70, redraw_hunter (576), gto_balanced (-576)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [2c Ah]
+gto_balanced dealt [2h 7d]
+Redraw reveal for 1: WH0 X2c
+redraw_hunter redraws hole card 0 and raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #71, gto_balanced (-578), redraw_hunter (578)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [6c Jh]
+redraw_hunter dealt [Ad 7s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #72, redraw_hunter (579), gto_balanced (-579)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [4c 6h]
+gto_balanced dealt [9h 6s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #73, gto_balanced (-581), redraw_hunter (581)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [9s 5s]
+redraw_hunter dealt [Jh 9c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #74, redraw_hunter (582), gto_balanced (-582)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3d 7h]
+gto_balanced dealt [6h 4h]
+Redraw reveal for 1: WH0 X3d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+gto_balanced awarded 1
+
+Round #75, gto_balanced (-581), redraw_hunter (581)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [9d Ks]
+redraw_hunter dealt [Td 8c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #76, redraw_hunter (582), gto_balanced (-582)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ad Td]
+gto_balanced dealt [Jc 8s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #77, gto_balanced (-584), redraw_hunter (584)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Kc 5c]
+redraw_hunter dealt [4d 6h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #78, redraw_hunter (585), gto_balanced (-585)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [8s 3s]
+gto_balanced dealt [Qc 5c]
+redraw_hunter calls
+gto_balanced checks
+Flop [5h Jd 6s], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and checks
+Turn [5h Jd 6s Qd], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter checks
+River [5h Jd 6s Qd 7s], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter checks
+redraw_hunter shows [8s Ah]
+gto_balanced shows [Qc 5c]
+redraw_hunter awarded -2
+gto_balanced awarded 2
+
+Round #79, gto_balanced (-583), redraw_hunter (583)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7d 7s]
+redraw_hunter dealt [7h 3h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #80, redraw_hunter (584), gto_balanced (-584)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [As Tc]
+gto_balanced dealt [2c 5s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #81, gto_balanced (-586), redraw_hunter (586)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7s Ah]
+redraw_hunter dealt [9c Qs]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #82, redraw_hunter (587), gto_balanced (-587)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [2s Kd]
+gto_balanced dealt [6h Jc]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #83, gto_balanced (-589), redraw_hunter (589)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7s As]
+redraw_hunter dealt [7d Kc]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #84, redraw_hunter (590), gto_balanced (-590)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [4d 2d]
+gto_balanced dealt [Qh Qs]
+redraw_hunter folds
+redraw_hunter awarded -1
+gto_balanced awarded 1
+
+Round #85, gto_balanced (-589), redraw_hunter (589)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [8h 6d]
+redraw_hunter dealt [2h Ad]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #86, redraw_hunter (590), gto_balanced (-590)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3c 4h]
+gto_balanced dealt [3d 7c]
+redraw_hunter calls
+gto_balanced checks
+Flop [9s 3s 6h], redraw_hunter (2), gto_balanced (2)
+gto_balanced checks
+redraw_hunter bets 2
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #87, gto_balanced (-592), redraw_hunter (592)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [8d Jc]
+redraw_hunter dealt [Jh 3s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #88, redraw_hunter (593), gto_balanced (-593)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Td Ad]
+gto_balanced dealt [4h 4c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #89, gto_balanced (-595), redraw_hunter (595)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [2s 7h]
+redraw_hunter dealt [As 5h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #90, redraw_hunter (596), gto_balanced (-596)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ad 7s]
+gto_balanced dealt [4s 9c]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #91, gto_balanced (-598), redraw_hunter (598)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [9s Ks]
+redraw_hunter dealt [As Ac]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #92, redraw_hunter (599), gto_balanced (-599)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3h Jh]
+gto_balanced dealt [8c 4s]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #93, gto_balanced (-601), redraw_hunter (601)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Ac Th]
+redraw_hunter dealt [9d 4c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #94, redraw_hunter (602), gto_balanced (-602)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Ks 4h]
+gto_balanced dealt [Ad 2h]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #95, gto_balanced (-604), redraw_hunter (604)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [7h Ad]
+redraw_hunter dealt [Jh 9s]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #96, redraw_hunter (605), gto_balanced (-605)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [Qd Ks]
+gto_balanced dealt [9d 6d]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #97, gto_balanced (-607), redraw_hunter (607)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [9s Jh]
+redraw_hunter dealt [5s 6c]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #98, redraw_hunter (608), gto_balanced (-608)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [9s 7d]
+gto_balanced dealt [7c Qs]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Round #99, gto_balanced (-610), redraw_hunter (610)
+gto_balanced posts blind 1
+redraw_hunter posts blind 2
+gto_balanced dealt [Qd Js]
+redraw_hunter dealt [4s 4h]
+gto_balanced folds
+gto_balanced awarded -1
+redraw_hunter awarded 1
+
+Round #100, redraw_hunter (611), gto_balanced (-611)
+redraw_hunter posts blind 1
+gto_balanced posts blind 2
+redraw_hunter dealt [3d 9d]
+gto_balanced dealt [Jc Qh]
+redraw_hunter raises to 5
+gto_balanced folds
+redraw_hunter awarded 2
+gto_balanced awarded -2
+
+Final, gto_balanced (-613), redraw_hunter (613)

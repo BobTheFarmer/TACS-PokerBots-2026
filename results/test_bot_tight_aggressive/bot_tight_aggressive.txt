@@ -1,0 +1,5 @@
+[tight_aggressive] hand=1 outcome=loss delta=-1 bankroll=0
+[tight_aggressive] hand=2 outcome=win delta=2 bankroll=-1
+[tight_aggressive] hand=3 outcome=loss delta=-1 bankroll=1
+[tight_aggressive] hand=4 outcome=win delta=2 bankroll=0
+[tight_aggressive] hand=5 outcome=loss delta=-1 bankroll=2

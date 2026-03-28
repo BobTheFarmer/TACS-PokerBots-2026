@@ -1,0 +1,1003 @@
+TACS Pokerbots - redraw_hunter vs tight_aggro
+
+Round #1, redraw_hunter (0), tight_aggro (0)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qd 3c]
+tight_aggro dealt [3d 7d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X3d
+tight_aggro redraws hole card 0 and folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #2, tight_aggro (-2), redraw_hunter (2)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [7c Kc]
+redraw_hunter dealt [4s 4c]
+tight_aggro raises to 6
+redraw_hunter raises to 24
+tight_aggro folds
+tight_aggro awarded -6
+redraw_hunter awarded 6
+
+Round #3, redraw_hunter (8), tight_aggro (-8)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [8d 2c]
+tight_aggro dealt [4d 5s]
+redraw_hunter calls
+Redraw reveal for 0: WH1 X5s
+tight_aggro redraws hole card 1 and checks
+Flop [Kd Kh Qd], redraw_hunter (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WH1 X2c
+redraw_hunter redraws hole card 1 and checks
+Turn [Kd Kh Qd Td], redraw_hunter (2), tight_aggro (2)
+tight_aggro checks
+redraw_hunter bets 2
+tight_aggro calls
+River [Kd Kh Qd Td 8s], redraw_hunter (4), tight_aggro (4)
+tight_aggro checks
+redraw_hunter bets 5
+tight_aggro calls
+redraw_hunter shows [8d 8c]
+tight_aggro shows [4d Kc]
+redraw_hunter awarded 9
+tight_aggro awarded -9
+
+Round #4, tight_aggro (-17), redraw_hunter (17)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [5d Kc]
+redraw_hunter dealt [2h 3c]
+tight_aggro raises to 6
+Redraw reveal for 0: WH0 X2h
+redraw_hunter redraws hole card 0 and folds
+tight_aggro awarded 2
+redraw_hunter awarded -2
+
+Round #5, redraw_hunter (15), tight_aggro (-15)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Kd Ks]
+tight_aggro dealt [7s 3c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X3c
+tight_aggro redraws hole card 1 and folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #6, tight_aggro (-17), redraw_hunter (17)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Td 7h]
+redraw_hunter dealt [Kd Js]
+Redraw reveal for 1: WH1 X7h
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #7, redraw_hunter (18), tight_aggro (-18)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [5s 5h]
+tight_aggro dealt [Qh 2d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2d
+tight_aggro redraws hole card 1 and folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #8, tight_aggro (-20), redraw_hunter (20)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ac Qh]
+redraw_hunter dealt [Kd Jd]
+tight_aggro raises to 6
+redraw_hunter calls
+Flop [9h 9s 5c], tight_aggro (6), redraw_hunter (6)
+redraw_hunter checks
+tight_aggro checks
+Turn [9h 9s 5c 3h], tight_aggro (6), redraw_hunter (6)
+Redraw reveal for 0: WB3 X3h
+redraw_hunter redraws board card 3 and checks
+tight_aggro response misformatted: 
+tight_aggro checks
+River [9h 9s 5c 4s Ad], tight_aggro (6), redraw_hunter (6)
+redraw_hunter checks
+tight_aggro response misformatted: 
+tight_aggro checks
+tight_aggro shows [Ac Qh]
+redraw_hunter shows [Kd Jd]
+tight_aggro awarded 6
+redraw_hunter awarded -6
+tight_aggro disconnected
+
+Round #9, redraw_hunter (14), tight_aggro (-14)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qc 8s]
+tight_aggro dealt [Th 7h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #10, tight_aggro (-16), redraw_hunter (16)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ac 6d]
+redraw_hunter dealt [Js 4c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #11, redraw_hunter (17), tight_aggro (-17)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [4h 3c]
+tight_aggro dealt [Ks Jd]
+redraw_hunter folds
+redraw_hunter awarded -1
+tight_aggro awarded 1
+
+Round #12, tight_aggro (-16), redraw_hunter (16)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9s Ks]
+redraw_hunter dealt [Qd 4s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #13, redraw_hunter (17), tight_aggro (-17)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [8s Ks]
+tight_aggro dealt [8h 4s]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #14, tight_aggro (-19), redraw_hunter (19)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [As Ac]
+redraw_hunter dealt [Ad 3d]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #15, redraw_hunter (20), tight_aggro (-20)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [5h Qh]
+tight_aggro dealt [Jc 3h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #16, tight_aggro (-22), redraw_hunter (22)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ac As]
+redraw_hunter dealt [Jh 8c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #17, redraw_hunter (23), tight_aggro (-23)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [5d 7d]
+tight_aggro dealt [5h Jd]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #18, tight_aggro (-25), redraw_hunter (25)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [2c Jc]
+redraw_hunter dealt [3d Tc]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #19, redraw_hunter (26), tight_aggro (-26)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Kh Ts]
+tight_aggro dealt [9c Qc]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #20, tight_aggro (-28), redraw_hunter (28)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ah 4s]
+redraw_hunter dealt [Ks 4c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #21, redraw_hunter (29), tight_aggro (-29)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Kd Ts]
+tight_aggro dealt [7h 3c]
+Redraw reveal for 1: WH1 XTs
+redraw_hunter redraws hole card 1 and raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #22, tight_aggro (-31), redraw_hunter (31)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ks Ad]
+redraw_hunter dealt [Jc 8s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #23, redraw_hunter (32), tight_aggro (-32)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [9s 8c]
+tight_aggro dealt [Kc 2d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #24, tight_aggro (-34), redraw_hunter (34)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Jc Ks]
+redraw_hunter dealt [8d As]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #25, redraw_hunter (35), tight_aggro (-35)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Ts 8s]
+tight_aggro dealt [Qs 4c]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #26, tight_aggro (-37), redraw_hunter (37)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ac Ks]
+redraw_hunter dealt [9h 3s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #27, redraw_hunter (38), tight_aggro (-38)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qh 5d]
+tight_aggro dealt [Ah 4d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #28, tight_aggro (-40), redraw_hunter (40)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [As 3d]
+redraw_hunter dealt [Qs Jd]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #29, redraw_hunter (41), tight_aggro (-41)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qh 7d]
+tight_aggro dealt [Jd Js]
+Redraw reveal for 1: WH1 X7d
+redraw_hunter redraws hole card 1 and raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #30, tight_aggro (-43), redraw_hunter (43)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Jh 8c]
+redraw_hunter dealt [Ks Kc]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #31, redraw_hunter (44), tight_aggro (-44)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [5c 3s]
+tight_aggro dealt [Ad 9d]
+redraw_hunter folds
+redraw_hunter awarded -1
+tight_aggro awarded 1
+
+Round #32, tight_aggro (-43), redraw_hunter (43)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [4c 3d]
+redraw_hunter dealt [6d 7s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #33, redraw_hunter (44), tight_aggro (-44)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Ad 2c]
+tight_aggro dealt [2d 9h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #34, tight_aggro (-46), redraw_hunter (46)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [7s As]
+redraw_hunter dealt [7h 6c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #35, redraw_hunter (47), tight_aggro (-47)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [2c 2h]
+tight_aggro dealt [3d 7d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #36, tight_aggro (-49), redraw_hunter (49)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Kc Qs]
+redraw_hunter dealt [Ah 7d]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #37, redraw_hunter (50), tight_aggro (-50)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qd 2d]
+tight_aggro dealt [5d 6c]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #38, tight_aggro (-52), redraw_hunter (52)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [3h Js]
+redraw_hunter dealt [6s 4s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #39, redraw_hunter (53), tight_aggro (-53)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [9h 5c]
+tight_aggro dealt [Jc 3d]
+Redraw reveal for 1: WH1 X5c
+redraw_hunter redraws hole card 1 and raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #40, tight_aggro (-55), redraw_hunter (55)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ad 3d]
+redraw_hunter dealt [9h 8h]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #41, redraw_hunter (56), tight_aggro (-56)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [8h Td]
+tight_aggro dealt [As Th]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #42, tight_aggro (-58), redraw_hunter (58)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [3d 6s]
+redraw_hunter dealt [4d Td]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #43, redraw_hunter (59), tight_aggro (-59)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [4s Js]
+tight_aggro dealt [Tc 4d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #44, tight_aggro (-61), redraw_hunter (61)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ah 4h]
+redraw_hunter dealt [5h 7c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #45, redraw_hunter (62), tight_aggro (-62)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Kc Jc]
+tight_aggro dealt [Qh 2s]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #46, tight_aggro (-64), redraw_hunter (64)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9h 8s]
+redraw_hunter dealt [4s 4c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #47, redraw_hunter (65), tight_aggro (-65)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [7c Ac]
+tight_aggro dealt [8s 8d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #48, tight_aggro (-67), redraw_hunter (67)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9d 3d]
+redraw_hunter dealt [9h Td]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #49, redraw_hunter (68), tight_aggro (-68)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Jh Kd]
+tight_aggro dealt [8s Qs]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #50, tight_aggro (-70), redraw_hunter (70)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Kd 7s]
+redraw_hunter dealt [Qd 7h]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #51, redraw_hunter (71), tight_aggro (-71)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Jc 6h]
+tight_aggro dealt [6c 4s]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #52, tight_aggro (-73), redraw_hunter (73)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9c 8c]
+redraw_hunter dealt [5c Th]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #53, redraw_hunter (74), tight_aggro (-74)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [4c Qc]
+tight_aggro dealt [5h 3h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #54, tight_aggro (-76), redraw_hunter (76)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [3h Qd]
+redraw_hunter dealt [4c 8c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #55, redraw_hunter (77), tight_aggro (-77)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [4c 8h]
+tight_aggro dealt [8s 2d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #56, tight_aggro (-79), redraw_hunter (79)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Qh 3h]
+redraw_hunter dealt [4d Qs]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #57, redraw_hunter (80), tight_aggro (-80)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Js 3h]
+tight_aggro dealt [Ah 7h]
+Redraw reveal for 1: WH1 X3h
+redraw_hunter redraws hole card 1 and raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #58, tight_aggro (-82), redraw_hunter (82)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [2c 5d]
+redraw_hunter dealt [5c Tc]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #59, redraw_hunter (83), tight_aggro (-83)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [5c As]
+tight_aggro dealt [2h 3h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #60, tight_aggro (-85), redraw_hunter (85)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Qd 2c]
+redraw_hunter dealt [Kc Jd]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #61, redraw_hunter (86), tight_aggro (-86)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [4h Ac]
+tight_aggro dealt [2h Th]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #62, tight_aggro (-88), redraw_hunter (88)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [7d Kc]
+redraw_hunter dealt [4s 8c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #63, redraw_hunter (89), tight_aggro (-89)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Jd 5c]
+tight_aggro dealt [9s Td]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #64, tight_aggro (-91), redraw_hunter (91)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Kc 3h]
+redraw_hunter dealt [Kd Th]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #65, redraw_hunter (92), tight_aggro (-92)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [9d Td]
+tight_aggro dealt [8c Ks]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #66, tight_aggro (-94), redraw_hunter (94)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Jc 7d]
+redraw_hunter dealt [Kd Th]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #67, redraw_hunter (95), tight_aggro (-95)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Ah 4c]
+tight_aggro dealt [8c Ts]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #68, tight_aggro (-97), redraw_hunter (97)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [4s Qh]
+redraw_hunter dealt [Js 3d]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #69, redraw_hunter (98), tight_aggro (-98)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Kc 4h]
+tight_aggro dealt [5h 3h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #70, tight_aggro (-100), redraw_hunter (100)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [5s Qc]
+redraw_hunter dealt [4d 6d]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #71, redraw_hunter (101), tight_aggro (-101)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [3h 4h]
+tight_aggro dealt [9s Jd]
+redraw_hunter calls
+tight_aggro checks
+Flop [Ad Qs 5c], redraw_hunter (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WH1 X4h
+redraw_hunter redraws hole card 1 and checks
+Turn [Ad Qs 5c Kh], redraw_hunter (2), tight_aggro (2)
+tight_aggro checks
+redraw_hunter checks
+River [Ad Qs 5c Kh 6c], redraw_hunter (2), tight_aggro (2)
+tight_aggro checks
+redraw_hunter bets 2
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #72, tight_aggro (-103), redraw_hunter (103)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [5d 6d]
+redraw_hunter dealt [3s 2s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #73, redraw_hunter (104), tight_aggro (-104)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [6d 7d]
+tight_aggro dealt [3s Jh]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #74, tight_aggro (-106), redraw_hunter (106)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [6h Ks]
+redraw_hunter dealt [2c Qd]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #75, redraw_hunter (107), tight_aggro (-107)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Th 9s]
+tight_aggro dealt [5d 2h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #76, tight_aggro (-109), redraw_hunter (109)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [6d 5d]
+redraw_hunter dealt [Td Tc]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #77, redraw_hunter (110), tight_aggro (-110)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Ad 3c]
+tight_aggro dealt [Ks 3d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #78, tight_aggro (-112), redraw_hunter (112)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ad 7d]
+redraw_hunter dealt [6s Qd]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #79, redraw_hunter (113), tight_aggro (-113)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [4h Ks]
+tight_aggro dealt [9s 6d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #80, tight_aggro (-115), redraw_hunter (115)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [5s 6h]
+redraw_hunter dealt [9h Td]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #81, redraw_hunter (116), tight_aggro (-116)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [6c 3h]
+tight_aggro dealt [Qh Jc]
+Redraw reveal for 1: WH1 X3h
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -1
+tight_aggro awarded 1
+
+Round #82, tight_aggro (-115), redraw_hunter (115)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9s 4d]
+redraw_hunter dealt [3s 2c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #83, redraw_hunter (116), tight_aggro (-116)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [8h 7c]
+tight_aggro dealt [2d 7d]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #84, tight_aggro (-118), redraw_hunter (118)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Qh 8d]
+redraw_hunter dealt [8c 2h]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #85, redraw_hunter (119), tight_aggro (-119)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qh 4h]
+tight_aggro dealt [3c Qs]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #86, tight_aggro (-121), redraw_hunter (121)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ts 2s]
+redraw_hunter dealt [3d 5c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #87, redraw_hunter (122), tight_aggro (-122)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [3c 6h]
+tight_aggro dealt [7d 5h]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #88, tight_aggro (-124), redraw_hunter (124)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ad Qc]
+redraw_hunter dealt [5h 9c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #89, redraw_hunter (125), tight_aggro (-125)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [2d 5c]
+tight_aggro dealt [Kc 5s]
+redraw_hunter folds
+redraw_hunter awarded -1
+tight_aggro awarded 1
+
+Round #90, tight_aggro (-124), redraw_hunter (124)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [3h 5c]
+redraw_hunter dealt [5s 9d]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #91, redraw_hunter (125), tight_aggro (-125)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [5s 2d]
+tight_aggro dealt [Jd 4s]
+redraw_hunter folds
+redraw_hunter awarded -1
+tight_aggro awarded 1
+
+Round #92, tight_aggro (-124), redraw_hunter (124)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Jc Td]
+redraw_hunter dealt [Qc 6c]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #93, redraw_hunter (125), tight_aggro (-125)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [8d 7d]
+tight_aggro dealt [9s 4s]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #94, tight_aggro (-127), redraw_hunter (127)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [3c 8c]
+redraw_hunter dealt [Ah 5s]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #95, redraw_hunter (128), tight_aggro (-128)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [8h 9c]
+tight_aggro dealt [2s Th]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #96, tight_aggro (-130), redraw_hunter (130)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9h Ac]
+redraw_hunter dealt [Tc 8h]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #97, redraw_hunter (131), tight_aggro (-131)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Qc 9s]
+tight_aggro dealt [Kc 3s]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #98, tight_aggro (-133), redraw_hunter (133)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [9d 9c]
+redraw_hunter dealt [6s Qc]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Round #99, redraw_hunter (134), tight_aggro (-134)
+redraw_hunter posts blind 1
+tight_aggro posts blind 2
+redraw_hunter dealt [Ac 5c]
+tight_aggro dealt [Jd 5s]
+redraw_hunter raises to 5
+tight_aggro folds
+redraw_hunter awarded 2
+tight_aggro awarded -2
+
+Round #100, tight_aggro (-136), redraw_hunter (136)
+tight_aggro posts blind 1
+redraw_hunter posts blind 2
+tight_aggro dealt [Ah Js]
+redraw_hunter dealt [6d Ks]
+tight_aggro folds
+tight_aggro awarded -1
+redraw_hunter awarded 1
+
+Final, redraw_hunter (137), tight_aggro (-137)

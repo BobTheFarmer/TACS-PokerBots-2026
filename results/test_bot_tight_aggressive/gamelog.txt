@@ -1,0 +1,77 @@
+TACS Pokerbots - bot_tight_aggressive vs check_call
+
+Round #1, bot_tight_aggressive (0), check_call (0)
+bot_tight_aggressive posts blind 1
+check_call posts blind 2
+bot_tight_aggressive dealt [4d Qd]
+check_call dealt [Tc 4c]
+bot_tight_aggressive folds
+bot_tight_aggressive awarded -1
+check_call awarded 1
+
+Round #2, check_call (1), bot_tight_aggressive (-1)
+check_call posts blind 1
+bot_tight_aggressive posts blind 2
+check_call dealt [3h Ah]
+bot_tight_aggressive dealt [3d Qc]
+check_call calls
+Redraw reveal for 0: WH0 X3d
+bot_tight_aggressive redraws hole card 0 and checks
+Flop [7c 4d 2h], check_call (2), bot_tight_aggressive (2)
+bot_tight_aggressive checks
+Redraw reveal for 1: WH0 X3h
+check_call redraws hole card 0 and checks
+Turn [7c 4d 2h 5c], check_call (2), bot_tight_aggressive (2)
+bot_tight_aggressive checks
+check_call checks
+River [7c 4d 2h 5c 8s], check_call (2), bot_tight_aggressive (2)
+bot_tight_aggressive checks
+check_call checks
+check_call shows [Kh Ah]
+bot_tight_aggressive shows [4s Qc]
+check_call awarded -2
+bot_tight_aggressive awarded 2
+
+Round #3, bot_tight_aggressive (1), check_call (-1)
+bot_tight_aggressive posts blind 1
+check_call posts blind 2
+bot_tight_aggressive dealt [4d 6d]
+check_call dealt [Td 8h]
+bot_tight_aggressive folds
+bot_tight_aggressive awarded -1
+check_call awarded 1
+
+Round #4, check_call (0), bot_tight_aggressive (0)
+check_call posts blind 1
+bot_tight_aggressive posts blind 2
+check_call dealt [7d Ah]
+bot_tight_aggressive dealt [7c Qh]
+check_call calls
+bot_tight_aggressive checks
+Flop [9c 2s 8d], check_call (2), bot_tight_aggressive (2)
+Redraw reveal for 0: WH0 X7c
+bot_tight_aggressive redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X7d
+check_call redraws hole card 0 and checks
+Turn [9c 2s 8d Jd], check_call (2), bot_tight_aggressive (2)
+bot_tight_aggressive checks
+check_call checks
+River [9c 2s 8d Jd 2d], check_call (2), bot_tight_aggressive (2)
+bot_tight_aggressive checks
+check_call checks
+check_call shows [6h Ah]
+bot_tight_aggressive shows [Qd Qh]
+check_call awarded -2
+bot_tight_aggressive awarded 2
+
+Round #5, bot_tight_aggressive (2), check_call (-2)
+bot_tight_aggressive posts blind 1
+check_call posts blind 2
+bot_tight_aggressive dealt [6s 7c]
+check_call dealt [2s Ks]
+Redraw reveal for 1: WH0 X6s
+bot_tight_aggressive redraws hole card 0 and folds
+bot_tight_aggressive awarded -1
+check_call awarded 1
+
+Final, check_call (-1), bot_tight_aggressive (1)

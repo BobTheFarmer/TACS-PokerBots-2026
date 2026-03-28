@@ -1,0 +1,1876 @@
+TACS Pokerbots - exploiter vs aggro_pressure
+
+Round #1, exploiter (0), aggro_pressure (0)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5s 2c]
+aggro_pressure dealt [3c 7s]
+Redraw reveal for 1: WH1 X2c
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #2, aggro_pressure (5), exploiter (-5)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [3s Jc]
+exploiter dealt [3h Ac]
+Redraw reveal for 1: WH0 X3s
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X3h
+exploiter redraws hole card 0 and calls
+Flop [7s 4h 8s], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+Turn [7s 4h 8s 2c], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure bets 11
+exploiter calls
+River [7s 4h 8s 2c 6h], aggro_pressure (20), exploiter (20)
+exploiter checks
+aggro_pressure bets 26
+exploiter calls
+aggro_pressure shows [As Jc]
+exploiter shows [Js Ac]
+aggro_pressure awarded 0
+exploiter awarded 0
+
+Round #3, exploiter (-5), aggro_pressure (5)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Ts 8c]
+aggro_pressure dealt [7h 8s]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X8s
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH1 X8c
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #4, aggro_pressure (10), exploiter (-10)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5s 6c]
+exploiter dealt [Js 9h]
+Redraw reveal for 1: WH0 X5s
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter calls
+Flop [5c 6s Ad], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WH1 X9h
+exploiter redraws hole card 1 and checks
+aggro_pressure bets 6
+exploiter calls
+Turn [5c 6s Ad Jc], aggro_pressure (10), exploiter (10)
+exploiter bets 13
+aggro_pressure raises to 26
+exploiter calls
+River [5c 6s Ad Jc 9c], aggro_pressure (36), exploiter (36)
+exploiter bets 46
+aggro_pressure raises to 94
+exploiter calls
+aggro_pressure shows [2h 6c]
+exploiter shows [Js 8h]
+aggro_pressure awarded -130
+exploiter awarded 130
+
+Round #5, exploiter (120), aggro_pressure (-120)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [6c 2d]
+aggro_pressure dealt [7h 5c]
+Redraw reveal for 1: WH1 X2d
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+aggro_pressure awarded 1
+
+Round #6, aggro_pressure (-119), exploiter (119)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8s Td]
+exploiter dealt [9d Jd]
+Redraw reveal for 1: WH0 X8s
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH1 XJd
+exploiter redraws hole card 1 and calls
+Flop [3d 2s Qh], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure checks
+Turn [3d 2s Qh 6d], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+River [3d 2s Qh 6d 6c], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure bets 11
+exploiter calls
+aggro_pressure shows [Jc Td]
+exploiter shows [9d 9c]
+aggro_pressure awarded -20
+exploiter awarded 20
+
+Round #7, exploiter (139), aggro_pressure (-139)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5d 6s]
+aggro_pressure dealt [Ts Qd]
+Redraw reveal for 1: WH0 X5d
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 XTs
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #8, aggro_pressure (-134), exploiter (134)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Qd 9d]
+exploiter dealt [2c Qh]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X2c
+exploiter redraws hole card 0 and calls
+Flop [5s Ks Td], aggro_pressure (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WB0 X5s
+aggro_pressure redraws board card 0 and bets 8
+exploiter calls
+Turn [Kd Ks Td 7s], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 18
+exploiter calls
+River [Kd Ks Td 7s 3h], aggro_pressure (32), exploiter (32)
+exploiter bets 32
+aggro_pressure calls
+aggro_pressure shows [Qd 9d]
+exploiter shows [3c Qh]
+aggro_pressure awarded -64
+exploiter awarded 64
+
+Round #9, exploiter (198), aggro_pressure (-198)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [9h 7d]
+aggro_pressure dealt [4h 5d]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X5d
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH1 X7d
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #10, aggro_pressure (-193), exploiter (193)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8h Qh]
+exploiter dealt [5h 9c]
+aggro_pressure raises to 6
+exploiter calls
+Flop [6c Jd 2s], aggro_pressure (6), exploiter (6)
+Redraw reveal for 0: WH0 X5h
+exploiter redraws hole card 0 and checks
+Redraw reveal for 1: WB0 X6c
+aggro_pressure redraws board card 0 and bets 8
+exploiter calls
+Turn [Th Jd 2s 7d], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure checks
+River [Th Jd 2s 7d Ac], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 14
+exploiter calls
+aggro_pressure shows [8h Qh]
+exploiter shows [8d 9c]
+aggro_pressure awarded -28
+exploiter awarded 28
+
+Round #11, exploiter (221), aggro_pressure (-221)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qc Tc]
+aggro_pressure dealt [4c 2d]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter calls
+Flop [Ac 4s Ad], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 10
+exploiter calls
+Turn [Ac 4s Ad 5d], exploiter (18), aggro_pressure (18)
+aggro_pressure bets 23
+Redraw reveal for 1: WB3 X5d
+exploiter redraws board card 3 and calls
+River [Ac 4s Ad 2h 9h], exploiter (41), aggro_pressure (41)
+aggro_pressure bets 65
+exploiter calls
+exploiter shows [Qc Tc]
+aggro_pressure shows [3h 2d]
+exploiter awarded -106
+aggro_pressure awarded 106
+
+Round #12, aggro_pressure (-115), exploiter (115)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [9c 5h]
+exploiter dealt [Ac 6s]
+Redraw reveal for 1: WH1 X5h
+aggro_pressure redraws hole card 1 and raises to 4
+exploiter calls
+Flop [9s Th 3c], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WH1 X6s
+exploiter redraws hole card 1 and checks
+aggro_pressure bets 6
+exploiter calls
+Turn [9s Th 3c Qd], aggro_pressure (10), exploiter (10)
+exploiter checks
+aggro_pressure bets 16
+exploiter calls
+River [9s Th 3c Qd Ad], aggro_pressure (26), exploiter (26)
+exploiter bets 46
+aggro_pressure raises to 92
+exploiter calls
+aggro_pressure shows [9c 2c]
+exploiter shows [Ac Ts]
+aggro_pressure awarded -118
+exploiter awarded 118
+
+Round #13, exploiter (233), aggro_pressure (-233)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [4d Jd]
+aggro_pressure dealt [Qh 9s]
+Redraw reveal for 1: WH0 X4d
+exploiter redraws hole card 0 and raises to 5
+aggro_pressure raises to 12
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #14, aggro_pressure (-228), exploiter (228)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Jd Qh]
+exploiter dealt [Tc 3s]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH1 X3s
+exploiter redraws hole card 1 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #15, exploiter (226), aggro_pressure (-226)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5d Td]
+aggro_pressure dealt [6s 3s]
+Redraw reveal for 1: WH0 X5d
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X6s
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #16, aggro_pressure (-221), exploiter (221)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Td 8s]
+exploiter dealt [4c 7h]
+Redraw reveal for 1: WH1 X8s
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH1 X7h
+exploiter redraws hole card 1 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #17, exploiter (219), aggro_pressure (-219)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Ks Ah]
+aggro_pressure dealt [3h 7h]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X3h
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter raises to 400
+aggro_pressure calls
+exploiter shows [Ks Ah]
+aggro_pressure shows [8c 7h]
+exploiter awarded -400
+aggro_pressure awarded 400
+
+Round #18, aggro_pressure (181), exploiter (-181)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [9h Ah]
+exploiter dealt [Qd 6h]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH1 X6h
+exploiter redraws hole card 1 and calls
+Flop [5d 3c Ts], aggro_pressure (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WB0 X5d
+aggro_pressure redraws board card 0 and bets 8
+exploiter calls
+Turn [6s 3c Ts 4d], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 18
+exploiter calls
+River [6s 3c Ts 4d 5c], aggro_pressure (32), exploiter (32)
+exploiter checks
+aggro_pressure bets 32
+exploiter calls
+aggro_pressure shows [9h Ah]
+exploiter shows [Qd 4s]
+aggro_pressure awarded -64
+exploiter awarded 64
+
+Round #19, exploiter (-117), aggro_pressure (117)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [As 5h]
+aggro_pressure dealt [6d 4s]
+Redraw reveal for 1: WH1 X5h
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH1 X4s
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter calls
+Flop [2h Th Jc], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 8
+exploiter calls
+Turn [2h Th Jc 6h], exploiter (16), aggro_pressure (16)
+aggro_pressure bets 25
+exploiter calls
+River [2h Th Jc 6h Kc], exploiter (41), aggro_pressure (41)
+aggro_pressure bets 65
+exploiter calls
+exploiter shows [As 2d]
+aggro_pressure shows [6d Qh]
+exploiter awarded -106
+aggro_pressure awarded 106
+
+Round #20, aggro_pressure (223), exploiter (-223)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [6c 9h]
+exploiter dealt [4c Jd]
+Redraw reveal for 1: WH0 X6c
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X4c
+exploiter redraws hole card 0 and calls
+Flop [5c Tc Ad], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+Turn [5c Tc Ad Qs], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure bets 11
+exploiter calls
+River [5c Tc Ad Qs Kh], aggro_pressure (20), exploiter (20)
+exploiter bets 36
+aggro_pressure calls
+aggro_pressure shows [7c 9h]
+exploiter shows [Qc Jd]
+aggro_pressure awarded -56
+exploiter awarded 56
+
+Round #21, exploiter (-167), aggro_pressure (167)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [9d 7d]
+aggro_pressure dealt [9s 6c]
+Redraw reveal for 1: WH1 X7d
+exploiter redraws hole card 1 and raises to 5
+aggro_pressure calls
+Flop [7h 5d 4c], exploiter (5), aggro_pressure (5)
+Redraw reveal for 0: WH0 X9s
+aggro_pressure redraws hole card 0 and bets 7
+exploiter calls
+Turn [7h 5d 4c 8s], exploiter (12), aggro_pressure (12)
+aggro_pressure bets 19
+exploiter calls
+River [7h 5d 4c 8s Kd], exploiter (31), aggro_pressure (31)
+aggro_pressure bets 49
+exploiter calls
+exploiter shows [9d Ac]
+aggro_pressure shows [Qh 6c]
+exploiter awarded -80
+aggro_pressure awarded 80
+
+Round #22, aggro_pressure (247), exploiter (-247)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Td Jc]
+exploiter dealt [9s 7s]
+Redraw reveal for 1: WH0 XTd
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X9s
+exploiter redraws hole card 0 and calls
+Flop [Js 2c 5s], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 6
+exploiter calls
+Turn [Js 2c 5s Jh], aggro_pressure (10), exploiter (10)
+exploiter checks
+aggro_pressure bets 16
+exploiter calls
+River [Js 2c 5s Jh 7c], aggro_pressure (26), exploiter (26)
+exploiter bets 46
+aggro_pressure raises to 92
+exploiter calls
+aggro_pressure shows [5c Jc]
+exploiter shows [4h 7s]
+aggro_pressure awarded 118
+exploiter awarded -118
+
+Round #23, exploiter (-365), aggro_pressure (365)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Tc Ts]
+aggro_pressure dealt [Ks Qh]
+exploiter raises to 5
+Redraw reveal for 0: WH1 XQh
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter raises to 400
+aggro_pressure calls
+exploiter shows [Tc Ts]
+aggro_pressure shows [Ks 4s]
+exploiter awarded -400
+aggro_pressure awarded 400
+
+Round #24, aggro_pressure (765), exploiter (-765)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5d 8d]
+exploiter dealt [9h Kh]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter raises to 13
+aggro_pressure calls
+Flop [6h 7d Kd], aggro_pressure (13), exploiter (13)
+exploiter bets 23
+aggro_pressure raises to 46
+exploiter calls
+Turn [6h 7d Kd Tc], aggro_pressure (59), exploiter (59)
+exploiter bets 106
+aggro_pressure raises to 212
+exploiter calls
+River [6h 7d Kd Tc 6d], aggro_pressure (271), exploiter (271)
+exploiter bets 129
+aggro_pressure calls
+aggro_pressure shows [7h 8d]
+exploiter shows [9h Kh]
+aggro_pressure awarded -400
+exploiter awarded 400
+
+Round #25, exploiter (-365), aggro_pressure (365)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5s 6h]
+aggro_pressure dealt [6d 3d]
+Redraw reveal for 1: WH1 X6h
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH1 X3d
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #26, aggro_pressure (370), exploiter (-370)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Th 9s]
+exploiter dealt [8d Kc]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X8d
+exploiter redraws hole card 0 and calls
+Flop [7d Td 3h], aggro_pressure (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WH1 X9s
+aggro_pressure redraws hole card 1 and bets 8
+exploiter calls
+Turn [7d Td 3h 6h], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 22
+exploiter calls
+River [7d Td 3h 6h Kh], aggro_pressure (36), exploiter (36)
+exploiter bets 64
+aggro_pressure raises to 128
+exploiter calls
+aggro_pressure shows [Th 2c]
+exploiter shows [Tc Kc]
+aggro_pressure awarded -164
+exploiter awarded 164
+
+Round #27, exploiter (-206), aggro_pressure (206)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qc 3h]
+aggro_pressure dealt [9c 7c]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X9c
+aggro_pressure redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH1 X3h
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #28, aggro_pressure (211), exploiter (-211)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [4c Jd]
+exploiter dealt [4s 8d]
+Redraw reveal for 1: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X4s
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #29, exploiter (-213), aggro_pressure (213)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [8h 8c]
+aggro_pressure dealt [Ks 9s]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X9s
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter raises to 400
+aggro_pressure calls
+exploiter shows [8h 8c]
+aggro_pressure shows [Ks 8d]
+exploiter awarded 400
+aggro_pressure awarded -400
+
+Round #30, aggro_pressure (-187), exploiter (187)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [2d 7h]
+exploiter dealt [3c 2s]
+Redraw reveal for 1: WH0 X2d
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH1 X2s
+exploiter redraws hole card 1 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #31, exploiter (185), aggro_pressure (-185)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Td Ac]
+aggro_pressure dealt [9s 2c]
+Redraw reveal for 1: WH0 XTd
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH1 X2c
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter calls
+Flop [Ts Qs 9d], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 12
+exploiter calls
+Turn [Ts Qs 9d 4d], exploiter (20), aggro_pressure (20)
+aggro_pressure bets 32
+exploiter calls
+River [Ts Qs 9d 4d 2d], exploiter (52), aggro_pressure (52)
+aggro_pressure bets 83
+exploiter calls
+exploiter shows [6d Ac]
+aggro_pressure shows [9s 9h]
+exploiter awarded -135
+aggro_pressure awarded 135
+
+Round #32, aggro_pressure (-50), exploiter (50)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8d Qh]
+exploiter dealt [4h 7h]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X4h
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #33, exploiter (48), aggro_pressure (-48)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5d Qs]
+aggro_pressure dealt [6s As]
+Redraw reveal for 1: WH0 X5d
+exploiter redraws hole card 0 and raises to 5
+aggro_pressure raises to 12
+exploiter calls
+Flop [9c 8s 6h], exploiter (12), aggro_pressure (12)
+Redraw reveal for 0: WB1 X8s
+aggro_pressure redraws board card 1 and bets 16
+exploiter calls
+Turn [9c 3d 6h 5s], exploiter (28), aggro_pressure (28)
+aggro_pressure bets 44
+exploiter calls
+River [9c 3d 6h 5s Kd], exploiter (72), aggro_pressure (72)
+aggro_pressure bets 115
+exploiter calls
+exploiter shows [Qc Qs]
+aggro_pressure shows [6s As]
+exploiter awarded 187
+aggro_pressure awarded -187
+
+Round #34, aggro_pressure (-235), exploiter (235)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8d 2d]
+exploiter dealt [As 5c]
+Redraw reveal for 1: WH1 X2d
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH1 X5c
+exploiter redraws hole card 1 and calls
+Flop [3d 3c 4s], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+Turn [3d 3c 4s Qs], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure checks
+River [3d 3c 4s Qs 2c], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [8d 3h]
+exploiter shows [As 4c]
+aggro_pressure awarded 9
+exploiter awarded -9
+
+Round #35, exploiter (226), aggro_pressure (-226)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [7c 5c]
+aggro_pressure dealt [3c Jd]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH1 X5c
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #36, aggro_pressure (-221), exploiter (221)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Jh 8h]
+exploiter dealt [6s Qh]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X6s
+exploiter redraws hole card 0 and calls
+Flop [Kc 7c Ks], aggro_pressure (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WH1 X8h
+aggro_pressure redraws hole card 1 and bets 8
+exploiter calls
+Turn [Kc 7c Ks 3s], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 18
+exploiter calls
+River [Kc 7c Ks 3s 6d], aggro_pressure (32), exploiter (32)
+exploiter checks
+aggro_pressure bets 41
+exploiter calls
+aggro_pressure shows [Jh 7d]
+exploiter shows [Qd Qh]
+aggro_pressure awarded -73
+exploiter awarded 73
+
+Round #37, exploiter (294), aggro_pressure (-294)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qc Td]
+aggro_pressure dealt [9c 8h]
+Redraw reveal for 1: WH1 XTd
+exploiter redraws hole card 1 and raises to 5
+aggro_pressure raises to 12
+exploiter calls
+Flop [3h 2d Kh], exploiter (12), aggro_pressure (12)
+Redraw reveal for 0: WB1 X2d
+aggro_pressure redraws board card 1 and bets 16
+exploiter calls
+Turn [3h Qd Kh 3d], exploiter (28), aggro_pressure (28)
+aggro_pressure checks
+exploiter bets 50
+aggro_pressure folds
+exploiter awarded 28
+aggro_pressure awarded -28
+
+Round #38, aggro_pressure (-322), exploiter (322)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Ah 8h]
+exploiter dealt [3h 5c]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X3h
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #39, exploiter (320), aggro_pressure (-320)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [8c 3c]
+aggro_pressure dealt [6s Th]
+Redraw reveal for 1: WH1 X3c
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+aggro_pressure awarded 1
+
+Round #40, aggro_pressure (-319), exploiter (319)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Ts 9d]
+exploiter dealt [2s Jh]
+Redraw reveal for 1: WH1 X9d
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH0 X2s
+exploiter redraws hole card 0 and calls
+Flop [6c 5d Ks], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+Turn [6c 5d Ks Qs], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure checks
+River [6c 5d Ks Qs 9c], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [Ts 9s]
+exploiter shows [Th Jh]
+aggro_pressure awarded -9
+exploiter awarded 9
+
+Round #41, exploiter (328), aggro_pressure (-328)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [2h Qs]
+aggro_pressure dealt [4s Th]
+Redraw reveal for 1: WH0 X2h
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X4s
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter calls
+Flop [7d Ah Qh], exploiter (8), aggro_pressure (8)
+aggro_pressure checks
+exploiter bets 14
+aggro_pressure raises to 28
+exploiter calls
+Turn [7d Ah Qh 4h], exploiter (36), aggro_pressure (36)
+aggro_pressure bets 57
+exploiter calls
+River [7d Ah Qh 4h 7h], exploiter (93), aggro_pressure (93)
+aggro_pressure bets 148
+exploiter calls
+exploiter shows [6d Qs]
+aggro_pressure shows [7c Th]
+exploiter awarded -241
+aggro_pressure awarded 241
+
+Round #42, aggro_pressure (-87), exploiter (87)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5d 8h]
+exploiter dealt [3h Tc]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X3h
+exploiter redraws hole card 0 and calls
+Flop [7h Th 2d], aggro_pressure (4), exploiter (4)
+exploiter bets 7
+aggro_pressure calls
+Turn [7h Th 2d 7s], aggro_pressure (11), exploiter (11)
+exploiter bets 19
+aggro_pressure calls
+River [7h Th 2d 7s Qc], aggro_pressure (30), exploiter (30)
+exploiter bets 54
+aggro_pressure calls
+aggro_pressure shows [6c 8h]
+exploiter shows [Jd Tc]
+aggro_pressure awarded -84
+exploiter awarded 84
+
+Round #43, exploiter (171), aggro_pressure (-171)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [4h 4s]
+aggro_pressure dealt [5h 3s]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X3s
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter calls
+Flop [9h 6h 5s], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 12
+Redraw reveal for 1: WB0 X9h
+exploiter redraws board card 0 and calls
+Turn [8c 6h 5s Ad], exploiter (20), aggro_pressure (20)
+aggro_pressure bets 32
+exploiter calls
+River [8c 6h 5s Ad 8s], exploiter (52), aggro_pressure (52)
+aggro_pressure bets 83
+exploiter calls
+exploiter shows [4h 4s]
+aggro_pressure shows [5h 9c]
+exploiter awarded -135
+aggro_pressure awarded 135
+
+Round #44, aggro_pressure (-36), exploiter (36)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Ad Qh]
+exploiter dealt [8c Td]
+Redraw reveal for 1: WH0 XAd
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter calls
+Flop [4h 2c Qd], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WH0 X8c
+exploiter redraws hole card 0 and checks
+aggro_pressure bets 6
+exploiter calls
+Turn [4h 2c Qd 4c], aggro_pressure (10), exploiter (10)
+exploiter checks
+aggro_pressure bets 16
+exploiter calls
+River [4h 2c Qd 4c Jd], aggro_pressure (26), exploiter (26)
+exploiter checks
+aggro_pressure bets 41
+exploiter calls
+aggro_pressure shows [4s Qh]
+exploiter shows [Th Td]
+aggro_pressure awarded 67
+exploiter awarded -67
+
+Round #45, exploiter (-31), aggro_pressure (31)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5c Js]
+aggro_pressure dealt [8d 3s]
+Redraw reveal for 1: WH0 X5c
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X8d
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #46, aggro_pressure (36), exploiter (-36)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [7h 5c]
+exploiter dealt [5s 4h]
+Redraw reveal for 1: WH1 X5c
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH1 X4h
+exploiter redraws hole card 1 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #47, exploiter (-38), aggro_pressure (38)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Js 3d]
+aggro_pressure dealt [6h 2d]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X6h
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter calls
+Flop [Kc 7h 3h], exploiter (8), aggro_pressure (8)
+aggro_pressure checks
+exploiter checks
+Turn [Kc 7h 3h Tc], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 10
+exploiter calls
+River [Kc 7h 3h Tc 8d], exploiter (18), aggro_pressure (18)
+aggro_pressure checks
+exploiter checks
+exploiter shows [Js 7s]
+aggro_pressure shows [8h 2d]
+exploiter awarded -18
+aggro_pressure awarded 18
+
+Round #48, aggro_pressure (56), exploiter (-56)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8c 5c]
+exploiter dealt [4h Ad]
+Redraw reveal for 1: WH0 X8c
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X4h
+exploiter redraws hole card 0 and calls
+Flop [6h Ah Qh], aggro_pressure (4), exploiter (4)
+exploiter bets 7
+aggro_pressure calls
+Turn [6h Ah Qh Jd], aggro_pressure (11), exploiter (11)
+exploiter bets 19
+aggro_pressure calls
+River [6h Ah Qh Jd Kc], aggro_pressure (30), exploiter (30)
+exploiter bets 54
+aggro_pressure folds
+aggro_pressure awarded -30
+exploiter awarded 30
+
+Round #49, exploiter (-26), aggro_pressure (26)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [7d 6c]
+aggro_pressure dealt [5c 2d]
+Redraw reveal for 1: WH0 X7d
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X5c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #50, aggro_pressure (31), exploiter (-31)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [7h 5d]
+exploiter dealt [Td 6s]
+Redraw reveal for 1: WH0 X7h
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH1 X6s
+exploiter redraws hole card 1 and calls
+Flop [2h 6h 3s], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+Turn [2h 6h 3s 9s], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure bets 11
+exploiter calls
+River [2h 6h 3s 9s Qh], aggro_pressure (20), exploiter (20)
+exploiter checks
+aggro_pressure bets 26
+exploiter calls
+aggro_pressure shows [7s 5d]
+exploiter shows [Td 3d]
+aggro_pressure awarded -46
+exploiter awarded 46
+
+Round #51, exploiter (15), aggro_pressure (-15)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Jc 8h]
+aggro_pressure dealt [5h Kc]
+Redraw reveal for 1: WH1 X8h
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X5h
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter calls
+Flop [4h 8c 4s], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 12
+exploiter calls
+Turn [4h 8c 4s As], exploiter (20), aggro_pressure (20)
+aggro_pressure bets 32
+exploiter calls
+River [4h 8c 4s As Jh], exploiter (52), aggro_pressure (52)
+aggro_pressure bets 83
+exploiter calls
+exploiter shows [Jc 2d]
+aggro_pressure shows [Ts Kc]
+exploiter awarded 135
+aggro_pressure awarded -135
+
+Round #52, aggro_pressure (-150), exploiter (150)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5s 8h]
+exploiter dealt [Jh Td]
+Redraw reveal for 1: WH1 X8h
+aggro_pressure redraws hole card 1 and raises to 4
+exploiter calls
+Flop [7h 8d Ts], aggro_pressure (4), exploiter (4)
+exploiter bets 7
+aggro_pressure calls
+Turn [7h 8d Ts Kd], aggro_pressure (11), exploiter (11)
+Redraw reveal for 0: WB1 X8d
+exploiter redraws board card 1 and bets 19
+aggro_pressure calls
+River [7h 9s Ts Kd Jc], aggro_pressure (30), exploiter (30)
+exploiter checks
+aggro_pressure bets 30
+exploiter calls
+aggro_pressure shows [5s Kc]
+exploiter shows [Jh Td]
+aggro_pressure awarded -60
+exploiter awarded 60
+
+Round #53, exploiter (210), aggro_pressure (-210)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qd Tc]
+aggro_pressure dealt [8h 2d]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X2d
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter calls
+Flop [5d Ad 7c], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 10
+Redraw reveal for 1: WH1 XTc
+exploiter redraws hole card 1 and calls
+Turn [5d Ad 7c Qc], exploiter (18), aggro_pressure (18)
+aggro_pressure checks
+exploiter bets 32
+aggro_pressure calls
+River [5d Ad 7c Qc Qs], exploiter (50), aggro_pressure (50)
+aggro_pressure checks
+exploiter bets 90
+aggro_pressure calls
+exploiter shows [Qd 6s]
+aggro_pressure shows [8h Kd]
+exploiter awarded 140
+aggro_pressure awarded -140
+
+Round #54, aggro_pressure (-350), exploiter (350)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Qh 5s]
+exploiter dealt [Kd 4s]
+Redraw reveal for 1: WH1 X5s
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH1 X4s
+exploiter redraws hole card 1 and calls
+Flop [9c 2s 5c], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+Turn [9c 2s 5c Kc], aggro_pressure (9), exploiter (9)
+exploiter bets 16
+aggro_pressure calls
+River [9c 2s 5c Kc Js], aggro_pressure (25), exploiter (25)
+exploiter bets 45
+aggro_pressure calls
+aggro_pressure shows [Qh 6h]
+exploiter shows [Kd 3s]
+aggro_pressure awarded -70
+exploiter awarded 70
+
+Round #55, exploiter (420), aggro_pressure (-420)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [7s 4s]
+aggro_pressure dealt [6c 4h]
+Redraw reveal for 1: WH1 X4s
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+aggro_pressure awarded 1
+
+Round #56, aggro_pressure (-419), exploiter (419)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [3h 2s]
+exploiter dealt [4c Ad]
+Redraw reveal for 1: WH1 X2s
+aggro_pressure redraws hole card 1 and raises to 4
+exploiter raises to 13
+aggro_pressure folds
+aggro_pressure awarded -4
+exploiter awarded 4
+
+Round #57, exploiter (423), aggro_pressure (-423)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [9d Js]
+aggro_pressure dealt [2d 3d]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X2d
+aggro_pressure redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH0 X9d
+exploiter redraws hole card 0 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #58, aggro_pressure (-418), exploiter (418)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [6s Ad]
+exploiter dealt [Jh 7h]
+Redraw reveal for 1: WH0 X6s
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter calls
+Flop [Qd Qc 7c], aggro_pressure (4), exploiter (4)
+exploiter bets 7
+aggro_pressure raises to 14
+exploiter calls
+Turn [Qd Qc 7c 5s], aggro_pressure (18), exploiter (18)
+exploiter bets 32
+aggro_pressure raises to 64
+exploiter calls
+River [Qd Qc 7c 5s Ts], aggro_pressure (82), exploiter (82)
+exploiter bets 147
+aggro_pressure raises to 294
+exploiter calls
+aggro_pressure shows [2h Ad]
+exploiter shows [Jh 7h]
+aggro_pressure awarded -376
+exploiter awarded 376
+
+Round #59, exploiter (794), aggro_pressure (-794)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [8d Ad]
+aggro_pressure dealt [8s 2c]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X8s
+aggro_pressure redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH0 X8d
+exploiter redraws hole card 0 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #60, aggro_pressure (-789), exploiter (789)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [9c 7d]
+exploiter dealt [3d 8s]
+Redraw reveal for 1: WH1 X7d
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH0 X3d
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #61, exploiter (787), aggro_pressure (-787)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Kc 4h]
+aggro_pressure dealt [7c 4d]
+Redraw reveal for 1: WH1 X4h
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH1 X4d
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter calls
+Flop [7s Kd 3h], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 12
+exploiter calls
+Turn [7s Kd 3h 5d], exploiter (20), aggro_pressure (20)
+aggro_pressure bets 32
+exploiter calls
+River [7s Kd 3h 5d Qc], exploiter (52), aggro_pressure (52)
+aggro_pressure bets 83
+exploiter calls
+exploiter shows [Kc Jd]
+aggro_pressure shows [7c Ks]
+exploiter awarded -135
+aggro_pressure awarded 135
+
+Round #62, aggro_pressure (-652), exploiter (652)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Qd 6h]
+exploiter dealt [2h Jh]
+Redraw reveal for 1: WH1 X6h
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH0 X2h
+exploiter redraws hole card 0 and calls
+Flop [Js 5s 8d], aggro_pressure (4), exploiter (4)
+exploiter bets 7
+aggro_pressure calls
+Turn [Js 5s 8d Kh], aggro_pressure (11), exploiter (11)
+exploiter bets 19
+aggro_pressure calls
+River [Js 5s 8d Kh Qh], aggro_pressure (30), exploiter (30)
+exploiter bets 54
+aggro_pressure raises to 108
+exploiter calls
+aggro_pressure shows [Qd 9d]
+exploiter shows [Qc Jh]
+aggro_pressure awarded -138
+exploiter awarded 138
+
+Round #63, exploiter (790), aggro_pressure (-790)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [8h Jh]
+aggro_pressure dealt [7d 4h]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X4h
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH0 X8h
+exploiter redraws hole card 0 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #64, aggro_pressure (-785), exploiter (785)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [3c 8h]
+exploiter dealt [8d 4s]
+Redraw reveal for 1: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X8d
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #65, exploiter (783), aggro_pressure (-783)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [8s Tc]
+aggro_pressure dealt [9c Kh]
+Redraw reveal for 1: WH1 XTc
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X9c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #66, aggro_pressure (-778), exploiter (778)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [4c Th]
+exploiter dealt [Td Qd]
+Redraw reveal for 1: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 XTd
+exploiter redraws hole card 0 and calls
+Flop [Qh 3c 4h], aggro_pressure (4), exploiter (4)
+exploiter bets 7
+aggro_pressure calls
+Turn [Qh 3c 4h 9c], aggro_pressure (11), exploiter (11)
+exploiter bets 19
+aggro_pressure calls
+River [Qh 3c 4h 9c 2d], aggro_pressure (30), exploiter (30)
+exploiter bets 54
+aggro_pressure calls
+aggro_pressure shows [5d Th]
+exploiter shows [2c Qd]
+aggro_pressure awarded -84
+exploiter awarded 84
+
+Round #67, exploiter (862), aggro_pressure (-862)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [7d 8h]
+aggro_pressure dealt [8c 4s]
+Redraw reveal for 1: WH0 X7d
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH1 X4s
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #68, aggro_pressure (-857), exploiter (857)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [4c Jd]
+exploiter dealt [Ah Js]
+Redraw reveal for 1: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter raises to 13
+aggro_pressure calls
+Flop [Kc 3c 9c], aggro_pressure (13), exploiter (13)
+Redraw reveal for 0: WB2 X9c
+exploiter redraws board card 2 and checks
+aggro_pressure bets 16
+exploiter calls
+Turn [Kc 3c 8h 3h], aggro_pressure (29), exploiter (29)
+exploiter checks
+aggro_pressure bets 37
+exploiter calls
+River [Kc 3c 8h 3h Tc], aggro_pressure (66), exploiter (66)
+exploiter checks
+aggro_pressure bets 85
+exploiter calls
+aggro_pressure shows [5c Jd]
+exploiter shows [Ah Js]
+aggro_pressure awarded -151
+exploiter awarded 151
+
+Round #69, exploiter (1008), aggro_pressure (-1008)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [3c Kd]
+aggro_pressure dealt [8d 7s]
+Redraw reveal for 1: WH0 X3c
+exploiter redraws hole card 0 and raises to 5
+aggro_pressure calls
+Flop [5c Js 9s], exploiter (5), aggro_pressure (5)
+Redraw reveal for 0: WH0 X8d
+aggro_pressure redraws hole card 0 and bets 7
+exploiter calls
+Turn [5c Js 9s Kc], exploiter (12), aggro_pressure (12)
+aggro_pressure bets 15
+exploiter calls
+River [5c Js 9s Kc Qd], exploiter (27), aggro_pressure (27)
+aggro_pressure checks
+exploiter bets 48
+aggro_pressure calls
+exploiter shows [4c Kd]
+aggro_pressure shows [6d 7s]
+exploiter awarded 75
+aggro_pressure awarded -75
+
+Round #70, aggro_pressure (-1083), exploiter (1083)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [6s Kc]
+exploiter dealt [Th 4d]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH1 X4d
+exploiter redraws hole card 1 and calls
+Flop [5h Ah 2s], aggro_pressure (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WB0 X5h
+aggro_pressure redraws board card 0 and bets 8
+exploiter calls
+Turn [7h Ah 2s 3s], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 18
+exploiter calls
+River [7h Ah 2s 3s 8c], aggro_pressure (32), exploiter (32)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [6s Kc]
+exploiter shows [Th Jc]
+aggro_pressure awarded 32
+exploiter awarded -32
+
+Round #71, exploiter (1051), aggro_pressure (-1051)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [6c As]
+aggro_pressure dealt [5c Qs]
+Redraw reveal for 1: WH0 X6c
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X5c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter raises to 400
+aggro_pressure calls
+exploiter shows [Th As]
+aggro_pressure shows [8c Qs]
+exploiter awarded 400
+aggro_pressure awarded -400
+
+Round #72, aggro_pressure (-1451), exploiter (1451)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [4c 3d]
+exploiter dealt [8h 3h]
+aggro_pressure raises to 6
+exploiter calls
+Flop [7c Jd 8d], aggro_pressure (6), exploiter (6)
+Redraw reveal for 0: WH1 X3h
+exploiter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X3d
+aggro_pressure redraws hole card 1 and bets 8
+exploiter calls
+Turn [7c Jd 8d Ac], aggro_pressure (14), exploiter (14)
+exploiter checks
+aggro_pressure bets 14
+exploiter calls
+River [7c Jd 8d Ac Qh], aggro_pressure (28), exploiter (28)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [4c 5c]
+exploiter shows [8h 7h]
+aggro_pressure awarded -28
+exploiter awarded 28
+
+Round #73, exploiter (1479), aggro_pressure (-1479)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qs Ac]
+aggro_pressure dealt [5d 6h]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X6h
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter raises to 400
+aggro_pressure calls
+exploiter shows [Qs Ac]
+aggro_pressure shows [5d 4h]
+exploiter awarded -400
+aggro_pressure awarded 400
+
+Round #74, aggro_pressure (-1079), exploiter (1079)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Jd 3c]
+exploiter dealt [Ts 8h]
+Redraw reveal for 1: WH1 X3c
+aggro_pressure redraws hole card 1 and raises to 4
+exploiter calls
+Flop [2h Js 9s], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WB0 X2h
+exploiter redraws board card 0 and checks
+aggro_pressure bets 6
+exploiter calls
+Turn [6s Js 9s 4c], aggro_pressure (10), exploiter (10)
+exploiter checks
+aggro_pressure bets 16
+exploiter calls
+River [6s Js 9s 4c 9d], aggro_pressure (26), exploiter (26)
+exploiter checks
+aggro_pressure bets 41
+exploiter folds
+aggro_pressure awarded 26
+exploiter awarded -26
+
+Round #75, exploiter (1053), aggro_pressure (-1053)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [5s 6h]
+aggro_pressure dealt [8h Kc]
+Redraw reveal for 1: WH1 X6h
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+aggro_pressure awarded 1
+
+Round #76, aggro_pressure (-1052), exploiter (1052)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [7c Ts]
+exploiter dealt [Qc 9s]
+Redraw reveal for 1: WH0 X7c
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter calls
+Flop [7s 4d Kc], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WH1 X9s
+exploiter redraws hole card 1 and checks
+aggro_pressure bets 5
+exploiter calls
+Turn [7s 4d Kc 2s], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure bets 11
+exploiter calls
+River [7s 4d Kc 2s 2h], aggro_pressure (20), exploiter (20)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [Js Ts]
+exploiter shows [Qc 4h]
+aggro_pressure awarded -20
+exploiter awarded 20
+
+Round #77, exploiter (1072), aggro_pressure (-1072)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Kh 2c]
+aggro_pressure dealt [Jh Qd]
+exploiter raises to 5
+aggro_pressure raises to 12
+Redraw reveal for 1: WH1 X2c
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #78, aggro_pressure (-1067), exploiter (1067)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8h 3s]
+exploiter dealt [Kd 5d]
+Redraw reveal for 1: WH0 X8h
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter calls
+Flop [2h 4h 4c], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WH1 X5d
+exploiter redraws hole card 1 and checks
+aggro_pressure checks
+Turn [2h 4h 4c 7c], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 4
+exploiter calls
+River [2h 4h 4c 7c 9c], aggro_pressure (8), exploiter (8)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [Ks 3s]
+exploiter shows [Kd Ts]
+aggro_pressure awarded -8
+exploiter awarded 8
+
+Round #79, exploiter (1075), aggro_pressure (-1075)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [7s 4c]
+aggro_pressure dealt [7d 4s]
+Redraw reveal for 1: WH0 X7s
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X7d
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #80, aggro_pressure (-1070), exploiter (1070)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [6c Qc]
+exploiter dealt [3c Jd]
+Redraw reveal for 1: WH0 X6c
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X3c
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #81, exploiter (1068), aggro_pressure (-1068)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [3d 7d]
+aggro_pressure dealt [3c Js]
+Redraw reveal for 1: WH0 X3d
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #82, aggro_pressure (-1063), exploiter (1063)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8d Ks]
+exploiter dealt [4s 6s]
+Redraw reveal for 1: WH0 X8d
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X4s
+exploiter redraws hole card 0 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #83, exploiter (1061), aggro_pressure (-1061)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [6s Ah]
+aggro_pressure dealt [5c 4c]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X4c
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH0 X6s
+exploiter redraws hole card 0 and calls
+Flop [Ks As 3c], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 10
+exploiter calls
+Turn [Ks As 3c Qd], exploiter (18), aggro_pressure (18)
+aggro_pressure bets 23
+exploiter calls
+River [Ks As 3c Qd 9c], exploiter (41), aggro_pressure (41)
+aggro_pressure bets 53
+exploiter calls
+exploiter shows [Kh Ah]
+aggro_pressure shows [5c Jh]
+exploiter awarded 94
+aggro_pressure awarded -94
+
+Round #84, aggro_pressure (-1155), exploiter (1155)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5d 8h]
+exploiter dealt [3c Kd]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter calls
+Flop [9s 2d Ad], aggro_pressure (4), exploiter (4)
+Redraw reveal for 0: WH0 X3c
+exploiter redraws hole card 0 and checks
+aggro_pressure bets 5
+exploiter calls
+Turn [9s 2d Ad 5h], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure checks
+River [9s 2d Ad 5h 4d], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure bets 11
+exploiter calls
+aggro_pressure shows [Qh 8h]
+exploiter shows [Ah Kd]
+aggro_pressure awarded -20
+exploiter awarded 20
+
+Round #85, exploiter (1175), aggro_pressure (-1175)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [3c Kh]
+aggro_pressure dealt [6c 7d]
+Redraw reveal for 1: WH0 X3c
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X6c
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter calls
+Flop [Jd 5h 7s], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 12
+exploiter calls
+Turn [Jd 5h 7s 3d], exploiter (20), aggro_pressure (20)
+aggro_pressure bets 32
+exploiter calls
+River [Jd 5h 7s 3d 9s], exploiter (52), aggro_pressure (52)
+aggro_pressure bets 83
+exploiter calls
+exploiter shows [8c Kh]
+aggro_pressure shows [7c 7d]
+exploiter awarded -135
+aggro_pressure awarded 135
+
+Round #86, aggro_pressure (-1040), exploiter (1040)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Kh 2h]
+exploiter dealt [8s As]
+Redraw reveal for 1: WH1 X2h
+aggro_pressure redraws hole card 1 and raises to 4
+exploiter raises to 13
+aggro_pressure raises to 400
+exploiter calls
+aggro_pressure shows [Kh Qs]
+exploiter shows [8s As]
+aggro_pressure awarded 400
+exploiter awarded -400
+
+Round #87, exploiter (640), aggro_pressure (-640)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qh Qd]
+aggro_pressure dealt [7d 9d]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X9d
+aggro_pressure redraws hole card 1 and raises to 8
+exploiter raises to 400
+aggro_pressure calls
+exploiter shows [Qh Qd]
+aggro_pressure shows [7d 2c]
+exploiter awarded -400
+aggro_pressure awarded 400
+
+Round #88, aggro_pressure (-240), exploiter (240)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5c 2h]
+exploiter dealt [7s 4d]
+Redraw reveal for 1: WH1 X2h
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH1 X4d
+exploiter redraws hole card 1 and folds
+aggro_pressure awarded 2
+exploiter awarded -2
+
+Round #89, exploiter (238), aggro_pressure (-238)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Th Qd]
+aggro_pressure dealt [Td Ad]
+Redraw reveal for 1: WH0 XTh
+exploiter redraws hole card 0 and raises to 5
+aggro_pressure raises to 12
+exploiter calls
+Flop [9s 2d 6d], exploiter (12), aggro_pressure (12)
+Redraw reveal for 0: WB0 X9s
+aggro_pressure redraws board card 0 and bets 16
+exploiter calls
+Turn [Kh 2d 6d 9c], exploiter (28), aggro_pressure (28)
+aggro_pressure bets 36
+exploiter calls
+River [Kh 2d 6d 9c Qh], exploiter (64), aggro_pressure (64)
+aggro_pressure bets 83
+exploiter calls
+exploiter shows [Ac Qd]
+aggro_pressure shows [Td Ad]
+exploiter awarded 147
+aggro_pressure awarded -147
+
+Round #90, aggro_pressure (-385), exploiter (385)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Jd 6d]
+exploiter dealt [6c 6h]
+aggro_pressure raises to 6
+exploiter raises to 22
+aggro_pressure calls
+Flop [4d Kc 2s], aggro_pressure (22), exploiter (22)
+exploiter checks
+Redraw reveal for 1: WH1 X6d
+aggro_pressure redraws hole card 1 and bets 30
+exploiter calls
+Turn [4d Kc 2s 3h], aggro_pressure (52), exploiter (52)
+exploiter bets 93
+aggro_pressure calls
+River [4d Kc 2s 3h Ac], aggro_pressure (145), exploiter (145)
+exploiter checks
+aggro_pressure bets 188
+exploiter calls
+aggro_pressure shows [Jd Qh]
+exploiter shows [6c 6h]
+aggro_pressure awarded -333
+exploiter awarded 333
+
+Round #91, exploiter (718), aggro_pressure (-718)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [7d Kc]
+aggro_pressure dealt [7s 5d]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X5d
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH0 X7d
+exploiter redraws hole card 0 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #92, aggro_pressure (-713), exploiter (713)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5s 8s]
+exploiter dealt [4c 7d]
+Redraw reveal for 1: WH0 X5s
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X4c
+exploiter redraws hole card 0 and calls
+Flop [Jd Ac 6h], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure checks
+Turn [Jd Ac 6h 3c], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 5
+exploiter calls
+River [Jd Ac 6h 3c 2h], aggro_pressure (9), exploiter (9)
+exploiter checks
+aggro_pressure checks
+aggro_pressure shows [5d 8s]
+exploiter shows [Jh 7d]
+aggro_pressure awarded -9
+exploiter awarded 9
+
+Round #93, exploiter (722), aggro_pressure (-722)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [6h 3h]
+aggro_pressure dealt [3d Js]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X3d
+aggro_pressure redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH1 X3h
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #94, aggro_pressure (-717), exploiter (717)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Jd 6c]
+exploiter dealt [Tc Jh]
+Redraw reveal for 1: WH1 X6c
+aggro_pressure redraws hole card 1 and raises to 4
+exploiter raises to 13
+aggro_pressure calls
+Flop [3s Qc Js], aggro_pressure (13), exploiter (13)
+Redraw reveal for 0: WH0 XTc
+exploiter redraws hole card 0 and bets 23
+aggro_pressure raises to 46
+exploiter calls
+Turn [3s Qc Js 6d], aggro_pressure (59), exploiter (59)
+exploiter bets 106
+aggro_pressure raises to 212
+exploiter calls
+River [3s Qc Js 6d Ac], aggro_pressure (271), exploiter (271)
+exploiter bets 129
+aggro_pressure calls
+aggro_pressure shows [Jd Ts]
+exploiter shows [Th Jh]
+aggro_pressure awarded 0
+exploiter awarded 0
+
+Round #95, exploiter (717), aggro_pressure (-717)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [6d 9c]
+aggro_pressure dealt [2c Jd]
+Redraw reveal for 1: WH0 X6d
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+aggro_pressure awarded 1
+
+Round #96, aggro_pressure (-716), exploiter (716)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [Ks 2c]
+exploiter dealt [7h 4h]
+Redraw reveal for 1: WH1 X2c
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH1 X4h
+exploiter redraws hole card 1 and calls
+Flop [5c Jd Js], aggro_pressure (4), exploiter (4)
+exploiter checks
+aggro_pressure bets 6
+exploiter calls
+Turn [5c Jd Js Ts], aggro_pressure (10), exploiter (10)
+exploiter checks
+aggro_pressure bets 16
+exploiter calls
+River [5c Jd Js Ts 7c], aggro_pressure (26), exploiter (26)
+exploiter bets 46
+aggro_pressure raises to 92
+exploiter calls
+aggro_pressure shows [Ks 4s]
+exploiter shows [7h Tc]
+aggro_pressure awarded -118
+exploiter awarded 118
+
+Round #97, exploiter (834), aggro_pressure (-834)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Qs 9h]
+aggro_pressure dealt [3c 5s]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH1 X9h
+exploiter redraws hole card 1 and calls
+Flop [8h 4h 7d], exploiter (8), aggro_pressure (8)
+aggro_pressure bets 10
+exploiter calls
+Turn [8h 4h 7d 7s], exploiter (18), aggro_pressure (18)
+aggro_pressure bets 23
+exploiter calls
+River [8h 4h 7d 7s 2d], exploiter (41), aggro_pressure (41)
+aggro_pressure checks
+exploiter checks
+exploiter shows [Qs 6c]
+aggro_pressure shows [7c 5s]
+exploiter awarded -41
+aggro_pressure awarded 41
+
+Round #98, aggro_pressure (-793), exploiter (793)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [5d 4d]
+exploiter dealt [Qc Jc]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter raises to 13
+aggro_pressure folds
+aggro_pressure awarded -4
+exploiter awarded 4
+
+Round #99, exploiter (797), aggro_pressure (-797)
+exploiter posts blind 1
+aggro_pressure posts blind 2
+exploiter dealt [Kh 7d]
+aggro_pressure dealt [2h 5c]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X2h
+aggro_pressure redraws hole card 0 and raises to 8
+exploiter folds
+exploiter awarded -5
+aggro_pressure awarded 5
+
+Round #100, aggro_pressure (-792), exploiter (792)
+aggro_pressure posts blind 1
+exploiter posts blind 2
+aggro_pressure dealt [8s As]
+exploiter dealt [Qs Ad]
+Redraw reveal for 1: WH0 X8s
+aggro_pressure redraws hole card 0 and raises to 4
+exploiter raises to 13
+aggro_pressure raises to 400
+exploiter calls
+aggro_pressure shows [5d As]
+exploiter shows [Qs Ad]
+aggro_pressure awarded 400
+exploiter awarded -400
+
+Final, exploiter (392), aggro_pressure (-392)

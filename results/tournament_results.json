@@ -1,0 +1,127 @@
+{
+  "leaderboard": [
+    {
+      "rank": 1,
+      "name": "redraw_hunter",
+      "wins": 10,
+      "losses": 0,
+      "draws": 0,
+      "delta": 6120,
+      "played": 10,
+      "avg_delta_per_hand": 6.12
+    },
+    {
+      "rank": 2,
+      "name": "mc_equity",
+      "wins": 5,
+      "losses": 5,
+      "draws": 0,
+      "delta": 1127,
+      "played": 10,
+      "avg_delta_per_hand": 1.127
+    },
+    {
+      "rank": 3,
+      "name": "exploiter",
+      "wins": 6,
+      "losses": 4,
+      "draws": 0,
+      "delta": 173,
+      "played": 10,
+      "avg_delta_per_hand": 0.173
+    },
+    {
+      "rank": 4,
+      "name": "tight_aggro",
+      "wins": 1,
+      "losses": 9,
+      "draws": 0,
+      "delta": -1451,
+      "played": 10,
+      "avg_delta_per_hand": -1.451
+    },
+    {
+      "rank": 5,
+      "name": "gto_balanced",
+      "wins": 3,
+      "losses": 7,
+      "draws": 0,
+      "delta": -1525,
+      "played": 10,
+      "avg_delta_per_hand": -1.525
+    },
+    {
+      "rank": 6,
+      "name": "aggro_pressure",
+      "wins": 5,
+      "losses": 5,
+      "draws": 0,
+      "delta": -4444,
+      "played": 10,
+      "avg_delta_per_hand": -4.444
+    }
+  ],
+  "head_to_head": {
+    "mc_equity_vs_tight_aggro": {
+      "mc_equity": -26,
+      "tight_aggro": 26
+    },
+    "aggro_pressure_vs_mc_equity": {
+      "mc_equity": -327,
+      "aggro_pressure": 327
+    },
+    "exploiter_vs_mc_equity": {
+      "mc_equity": 1742,
+      "exploiter": -1742
+    },
+    "gto_balanced_vs_mc_equity": {
+      "mc_equity": 17,
+      "gto_balanced": -17
+    },
+    "mc_equity_vs_redraw_hunter": {
+      "mc_equity": -279,
+      "redraw_hunter": 279
+    },
+    "aggro_pressure_vs_tight_aggro": {
+      "tight_aggro": -309,
+      "aggro_pressure": 309
+    },
+    "exploiter_vs_tight_aggro": {
+      "tight_aggro": -625,
+      "exploiter": 625
+    },
+    "gto_balanced_vs_tight_aggro": {
+      "tight_aggro": -242,
+      "gto_balanced": 242
+    },
+    "redraw_hunter_vs_tight_aggro": {
+      "tight_aggro": -301,
+      "redraw_hunter": 301
+    },
+    "aggro_pressure_vs_exploiter": {
+      "aggro_pressure": -2447,
+      "exploiter": 2447
+    },
+    "aggro_pressure_vs_gto_balanced": {
+      "aggro_pressure": 628,
+      "gto_balanced": -628
+    },
+    "aggro_pressure_vs_redraw_hunter": {
+      "aggro_pressure": -3261,
+      "redraw_hunter": 3261
+    },
+    "exploiter_vs_gto_balanced": {
+      "exploiter": 389,
+      "gto_balanced": -389
+    },
+    "exploiter_vs_redraw_hunter": {
+      "exploiter": -1546,
+      "redraw_hunter": 1546
+    },
+    "gto_balanced_vs_redraw_hunter": {
+      "gto_balanced": -733,
+      "redraw_hunter": 733
+    }
+  },
+  "rounds_per_match": 100
+}

@@ -1,0 +1,113 @@
+TACS Pokerbots - mc_equity vs check_call
+
+Round #1, mc_equity (0), check_call (0)
+mc_equity posts blind 1
+check_call posts blind 2
+mc_equity dealt [Ad 5d]
+check_call dealt [6h Kh]
+mc_equity raises to 5
+check_call calls
+Flop [3d 9c Tc], mc_equity (5), check_call (5)
+Redraw reveal for 0: WH0 X6h
+check_call redraws hole card 0 and checks
+Redraw reveal for 1: WB2 XTc
+mc_equity redraws board card 2 and checks
+Turn [3d 9c 4c Td], mc_equity (5), check_call (5)
+check_call checks
+mc_equity bets 5
+check_call calls
+River [3d 9c 4c Td Qc], mc_equity (10), check_call (10)
+check_call checks
+mc_equity checks
+mc_equity shows [Ad 5d]
+check_call shows [Qh Kh]
+mc_equity awarded -10
+check_call awarded 10
+
+Round #2, check_call (10), mc_equity (-10)
+check_call posts blind 1
+mc_equity posts blind 2
+check_call dealt [9d 9s]
+mc_equity dealt [Ah 2d]
+check_call calls
+mc_equity checks
+Flop [5s Qc 5d], check_call (2), mc_equity (2)
+Redraw reveal for 0: WB1 XQc
+mc_equity redraws board card 1 and checks
+check_call checks
+Turn [5s Tc 5d 5h], check_call (2), mc_equity (2)
+mc_equity bets 2
+check_call calls
+River [5s Tc 5d 5h 3s], check_call (4), mc_equity (4)
+mc_equity bets 4
+check_call calls
+check_call shows [9d 9s]
+mc_equity shows [Ah 2d]
+check_call awarded 8
+mc_equity awarded -8
+
+Round #3, mc_equity (-18), check_call (18)
+mc_equity posts blind 1
+check_call posts blind 2
+mc_equity dealt [Ad 9s]
+check_call dealt [7d 4c]
+mc_equity raises to 5
+check_call calls
+Flop [9d 2d 3d], mc_equity (5), check_call (5)
+Redraw reveal for 0: WH1 X4c
+check_call redraws hole card 1 and checks
+mc_equity bets 7
+check_call calls
+Turn [9d 2d 3d Jd], mc_equity (12), check_call (12)
+check_call checks
+mc_equity bets 16
+check_call folds
+mc_equity awarded 12
+check_call awarded -12
+
+Round #4, check_call (6), mc_equity (-6)
+check_call posts blind 1
+mc_equity posts blind 2
+check_call dealt [2d Kh]
+mc_equity dealt [8d Ac]
+check_call calls
+mc_equity raises to 6
+check_call calls
+Flop [8h 2h 3h], check_call (6), mc_equity (6)
+Redraw reveal for 0: WH1 XAc
+mc_equity redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X2d
+check_call redraws hole card 0 and checks
+Turn [8h 2h 3h 4c], check_call (6), mc_equity (6)
+mc_equity bets 8
+check_call calls
+River [8h 2h 3h 4c Qc], check_call (14), mc_equity (14)
+mc_equity bets 19
+check_call folds
+check_call awarded -14
+mc_equity awarded 14
+
+Round #5, mc_equity (8), check_call (-8)
+mc_equity posts blind 1
+check_call posts blind 2
+mc_equity dealt [Ah Kd]
+check_call dealt [2c Ks]
+mc_equity raises to 5
+check_call calls
+Flop [6h 5s 2s], mc_equity (5), check_call (5)
+Redraw reveal for 0: WH0 X2c
+check_call redraws hole card 0 and checks
+Redraw reveal for 1: WB1 X5s
+mc_equity redraws board card 1 and checks
+Turn [6h Qd 2s 9s], mc_equity (5), check_call (5)
+check_call checks
+mc_equity checks
+River [6h Qd 2s 9s 3h], mc_equity (5), check_call (5)
+check_call checks
+mc_equity checks
+mc_equity shows [Ah Kd]
+check_call shows [5c Ks]
+mc_equity awarded 5
+check_call awarded -5
+
+Final, check_call (-13), mc_equity (13)

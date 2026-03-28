@@ -1,0 +1,94 @@
+TACS Pokerbots - bot_gto_balanced vs check_call
+
+Round #1, bot_gto_balanced (0), check_call (0)
+bot_gto_balanced posts blind 1
+check_call posts blind 2
+bot_gto_balanced dealt [Qs 9s]
+check_call dealt [5h 3c]
+bot_gto_balanced raises to 5
+check_call calls
+Flop [Kh Jd 4s], bot_gto_balanced (5), check_call (5)
+Redraw reveal for 0: WH1 X3c
+check_call redraws hole card 1 and checks
+Redraw reveal for 1: WB2 X4s
+bot_gto_balanced redraws board card 2 and bets 4
+check_call calls
+Turn [Kh Jd Qd Ah], bot_gto_balanced (9), check_call (9)
+check_call checks
+bot_gto_balanced bets 8
+check_call calls
+River [Kh Jd Qd Ah 2h], bot_gto_balanced (17), check_call (17)
+check_call checks
+bot_gto_balanced checks
+bot_gto_balanced shows [Qs 9s]
+check_call shows [5h Th]
+bot_gto_balanced awarded -17
+check_call awarded 17
+
+Round #2, check_call (17), bot_gto_balanced (-17)
+check_call posts blind 1
+bot_gto_balanced posts blind 2
+check_call dealt [Qh 2h]
+bot_gto_balanced dealt [9h Td]
+check_call calls
+bot_gto_balanced raises to 8
+check_call calls
+Flop [7h Jc 4h], check_call (8), bot_gto_balanced (8)
+bot_gto_balanced checks
+Redraw reveal for 1: WH1 X2h
+check_call redraws hole card 1 and checks
+Turn [7h Jc 4h 8s], check_call (8), bot_gto_balanced (8)
+bot_gto_balanced bets 11
+check_call folds
+check_call awarded -8
+bot_gto_balanced awarded 8
+
+Round #3, bot_gto_balanced (-9), check_call (9)
+bot_gto_balanced posts blind 1
+check_call posts blind 2
+bot_gto_balanced dealt [8s 9c]
+check_call dealt [2d 4d]
+bot_gto_balanced raises to 5
+check_call calls
+Flop [Qh Kd Qd], bot_gto_balanced (5), check_call (5)
+Redraw reveal for 0: WH0 X2d
+check_call redraws hole card 0 and checks
+Redraw reveal for 1: WB1 XKd
+bot_gto_balanced redraws board card 1 and checks
+Turn [Qh Kh Qd Td], bot_gto_balanced (5), check_call (5)
+check_call checks
+bot_gto_balanced bets 4
+check_call calls
+River [Qh Kh Qd Td Ac], bot_gto_balanced (9), check_call (9)
+check_call checks
+bot_gto_balanced checks
+bot_gto_balanced shows [8s 9c]
+check_call shows [7h 4d]
+bot_gto_balanced awarded 0
+check_call awarded 0
+
+Round #4, check_call (9), bot_gto_balanced (-9)
+check_call posts blind 1
+bot_gto_balanced posts blind 2
+check_call dealt [Kh Jh]
+bot_gto_balanced dealt [Tc Kd]
+check_call calls
+bot_gto_balanced raises to 8
+check_call calls
+Flop [Ks Qc 7h], check_call (8), bot_gto_balanced (8)
+bot_gto_balanced bets 11
+check_call folds
+check_call awarded -8
+bot_gto_balanced awarded 8
+
+Round #5, bot_gto_balanced (-1), check_call (1)
+bot_gto_balanced posts blind 1
+check_call posts blind 2
+bot_gto_balanced dealt [8s 9d]
+check_call dealt [Jc 2d]
+Redraw reveal for 1: WH0 X8s
+bot_gto_balanced redraws hole card 0 and folds
+bot_gto_balanced awarded -1
+check_call awarded 1
+
+Final, check_call (2), bot_gto_balanced (-2)

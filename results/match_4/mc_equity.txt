@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/player.py", line 383, in <module>
+    run_bot_enhanced(Player(), parse_args())
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/player.py", line 175, in run_bot_enhanced
+    EnhancedRunner(pokerbot, socketfile).run()
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/skeleton/runner.py", line 167, in run
+    action = self.pokerbot.get_action(game_state, round_state, active)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/player.py", line 225, in get_action
+    rd = self._decide_redraw(my_cards, board, legal, continue_cost)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/player.py", line 267, in _decide_redraw
+    current_eq = mc_equity(my_cards, board, excluded_extra=dead, n_sims=150)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/player.py", line 64, in mc_equity
+    my_score  = pkrbot.evaluate(my_full + full_board)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/pkrbot.py", line 37, in evaluate
+    s = _score5(combo)
+        ^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/pkrbot.py", line 44, in _score5
+    ranks = sorted([_RANK_VAL[c[0]] for c in cards], reverse=True)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/python_skeleton/pkrbot.py", line 44, in <listcomp>
+    ranks = sorted([_RANK_VAL[c[0]] for c in cards], reverse=True)
+                    ~~~~~~~~~^^^^^^
+KeyError: '?'

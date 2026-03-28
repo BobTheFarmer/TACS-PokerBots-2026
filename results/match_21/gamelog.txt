@@ -1,0 +1,1002 @@
+TACS Pokerbots - aggro_pressure vs tight_aggro
+
+Round #1, aggro_pressure (0), tight_aggro (0)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [As Js]
+tight_aggro dealt [Ts Jc]
+aggro_pressure raises to 6
+tight_aggro calls
+Flop [Tc Qs 7c], aggro_pressure (6), tight_aggro (6)
+tight_aggro bets 9
+aggro_pressure raises to 18
+tight_aggro calls
+Turn [Tc Qs 7c 5d], aggro_pressure (24), tight_aggro (24)
+tight_aggro bets 36
+Redraw reveal for 1: WB2 X7c
+aggro_pressure redraws board card 2 and raises to 72
+tight_aggro response misformatted: 
+tight_aggro folds
+aggro_pressure awarded 60
+tight_aggro awarded -60
+tight_aggro response misformatted: 
+
+Round #2, tight_aggro (-60), aggro_pressure (60)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [9s Ac]
+aggro_pressure dealt [Ks 6d]
+tight_aggro disconnected
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #3, aggro_pressure (61), tight_aggro (-61)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [9c Qs]
+tight_aggro dealt [Qh Td]
+Redraw reveal for 1: WH0 X9c
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #4, tight_aggro (-63), aggro_pressure (63)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Qd Jc]
+aggro_pressure dealt [2d 7d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #5, aggro_pressure (64), tight_aggro (-64)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [7c Qs]
+tight_aggro dealt [8h As]
+Redraw reveal for 1: WH0 X7c
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #6, tight_aggro (-66), aggro_pressure (66)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [2h Kc]
+aggro_pressure dealt [Td Tc]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #7, aggro_pressure (67), tight_aggro (-67)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Qs 3s]
+tight_aggro dealt [9c Ac]
+Redraw reveal for 1: WH1 X3s
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #8, tight_aggro (-69), aggro_pressure (69)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [2d Th]
+aggro_pressure dealt [4c 5d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #9, aggro_pressure (70), tight_aggro (-70)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [4h 6d]
+tight_aggro dealt [3h 6c]
+Redraw reveal for 1: WH0 X4h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #10, tight_aggro (-72), aggro_pressure (72)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [7h 6s]
+aggro_pressure dealt [Ks 6c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #11, aggro_pressure (73), tight_aggro (-73)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Jh Kc]
+tight_aggro dealt [7c 8h]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #12, tight_aggro (-75), aggro_pressure (75)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [8h Ah]
+aggro_pressure dealt [8s 6h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #13, aggro_pressure (76), tight_aggro (-76)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [2d Jh]
+tight_aggro dealt [6c Kd]
+Redraw reveal for 1: WH0 X2d
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #14, tight_aggro (-78), aggro_pressure (78)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [4c Jd]
+aggro_pressure dealt [3h 9h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #15, aggro_pressure (79), tight_aggro (-79)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Tc 5d]
+tight_aggro dealt [Kh 9c]
+Redraw reveal for 1: WH1 X5d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #16, tight_aggro (-81), aggro_pressure (81)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [5c Ah]
+aggro_pressure dealt [9h Ks]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #17, aggro_pressure (82), tight_aggro (-82)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [9s Ts]
+tight_aggro dealt [6s 5h]
+Redraw reveal for 1: WH0 X9s
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #18, tight_aggro (-84), aggro_pressure (84)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Ah 8h]
+aggro_pressure dealt [Jh 3s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #19, aggro_pressure (85), tight_aggro (-85)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Kh Tc]
+tight_aggro dealt [Qh 6d]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #20, tight_aggro (-87), aggro_pressure (87)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Jd 4d]
+aggro_pressure dealt [6d 6c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #21, aggro_pressure (88), tight_aggro (-88)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [3h Td]
+tight_aggro dealt [4s 2d]
+Redraw reveal for 1: WH0 X3h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #22, tight_aggro (-90), aggro_pressure (90)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [4c Jd]
+aggro_pressure dealt [Tc 9s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #23, aggro_pressure (91), tight_aggro (-91)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [8s 8d]
+tight_aggro dealt [2d As]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #24, tight_aggro (-93), aggro_pressure (93)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [2d Jd]
+aggro_pressure dealt [3d Qc]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #25, aggro_pressure (94), tight_aggro (-94)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Jd 2d]
+tight_aggro dealt [6s 2c]
+Redraw reveal for 1: WH1 X2d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #26, tight_aggro (-96), aggro_pressure (96)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Jd Th]
+aggro_pressure dealt [3d Kd]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #27, aggro_pressure (97), tight_aggro (-97)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Kd Jd]
+tight_aggro dealt [Qh 5d]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #28, tight_aggro (-99), aggro_pressure (99)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [As Jc]
+aggro_pressure dealt [6d Th]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #29, aggro_pressure (100), tight_aggro (-100)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [5s Td]
+tight_aggro dealt [4h Ah]
+Redraw reveal for 1: WH0 X5s
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #30, tight_aggro (-102), aggro_pressure (102)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Js 8s]
+aggro_pressure dealt [5s 3h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #31, aggro_pressure (103), tight_aggro (-103)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Qd 7d]
+tight_aggro dealt [9c 3s]
+Redraw reveal for 1: WH1 X7d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #32, tight_aggro (-105), aggro_pressure (105)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [4c 8c]
+aggro_pressure dealt [3d Td]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #33, aggro_pressure (106), tight_aggro (-106)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [9c 8d]
+tight_aggro dealt [Ts Js]
+Redraw reveal for 1: WH0 X9c
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #34, tight_aggro (-108), aggro_pressure (108)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [4c 8c]
+aggro_pressure dealt [Ks 7c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #35, aggro_pressure (109), tight_aggro (-109)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [5h Jh]
+tight_aggro dealt [Qs Ac]
+Redraw reveal for 1: WH0 X5h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #36, tight_aggro (-111), aggro_pressure (111)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [2d Kc]
+aggro_pressure dealt [Ac 6h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #37, aggro_pressure (112), tight_aggro (-112)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [5s 7d]
+tight_aggro dealt [Ks 5h]
+Redraw reveal for 1: WH1 X7d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #38, tight_aggro (-114), aggro_pressure (114)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [3d 9c]
+aggro_pressure dealt [5h 7h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #39, aggro_pressure (115), tight_aggro (-115)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Qs 6c]
+tight_aggro dealt [Jh 9h]
+Redraw reveal for 1: WH1 X6c
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #40, tight_aggro (-117), aggro_pressure (117)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [2d Qs]
+aggro_pressure dealt [Ts Jc]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #41, aggro_pressure (118), tight_aggro (-118)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [3h Td]
+tight_aggro dealt [Ts 3c]
+Redraw reveal for 1: WH1 XTd
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #42, tight_aggro (-120), aggro_pressure (120)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [3s Jd]
+aggro_pressure dealt [6c Ks]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #43, aggro_pressure (121), tight_aggro (-121)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [4s 4d]
+tight_aggro dealt [Qh 9s]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #44, tight_aggro (-123), aggro_pressure (123)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [8d 7c]
+aggro_pressure dealt [5c Qc]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #45, aggro_pressure (124), tight_aggro (-124)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Ac 9s]
+tight_aggro dealt [3d 3h]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #46, tight_aggro (-126), aggro_pressure (126)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [7d 3h]
+aggro_pressure dealt [Js Qs]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #47, aggro_pressure (127), tight_aggro (-127)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [6c Th]
+tight_aggro dealt [9d 3s]
+Redraw reveal for 1: WH1 XTh
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #48, tight_aggro (-129), aggro_pressure (129)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Ac 8h]
+aggro_pressure dealt [2s Ad]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #49, aggro_pressure (130), tight_aggro (-130)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Kh Ts]
+tight_aggro dealt [7h 7s]
+Redraw reveal for 1: WH0 XKh
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #50, tight_aggro (-132), aggro_pressure (132)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [5c Jd]
+aggro_pressure dealt [8s 8d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #51, aggro_pressure (133), tight_aggro (-133)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [5h 3h]
+tight_aggro dealt [2d As]
+Redraw reveal for 1: WH1 X3h
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #52, tight_aggro (-135), aggro_pressure (135)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [3c Jd]
+aggro_pressure dealt [8d 8h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #53, aggro_pressure (136), tight_aggro (-136)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [3c 8s]
+tight_aggro dealt [Tc 2d]
+Redraw reveal for 1: WH1 X8s
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #54, tight_aggro (-138), aggro_pressure (138)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [As Kh]
+aggro_pressure dealt [7d 9c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #55, aggro_pressure (139), tight_aggro (-139)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Qs Qh]
+tight_aggro dealt [8s Kc]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #56, tight_aggro (-141), aggro_pressure (141)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [7d 4h]
+aggro_pressure dealt [Qs 9d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #57, aggro_pressure (142), tight_aggro (-142)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [6h Ks]
+tight_aggro dealt [8c 5d]
+Redraw reveal for 1: WH0 X6h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #58, tight_aggro (-144), aggro_pressure (144)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Th 4d]
+aggro_pressure dealt [4c 8s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #59, aggro_pressure (145), tight_aggro (-145)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Th 3d]
+tight_aggro dealt [9d 4h]
+Redraw reveal for 1: WH1 X3d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #60, tight_aggro (-147), aggro_pressure (147)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [9c Ad]
+aggro_pressure dealt [5h 4d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #61, aggro_pressure (148), tight_aggro (-148)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Ks Ac]
+tight_aggro dealt [Js 3s]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #62, tight_aggro (-150), aggro_pressure (150)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Th Kc]
+aggro_pressure dealt [4c 2d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #63, aggro_pressure (151), tight_aggro (-151)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Jh 3c]
+tight_aggro dealt [5h 9d]
+Redraw reveal for 1: WH1 X3c
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #64, tight_aggro (-153), aggro_pressure (153)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [7h 8d]
+aggro_pressure dealt [9c 6c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #65, aggro_pressure (154), tight_aggro (-154)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Ks 3d]
+tight_aggro dealt [9h Kh]
+Redraw reveal for 1: WH1 X3d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #66, tight_aggro (-156), aggro_pressure (156)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Ts 3d]
+aggro_pressure dealt [Jc 9s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #67, aggro_pressure (157), tight_aggro (-157)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [2c 7d]
+tight_aggro dealt [9c Qs]
+Redraw reveal for 1: WH0 X2c
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #68, tight_aggro (-159), aggro_pressure (159)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [7d 6s]
+aggro_pressure dealt [Td 4c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #69, aggro_pressure (160), tight_aggro (-160)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [7h Qd]
+tight_aggro dealt [5h 3s]
+Redraw reveal for 1: WH0 X7h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #70, tight_aggro (-162), aggro_pressure (162)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Ks 9c]
+aggro_pressure dealt [9s 2s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #71, aggro_pressure (163), tight_aggro (-163)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Qs Ac]
+tight_aggro dealt [8c 4h]
+Redraw reveal for 1: WH0 XQs
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #72, tight_aggro (-165), aggro_pressure (165)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [6h 3s]
+aggro_pressure dealt [7h 5h]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #73, aggro_pressure (166), tight_aggro (-166)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [6d Qs]
+tight_aggro dealt [Kc 6c]
+Redraw reveal for 1: WH0 X6d
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #74, tight_aggro (-168), aggro_pressure (168)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Ts 7s]
+aggro_pressure dealt [Ks Ah]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #75, aggro_pressure (169), tight_aggro (-169)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [8h 6h]
+tight_aggro dealt [Kc Ts]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #76, tight_aggro (-171), aggro_pressure (171)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [4s 2c]
+aggro_pressure dealt [5h 2s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #77, aggro_pressure (172), tight_aggro (-172)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [4s Tc]
+tight_aggro dealt [Jc Ks]
+Redraw reveal for 1: WH0 X4s
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #78, tight_aggro (-174), aggro_pressure (174)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [8c 9s]
+aggro_pressure dealt [Ks As]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #79, aggro_pressure (175), tight_aggro (-175)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Jc 9h]
+tight_aggro dealt [2s 3h]
+Redraw reveal for 1: WH0 XJc
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #80, tight_aggro (-177), aggro_pressure (177)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [7h 3c]
+aggro_pressure dealt [Qh 6s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #81, aggro_pressure (178), tight_aggro (-178)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [7d 6d]
+tight_aggro dealt [9h 4h]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #82, tight_aggro (-180), aggro_pressure (180)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Ac Ts]
+aggro_pressure dealt [Qc Ad]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #83, aggro_pressure (181), tight_aggro (-181)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Qc 6s]
+tight_aggro dealt [Ks Qd]
+Redraw reveal for 1: WH1 X6s
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #84, tight_aggro (-183), aggro_pressure (183)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [4h Ad]
+aggro_pressure dealt [8c 4s]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #85, aggro_pressure (184), tight_aggro (-184)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [5h 7c]
+tight_aggro dealt [Jd 6h]
+Redraw reveal for 1: WH1 X7c
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #86, tight_aggro (-186), aggro_pressure (186)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Qs Ts]
+aggro_pressure dealt [6d 3c]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #87, aggro_pressure (187), tight_aggro (-187)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Ah 6s]
+tight_aggro dealt [7d 4s]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #88, tight_aggro (-189), aggro_pressure (189)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [5c 7d]
+aggro_pressure dealt [Kh Ac]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #89, aggro_pressure (190), tight_aggro (-190)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [9c 9h]
+tight_aggro dealt [Qd 4h]
+aggro_pressure raises to 6
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #90, tight_aggro (-192), aggro_pressure (192)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [8c 3s]
+aggro_pressure dealt [Ah Td]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #91, aggro_pressure (193), tight_aggro (-193)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [Ah 6d]
+tight_aggro dealt [5d Td]
+Redraw reveal for 1: WH1 X6d
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #92, tight_aggro (-195), aggro_pressure (195)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [8s Ac]
+aggro_pressure dealt [Tc 8d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #93, aggro_pressure (196), tight_aggro (-196)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [3h 9d]
+tight_aggro dealt [Qs Kd]
+Redraw reveal for 1: WH0 X3h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #94, tight_aggro (-198), aggro_pressure (198)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [8s 6c]
+aggro_pressure dealt [7s Kh]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #95, aggro_pressure (199), tight_aggro (-199)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [4c 3s]
+tight_aggro dealt [6d Ts]
+Redraw reveal for 1: WH1 X3s
+aggro_pressure redraws hole card 1 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #96, tight_aggro (-201), aggro_pressure (201)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [3h Kc]
+aggro_pressure dealt [Td Jh]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #97, aggro_pressure (202), tight_aggro (-202)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [8h Kd]
+tight_aggro dealt [2h 9d]
+Redraw reveal for 1: WH0 X8h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #98, tight_aggro (-204), aggro_pressure (204)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [Jc 4s]
+aggro_pressure dealt [Qd 2d]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Round #99, aggro_pressure (205), tight_aggro (-205)
+aggro_pressure posts blind 1
+tight_aggro posts blind 2
+aggro_pressure dealt [3h Qc]
+tight_aggro dealt [5d Qd]
+Redraw reveal for 1: WH0 X3h
+aggro_pressure redraws hole card 0 and raises to 4
+tight_aggro folds
+aggro_pressure awarded 2
+tight_aggro awarded -2
+
+Round #100, tight_aggro (-207), aggro_pressure (207)
+tight_aggro posts blind 1
+aggro_pressure posts blind 2
+tight_aggro dealt [9d 4s]
+aggro_pressure dealt [9c As]
+tight_aggro folds
+tight_aggro awarded -1
+aggro_pressure awarded 1
+
+Final, aggro_pressure (208), tight_aggro (-208)

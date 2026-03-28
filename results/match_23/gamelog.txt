@@ -1,0 +1,992 @@
+TACS Pokerbots - gto_balanced vs tight_aggro
+
+Round #1, gto_balanced (0), tight_aggro (0)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [3c As]
+tight_aggro dealt [2h 7s]
+Redraw reveal for 1: WH0 X3c
+gto_balanced redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X2h
+tight_aggro redraws hole card 0 and folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #2, tight_aggro (-2), gto_balanced (2)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [3h 6c]
+gto_balanced dealt [4d Js]
+Redraw reveal for 1: WH0 X3h
+tight_aggro redraws hole card 0 and folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #3, gto_balanced (3), tight_aggro (-3)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [4s As]
+tight_aggro dealt [Kc 3c]
+gto_balanced raises to 5
+tight_aggro calls
+Flop [8d 4h 9d], gto_balanced (5), tight_aggro (5)
+Redraw reveal for 0: WH1 X3c
+tight_aggro redraws hole card 1 and checks
+Redraw reveal for 1: WB0 X8d
+gto_balanced redraws board card 0 and checks
+Turn [Ah 4h 9d Qc], gto_balanced (5), tight_aggro (5)
+tight_aggro checks
+gto_balanced bets 7
+tight_aggro calls
+River [Ah 4h 9d Qc 3h], gto_balanced (12), tight_aggro (12)
+tight_aggro checks
+gto_balanced bets 16
+tight_aggro calls
+gto_balanced shows [4s As]
+tight_aggro shows [Kc 9c]
+gto_balanced awarded 28
+tight_aggro awarded -28
+
+Round #4, tight_aggro (-31), gto_balanced (31)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [9h 7c]
+gto_balanced dealt [7s 7h]
+tight_aggro raises to 6
+gto_balanced calls
+Flop [Tc 8c Kh], tight_aggro (6), gto_balanced (6)
+Redraw reveal for 0: WB0 XTc
+gto_balanced redraws board card 0 and bets 5
+tight_aggro response misformatted: 
+tight_aggro folds
+tight_aggro awarded -6
+gto_balanced awarded 6
+tight_aggro response misformatted: 
+
+Round #5, gto_balanced (37), tight_aggro (-37)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [3d Td]
+tight_aggro dealt [6d 4c]
+Redraw reveal for 1: WH0 X3d
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+tight_aggro disconnected
+
+Round #6, tight_aggro (-36), gto_balanced (36)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [3c 6h]
+gto_balanced dealt [2d 7s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #7, gto_balanced (37), tight_aggro (-37)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Jh 9s]
+tight_aggro dealt [Jd Qs]
+Redraw reveal for 1: WH1 X9s
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #8, tight_aggro (-39), gto_balanced (39)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [3s Qh]
+gto_balanced dealt [Kh 7s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #9, gto_balanced (40), tight_aggro (-40)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [As 3s]
+tight_aggro dealt [5d Jc]
+Redraw reveal for 1: WH1 X3s
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #10, tight_aggro (-42), gto_balanced (42)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Qh 8s]
+gto_balanced dealt [9h 8d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #11, gto_balanced (43), tight_aggro (-43)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [9s 4d]
+tight_aggro dealt [6h 2s]
+Redraw reveal for 1: WH1 X4d
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #12, tight_aggro (-42), gto_balanced (42)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [5c 5h]
+gto_balanced dealt [Qd Ts]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #13, gto_balanced (43), tight_aggro (-43)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8d Js]
+tight_aggro dealt [Th Jh]
+Redraw reveal for 1: WH0 X8d
+gto_balanced redraws hole card 0 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #14, tight_aggro (-45), gto_balanced (45)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [3h Qd]
+gto_balanced dealt [2d 3c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #15, gto_balanced (46), tight_aggro (-46)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [4d 8s]
+tight_aggro dealt [Ks Ac]
+Redraw reveal for 1: WH0 X4d
+gto_balanced redraws hole card 0 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #16, tight_aggro (-48), gto_balanced (48)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [6s Td]
+gto_balanced dealt [4d 2c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #17, gto_balanced (49), tight_aggro (-49)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [5h 5d]
+tight_aggro dealt [4d Ts]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #18, tight_aggro (-51), gto_balanced (51)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [3c 8c]
+gto_balanced dealt [5s 6c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #19, gto_balanced (52), tight_aggro (-52)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Js 4d]
+tight_aggro dealt [5s 2h]
+Redraw reveal for 1: WH1 X4d
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #20, tight_aggro (-51), gto_balanced (51)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [2s 7s]
+gto_balanced dealt [6d 9s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #21, gto_balanced (52), tight_aggro (-52)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Js Jd]
+tight_aggro dealt [9c Td]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #22, tight_aggro (-54), gto_balanced (54)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Kd Ah]
+gto_balanced dealt [Ts 6d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #23, gto_balanced (55), tight_aggro (-55)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Qd 5s]
+tight_aggro dealt [4s 8d]
+Redraw reveal for 1: WH1 X5s
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #24, tight_aggro (-57), gto_balanced (57)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Kc 4h]
+gto_balanced dealt [Th 6h]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #25, gto_balanced (58), tight_aggro (-58)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [3h 2c]
+tight_aggro dealt [6s 5d]
+Redraw reveal for 1: WH0 X3h
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #26, tight_aggro (-57), gto_balanced (57)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [7h Ks]
+gto_balanced dealt [Ad 7s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #27, gto_balanced (58), tight_aggro (-58)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Qd Qh]
+tight_aggro dealt [7s Ad]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #28, tight_aggro (-60), gto_balanced (60)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Qh Kc]
+gto_balanced dealt [6h 9c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #29, gto_balanced (61), tight_aggro (-61)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Kd Ts]
+tight_aggro dealt [3s Tc]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #30, tight_aggro (-63), gto_balanced (63)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [5s 2h]
+gto_balanced dealt [As 8d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #31, gto_balanced (64), tight_aggro (-64)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [As Qs]
+tight_aggro dealt [2h 5c]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #32, tight_aggro (-66), gto_balanced (66)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ac 5c]
+gto_balanced dealt [5s 9d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #33, gto_balanced (67), tight_aggro (-67)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [9h 2s]
+tight_aggro dealt [8s As]
+gto_balanced folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #34, tight_aggro (-66), gto_balanced (66)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [2c 7c]
+gto_balanced dealt [Td 6h]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #35, gto_balanced (67), tight_aggro (-67)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [4c Qs]
+tight_aggro dealt [4h Qh]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #36, tight_aggro (-69), gto_balanced (69)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ks Ah]
+gto_balanced dealt [Qs As]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #37, gto_balanced (70), tight_aggro (-70)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8c Ks]
+tight_aggro dealt [8h 6d]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #38, tight_aggro (-72), gto_balanced (72)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [5c Jh]
+gto_balanced dealt [2s 6c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #39, gto_balanced (73), tight_aggro (-73)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Qc Ac]
+tight_aggro dealt [Ah 6s]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #40, tight_aggro (-75), gto_balanced (75)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Tc Ah]
+gto_balanced dealt [9s 3h]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #41, gto_balanced (76), tight_aggro (-76)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Ac Jd]
+tight_aggro dealt [Td 7s]
+Redraw reveal for 1: WH1 XJd
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #42, tight_aggro (-78), gto_balanced (78)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Qd 6s]
+gto_balanced dealt [8s Ts]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #43, gto_balanced (79), tight_aggro (-79)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Ts 9h]
+tight_aggro dealt [6s 5h]
+gto_balanced folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #44, tight_aggro (-78), gto_balanced (78)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [8c Ks]
+gto_balanced dealt [Th 4s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #45, gto_balanced (79), tight_aggro (-79)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8d 3c]
+tight_aggro dealt [8c 5s]
+Redraw reveal for 1: WH1 X3c
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #46, tight_aggro (-78), gto_balanced (78)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Kc Th]
+gto_balanced dealt [2d 3d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #47, gto_balanced (79), tight_aggro (-79)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [4h 6c]
+tight_aggro dealt [Ad 4c]
+Redraw reveal for 1: WH0 X4h
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #48, tight_aggro (-78), gto_balanced (78)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [5s 3h]
+gto_balanced dealt [6c 3d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #49, gto_balanced (79), tight_aggro (-79)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8d Js]
+tight_aggro dealt [5c Kd]
+Redraw reveal for 1: WH0 X8d
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #50, tight_aggro (-78), gto_balanced (78)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [7c 7h]
+gto_balanced dealt [Qh Kh]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #51, gto_balanced (79), tight_aggro (-79)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Ad Jd]
+tight_aggro dealt [Js 9c]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #52, tight_aggro (-81), gto_balanced (81)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ts Tc]
+gto_balanced dealt [3d 3h]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #53, gto_balanced (82), tight_aggro (-82)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [3c 5c]
+tight_aggro dealt [Kh 6c]
+Redraw reveal for 1: WH0 X3c
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #54, tight_aggro (-81), gto_balanced (81)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [5s Qs]
+gto_balanced dealt [Ac 9c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #55, gto_balanced (82), tight_aggro (-82)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Ad 5c]
+tight_aggro dealt [Jd Ac]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #56, tight_aggro (-84), gto_balanced (84)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ac 5h]
+gto_balanced dealt [9s 4c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #57, gto_balanced (85), tight_aggro (-85)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [6s 8d]
+tight_aggro dealt [4h Qc]
+Redraw reveal for 1: WH0 X6s
+gto_balanced redraws hole card 0 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #58, tight_aggro (-87), gto_balanced (87)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ac 6d]
+gto_balanced dealt [4d 7d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #59, gto_balanced (88), tight_aggro (-88)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [5d Jd]
+tight_aggro dealt [Ah Tc]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #60, tight_aggro (-90), gto_balanced (90)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [6s 7h]
+gto_balanced dealt [9c Td]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #61, gto_balanced (91), tight_aggro (-91)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [5d 2h]
+tight_aggro dealt [9s Ah]
+Redraw reveal for 1: WH1 X2h
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #62, tight_aggro (-93), gto_balanced (93)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Kc 5c]
+gto_balanced dealt [Tc 6c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #63, gto_balanced (94), tight_aggro (-94)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Ks 8s]
+tight_aggro dealt [Ah 3h]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #64, tight_aggro (-96), gto_balanced (96)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ac 3h]
+gto_balanced dealt [3s Ks]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #65, gto_balanced (97), tight_aggro (-97)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [4d Qh]
+tight_aggro dealt [6d 2s]
+Redraw reveal for 1: WH0 X4d
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #66, tight_aggro (-96), gto_balanced (96)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ac 4c]
+gto_balanced dealt [3h 6d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #67, gto_balanced (97), tight_aggro (-97)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [6s 9s]
+tight_aggro dealt [8d 7h]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #68, tight_aggro (-99), gto_balanced (99)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [6h 5d]
+gto_balanced dealt [8s 5c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #69, gto_balanced (100), tight_aggro (-100)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [3s Tc]
+tight_aggro dealt [5d 2d]
+Redraw reveal for 1: WH0 X3s
+gto_balanced redraws hole card 0 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #70, tight_aggro (-102), gto_balanced (102)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [9c Js]
+gto_balanced dealt [Ac 2c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #71, gto_balanced (103), tight_aggro (-103)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [6s 7h]
+tight_aggro dealt [6d 4d]
+Redraw reveal for 1: WH0 X6s
+gto_balanced redraws hole card 0 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #72, tight_aggro (-105), gto_balanced (105)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [5d 3c]
+gto_balanced dealt [4s 5s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #73, gto_balanced (106), tight_aggro (-106)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8s 8h]
+tight_aggro dealt [Qd As]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #74, tight_aggro (-108), gto_balanced (108)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ts Tc]
+gto_balanced dealt [8c 8d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #75, gto_balanced (109), tight_aggro (-109)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [6c Ah]
+tight_aggro dealt [4h 8s]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #76, tight_aggro (-111), gto_balanced (111)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [7d 9c]
+gto_balanced dealt [Qc Ad]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #77, gto_balanced (112), tight_aggro (-112)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Th 7s]
+tight_aggro dealt [8c 4c]
+Redraw reveal for 1: WH0 XTh
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #78, tight_aggro (-111), gto_balanced (111)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [9d 8d]
+gto_balanced dealt [7c 4c]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #79, gto_balanced (112), tight_aggro (-112)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [4c 7s]
+tight_aggro dealt [9h Kh]
+Redraw reveal for 1: WH0 X4c
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+tight_aggro awarded 1
+
+Round #80, tight_aggro (-111), gto_balanced (111)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ks Qs]
+gto_balanced dealt [4c 6h]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #81, gto_balanced (112), tight_aggro (-112)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Kc 6c]
+tight_aggro dealt [3c Th]
+Redraw reveal for 1: WH1 X6c
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #82, tight_aggro (-114), gto_balanced (114)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [7c 5d]
+gto_balanced dealt [4d Jc]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #83, gto_balanced (115), tight_aggro (-115)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Jc Qd]
+tight_aggro dealt [2s 4s]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #84, tight_aggro (-117), gto_balanced (117)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [4s Qs]
+gto_balanced dealt [5d 9d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #85, gto_balanced (118), tight_aggro (-118)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Qh Ts]
+tight_aggro dealt [8c Qs]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #86, tight_aggro (-120), gto_balanced (120)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [9d 3d]
+gto_balanced dealt [8h 7s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #87, gto_balanced (121), tight_aggro (-121)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [7d Td]
+tight_aggro dealt [7c Ts]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #88, tight_aggro (-123), gto_balanced (123)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ad Th]
+gto_balanced dealt [Tc 9s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #89, gto_balanced (124), tight_aggro (-124)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [5c 2c]
+tight_aggro dealt [7h 9s]
+Redraw reveal for 1: WH1 X2c
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #90, tight_aggro (-126), gto_balanced (126)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [9s 6h]
+gto_balanced dealt [9h 3s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #91, gto_balanced (127), tight_aggro (-127)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8s Qs]
+tight_aggro dealt [2c 3c]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #92, tight_aggro (-129), gto_balanced (129)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [8c 6c]
+gto_balanced dealt [3d 8d]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #93, gto_balanced (130), tight_aggro (-130)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [Ad Qs]
+tight_aggro dealt [2s Js]
+gto_balanced raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #94, tight_aggro (-132), gto_balanced (132)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Tc 3c]
+gto_balanced dealt [4s 6s]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #95, gto_balanced (133), tight_aggro (-133)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [8d Tc]
+tight_aggro dealt [4h 2h]
+Redraw reveal for 1: WH0 X8d
+gto_balanced redraws hole card 0 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #96, tight_aggro (-135), gto_balanced (135)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Ts Qs]
+gto_balanced dealt [9d Qc]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #97, gto_balanced (136), tight_aggro (-136)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [7h 9c]
+tight_aggro dealt [9s Js]
+Redraw reveal for 1: WH1 X9c
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #98, tight_aggro (-138), gto_balanced (138)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [4d 9d]
+gto_balanced dealt [Qd Qh]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Round #99, gto_balanced (139), tight_aggro (-139)
+gto_balanced posts blind 1
+tight_aggro posts blind 2
+gto_balanced dealt [6h 4c]
+tight_aggro dealt [Tc 6s]
+Redraw reveal for 1: WH1 X4c
+gto_balanced redraws hole card 1 and raises to 5
+tight_aggro folds
+gto_balanced awarded 2
+tight_aggro awarded -2
+
+Round #100, tight_aggro (-141), gto_balanced (141)
+tight_aggro posts blind 1
+gto_balanced posts blind 2
+tight_aggro dealt [Kc 2d]
+gto_balanced dealt [4d Kd]
+tight_aggro folds
+tight_aggro awarded -1
+gto_balanced awarded 1
+
+Final, gto_balanced (142), tight_aggro (-142)

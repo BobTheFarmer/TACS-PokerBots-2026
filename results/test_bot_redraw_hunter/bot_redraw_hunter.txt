@@ -1,0 +1,5 @@
+round=1 delta=11 opp_redraw=False dead=[]
+round=2 delta=-12 opp_redraw=True dead=['2c']
+round=3 delta=-9 opp_redraw=True dead=['5d']
+round=4 delta=-2 opp_redraw=True dead=['6s']
+round=5 delta=-5 opp_redraw=False dead=[]

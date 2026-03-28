@@ -1,0 +1,1711 @@
+TACS Pokerbots - redraw_hunter vs exploiter
+
+Round #1, redraw_hunter (0), exploiter (0)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [5d 3s]
+exploiter dealt [8s 6d]
+redraw_hunter calls
+Redraw reveal for 0: WH0 X8s
+exploiter redraws hole card 0 and raises to 8
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -2
+exploiter awarded 2
+
+Round #2, exploiter (2), redraw_hunter (-2)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Qd Th]
+redraw_hunter dealt [2s Ad]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X2s
+redraw_hunter redraws hole card 0 and calls
+Flop [9h 3d Qh], exploiter (5), redraw_hunter (5)
+redraw_hunter bets 5
+Redraw reveal for 1: WB0 X9h
+exploiter redraws board card 0 and calls
+Turn [2c 3d Qh 6h], exploiter (10), redraw_hunter (10)
+redraw_hunter checks
+exploiter bets 13
+redraw_hunter calls
+River [2c 3d Qh 6h Qs], exploiter (23), redraw_hunter (23)
+redraw_hunter bets 23
+exploiter calls
+exploiter shows [Qd Th]
+redraw_hunter shows [4c Ad]
+exploiter awarded 46
+redraw_hunter awarded -46
+
+Round #3, redraw_hunter (-48), exploiter (48)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Kc 6d]
+exploiter dealt [Ac 4d]
+redraw_hunter raises to 5
+exploiter calls
+Flop [Jh 9d Td], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WB1 X9d
+exploiter redraws board card 1 and checks
+Redraw reveal for 1: WB0 XJh
+redraw_hunter redraws board card 0 and checks
+Turn [6c 2h Td Ks], redraw_hunter (5), exploiter (5)
+exploiter bets 4
+redraw_hunter raises to 11
+exploiter calls
+River [6c 2h Td Ks 2c], redraw_hunter (16), exploiter (16)
+exploiter checks
+redraw_hunter bets 20
+exploiter calls
+redraw_hunter shows [Kc 6d]
+exploiter shows [Ac 4d]
+redraw_hunter awarded 36
+exploiter awarded -36
+
+Round #4, exploiter (12), redraw_hunter (-12)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Tc Jh]
+redraw_hunter dealt [9h 3h]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X3h
+redraw_hunter redraws hole card 1 and folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #5, redraw_hunter (-14), exploiter (14)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8d Jh]
+exploiter dealt [Qs Qc]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter calls
+Flop [6h 8s 4d], redraw_hunter (17), exploiter (17)
+exploiter bets 22
+redraw_hunter calls
+Turn [6h 8s 4d Td], redraw_hunter (39), exploiter (39)
+exploiter bets 50
+Redraw reveal for 1: WB3 XTd
+redraw_hunter redraws board card 3 and calls
+River [6h 8s 4d Js Tc], redraw_hunter (89), exploiter (89)
+exploiter bets 115
+redraw_hunter raises to 234
+exploiter calls
+redraw_hunter shows [8d Jh]
+exploiter shows [Qs Qc]
+redraw_hunter awarded 323
+exploiter awarded -323
+
+Round #6, exploiter (-309), redraw_hunter (309)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [4s 5d]
+redraw_hunter dealt [As Qs]
+Redraw reveal for 1: WH0 X4s
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter raises to 19
+exploiter folds
+exploiter awarded -5
+redraw_hunter awarded 5
+
+Round #7, redraw_hunter (314), exploiter (-314)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Jd 7h]
+exploiter dealt [4d Th]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X4d
+exploiter redraws hole card 0 and calls
+Flop [Jc 6h Qh], redraw_hunter (5), exploiter (5)
+exploiter bets 5
+Redraw reveal for 1: WB2 XQh
+redraw_hunter redraws board card 2 and calls
+Turn [Jc 6h 9s 6d], redraw_hunter (10), exploiter (10)
+exploiter checks
+redraw_hunter bets 14
+exploiter calls
+River [Jc 6h 9s 6d 3c], redraw_hunter (24), exploiter (24)
+exploiter checks
+redraw_hunter bets 33
+exploiter calls
+redraw_hunter shows [Jd 7h]
+exploiter shows [Kd Th]
+redraw_hunter awarded 57
+exploiter awarded -57
+
+Round #8, exploiter (-371), redraw_hunter (371)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [9s Td]
+redraw_hunter dealt [3h 6c]
+Redraw reveal for 1: WH1 XTd
+exploiter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X3h
+redraw_hunter redraws hole card 0 and folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #9, redraw_hunter (369), exploiter (-369)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [3d 6d]
+exploiter dealt [Td 7c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 XTd
+exploiter redraws hole card 0 and calls
+Flop [2s 8d Kd], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB0 X2s
+redraw_hunter redraws board card 0 and checks
+Turn [6s 8d Kd 4d], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter bets 6
+exploiter calls
+River [6s 8d Kd 4d 8c], redraw_hunter (11), exploiter (11)
+exploiter checks
+redraw_hunter bets 14
+exploiter calls
+redraw_hunter shows [3d 6d]
+exploiter shows [3c 7c]
+redraw_hunter awarded 25
+exploiter awarded -25
+
+Round #10, exploiter (-394), redraw_hunter (394)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Qc Ah]
+redraw_hunter dealt [7h 6c]
+exploiter raises to 5
+redraw_hunter folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #11, redraw_hunter (392), exploiter (-392)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Js 4c]
+exploiter dealt [Kd 5d]
+redraw_hunter raises to 5
+exploiter calls
+Flop [6h 4s Jd], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WB0 X6h
+exploiter redraws board card 0 and checks
+redraw_hunter bets 7
+exploiter calls
+Turn [As 4s Jd 3c], redraw_hunter (12), exploiter (12)
+exploiter checks
+Redraw reveal for 1: WB0 XAs
+redraw_hunter redraws board card 0 and bets 16
+exploiter calls
+River [2s 4s Jd 3c Ac], redraw_hunter (28), exploiter (28)
+exploiter bets 36
+redraw_hunter calls
+redraw_hunter shows [Js 4c]
+exploiter shows [Kd 5d]
+redraw_hunter awarded -64
+exploiter awarded 64
+
+Round #12, exploiter (-328), redraw_hunter (328)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Th 8c]
+redraw_hunter dealt [3c 5h]
+Redraw reveal for 1: WH1 X8c
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #13, redraw_hunter (326), exploiter (-326)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [6d Qs]
+exploiter dealt [Th 7h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X7h
+exploiter redraws hole card 1 and calls
+Flop [Tc 2d 4h], redraw_hunter (5), exploiter (5)
+exploiter bets 6
+Redraw reveal for 1: WH1 XQs
+redraw_hunter redraws hole card 1 and calls
+Turn [Tc 2d 4h 8c], redraw_hunter (11), exploiter (11)
+exploiter bets 14
+redraw_hunter calls
+River [Tc 2d 4h 8c 6c], redraw_hunter (25), exploiter (25)
+exploiter bets 32
+redraw_hunter calls
+redraw_hunter shows [6d Ts]
+exploiter shows [Th Ac]
+redraw_hunter awarded 57
+exploiter awarded -57
+
+Round #14, exploiter (-383), redraw_hunter (383)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [5s Ts]
+redraw_hunter dealt [Kh 9c]
+Redraw reveal for 1: WH0 X5s
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter raises to 19
+exploiter folds
+exploiter awarded -5
+redraw_hunter awarded 5
+
+Round #15, redraw_hunter (388), exploiter (-388)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [6d Qs]
+exploiter dealt [7c 6c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X6c
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #16, exploiter (-390), redraw_hunter (390)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [7c 2c]
+redraw_hunter dealt [Ac 7s]
+Redraw reveal for 1: WH1 X2c
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #17, redraw_hunter (391), exploiter (-391)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Jd Qd]
+exploiter dealt [Ts 6c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X6c
+exploiter redraws hole card 1 and calls
+Flop [7d 5h 7c], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB1 X5h
+redraw_hunter redraws board card 1 and checks
+Turn [7d As 7c Ks], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter bets 5
+exploiter calls
+River [7d As 7c Ks 3h], redraw_hunter (10), exploiter (10)
+exploiter checks
+redraw_hunter checks
+redraw_hunter shows [Jd Qd]
+exploiter shows [Ts 9d]
+redraw_hunter awarded 10
+exploiter awarded -10
+
+Round #18, exploiter (-401), redraw_hunter (401)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Jh 2d]
+redraw_hunter dealt [7s Ad]
+Redraw reveal for 1: WH1 X2d
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter raises to 19
+exploiter folds
+exploiter awarded -5
+redraw_hunter awarded 5
+
+Round #19, redraw_hunter (406), exploiter (-406)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [2c As]
+exploiter dealt [Qd Ts]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 XTs
+exploiter redraws hole card 1 and calls
+Flop [Jh 7d 6s], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB1 X7d
+redraw_hunter redraws board card 1 and checks
+Turn [Jh Qh 6s 3s], redraw_hunter (5), exploiter (5)
+exploiter bets 6
+redraw_hunter calls
+River [Jh Qh 6s 3s 3c], redraw_hunter (11), exploiter (11)
+exploiter bets 14
+redraw_hunter calls
+redraw_hunter shows [2c As]
+exploiter shows [Qd 5d]
+redraw_hunter awarded -25
+exploiter awarded 25
+
+Round #20, exploiter (-381), redraw_hunter (381)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Td Ac]
+redraw_hunter dealt [5s 3c]
+exploiter raises to 5
+redraw_hunter folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #21, redraw_hunter (379), exploiter (-379)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [5c Jd]
+exploiter dealt [3h Jh]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X3h
+exploiter redraws hole card 0 and calls
+Flop [5s 7s Jc], redraw_hunter (5), exploiter (5)
+exploiter bets 6
+redraw_hunter raises to 12
+exploiter calls
+Turn [5s 7s Jc 3d], redraw_hunter (17), exploiter (17)
+exploiter bets 22
+redraw_hunter raises to 44
+exploiter calls
+River [5s 7s Jc 3d 6d], redraw_hunter (61), exploiter (61)
+exploiter bets 79
+redraw_hunter calls
+redraw_hunter shows [5c Jd]
+exploiter shows [3c Jh]
+redraw_hunter awarded 140
+exploiter awarded -140
+
+Round #22, exploiter (-519), redraw_hunter (519)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [7d Tc]
+redraw_hunter dealt [Qd 8d]
+exploiter raises to 5
+redraw_hunter calls
+Flop [4d Ah Kc], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X8d
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH0 X7d
+exploiter redraws hole card 0 and bets 4
+redraw_hunter calls
+Turn [4d Ah Kc 5d], exploiter (9), redraw_hunter (9)
+redraw_hunter checks
+exploiter checks
+River [4d Ah Kc 5d 4c], exploiter (9), redraw_hunter (9)
+redraw_hunter checks
+exploiter checks
+exploiter shows [Ts Tc]
+redraw_hunter shows [Qd 3d]
+exploiter awarded 9
+redraw_hunter awarded -9
+
+Round #23, redraw_hunter (510), exploiter (-510)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [3h Jd]
+exploiter dealt [Kh 9h]
+redraw_hunter raises to 5
+exploiter calls
+Flop [As 7s 7h], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WH1 X9h
+exploiter redraws hole card 1 and bets 5
+Redraw reveal for 1: WH0 X3h
+redraw_hunter redraws hole card 0 and calls
+Turn [As 7s 7h 9c], redraw_hunter (10), exploiter (10)
+exploiter bets 10
+redraw_hunter calls
+River [As 7s 7h 9c Ts], redraw_hunter (20), exploiter (20)
+exploiter checks
+redraw_hunter checks
+redraw_hunter shows [5d Jd]
+exploiter shows [Kh 2c]
+redraw_hunter awarded -20
+exploiter awarded 20
+
+Round #24, exploiter (-490), redraw_hunter (490)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [5d Jc]
+redraw_hunter dealt [As 9s]
+Redraw reveal for 1: WH0 X5d
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #25, redraw_hunter (491), exploiter (-491)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [4s 3s]
+exploiter dealt [Th 6s]
+redraw_hunter calls
+Redraw reveal for 0: WH1 X6s
+exploiter redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH1 X3s
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -2
+exploiter awarded 2
+
+Round #26, exploiter (-489), redraw_hunter (489)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Qh Qd]
+redraw_hunter dealt [Tc 3s]
+exploiter raises to 5
+redraw_hunter calls
+Flop [Jh Qs 7c], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X3s
+redraw_hunter redraws hole card 1 and checks
+exploiter bets 6
+redraw_hunter calls
+Turn [Jh Qs 7c Jc], exploiter (11), redraw_hunter (11)
+redraw_hunter bets 11
+exploiter calls
+River [Jh Qs 7c Jc 4d], exploiter (22), redraw_hunter (22)
+redraw_hunter checks
+exploiter bets 28
+redraw_hunter calls
+exploiter shows [Qh Qd]
+redraw_hunter shows [Tc Qc]
+exploiter awarded 50
+redraw_hunter awarded -50
+
+Round #27, redraw_hunter (439), exploiter (-439)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [9s Kh]
+exploiter dealt [Kc Qh]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter raises to 400
+exploiter calls
+redraw_hunter shows [9s Kh]
+exploiter shows [Kc Qh]
+redraw_hunter awarded 400
+exploiter awarded -400
+
+Round #28, exploiter (-839), redraw_hunter (839)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [3s 6s]
+redraw_hunter dealt [9c 4h]
+Redraw reveal for 1: WH1 X6s
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter calls
+Flop [2d 8h Th], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X4h
+redraw_hunter redraws hole card 1 and checks
+exploiter checks
+Turn [2d 8h Th Kc], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter checks
+River [2d 8h Th Kc Jd], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter bets 4
+redraw_hunter calls
+exploiter shows [3s 6c]
+redraw_hunter shows [9c Tc]
+exploiter awarded -9
+redraw_hunter awarded 9
+
+Round #29, redraw_hunter (848), exploiter (-848)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [6s Kh]
+exploiter dealt [4d 4s]
+redraw_hunter raises to 5
+exploiter calls
+Flop [Jd 8d Ks], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB0 XJd
+redraw_hunter redraws board card 0 and bets 6
+Redraw reveal for 0: WB2 XKs
+exploiter redraws board card 2 and calls
+Turn [2d 8d 3c Ts], redraw_hunter (11), exploiter (11)
+exploiter bets 11
+redraw_hunter calls
+River [2d 8d 3c Ts 6h], redraw_hunter (22), exploiter (22)
+exploiter checks
+redraw_hunter bets 28
+exploiter calls
+redraw_hunter shows [6s Kh]
+exploiter shows [4d 4s]
+redraw_hunter awarded 50
+exploiter awarded -50
+
+Round #30, exploiter (-898), redraw_hunter (898)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [2h Js]
+redraw_hunter dealt [Qc 4d]
+Redraw reveal for 1: WH0 X2h
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [7h 8c 7s], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X4d
+redraw_hunter redraws hole card 1 and checks
+exploiter checks
+Turn [7h 8c 7s 3c], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter checks
+River [7h 8c 7s 3c 6s], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter checks
+exploiter shows [6h Js]
+redraw_hunter shows [Qc Qd]
+exploiter awarded -5
+redraw_hunter awarded 5
+
+Round #31, redraw_hunter (903), exploiter (-903)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [9h 7h]
+exploiter dealt [4h Qh]
+redraw_hunter raises to 5
+exploiter calls
+Flop [2c 3h 7d], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WH0 X4h
+exploiter redraws hole card 0 and checks
+redraw_hunter bets 7
+exploiter calls
+Turn [2c 3h 7d 7s], redraw_hunter (12), exploiter (12)
+exploiter checks
+redraw_hunter bets 16
+exploiter calls
+River [2c 3h 7d 7s 3s], redraw_hunter (28), exploiter (28)
+exploiter checks
+redraw_hunter bets 39
+exploiter calls
+redraw_hunter shows [9h 7h]
+exploiter shows [8c Qh]
+redraw_hunter awarded 67
+exploiter awarded -67
+
+Round #32, exploiter (-970), redraw_hunter (970)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [9c 4s]
+redraw_hunter dealt [Js 9s]
+Redraw reveal for 1: WH1 X4s
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter calls
+Flop [4h Qh 3s], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 X4h
+redraw_hunter redraws board card 0 and checks
+exploiter checks
+Turn [2h Qh 3s 8d], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter checks
+River [2h Qh 3s 8d Kc], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter checks
+exploiter shows [9c As]
+redraw_hunter shows [Js 9s]
+exploiter awarded 5
+redraw_hunter awarded -5
+
+Round #33, redraw_hunter (965), exploiter (-965)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Ac 3h]
+exploiter dealt [9h 6c]
+Redraw reveal for 1: WH1 X3h
+redraw_hunter redraws hole card 1 and raises to 5
+exploiter calls
+Flop [2c Ad Ah], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WH1 X6c
+exploiter redraws hole card 1 and checks
+redraw_hunter bets 7
+exploiter calls
+Turn [2c Ad Ah 7s], redraw_hunter (12), exploiter (12)
+exploiter checks
+redraw_hunter bets 16
+exploiter calls
+River [2c Ad Ah 7s 8c], redraw_hunter (28), exploiter (28)
+exploiter checks
+redraw_hunter bets 39
+exploiter calls
+redraw_hunter shows [Ac 4c]
+exploiter shows [9h 3c]
+redraw_hunter awarded 67
+exploiter awarded -67
+
+Round #34, exploiter (-1032), redraw_hunter (1032)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [4d 6s]
+redraw_hunter dealt [7s 5d]
+Redraw reveal for 1: WH0 X4d
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #35, redraw_hunter (1033), exploiter (-1033)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8s 3h]
+exploiter dealt [4h 4d]
+redraw_hunter folds
+redraw_hunter awarded -1
+exploiter awarded 1
+
+Round #36, exploiter (-1032), redraw_hunter (1032)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [9s 3s]
+redraw_hunter dealt [4d Ac]
+Redraw reveal for 1: WH1 X3s
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter calls
+Flop [Kc 8h Ah], exploiter (5), redraw_hunter (5)
+redraw_hunter bets 7
+exploiter calls
+Turn [Kc 8h Ah 2h], exploiter (12), redraw_hunter (12)
+Redraw reveal for 0: WB1 X8h
+redraw_hunter redraws board card 1 and bets 16
+exploiter calls
+River [Kc As Ah 2h 8c], exploiter (28), redraw_hunter (28)
+redraw_hunter bets 39
+exploiter calls
+exploiter shows [9s 5h]
+redraw_hunter shows [4d Ac]
+exploiter awarded -67
+redraw_hunter awarded 67
+
+Round #37, redraw_hunter (1099), exploiter (-1099)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [5c 8c]
+exploiter dealt [Th 2h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2h
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #38, exploiter (-1101), redraw_hunter (1101)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [2c 5h]
+redraw_hunter dealt [7c 8c]
+Redraw reveal for 1: WH0 X2c
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #39, redraw_hunter (1102), exploiter (-1102)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [2s Kd]
+exploiter dealt [5d 3d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X5d
+exploiter redraws hole card 0 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #40, exploiter (-1104), redraw_hunter (1104)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [7c Td]
+redraw_hunter dealt [Ks 8s]
+Redraw reveal for 1: WH0 X7c
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [6h Kc Ah], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB2 XAh
+redraw_hunter redraws board card 2 and bets 7
+exploiter calls
+Turn [6h Kc 7s 3d], exploiter (12), redraw_hunter (12)
+redraw_hunter bets 16
+exploiter calls
+River [6h Kc 7s 3d 4s], exploiter (28), redraw_hunter (28)
+redraw_hunter bets 39
+exploiter folds
+exploiter awarded -28
+redraw_hunter awarded 28
+
+Round #41, redraw_hunter (1132), exploiter (-1132)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [4s Kc]
+exploiter dealt [5h Kd]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter calls
+Flop [9c Td 6c], redraw_hunter (17), exploiter (17)
+Redraw reveal for 0: WH0 X5h
+exploiter redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X4s
+redraw_hunter redraws hole card 0 and checks
+Turn [9c Td 6c 7s], redraw_hunter (17), exploiter (17)
+exploiter checks
+redraw_hunter checks
+River [9c Td 6c 7s 6d], redraw_hunter (17), exploiter (17)
+exploiter checks
+redraw_hunter checks
+redraw_hunter shows [5s Kc]
+exploiter shows [Js Kd]
+redraw_hunter awarded -17
+exploiter awarded 17
+
+Round #42, exploiter (-1115), redraw_hunter (1115)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [4d 7d]
+redraw_hunter dealt [9c Kh]
+Redraw reveal for 1: WH0 X4d
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [Jd Ad 7s], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X9c
+redraw_hunter redraws hole card 0 and checks
+exploiter bets 6
+redraw_hunter calls
+Turn [Jd Ad 7s 5c], exploiter (11), redraw_hunter (11)
+redraw_hunter checks
+exploiter bets 14
+redraw_hunter calls
+River [Jd Ad 7s 5c 4c], exploiter (25), redraw_hunter (25)
+redraw_hunter checks
+exploiter bets 32
+redraw_hunter calls
+exploiter shows [2h 7d]
+redraw_hunter shows [2s Kh]
+exploiter awarded 57
+redraw_hunter awarded -57
+
+Round #43, redraw_hunter (1058), exploiter (-1058)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [7c 8h]
+exploiter dealt [Td 5h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5h
+exploiter redraws hole card 1 and calls
+Flop [5s 9h 7d], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter bets 7
+exploiter calls
+Turn [5s 9h 7d Ac], redraw_hunter (12), exploiter (12)
+exploiter checks
+Redraw reveal for 1: WB3 XAc
+redraw_hunter redraws board card 3 and bets 16
+exploiter calls
+River [5s 9h 7d Qd 2s], redraw_hunter (28), exploiter (28)
+exploiter checks
+redraw_hunter bets 39
+exploiter calls
+redraw_hunter shows [7c 8h]
+exploiter shows [Td 5d]
+redraw_hunter awarded 67
+exploiter awarded -67
+
+Round #44, exploiter (-1125), redraw_hunter (1125)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Td 7h]
+redraw_hunter dealt [Ad Qh]
+Redraw reveal for 1: WH1 X7h
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter raises to 19
+exploiter calls
+Flop [5d 2c 6h], exploiter (19), redraw_hunter (19)
+Redraw reveal for 0: WB1 X2c
+redraw_hunter redraws board card 1 and checks
+exploiter checks
+Turn [5d Ts 6h 6s], exploiter (19), redraw_hunter (19)
+redraw_hunter bets 20
+exploiter calls
+River [5d Ts 6h 6s As], exploiter (39), redraw_hunter (39)
+redraw_hunter bets 54
+exploiter calls
+exploiter shows [Td Jc]
+redraw_hunter shows [Ad Qh]
+exploiter awarded -93
+redraw_hunter awarded 93
+
+Round #45, redraw_hunter (1218), exploiter (-1218)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Ac 9c]
+exploiter dealt [Js 2d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2d
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #46, exploiter (-1220), redraw_hunter (1220)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Tc 6c]
+redraw_hunter dealt [7h Ad]
+Redraw reveal for 1: WH0 XTc
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [3h 7c 6d], exploiter (5), redraw_hunter (5)
+redraw_hunter bets 6
+exploiter calls
+Turn [3h 7c 6d 3s], exploiter (11), redraw_hunter (11)
+redraw_hunter bets 14
+exploiter calls
+River [3h 7c 6d 3s 3c], exploiter (25), redraw_hunter (25)
+redraw_hunter bets 32
+exploiter calls
+exploiter shows [7d 6c]
+redraw_hunter shows [7h Ad]
+exploiter awarded 0
+redraw_hunter awarded 0
+
+Round #47, redraw_hunter (1220), exploiter (-1220)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Td 6s]
+exploiter dealt [Jd Qd]
+redraw_hunter raises to 5
+exploiter calls
+Flop [Js 5s Kh], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WB1 X5s
+exploiter redraws board card 1 and bets 6
+Redraw reveal for 1: WH1 X6s
+redraw_hunter redraws hole card 1 and calls
+Turn [Js Qh Kh Ad], redraw_hunter (11), exploiter (11)
+exploiter bets 14
+redraw_hunter raises to 28
+exploiter calls
+River [Js Qh Kh Ad 8h], redraw_hunter (39), exploiter (39)
+exploiter bets 50
+redraw_hunter raises to 102
+exploiter calls
+redraw_hunter shows [Td 7d]
+exploiter shows [Jd Qd]
+redraw_hunter awarded 141
+exploiter awarded -141
+
+Round #48, exploiter (-1361), redraw_hunter (1361)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Tc 8d]
+redraw_hunter dealt [5c Ac]
+exploiter raises to 5
+redraw_hunter raises to 19
+Redraw reveal for 1: WH1 X8d
+exploiter redraws hole card 1 and folds
+exploiter awarded -5
+redraw_hunter awarded 5
+
+Round #49, redraw_hunter (1366), exploiter (-1366)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [6h 7d]
+exploiter dealt [5d Ah]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X5d
+exploiter redraws hole card 0 and raises to 17
+redraw_hunter folds
+redraw_hunter awarded -5
+exploiter awarded 5
+
+Round #50, exploiter (-1361), redraw_hunter (1361)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [2h 7c]
+redraw_hunter dealt [7s Ah]
+Redraw reveal for 1: WH0 X2h
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #51, redraw_hunter (1362), exploiter (-1362)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Tc 8h]
+exploiter dealt [Ts 5d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5d
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #52, exploiter (-1364), redraw_hunter (1364)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Ac 9c]
+redraw_hunter dealt [9d 6d]
+Redraw reveal for 1: WH1 X9c
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter calls
+Flop [Ks Jc Ad], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 XJc
+redraw_hunter redraws board card 1 and checks
+exploiter bets 6
+redraw_hunter calls
+Turn [Ks 2d Ad 6h], exploiter (11), redraw_hunter (11)
+redraw_hunter bets 14
+exploiter calls
+River [Ks 2d Ad 6h 4h], exploiter (25), redraw_hunter (25)
+redraw_hunter bets 25
+exploiter calls
+exploiter shows [Ac 3c]
+redraw_hunter shows [9d 6d]
+exploiter awarded 50
+redraw_hunter awarded -50
+
+Round #53, redraw_hunter (1314), exploiter (-1314)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8s Td]
+exploiter dealt [3h 9s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X3h
+exploiter redraws hole card 0 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #54, exploiter (-1316), redraw_hunter (1316)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [5c Ks]
+redraw_hunter dealt [3h Ad]
+Redraw reveal for 1: WH0 X5c
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [9d Ac 2h], exploiter (5), redraw_hunter (5)
+redraw_hunter bets 7
+exploiter calls
+Turn [9d Ac 2h Tc], exploiter (12), redraw_hunter (12)
+Redraw reveal for 0: WH0 X3h
+redraw_hunter redraws hole card 0 and bets 16
+exploiter calls
+River [9d Ac 2h Tc As], exploiter (28), redraw_hunter (28)
+redraw_hunter bets 39
+exploiter calls
+exploiter shows [9s Ks]
+redraw_hunter shows [Qc Ad]
+exploiter awarded -67
+redraw_hunter awarded 67
+
+Round #55, redraw_hunter (1383), exploiter (-1383)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Tc 2c]
+exploiter dealt [Th Kd]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter folds
+redraw_hunter awarded -5
+exploiter awarded 5
+
+Round #56, exploiter (-1378), redraw_hunter (1378)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Qs 8c]
+redraw_hunter dealt [Kh 2s]
+exploiter raises to 5
+redraw_hunter calls
+Flop [6d Ts 5d], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 X6d
+redraw_hunter redraws board card 0 and checks
+Redraw reveal for 1: WB2 X5d
+exploiter redraws board card 2 and checks
+Turn [7h Ts 4s Ad], exploiter (5), redraw_hunter (5)
+redraw_hunter checks
+exploiter bets 4
+redraw_hunter calls
+River [7h Ts 4s Ad Kc], exploiter (9), redraw_hunter (9)
+redraw_hunter bets 12
+exploiter calls
+exploiter shows [Qs 8c]
+redraw_hunter shows [Kh 2s]
+exploiter awarded -21
+redraw_hunter awarded 21
+
+Round #57, redraw_hunter (1399), exploiter (-1399)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [4s Qc]
+exploiter dealt [Th 8s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X8s
+exploiter redraws hole card 1 and raises to 17
+redraw_hunter calls
+Flop [Ad Kc Jh], redraw_hunter (17), exploiter (17)
+exploiter bets 17
+Redraw reveal for 1: WH0 X4s
+redraw_hunter redraws hole card 0 and calls
+Turn [Ad Kc Jh 6d], redraw_hunter (34), exploiter (34)
+exploiter checks
+redraw_hunter bets 37
+exploiter calls
+River [Ad Kc Jh 6d 9s], redraw_hunter (71), exploiter (71)
+exploiter checks
+redraw_hunter bets 78
+exploiter calls
+redraw_hunter shows [9h Qc]
+exploiter shows [Th Kh]
+redraw_hunter awarded -149
+exploiter awarded 149
+
+Round #58, exploiter (-1250), redraw_hunter (1250)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Jd 9h]
+redraw_hunter dealt [Qh Qc]
+Redraw reveal for 1: WH0 XJd
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter raises to 19
+exploiter folds
+exploiter awarded -5
+redraw_hunter awarded 5
+
+Round #59, redraw_hunter (1255), exploiter (-1255)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [4c 2c]
+exploiter dealt [Js 7c]
+redraw_hunter folds
+redraw_hunter awarded -1
+exploiter awarded 1
+
+Round #60, exploiter (-1254), redraw_hunter (1254)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [3h 4c]
+redraw_hunter dealt [Ts Kc]
+Redraw reveal for 1: WH1 X4c
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #61, redraw_hunter (1255), exploiter (-1255)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Ah Qh]
+exploiter dealt [8s 7d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X7d
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #62, exploiter (-1257), redraw_hunter (1257)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Td 4d]
+redraw_hunter dealt [8c 2h]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X2h
+redraw_hunter redraws hole card 1 and folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #63, redraw_hunter (1255), exploiter (-1255)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Ts 8h]
+exploiter dealt [4c Qc]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X4c
+exploiter redraws hole card 0 and calls
+Flop [5c 8d 3c], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter bets 7
+exploiter calls
+Turn [5c 8d 3c Ac], redraw_hunter (12), exploiter (12)
+exploiter bets 12
+Redraw reveal for 1: WB0 X5c
+redraw_hunter redraws board card 0 and calls
+River [Js 8d 3c Ac Qh], redraw_hunter (24), exploiter (24)
+exploiter bets 31
+redraw_hunter calls
+redraw_hunter shows [Ts 8h]
+exploiter shows [2h Qc]
+redraw_hunter awarded -55
+exploiter awarded 55
+
+Round #64, exploiter (-1200), redraw_hunter (1200)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [3s Js]
+redraw_hunter dealt [5d Td]
+Redraw reveal for 1: WH0 X3s
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [Qh 4h 5h], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X4h
+redraw_hunter redraws board card 1 and checks
+exploiter checks
+Turn [Qh 4d 5h Ks], exploiter (5), redraw_hunter (5)
+redraw_hunter bets 5
+exploiter calls
+River [Qh 4d 5h Ks 7s], exploiter (10), redraw_hunter (10)
+redraw_hunter bets 11
+exploiter calls
+exploiter shows [5c Js]
+redraw_hunter shows [5d Td]
+exploiter awarded 21
+redraw_hunter awarded -21
+
+Round #65, redraw_hunter (1179), exploiter (-1179)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Jh 9d]
+exploiter dealt [5s 2s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2s
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #66, exploiter (-1181), redraw_hunter (1181)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [4h 2h]
+redraw_hunter dealt [6d Kc]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #67, redraw_hunter (1182), exploiter (-1182)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Ac 9c]
+exploiter dealt [7h Tc]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X7h
+exploiter redraws hole card 0 and calls
+Flop [9s As Qd], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter bets 7
+exploiter calls
+Turn [9s As Qd 3d], redraw_hunter (12), exploiter (12)
+exploiter checks
+redraw_hunter bets 16
+exploiter calls
+River [9s As Qd 3d Th], redraw_hunter (28), exploiter (28)
+exploiter bets 36
+redraw_hunter raises to 73
+exploiter calls
+redraw_hunter shows [Ac 9c]
+exploiter shows [7c Tc]
+redraw_hunter awarded 101
+exploiter awarded -101
+
+Round #68, exploiter (-1283), redraw_hunter (1283)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [8c Jh]
+redraw_hunter dealt [2d Qd]
+Redraw reveal for 1: WH0 X8c
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [8d 7s Tc], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 X7s
+redraw_hunter redraws board card 1 and checks
+exploiter bets 5
+redraw_hunter calls
+Turn [8d 3c Tc Js], exploiter (10), redraw_hunter (10)
+redraw_hunter checks
+exploiter bets 13
+redraw_hunter folds
+exploiter awarded 10
+redraw_hunter awarded -10
+
+Round #69, redraw_hunter (1273), exploiter (-1273)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Kh 4c]
+exploiter dealt [Jh Jc]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter calls
+Flop [8s 6s Qs], redraw_hunter (17), exploiter (17)
+Redraw reveal for 0: WB2 XQs
+exploiter redraws board card 2 and bets 17
+redraw_hunter calls
+Turn [8s 6s Js 3s], redraw_hunter (34), exploiter (34)
+exploiter bets 34
+Redraw reveal for 1: WH0 XKh
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -34
+exploiter awarded 34
+
+Round #70, exploiter (-1239), redraw_hunter (1239)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [7c 3h]
+redraw_hunter dealt [5s As]
+Redraw reveal for 1: WH1 X3h
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #71, redraw_hunter (1240), exploiter (-1240)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Td 5c]
+exploiter dealt [3s As]
+Redraw reveal for 1: WH1 X5c
+redraw_hunter redraws hole card 1 and raises to 5
+exploiter raises to 17
+redraw_hunter calls
+Flop [Kc 4c 8d], redraw_hunter (17), exploiter (17)
+Redraw reveal for 0: WH0 X3s
+exploiter redraws hole card 0 and checks
+redraw_hunter checks
+Turn [Kc 4c 8d Ts], redraw_hunter (17), exploiter (17)
+exploiter bets 17
+redraw_hunter calls
+River [Kc 4c 8d Ts Kd], redraw_hunter (34), exploiter (34)
+exploiter bets 34
+redraw_hunter raises to 81
+exploiter calls
+redraw_hunter shows [Td Ks]
+exploiter shows [6h As]
+redraw_hunter awarded 115
+exploiter awarded -115
+
+Round #72, exploiter (-1355), redraw_hunter (1355)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [2h 5h]
+redraw_hunter dealt [2d Ts]
+Redraw reveal for 1: WH0 X2h
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #73, redraw_hunter (1356), exploiter (-1356)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [7c 5h]
+exploiter dealt [8s Kc]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X8s
+exploiter redraws hole card 0 and calls
+Flop [6c Jc 8d], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB1 XJc
+redraw_hunter redraws board card 1 and checks
+Turn [6c Ac 8d 8c], redraw_hunter (5), exploiter (5)
+exploiter bets 6
+redraw_hunter calls
+River [6c Ac 8d 8c Kd], redraw_hunter (11), exploiter (11)
+exploiter bets 14
+redraw_hunter folds
+redraw_hunter awarded -11
+exploiter awarded 11
+
+Round #74, exploiter (-1345), redraw_hunter (1345)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [8c 8s]
+redraw_hunter dealt [As 3d]
+exploiter raises to 5
+redraw_hunter calls
+Flop [9c 2h 7c], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB0 X9c
+redraw_hunter redraws board card 0 and checks
+exploiter bets 6
+redraw_hunter calls
+Turn [7d 2h 7c 6c], exploiter (11), redraw_hunter (11)
+redraw_hunter checks
+exploiter bets 14
+redraw_hunter calls
+River [7d 2h 7c 6c Ts], exploiter (25), redraw_hunter (25)
+redraw_hunter checks
+exploiter bets 32
+redraw_hunter calls
+exploiter shows [8c 8s]
+redraw_hunter shows [As 3d]
+exploiter awarded 57
+redraw_hunter awarded -57
+
+Round #75, redraw_hunter (1288), exploiter (-1288)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Tc Qc]
+exploiter dealt [2s Qs]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X2s
+exploiter redraws hole card 0 and calls
+Flop [9s 4c 4d], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB2 X4d
+redraw_hunter redraws board card 2 and checks
+Turn [9s 4c 6h 7h], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter checks
+River [9s 4c 6h 7h Kh], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter checks
+redraw_hunter shows [Tc Qc]
+exploiter shows [3d Qs]
+redraw_hunter awarded 5
+exploiter awarded -5
+
+Round #76, exploiter (-1293), redraw_hunter (1293)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [2h Qd]
+redraw_hunter dealt [6h 4c]
+Redraw reveal for 1: WH0 X2h
+exploiter redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH1 X4c
+redraw_hunter redraws hole card 1 and folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #77, redraw_hunter (1291), exploiter (-1291)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [5s 8s]
+exploiter dealt [3h 8c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X3h
+exploiter redraws hole card 0 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #78, exploiter (-1293), redraw_hunter (1293)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [4d 5s]
+redraw_hunter dealt [Qh Kh]
+Redraw reveal for 1: WH1 X5s
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #79, redraw_hunter (1294), exploiter (-1294)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8c 6h]
+exploiter dealt [7c 5d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X7c
+exploiter redraws hole card 0 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #80, exploiter (-1296), redraw_hunter (1296)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Ks Js]
+redraw_hunter dealt [6d Ts]
+exploiter raises to 5
+redraw_hunter calls
+Flop [4h Jc 4c], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH0 X6d
+redraw_hunter redraws hole card 0 and checks
+Redraw reveal for 1: WB2 X4c
+exploiter redraws board card 2 and bets 6
+redraw_hunter calls
+Turn [4h Jc 3c 5s], exploiter (11), redraw_hunter (11)
+redraw_hunter checks
+exploiter bets 14
+redraw_hunter calls
+River [4h Jc 3c 5s Qc], exploiter (25), redraw_hunter (25)
+redraw_hunter checks
+exploiter bets 32
+redraw_hunter calls
+exploiter shows [Ks Js]
+redraw_hunter shows [Kc Ts]
+exploiter awarded 57
+redraw_hunter awarded -57
+
+Round #81, redraw_hunter (1239), exploiter (-1239)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [6h 2s]
+exploiter dealt [Th Qs]
+redraw_hunter folds
+redraw_hunter awarded -1
+exploiter awarded 1
+
+Round #82, exploiter (-1238), redraw_hunter (1238)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [6h 9c]
+redraw_hunter dealt [7c 5s]
+Redraw reveal for 1: WH0 X6h
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #83, redraw_hunter (1236), exploiter (-1236)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8s Tc]
+exploiter dealt [Qd Qc]
+redraw_hunter raises to 5
+exploiter raises to 17
+Redraw reveal for 1: WH0 X8s
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -5
+exploiter awarded 5
+
+Round #84, exploiter (-1231), redraw_hunter (1231)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Jd Ad]
+redraw_hunter dealt [9s Td]
+exploiter raises to 5
+redraw_hunter calls
+Flop [Qs 3d 2h], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB2 X2h
+redraw_hunter redraws board card 2 and bets 4
+exploiter calls
+Turn [Qs 3d 8c Ts], exploiter (9), redraw_hunter (9)
+redraw_hunter bets 11
+Redraw reveal for 1: WB2 X8c
+exploiter redraws board card 2 and calls
+River [Qs 3d 9h Ts 2c], exploiter (20), redraw_hunter (20)
+redraw_hunter bets 28
+exploiter calls
+exploiter shows [Jd Ad]
+redraw_hunter shows [9s Td]
+exploiter awarded -48
+redraw_hunter awarded 48
+
+Round #85, redraw_hunter (1279), exploiter (-1279)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [2c 3h]
+exploiter dealt [9s 7s]
+redraw_hunter folds
+redraw_hunter awarded -1
+exploiter awarded 1
+
+Round #86, exploiter (-1278), redraw_hunter (1278)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [8c 3s]
+redraw_hunter dealt [4d 7c]
+Redraw reveal for 1: WH1 X3s
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #87, redraw_hunter (1279), exploiter (-1279)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [7c Jc]
+exploiter dealt [Kd 3c]
+redraw_hunter raises to 5
+exploiter calls
+Flop [8d Ad 7h], redraw_hunter (5), exploiter (5)
+Redraw reveal for 0: WH1 X3c
+exploiter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 XJc
+redraw_hunter redraws hole card 1 and bets 5
+exploiter calls
+Turn [8d Ad 7h Qd], redraw_hunter (10), exploiter (10)
+exploiter bets 13
+redraw_hunter calls
+River [8d Ad 7h Qd 4h], redraw_hunter (23), exploiter (23)
+exploiter checks
+redraw_hunter bets 32
+exploiter calls
+redraw_hunter shows [7c 3d]
+exploiter shows [Kd Kh]
+redraw_hunter awarded -55
+exploiter awarded 55
+
+Round #88, exploiter (-1224), redraw_hunter (1224)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Qh 6s]
+redraw_hunter dealt [Tc 6d]
+Redraw reveal for 1: WH1 X6s
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+redraw_hunter awarded 1
+
+Round #89, redraw_hunter (1225), exploiter (-1225)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Jc Jd]
+exploiter dealt [Ac Ah]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter raises to 400
+exploiter calls
+redraw_hunter shows [Jc Jd]
+exploiter shows [Ac Ah]
+redraw_hunter awarded -400
+exploiter awarded 400
+
+Round #90, exploiter (-825), redraw_hunter (825)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [As Jc]
+redraw_hunter dealt [2s Th]
+exploiter raises to 5
+redraw_hunter folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #91, redraw_hunter (823), exploiter (-823)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8c 2h]
+exploiter dealt [9c 2c]
+Redraw reveal for 1: WH1 X2h
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -1
+exploiter awarded 1
+
+Round #92, exploiter (-822), redraw_hunter (822)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Ad Ah]
+redraw_hunter dealt [As 9h]
+exploiter raises to 5
+redraw_hunter raises to 19
+exploiter raises to 400
+redraw_hunter calls
+exploiter shows [Ad Ah]
+redraw_hunter shows [As 9h]
+exploiter awarded 400
+redraw_hunter awarded -400
+
+Round #93, redraw_hunter (422), exploiter (-422)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [5h 9s]
+exploiter dealt [Jc 3d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X3d
+exploiter redraws hole card 1 and calls
+Flop [6s Qh As], redraw_hunter (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WH0 X5h
+redraw_hunter redraws hole card 0 and checks
+Turn [6s Qh As 4d], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter checks
+River [6s Qh As 4d Qd], redraw_hunter (5), exploiter (5)
+exploiter checks
+redraw_hunter checks
+redraw_hunter shows [2h 9s]
+exploiter shows [Jc 7d]
+redraw_hunter awarded -5
+exploiter awarded 5
+
+Round #94, exploiter (-417), redraw_hunter (417)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Qs 9h]
+redraw_hunter dealt [Ks Kd]
+exploiter raises to 5
+redraw_hunter raises to 19
+exploiter calls
+Flop [Ah 8h 3h], exploiter (19), redraw_hunter (19)
+Redraw reveal for 0: WB0 XAh
+redraw_hunter redraws board card 0 and bets 24
+Redraw reveal for 1: WB2 X3h
+exploiter redraws board card 2 and calls
+Turn [8d 8h 8s 6h], exploiter (43), redraw_hunter (43)
+redraw_hunter bets 60
+exploiter calls
+River [8d 8h 8s 6h Ad], exploiter (103), redraw_hunter (103)
+redraw_hunter bets 144
+exploiter calls
+exploiter shows [Qs 9h]
+redraw_hunter shows [Ks Kd]
+exploiter awarded -247
+redraw_hunter awarded 247
+
+Round #95, redraw_hunter (664), exploiter (-664)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [8d Ah]
+exploiter dealt [Ks Js]
+redraw_hunter raises to 5
+exploiter raises to 17
+redraw_hunter raises to 400
+exploiter calls
+redraw_hunter shows [8d Ah]
+exploiter shows [Ks Js]
+redraw_hunter awarded -400
+exploiter awarded 400
+
+Round #96, exploiter (-264), redraw_hunter (264)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Jh 7c]
+redraw_hunter dealt [3s 7d]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X3s
+redraw_hunter redraws hole card 0 and folds
+exploiter awarded 2
+redraw_hunter awarded -2
+
+Round #97, redraw_hunter (262), exploiter (-262)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Jd Qc]
+exploiter dealt [8d 3c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X3c
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #98, exploiter (-264), redraw_hunter (264)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [4d Js]
+redraw_hunter dealt [Jd 2c]
+Redraw reveal for 1: WH0 X4d
+exploiter redraws hole card 0 and raises to 5
+redraw_hunter calls
+Flop [Qs 5s Kh], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WH1 X2c
+redraw_hunter redraws hole card 1 and checks
+exploiter bets 5
+redraw_hunter calls
+Turn [Qs 5s Kh 3s], exploiter (10), redraw_hunter (10)
+redraw_hunter checks
+exploiter bets 10
+redraw_hunter calls
+River [Qs 5s Kh 3s 5c], exploiter (20), redraw_hunter (20)
+redraw_hunter checks
+exploiter bets 20
+redraw_hunter calls
+exploiter shows [9h Js]
+redraw_hunter shows [Jd Ac]
+exploiter awarded -40
+redraw_hunter awarded 40
+
+Round #99, redraw_hunter (304), exploiter (-304)
+redraw_hunter posts blind 1
+exploiter posts blind 2
+redraw_hunter dealt [Qc Qd]
+exploiter dealt [Jd 3h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X3h
+exploiter redraws hole card 1 and folds
+redraw_hunter awarded 2
+exploiter awarded -2
+
+Round #100, exploiter (-306), redraw_hunter (306)
+exploiter posts blind 1
+redraw_hunter posts blind 2
+exploiter dealt [Ad 7c]
+redraw_hunter dealt [9h Kc]
+Redraw reveal for 1: WH1 X7c
+exploiter redraws hole card 1 and raises to 5
+redraw_hunter calls
+Flop [8s Th 2d], exploiter (5), redraw_hunter (5)
+Redraw reveal for 0: WB1 XTh
+redraw_hunter redraws board card 1 and checks
+exploiter bets 5
+redraw_hunter calls
+Turn [8s 5h 2d 4c], exploiter (10), redraw_hunter (10)
+redraw_hunter checks
+exploiter bets 10
+redraw_hunter calls
+River [8s 5h 2d 4c Jc], exploiter (20), redraw_hunter (20)
+redraw_hunter checks
+exploiter checks
+exploiter shows [Ad 8h]
+redraw_hunter shows [9h Kc]
+exploiter awarded 20
+redraw_hunter awarded -20
+
+Final, redraw_hunter (286), exploiter (-286)

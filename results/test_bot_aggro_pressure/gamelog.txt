@@ -1,0 +1,103 @@
+TACS Pokerbots - bot_aggro_pressure vs check_call
+
+Round #1, bot_aggro_pressure (0), check_call (0)
+bot_aggro_pressure posts blind 1
+check_call posts blind 2
+bot_aggro_pressure dealt [2s 9c]
+check_call dealt [Ts 7h]
+Redraw reveal for 1: WH0 X2s
+bot_aggro_pressure redraws hole card 0 and raises to 4
+check_call calls
+Flop [Qs 2d Ah], bot_aggro_pressure (4), check_call (4)
+Redraw reveal for 0: WH1 X7h
+check_call redraws hole card 1 and checks
+bot_aggro_pressure bets 5
+check_call calls
+Turn [Qs 2d Ah Jc], bot_aggro_pressure (9), check_call (9)
+check_call checks
+bot_aggro_pressure bets 11
+check_call folds
+bot_aggro_pressure awarded 9
+check_call awarded -9
+
+Round #2, check_call (-9), bot_aggro_pressure (9)
+check_call posts blind 1
+bot_aggro_pressure posts blind 2
+check_call dealt [Th Kd]
+bot_aggro_pressure dealt [5c 3s]
+check_call calls
+Redraw reveal for 0: WH1 X3s
+bot_aggro_pressure redraws hole card 1 and raises to 4
+check_call calls
+Flop [9c 5h 6h], check_call (4), bot_aggro_pressure (4)
+bot_aggro_pressure bets 6
+check_call calls
+Turn [9c 5h 6h 9h], check_call (10), bot_aggro_pressure (10)
+bot_aggro_pressure checks
+check_call checks
+River [9c 5h 6h 9h 8c], check_call (10), bot_aggro_pressure (10)
+bot_aggro_pressure checks
+check_call checks
+check_call shows [Th Kd]
+bot_aggro_pressure shows [5c As]
+check_call awarded -10
+bot_aggro_pressure awarded 10
+
+Round #3, bot_aggro_pressure (19), check_call (-19)
+bot_aggro_pressure posts blind 1
+check_call posts blind 2
+bot_aggro_pressure dealt [8d 2h]
+check_call dealt [Ah 2d]
+Redraw reveal for 1: WH1 X2h
+bot_aggro_pressure redraws hole card 1 and raises to 4
+check_call calls
+Flop [Th Kc 4c], bot_aggro_pressure (4), check_call (4)
+Redraw reveal for 0: WH1 X2d
+check_call redraws hole card 1 and checks
+bot_aggro_pressure bets 5
+check_call calls
+Turn [Th Kc 4c Kd], bot_aggro_pressure (9), check_call (9)
+check_call checks
+bot_aggro_pressure bets 11
+check_call folds
+bot_aggro_pressure awarded 9
+check_call awarded -9
+
+Round #4, check_call (-28), bot_aggro_pressure (28)
+check_call posts blind 1
+bot_aggro_pressure posts blind 2
+check_call dealt [Jd Kd]
+bot_aggro_pressure dealt [Tc 4h]
+check_call calls
+Redraw reveal for 0: WH1 X4h
+bot_aggro_pressure redraws hole card 1 and raises to 4
+check_call calls
+Flop [9h 3h Js], check_call (4), bot_aggro_pressure (4)
+bot_aggro_pressure bets 5
+check_call calls
+Turn [9h 3h Js 3c], check_call (9), bot_aggro_pressure (9)
+bot_aggro_pressure bets 11
+check_call folds
+check_call awarded -9
+bot_aggro_pressure awarded 9
+
+Round #5, bot_aggro_pressure (37), check_call (-37)
+bot_aggro_pressure posts blind 1
+check_call posts blind 2
+bot_aggro_pressure dealt [Ks 6h]
+check_call dealt [Ts 8c]
+Redraw reveal for 1: WH1 X6h
+bot_aggro_pressure redraws hole card 1 and raises to 4
+check_call calls
+Flop [8h 2s 8s], bot_aggro_pressure (4), check_call (4)
+check_call checks
+bot_aggro_pressure bets 6
+check_call calls
+Turn [8h 2s 8s 7c], bot_aggro_pressure (10), check_call (10)
+check_call checks
+bot_aggro_pressure bets 13
+check_call folds
+bot_aggro_pressure awarded 10
+check_call awarded -10
+
+Final, check_call (-47), bot_aggro_pressure (47)

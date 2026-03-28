@@ -1,0 +1,1086 @@
+TACS Pokerbots - tight_aggro vs exploiter
+
+Round #1, tight_aggro (0), exploiter (0)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [4h As]
+exploiter dealt [2s 9d]
+tight_aggro raises to 6
+Redraw reveal for 0: WH0 X2s
+exploiter redraws hole card 0 and calls
+Flop [Jd Tc 5d], tight_aggro (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WH0 X4h
+tight_aggro redraws hole card 0 and checks
+Turn [Jd Tc 5d 7s], tight_aggro (6), exploiter (6)
+exploiter checks
+tight_aggro checks
+River [Jd Tc 5d 7s Kc], tight_aggro (6), exploiter (6)
+exploiter checks
+tight_aggro checks
+tight_aggro shows [9c As]
+exploiter shows [Kd 9d]
+tight_aggro awarded -6
+exploiter awarded 6
+
+Round #2, exploiter (6), tight_aggro (-6)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [9h 3d]
+tight_aggro dealt [5c 4s]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+tight_aggro awarded 1
+
+Round #3, tight_aggro (-5), exploiter (5)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Qs Kh]
+exploiter dealt [6c Jc]
+tight_aggro raises to 6
+Redraw reveal for 0: WH0 X6c
+exploiter redraws hole card 0 and calls
+Flop [5h 6h 8h], tight_aggro (6), exploiter (6)
+exploiter checks
+Redraw reveal for 1: WH0 XQs
+tight_aggro redraws hole card 0 and checks
+Turn [5h 6h 8h 7d], tight_aggro (6), exploiter (6)
+exploiter checks
+tight_aggro checks
+River [5h 6h 8h 7d 2h], tight_aggro (6), exploiter (6)
+exploiter bets 4
+tight_aggro calls
+tight_aggro shows [8d Kh]
+exploiter shows [Ks Jc]
+tight_aggro awarded 10
+exploiter awarded -10
+
+Round #4, exploiter (-5), tight_aggro (5)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Ks As]
+tight_aggro dealt [5h Jd]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X5h
+tight_aggro redraws hole card 0 and folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #5, tight_aggro (3), exploiter (-3)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Kd 7c]
+exploiter dealt [Qd 6d]
+tight_aggro raises to 6
+exploiter calls
+Flop [Js 4c Qc], tight_aggro (6), exploiter (6)
+Redraw reveal for 0: WH1 X6d
+exploiter redraws hole card 1 and bets 7
+Redraw reveal for 1: WH1 X7c
+tight_aggro redraws hole card 1 and calls
+Turn [Js 4c Qc 2d], tight_aggro (13), exploiter (13)
+exploiter bets 16
+tight_aggro calls
+River [Js 4c Qc 2d Ks], tight_aggro (29), exploiter (29)
+exploiter bets 37
+tight_aggro calls
+tight_aggro shows [Kd 7s]
+exploiter shows [Qd 3d]
+tight_aggro awarded 66
+exploiter awarded -66
+
+Round #6, exploiter (-69), tight_aggro (69)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [2d 3c]
+tight_aggro dealt [Td 8c]
+Redraw reveal for 1: WH0 X2d
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+tight_aggro awarded 1
+
+Round #7, tight_aggro (70), exploiter (-70)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [3d 6s]
+exploiter dealt [5c 4s]
+Redraw reveal for 1: WH0 X3d
+tight_aggro redraws hole card 0 and folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #8, exploiter (-69), tight_aggro (69)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [6s Jc]
+tight_aggro dealt [Qc Jd]
+Redraw reveal for 1: WH0 X6s
+exploiter redraws hole card 0 and raises to 5
+tight_aggro calls
+Flop [Kh 3h Qs], exploiter (5), tight_aggro (5)
+tight_aggro bets 7
+exploiter calls
+Turn [Kh 3h Qs 5s], exploiter (12), tight_aggro (12)
+tight_aggro bets 18
+exploiter calls
+River [Kh 3h Qs 5s Ac], exploiter (30), tight_aggro (30)
+tight_aggro bets 33
+exploiter calls
+exploiter shows [Ad Jc]
+tight_aggro shows [Qc Jd]
+exploiter awarded 63
+tight_aggro awarded -63
+
+Round #9, tight_aggro (6), exploiter (-6)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [3h 2c]
+exploiter dealt [4d Qs]
+Redraw reveal for 1: WH1 X2c
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #10, exploiter (-5), tight_aggro (5)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Kc 9s]
+tight_aggro dealt [Ad 6c]
+exploiter raises to 5
+tight_aggro calls
+Flop [2c 7s 7d], exploiter (5), tight_aggro (5)
+tight_aggro checks
+Redraw reveal for 1: WB2 X7d
+exploiter redraws board card 2 and checks
+Turn [2c 7s Qc Kh], exploiter (5), tight_aggro (5)
+Redraw reveal for 0: WH1 X6c
+tight_aggro redraws hole card 1 and checks
+exploiter bets 6
+tight_aggro calls
+River [2c 7s Qc Kh 4c], exploiter (11), tight_aggro (11)
+tight_aggro checks
+exploiter bets 14
+tight_aggro calls
+exploiter shows [Kc 9s]
+tight_aggro shows [Ad Th]
+exploiter awarded 25
+tight_aggro awarded -25
+
+Round #11, tight_aggro (-20), exploiter (20)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [8h Js]
+exploiter dealt [Qc 2d]
+Redraw reveal for 1: WH0 X8h
+tight_aggro redraws hole card 0 and folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #12, exploiter (21), tight_aggro (-21)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [8c Kc]
+tight_aggro dealt [9h 5d]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X9h
+tight_aggro redraws hole card 0 and folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #13, tight_aggro (-23), exploiter (23)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ad 4h]
+exploiter dealt [2c Js]
+Redraw reveal for 1: WH1 X4h
+tight_aggro redraws hole card 1 and raises to 6
+Redraw reveal for 0: WH0 X2c
+exploiter redraws hole card 0 and calls
+Flop [8d 8h Qc], tight_aggro (6), exploiter (6)
+exploiter checks
+tight_aggro bets 6
+exploiter calls
+Turn [8d 8h Qc 6h], tight_aggro (12), exploiter (12)
+exploiter checks
+tight_aggro checks
+River [8d 8h Qc 6h 3s], tight_aggro (12), exploiter (12)
+exploiter checks
+tight_aggro checks
+tight_aggro shows [Ad Qd]
+exploiter shows [5s Js]
+tight_aggro awarded 12
+exploiter awarded -12
+
+Round #14, exploiter (11), tight_aggro (-11)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Qs Qh]
+tight_aggro dealt [9d 9h]
+exploiter raises to 5
+tight_aggro raises to 12
+exploiter raises to 400
+tight_aggro calls
+exploiter shows [Qs Qh]
+tight_aggro shows [9d 9h]
+exploiter awarded 400
+tight_aggro awarded -400
+
+Round #15, tight_aggro (-411), exploiter (411)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Th Jd]
+exploiter dealt [9h Qd]
+tight_aggro raises to 6
+exploiter raises to 22
+tight_aggro calls
+Flop [6s 8d Js], tight_aggro (22), exploiter (22)
+Redraw reveal for 0: WB0 X6s
+exploiter redraws board card 0 and checks
+tight_aggro response misformatted: 
+tight_aggro checks
+Turn [4s 8d Js Ts], tight_aggro (22), exploiter (22)
+exploiter bets 28
+tight_aggro response misformatted: 
+tight_aggro folds
+tight_aggro awarded -22
+exploiter awarded 22
+tight_aggro disconnected
+
+Round #16, exploiter (433), tight_aggro (-433)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [7c 7d]
+tight_aggro dealt [4c 9s]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #17, tight_aggro (-435), exploiter (435)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [3h 5d]
+exploiter dealt [Th Tc]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #18, exploiter (436), tight_aggro (-436)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [6s 2c]
+tight_aggro dealt [5s 2s]
+Redraw reveal for 1: WH1 X2c
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #19, tight_aggro (-438), exploiter (438)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Kc 2h]
+exploiter dealt [7d Kh]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #20, exploiter (439), tight_aggro (-439)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [8s 9s]
+tight_aggro dealt [8c 7d]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #21, tight_aggro (-441), exploiter (441)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Kh 2c]
+exploiter dealt [Qc 7h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #22, exploiter (442), tight_aggro (-442)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Ks 8s]
+tight_aggro dealt [8h 2h]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #23, tight_aggro (-444), exploiter (444)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [7h 8c]
+exploiter dealt [4d 3d]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #24, exploiter (445), tight_aggro (-445)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Qc Qd]
+tight_aggro dealt [2s 6s]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #25, tight_aggro (-447), exploiter (447)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [9h 3c]
+exploiter dealt [6h Kd]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #26, exploiter (448), tight_aggro (-448)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Ah 2h]
+tight_aggro dealt [9h 3d]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #27, tight_aggro (-450), exploiter (450)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Kh As]
+exploiter dealt [9s Ts]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #28, exploiter (451), tight_aggro (-451)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [2s 3s]
+tight_aggro dealt [Tc 2c]
+Redraw reveal for 1: WH1 X3s
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #29, tight_aggro (-453), exploiter (453)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [7s 8c]
+exploiter dealt [6s 5d]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #30, exploiter (454), tight_aggro (-454)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [8d Ad]
+tight_aggro dealt [9h 2d]
+Redraw reveal for 1: WH0 X8d
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #31, tight_aggro (-456), exploiter (456)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [6s 9s]
+exploiter dealt [8s Ac]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #32, exploiter (457), tight_aggro (-457)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [7h 6c]
+tight_aggro dealt [Ah 6s]
+Redraw reveal for 1: WH1 X6c
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #33, tight_aggro (-459), exploiter (459)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Kc 8s]
+exploiter dealt [Jc 5s]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #34, exploiter (460), tight_aggro (-460)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Th 4s]
+tight_aggro dealt [Js 6h]
+Redraw reveal for 1: WH1 X4s
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #35, tight_aggro (-462), exploiter (462)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [As 5s]
+exploiter dealt [4c Ts]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #36, exploiter (463), tight_aggro (-463)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [6h 6d]
+tight_aggro dealt [Ks 4h]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #37, tight_aggro (-465), exploiter (465)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [2s 8d]
+exploiter dealt [Qs 6c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #38, exploiter (466), tight_aggro (-466)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [7h 3d]
+tight_aggro dealt [5d 8d]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #39, tight_aggro (-468), exploiter (468)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [2c 7h]
+exploiter dealt [Jd 3s]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #40, exploiter (469), tight_aggro (-469)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Qc Ad]
+tight_aggro dealt [6h 5h]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #41, tight_aggro (-471), exploiter (471)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [6h Kh]
+exploiter dealt [Kd Qc]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #42, exploiter (472), tight_aggro (-472)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [4d 5s]
+tight_aggro dealt [Ts 5c]
+Redraw reveal for 1: WH1 X5s
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #43, tight_aggro (-474), exploiter (474)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [6s 4s]
+exploiter dealt [4c 2h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #44, exploiter (475), tight_aggro (-475)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [8d Kh]
+tight_aggro dealt [6d Qd]
+Redraw reveal for 1: WH0 X8d
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #45, tight_aggro (-477), exploiter (477)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Kh 6d]
+exploiter dealt [4c 9h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #46, exploiter (478), tight_aggro (-478)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [4s Ah]
+tight_aggro dealt [Kh 2s]
+Redraw reveal for 1: WH0 X4s
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #47, tight_aggro (-480), exploiter (480)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ks 2c]
+exploiter dealt [Qc 5h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #48, exploiter (481), tight_aggro (-481)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [9h 4c]
+tight_aggro dealt [Th Kd]
+Redraw reveal for 1: WH1 X4c
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #49, tight_aggro (-483), exploiter (483)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Jc Jd]
+exploiter dealt [5h 2c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #50, exploiter (484), tight_aggro (-484)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Td Kc]
+tight_aggro dealt [Th 5d]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #51, tight_aggro (-486), exploiter (486)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [7s 3h]
+exploiter dealt [6d Qs]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #52, exploiter (487), tight_aggro (-487)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [6d 8h]
+tight_aggro dealt [8c Tc]
+Redraw reveal for 1: WH1 X8h
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #53, tight_aggro (-489), exploiter (489)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [6s 7d]
+exploiter dealt [2h 6d]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #54, exploiter (490), tight_aggro (-490)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [8s 5s]
+tight_aggro dealt [3c 3d]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #55, tight_aggro (-492), exploiter (492)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Js Kd]
+exploiter dealt [2c 9s]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #56, exploiter (493), tight_aggro (-493)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [5h 4s]
+tight_aggro dealt [Js Td]
+Redraw reveal for 1: WH1 X4s
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #57, tight_aggro (-495), exploiter (495)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ks Kh]
+exploiter dealt [2h 5c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #58, exploiter (496), tight_aggro (-496)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [6h Ad]
+tight_aggro dealt [Jh 8s]
+Redraw reveal for 1: WH0 X6h
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #59, tight_aggro (-498), exploiter (498)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [4s Qc]
+exploiter dealt [6h Ad]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #60, exploiter (499), tight_aggro (-499)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [7d 5h]
+tight_aggro dealt [3c Qh]
+Redraw reveal for 1: WH1 X5h
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #61, tight_aggro (-501), exploiter (501)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ts 4d]
+exploiter dealt [9c Ks]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #62, exploiter (502), tight_aggro (-502)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [9c Td]
+tight_aggro dealt [Ad Ks]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #63, tight_aggro (-504), exploiter (504)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [2c 2d]
+exploiter dealt [Tc 7d]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #64, exploiter (505), tight_aggro (-505)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [9h 7h]
+tight_aggro dealt [3h Kh]
+Redraw reveal for 1: WH0 X9h
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #65, tight_aggro (-507), exploiter (507)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [2h 5d]
+exploiter dealt [Th 3h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #66, exploiter (508), tight_aggro (-508)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Ts 9c]
+tight_aggro dealt [Th Qd]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #67, tight_aggro (-510), exploiter (510)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [6d 8s]
+exploiter dealt [4s 2h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #68, exploiter (511), tight_aggro (-511)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [5c Ts]
+tight_aggro dealt [5d 3h]
+Redraw reveal for 1: WH0 X5c
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #69, tight_aggro (-513), exploiter (513)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [As 8s]
+exploiter dealt [5h 2c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #70, exploiter (514), tight_aggro (-514)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [2s Js]
+tight_aggro dealt [Ad 6h]
+Redraw reveal for 1: WH0 X2s
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #71, tight_aggro (-516), exploiter (516)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [9s Ad]
+exploiter dealt [8h Th]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #72, exploiter (517), tight_aggro (-517)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [4h 3d]
+tight_aggro dealt [Th 4c]
+Redraw reveal for 1: WH0 X4h
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #73, tight_aggro (-519), exploiter (519)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Tc Qd]
+exploiter dealt [Td 4h]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #74, exploiter (520), tight_aggro (-520)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [9h Th]
+tight_aggro dealt [2h 7s]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #75, tight_aggro (-522), exploiter (522)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [7h Jh]
+exploiter dealt [Jd Td]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #76, exploiter (523), tight_aggro (-523)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [7d 5h]
+tight_aggro dealt [6h Qs]
+Redraw reveal for 1: WH0 X7d
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #77, tight_aggro (-525), exploiter (525)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [2d Jd]
+exploiter dealt [9h 8c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #78, exploiter (526), tight_aggro (-526)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [3s 2s]
+tight_aggro dealt [4d Th]
+Redraw reveal for 1: WH0 X3s
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+tight_aggro awarded 1
+
+Round #79, tight_aggro (-525), exploiter (525)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Jc 3s]
+exploiter dealt [Ac Ad]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #80, exploiter (526), tight_aggro (-526)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Td 6c]
+tight_aggro dealt [4h 9h]
+Redraw reveal for 1: WH1 X6c
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #81, tight_aggro (-528), exploiter (528)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [9d Qs]
+exploiter dealt [Qd 8d]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #82, exploiter (529), tight_aggro (-529)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Td 2h]
+tight_aggro dealt [8s Ks]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #83, tight_aggro (-531), exploiter (531)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [9h 4d]
+exploiter dealt [3d 5s]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #84, exploiter (532), tight_aggro (-532)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [2s 4h]
+tight_aggro dealt [Jd 5d]
+Redraw reveal for 1: WH0 X2s
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #85, tight_aggro (-534), exploiter (534)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Jc 6h]
+exploiter dealt [Qs 6s]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #86, exploiter (535), tight_aggro (-535)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Jc 2h]
+tight_aggro dealt [9c 7h]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #87, tight_aggro (-537), exploiter (537)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [2h 9h]
+exploiter dealt [3s 6c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #88, exploiter (538), tight_aggro (-538)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Td 5d]
+tight_aggro dealt [3c Jc]
+Redraw reveal for 1: WH1 X5d
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #89, tight_aggro (-540), exploiter (540)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ac As]
+exploiter dealt [Js Jc]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #90, exploiter (541), tight_aggro (-541)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [4d 7c]
+tight_aggro dealt [Qs 8c]
+Redraw reveal for 1: WH0 X4d
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #91, tight_aggro (-543), exploiter (543)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ad 6s]
+exploiter dealt [Qd Ts]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #92, exploiter (544), tight_aggro (-544)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [2c Kh]
+tight_aggro dealt [Qh Ah]
+Redraw reveal for 1: WH0 X2c
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #93, tight_aggro (-546), exploiter (546)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Jh 2c]
+exploiter dealt [Ac 7c]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #94, exploiter (547), tight_aggro (-547)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Qs 5s]
+tight_aggro dealt [Kc Jh]
+Redraw reveal for 1: WH1 X5s
+exploiter redraws hole card 1 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #95, tight_aggro (-549), exploiter (549)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [4h Ks]
+exploiter dealt [Kd Ad]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #96, exploiter (550), tight_aggro (-550)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [3c 4s]
+tight_aggro dealt [4h 3h]
+Redraw reveal for 1: WH0 X3c
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+tight_aggro awarded 1
+
+Round #97, tight_aggro (-549), exploiter (549)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Js 2h]
+exploiter dealt [Kc 6d]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #98, exploiter (550), tight_aggro (-550)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [Ks 4s]
+tight_aggro dealt [Jh 7c]
+exploiter raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Round #99, tight_aggro (-552), exploiter (552)
+tight_aggro posts blind 1
+exploiter posts blind 2
+tight_aggro dealt [Ks Td]
+exploiter dealt [6h Kh]
+tight_aggro folds
+tight_aggro awarded -1
+exploiter awarded 1
+
+Round #100, exploiter (553), tight_aggro (-553)
+exploiter posts blind 1
+tight_aggro posts blind 2
+exploiter dealt [2h 3d]
+tight_aggro dealt [Jh Jd]
+Redraw reveal for 1: WH0 X2h
+exploiter redraws hole card 0 and raises to 5
+tight_aggro folds
+exploiter awarded 2
+tight_aggro awarded -2
+
+Final, tight_aggro (-555), exploiter (555)

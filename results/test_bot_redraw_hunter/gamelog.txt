@@ -1,0 +1,119 @@
+TACS Pokerbots - bot_redraw_hunter vs check_call
+
+Round #1, bot_redraw_hunter (0), check_call (0)
+bot_redraw_hunter posts blind 1
+check_call posts blind 2
+bot_redraw_hunter dealt [Tc Jd]
+check_call dealt [8h Td]
+bot_redraw_hunter raises to 5
+check_call calls
+Flop [Qh 8d 6d], bot_redraw_hunter (5), check_call (5)
+check_call checks
+Redraw reveal for 1: WB2 X6d
+bot_redraw_hunter redraws board card 2 and checks
+Turn [Qh 8d 5c 6s], bot_redraw_hunter (5), check_call (5)
+check_call checks
+bot_redraw_hunter checks
+River [Qh 8d 5c 6s 9s], bot_redraw_hunter (5), check_call (5)
+check_call checks
+bot_redraw_hunter bets 6
+check_call calls
+bot_redraw_hunter shows [Tc Jd]
+check_call shows [8h Td]
+bot_redraw_hunter awarded 11
+check_call awarded -11
+
+Round #2, check_call (-11), bot_redraw_hunter (11)
+check_call posts blind 1
+bot_redraw_hunter posts blind 2
+check_call dealt [2c Js]
+bot_redraw_hunter dealt [Ts As]
+check_call calls
+bot_redraw_hunter raises to 6
+check_call calls
+Flop [7h 2h 7d], check_call (6), bot_redraw_hunter (6)
+Redraw reveal for 0: WB1 X2h
+bot_redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WH0 X2c
+check_call redraws hole card 0 and checks
+Turn [7h 8h 7d 9s], check_call (6), bot_redraw_hunter (6)
+bot_redraw_hunter bets 6
+check_call calls
+River [7h 8h 7d 9s Qh], check_call (12), bot_redraw_hunter (12)
+bot_redraw_hunter checks
+check_call checks
+check_call shows [Jc Js]
+bot_redraw_hunter shows [Ts As]
+check_call awarded 12
+bot_redraw_hunter awarded -12
+
+Round #3, bot_redraw_hunter (-1), check_call (1)
+bot_redraw_hunter posts blind 1
+check_call posts blind 2
+bot_redraw_hunter dealt [8d 6d]
+check_call dealt [5d Th]
+bot_redraw_hunter raises to 5
+check_call calls
+Flop [Ks 2h Tc], bot_redraw_hunter (5), check_call (5)
+Redraw reveal for 0: WH0 X5d
+check_call redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X8d
+bot_redraw_hunter redraws hole card 0 and bets 4
+check_call calls
+Turn [Ks 2h Tc 5s], bot_redraw_hunter (9), check_call (9)
+check_call checks
+bot_redraw_hunter checks
+River [Ks 2h Tc 5s 4h], bot_redraw_hunter (9), check_call (9)
+check_call checks
+bot_redraw_hunter checks
+bot_redraw_hunter shows [6s 6d]
+check_call shows [3h Th]
+bot_redraw_hunter awarded -9
+check_call awarded 9
+
+Round #4, check_call (10), bot_redraw_hunter (-10)
+check_call posts blind 1
+bot_redraw_hunter posts blind 2
+check_call dealt [Td 6s]
+bot_redraw_hunter dealt [2d 4h]
+check_call calls
+bot_redraw_hunter checks
+Flop [Kc Ts Qh], check_call (2), bot_redraw_hunter (2)
+Redraw reveal for 0: WH1 X4h
+bot_redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 X6s
+check_call redraws hole card 1 and checks
+Turn [Kc Ts Qh 6d], check_call (2), bot_redraw_hunter (2)
+bot_redraw_hunter checks
+check_call checks
+River [Kc Ts Qh 6d Ks], check_call (2), bot_redraw_hunter (2)
+bot_redraw_hunter checks
+check_call checks
+check_call shows [Td 7d]
+bot_redraw_hunter shows [2d 8s]
+check_call awarded 2
+bot_redraw_hunter awarded -2
+
+Round #5, bot_redraw_hunter (-12), check_call (12)
+bot_redraw_hunter posts blind 1
+check_call posts blind 2
+bot_redraw_hunter dealt [Ah 6s]
+check_call dealt [Th As]
+bot_redraw_hunter raises to 5
+check_call calls
+Flop [7h Jd Qc], bot_redraw_hunter (5), check_call (5)
+check_call checks
+Redraw reveal for 1: WH1 X6s
+bot_redraw_hunter redraws hole card 1 and checks
+Turn [7h Jd Qc 9d], bot_redraw_hunter (5), check_call (5)
+check_call checks
+bot_redraw_hunter checks
+River [7h Jd Qc 9d 3s], bot_redraw_hunter (5), check_call (5)
+check_call checks
+bot_redraw_hunter checks
+bot_redraw_hunter shows [Ah 4h]
+check_call shows [Th As]
+bot_redraw_hunter awarded -5
+check_call awarded 5
+
+Final, check_call (17), bot_redraw_hunter (-17)

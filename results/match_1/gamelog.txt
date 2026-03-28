@@ -1,0 +1,1153 @@
+TACS Pokerbots - mc_equity vs tight_aggro
+
+Round #1, mc_equity (0), tight_aggro (0)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [2d Ac]
+tight_aggro dealt [Tc 3d]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 XTc
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #2, tight_aggro (-2), mc_equity (2)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Qd 5h]
+mc_equity dealt [7h 2d]
+Redraw reveal for 1: WH1 X5h
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #3, mc_equity (3), tight_aggro (-3)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [7c Qc]
+tight_aggro dealt [Ac 8c]
+mc_equity raises to 5
+tight_aggro calls
+Flop [3s 5h Jc], mc_equity (5), tight_aggro (5)
+tight_aggro checks
+Redraw reveal for 1: WB1 X5h
+mc_equity redraws board card 1 and checks
+Turn [3s Qd Jc 4d], mc_equity (5), tight_aggro (5)
+Redraw reveal for 0: WH1 X8c
+tight_aggro redraws hole card 1 and checks
+mc_equity bets 7
+tight_aggro calls
+River [3s Qd Jc 4d 8h], mc_equity (12), tight_aggro (12)
+tight_aggro checks
+mc_equity bets 16
+tight_aggro calls
+mc_equity shows [7c Qc]
+tight_aggro shows [Ac 2h]
+mc_equity awarded 28
+tight_aggro awarded -28
+
+Round #4, tight_aggro (-31), mc_equity (31)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Kd 4d]
+mc_equity dealt [3d 4h]
+tight_aggro raises to 6
+mc_equity folds
+tight_aggro awarded 2
+mc_equity awarded -2
+
+Round #5, mc_equity (29), tight_aggro (-29)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [9h 2d]
+tight_aggro dealt [9s Qc]
+mc_equity raises to 5
+tight_aggro calls
+Flop [6s 2c 6c], mc_equity (5), tight_aggro (5)
+Redraw reveal for 0: WH0 X9s
+tight_aggro redraws hole card 0 and checks
+Redraw reveal for 1: WH0 X9h
+mc_equity redraws hole card 0 and checks
+Turn [6s 2c 6c 3h], mc_equity (5), tight_aggro (5)
+tight_aggro checks
+mc_equity bets 5
+tight_aggro calls
+River [6s 2c 6c 3h Kh], mc_equity (10), tight_aggro (10)
+tight_aggro checks
+mc_equity bets 14
+tight_aggro calls
+mc_equity shows [5d 2d]
+tight_aggro shows [2s Qc]
+mc_equity awarded 0
+tight_aggro awarded 0
+
+Round #6, tight_aggro (-29), mc_equity (29)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Jh 7c]
+mc_equity dealt [Qh Td]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #7, mc_equity (30), tight_aggro (-30)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Ts 7c]
+tight_aggro dealt [6h 3c]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X6h
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #8, tight_aggro (-32), mc_equity (32)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8d 2h]
+mc_equity dealt [Ts Ac]
+Redraw reveal for 1: WH1 X2h
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #9, mc_equity (33), tight_aggro (-33)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [9h 6s]
+tight_aggro dealt [9s Qd]
+mc_equity raises to 5
+tight_aggro calls
+Flop [Qs Td 5d], mc_equity (5), tight_aggro (5)
+tight_aggro bets 7
+Redraw reveal for 1: WH0 X9h
+mc_equity redraws hole card 0 and calls
+Turn [Qs Td 5d 7s], mc_equity (12), tight_aggro (12)
+tight_aggro bets 18
+mc_equity calls
+River [Qs Td 5d 7s 8h], mc_equity (30), tight_aggro (30)
+tight_aggro bets 45
+mc_equity raises to 90
+tight_aggro calls
+mc_equity shows [Jd 6s]
+tight_aggro shows [9s Qd]
+mc_equity awarded -120
+tight_aggro awarded 120
+
+Round #10, tight_aggro (87), mc_equity (-87)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [9d 7c]
+mc_equity dealt [Ac 8c]
+tight_aggro raises to 6
+mc_equity raises to 22
+Redraw reveal for 1: WH1 X7c
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -6
+mc_equity awarded 6
+
+Round #11, mc_equity (-81), tight_aggro (81)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [2c Qs]
+tight_aggro dealt [4c Th]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X4c
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #12, tight_aggro (79), mc_equity (-79)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [5s 3s]
+mc_equity dealt [4h 4c]
+Redraw reveal for 1: WH1 X3s
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #13, mc_equity (-78), tight_aggro (78)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qh 6s]
+tight_aggro dealt [4d 5h]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X4d
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #14, tight_aggro (76), mc_equity (-76)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [6c 5h]
+mc_equity dealt [Qh Ah]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #15, mc_equity (-75), tight_aggro (75)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qh 6h]
+tight_aggro dealt [2c 3s]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X2c
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #16, tight_aggro (73), mc_equity (-73)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [7d Kh]
+mc_equity dealt [5c 9s]
+Redraw reveal for 1: WH0 X7d
+tight_aggro redraws hole card 0 and raises to 6
+mc_equity calls
+Flop [4d 4h Qc], tight_aggro (6), mc_equity (6)
+Redraw reveal for 0: WH1 X9s
+mc_equity redraws hole card 1 and checks
+tight_aggro checks
+Turn [4d 4h Qc 3c], tight_aggro (6), mc_equity (6)
+mc_equity checks
+tight_aggro checks
+River [4d 4h Qc 3c Td], tight_aggro (6), mc_equity (6)
+mc_equity checks
+tight_aggro checks
+tight_aggro shows [7h Kh]
+mc_equity shows [5c Kc]
+tight_aggro awarded 0
+mc_equity awarded 0
+
+Round #17, mc_equity (-73), tight_aggro (73)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [6s 5d]
+tight_aggro dealt [2s Jh]
+mc_equity folds
+mc_equity awarded -1
+tight_aggro awarded 1
+
+Round #18, tight_aggro (74), mc_equity (-74)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [3c Jd]
+mc_equity dealt [9s Kd]
+Redraw reveal for 1: WH0 X3c
+tight_aggro redraws hole card 0 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #19, mc_equity (-73), tight_aggro (73)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [3d 6h]
+tight_aggro dealt [2c Tc]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X2c
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #20, tight_aggro (71), mc_equity (-71)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [6s 2s]
+mc_equity dealt [Qs Kd]
+Redraw reveal for 1: WH1 X2s
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #21, mc_equity (-70), tight_aggro (70)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Jh 9s]
+tight_aggro dealt [7c 8d]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #22, tight_aggro (68), mc_equity (-68)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [2d 4c]
+mc_equity dealt [2s Jd]
+Redraw reveal for 1: WH1 X4c
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #23, mc_equity (-67), tight_aggro (67)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Th 3d]
+tight_aggro dealt [As Jd]
+mc_equity raises to 5
+tight_aggro calls
+Flop [Ts 3h Kh], mc_equity (5), tight_aggro (5)
+tight_aggro bets 5
+mc_equity raises to 10
+tight_aggro calls
+Turn [Ts 3h Kh 9s], mc_equity (15), tight_aggro (15)
+Redraw reveal for 0: WH0 XAs
+tight_aggro redraws hole card 0 and checks
+mc_equity bets 21
+tight_aggro calls
+River [Ts 3h Kh 9s Ad], mc_equity (36), tight_aggro (36)
+tight_aggro checks
+mc_equity bets 50
+tight_aggro calls
+mc_equity shows [Th 3d]
+tight_aggro shows [9h Jd]
+mc_equity awarded 86
+tight_aggro awarded -86
+
+Round #24, tight_aggro (-19), mc_equity (19)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8s Js]
+mc_equity dealt [4h 7d]
+tight_aggro raises to 6
+mc_equity folds
+tight_aggro awarded 2
+mc_equity awarded -2
+
+Round #25, mc_equity (17), tight_aggro (-17)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [2d 6c]
+tight_aggro dealt [Js Kd]
+mc_equity folds
+mc_equity awarded -1
+tight_aggro awarded 1
+
+Round #26, tight_aggro (-16), mc_equity (16)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [9h 3d]
+mc_equity dealt [4s 5d]
+Redraw reveal for 1: WH0 X9h
+tight_aggro redraws hole card 0 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #27, mc_equity (17), tight_aggro (-17)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qc 5c]
+tight_aggro dealt [3d As]
+mc_equity raises to 5
+tight_aggro calls
+Flop [3h 6h Kd], mc_equity (5), tight_aggro (5)
+tight_aggro bets 5
+Redraw reveal for 1: WH0 XQc
+mc_equity redraws hole card 0 and calls
+Turn [3h 6h Kd 6c], mc_equity (10), tight_aggro (10)
+tight_aggro bets 11
+mc_equity calls
+River [3h 6h Kd 6c Ac], mc_equity (21), tight_aggro (21)
+tight_aggro bets 31
+mc_equity calls
+mc_equity shows [Tc 5c]
+tight_aggro shows [3d As]
+mc_equity awarded -52
+tight_aggro awarded 52
+
+Round #28, tight_aggro (35), mc_equity (-35)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8h Tc]
+mc_equity dealt [Ah Kc]
+Redraw reveal for 1: WH0 X8h
+tight_aggro redraws hole card 0 and raises to 6
+mc_equity raises to 22
+tight_aggro folds
+tight_aggro awarded -6
+mc_equity awarded 6
+
+Round #29, mc_equity (-29), tight_aggro (29)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [6d 9s]
+tight_aggro dealt [Ts Tc]
+mc_equity raises to 5
+tight_aggro raises to 12
+mc_equity calls
+Flop [7c Ks As], mc_equity (12), tight_aggro (12)
+tight_aggro bets 13
+Redraw reveal for 1: WH0 X6d
+mc_equity redraws hole card 0 and calls
+Turn [7c Ks As Kd], mc_equity (25), tight_aggro (25)
+tight_aggro bets 37
+mc_equity calls
+River [7c Ks As Kd 8s], mc_equity (62), tight_aggro (62)
+tight_aggro bets 93
+mc_equity raises to 186
+tight_aggro calls
+mc_equity shows [3d 9s]
+tight_aggro shows [Ts Tc]
+mc_equity awarded -248
+tight_aggro awarded 248
+
+Round #30, tight_aggro (277), mc_equity (-277)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [2s 9c]
+mc_equity dealt [Qc 4c]
+Redraw reveal for 1: WH0 X2s
+tight_aggro redraws hole card 0 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #31, mc_equity (-276), tight_aggro (276)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [2h 3h]
+tight_aggro dealt [Tc Jc]
+mc_equity folds
+mc_equity awarded -1
+tight_aggro awarded 1
+
+Round #32, tight_aggro (277), mc_equity (-277)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [3c 2d]
+mc_equity dealt [Kd 6h]
+Redraw reveal for 1: WH1 X2d
+tight_aggro redraws hole card 1 and folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #33, mc_equity (-276), tight_aggro (276)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [3c 4s]
+tight_aggro dealt [4h 5c]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X4h
+tight_aggro redraws hole card 0 and folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #34, tight_aggro (274), mc_equity (-274)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Kd 6s]
+mc_equity dealt [2s 4h]
+tight_aggro raises to 6
+mc_equity folds
+tight_aggro awarded 2
+mc_equity awarded -2
+
+Round #35, mc_equity (-276), tight_aggro (276)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [9s Ac]
+tight_aggro dealt [Kc 9h]
+mc_equity raises to 5
+tight_aggro calls
+Flop [As Ts 7s], mc_equity (5), tight_aggro (5)
+Redraw reveal for 0: WH1 X9h
+tight_aggro redraws hole card 1 and checks
+Redraw reveal for 1: WB2 X7s
+mc_equity redraws board card 2 and checks
+Turn [As Ts Ad 5s], mc_equity (5), tight_aggro (5)
+tight_aggro checks
+mc_equity bets 7
+tight_aggro calls
+River [As Ts Ad 5s Th], mc_equity (12), tight_aggro (12)
+tight_aggro bets 18
+mc_equity raises to 36
+tight_aggro calls
+mc_equity shows [9s Ac]
+tight_aggro shows [Kc 5d]
+mc_equity awarded 48
+tight_aggro awarded -48
+
+Round #36, tight_aggro (228), mc_equity (-228)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8s Kc]
+mc_equity dealt [3d Ts]
+tight_aggro raises to 6
+mc_equity calls
+Flop [Tc 3c 7d], tight_aggro (6), mc_equity (6)
+mc_equity bets 8
+Redraw reveal for 1: WH0 X8s
+tight_aggro redraws hole card 0 and calls
+Turn [Tc 3c 7d 4d], tight_aggro (14), mc_equity (14)
+Redraw reveal for 0: WB2 X7d
+mc_equity redraws board card 2 and checks
+tight_aggro response misformatted: 
+tight_aggro checks
+River [Tc 3c 9h 4d 7s], tight_aggro (14), mc_equity (14)
+mc_equity bets 19
+tight_aggro response misformatted: 
+tight_aggro folds
+tight_aggro awarded -14
+mc_equity awarded 14
+tight_aggro disconnected
+
+Round #37, mc_equity (-214), tight_aggro (214)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Kc Jc]
+tight_aggro dealt [Qh 2d]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #38, tight_aggro (212), mc_equity (-212)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Jh 6c]
+mc_equity dealt [Ah Qh]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #39, mc_equity (-211), tight_aggro (211)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [9d 2s]
+tight_aggro dealt [Ac Ah]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #40, tight_aggro (209), mc_equity (-209)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [7c 3h]
+mc_equity dealt [8d 2d]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #41, mc_equity (-208), tight_aggro (208)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qc 4c]
+tight_aggro dealt [4h Jh]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #42, tight_aggro (206), mc_equity (-206)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Js 5h]
+mc_equity dealt [Kd 6d]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #43, mc_equity (-205), tight_aggro (205)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Kh 4d]
+tight_aggro dealt [7h 3d]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #44, tight_aggro (203), mc_equity (-203)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Kh 3h]
+mc_equity dealt [Jh 8h]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #45, mc_equity (-202), tight_aggro (202)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qd 6h]
+tight_aggro dealt [6c As]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #46, tight_aggro (200), mc_equity (-200)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Jd 8s]
+mc_equity dealt [3d 2s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #47, mc_equity (-199), tight_aggro (199)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [8d 3s]
+tight_aggro dealt [Tc 4h]
+mc_equity calls
+tight_aggro checks
+Flop [Ac Kd 4c], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WH1 X3s
+mc_equity redraws hole card 1 and checks
+Turn [Ac Kd 4c Ks], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity checks
+River [Ac Kd 4c Ks 8s], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity bets 2
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #48, tight_aggro (197), mc_equity (-197)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [4d 4s]
+mc_equity dealt [Th 3s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #49, mc_equity (-196), tight_aggro (196)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qs Jc]
+tight_aggro dealt [Ks 7h]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #50, tight_aggro (194), mc_equity (-194)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [5h 4s]
+mc_equity dealt [Ad 4c]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #51, mc_equity (-193), tight_aggro (193)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Kd Qh]
+tight_aggro dealt [9h Kh]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #52, tight_aggro (191), mc_equity (-191)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [2d As]
+mc_equity dealt [Ah 6d]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #53, mc_equity (-190), tight_aggro (190)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [3c Ah]
+tight_aggro dealt [7h Qd]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #54, tight_aggro (188), mc_equity (-188)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [6s 3d]
+mc_equity dealt [9d 4h]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #55, mc_equity (-187), tight_aggro (187)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [9s 8s]
+tight_aggro dealt [8c 8h]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #56, tight_aggro (185), mc_equity (-185)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Ah 4h]
+mc_equity dealt [Kc 6s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #57, mc_equity (-184), tight_aggro (184)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [7d Qc]
+tight_aggro dealt [9h Qd]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #58, tight_aggro (182), mc_equity (-182)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8h Kh]
+mc_equity dealt [2c Qs]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #59, mc_equity (-181), tight_aggro (181)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [7d 8d]
+tight_aggro dealt [2s 7c]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #60, tight_aggro (179), mc_equity (-179)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [4s 3h]
+mc_equity dealt [2d 9s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #61, mc_equity (-178), tight_aggro (178)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Ts 9c]
+tight_aggro dealt [2c 5c]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #62, tight_aggro (176), mc_equity (-176)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8c Ad]
+mc_equity dealt [Ac Qc]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #63, mc_equity (-175), tight_aggro (175)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [As 4d]
+tight_aggro dealt [2h 6h]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #64, tight_aggro (173), mc_equity (-173)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Ac 6h]
+mc_equity dealt [7d Kd]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #65, mc_equity (-172), tight_aggro (172)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Js 9s]
+tight_aggro dealt [Th 5d]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #66, tight_aggro (170), mc_equity (-170)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [3s 5h]
+mc_equity dealt [Jc Tc]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #67, mc_equity (-169), tight_aggro (169)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [5c 4d]
+tight_aggro dealt [6h Jh]
+mc_equity folds
+mc_equity awarded -1
+tight_aggro awarded 1
+
+Round #68, tight_aggro (170), mc_equity (-170)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Qs 2c]
+mc_equity dealt [Kh 6s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #69, mc_equity (-169), tight_aggro (169)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Qd Js]
+tight_aggro dealt [Jh 5h]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #70, tight_aggro (167), mc_equity (-167)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [As 3d]
+mc_equity dealt [6c Jh]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #71, mc_equity (-166), tight_aggro (166)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Th 2d]
+tight_aggro dealt [Kc 6d]
+mc_equity calls
+tight_aggro checks
+Flop [2h 6c 5d], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WB2 X5d
+mc_equity redraws board card 2 and checks
+Turn [2h 6c 7h Kd], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity checks
+River [2h 6c 7h Kd 8d], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity checks
+mc_equity shows [Th 2d]
+tight_aggro shows [Kc 6d]
+mc_equity awarded -2
+tight_aggro awarded 2
+
+Round #72, tight_aggro (168), mc_equity (-168)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Kd Ks]
+mc_equity dealt [3d 5s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #73, mc_equity (-167), tight_aggro (167)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Th 4s]
+tight_aggro dealt [8h Kc]
+mc_equity calls
+tight_aggro checks
+Flop [9h Qd 4h], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WB1 XQd
+mc_equity redraws board card 1 and checks
+Turn [9h 7d 4h As], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity bets 2
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #74, tight_aggro (165), mc_equity (-165)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [4s 2s]
+mc_equity dealt [9s Qs]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #75, mc_equity (-164), tight_aggro (164)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Tc 7c]
+tight_aggro dealt [2h Ks]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #76, tight_aggro (162), mc_equity (-162)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Jd 9h]
+mc_equity dealt [8h 6c]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #77, mc_equity (-161), tight_aggro (161)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Ah Kh]
+tight_aggro dealt [Ad 7d]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #78, tight_aggro (159), mc_equity (-159)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Td 8h]
+mc_equity dealt [Qd Th]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #79, mc_equity (-158), tight_aggro (158)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [3s Ks]
+tight_aggro dealt [Js 2h]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #80, tight_aggro (156), mc_equity (-156)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [6d Kd]
+mc_equity dealt [8c 6h]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #81, mc_equity (-155), tight_aggro (155)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [2h 9h]
+tight_aggro dealt [Kh 2c]
+mc_equity calls
+tight_aggro checks
+Flop [Ks 2d 3d], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WH1 X9h
+mc_equity redraws hole card 1 and checks
+Turn [Ks 2d 3d As], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity bets 2
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #82, tight_aggro (153), mc_equity (-153)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [Jh 2d]
+mc_equity dealt [6h 7h]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #83, mc_equity (-152), tight_aggro (152)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Ad 4s]
+tight_aggro dealt [2c 8c]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #84, tight_aggro (150), mc_equity (-150)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [7s 2h]
+mc_equity dealt [3d 4d]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #85, mc_equity (-149), tight_aggro (149)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [7d 7c]
+tight_aggro dealt [9c 3s]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #86, tight_aggro (147), mc_equity (-147)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [7s 3c]
+mc_equity dealt [4d Kh]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #87, mc_equity (-146), tight_aggro (146)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [4c 8s]
+tight_aggro dealt [Qc 6c]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #88, tight_aggro (144), mc_equity (-144)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [6c 9c]
+mc_equity dealt [Jh 5s]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #89, mc_equity (-143), tight_aggro (143)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Ts 7d]
+tight_aggro dealt [3d Ks]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #90, tight_aggro (141), mc_equity (-141)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [5c 4s]
+mc_equity dealt [4h Qc]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #91, mc_equity (-140), tight_aggro (140)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [3h 4c]
+tight_aggro dealt [Th Qc]
+mc_equity calls
+tight_aggro checks
+Flop [Ac 8h 8c], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+Redraw reveal for 1: WH1 X4c
+mc_equity redraws hole card 1 and checks
+Turn [Ac 8h 8c 2c], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity checks
+River [Ac 8h 8c 2c 2h], mc_equity (2), tight_aggro (2)
+tight_aggro checks
+mc_equity checks
+mc_equity shows [3h 4h]
+tight_aggro shows [Th Qc]
+mc_equity awarded 0
+tight_aggro awarded 0
+
+Round #92, tight_aggro (140), mc_equity (-140)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [5s Jh]
+mc_equity dealt [Kh Tc]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #93, mc_equity (-139), tight_aggro (139)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [7s 6c]
+tight_aggro dealt [7c 9h]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #94, tight_aggro (137), mc_equity (-137)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8s As]
+mc_equity dealt [8d Jh]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #95, mc_equity (-136), tight_aggro (136)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [5d 5h]
+tight_aggro dealt [Ad Td]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #96, tight_aggro (134), mc_equity (-134)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [9d 8d]
+mc_equity dealt [3h 5c]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #97, mc_equity (-133), tight_aggro (133)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Td Qd]
+tight_aggro dealt [Qc Qh]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #98, tight_aggro (131), mc_equity (-131)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [5c 7d]
+mc_equity dealt [8s Jd]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Round #99, mc_equity (-130), tight_aggro (130)
+mc_equity posts blind 1
+tight_aggro posts blind 2
+mc_equity dealt [Kc 6d]
+tight_aggro dealt [2d Jh]
+mc_equity raises to 5
+tight_aggro folds
+mc_equity awarded 2
+tight_aggro awarded -2
+
+Round #100, tight_aggro (128), mc_equity (-128)
+tight_aggro posts blind 1
+mc_equity posts blind 2
+tight_aggro dealt [8c 2h]
+mc_equity dealt [6d 4h]
+tight_aggro folds
+tight_aggro awarded -1
+mc_equity awarded 1
+
+Final, mc_equity (-127), tight_aggro (127)

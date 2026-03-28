@@ -1,0 +1,1891 @@
+TACS Pokerbots - redraw_hunter vs aggro_pressure
+
+Round #1, redraw_hunter (0), aggro_pressure (0)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Kc 8h]
+aggro_pressure dealt [7h 3d]
+Redraw reveal for 1: WH1 X8h
+redraw_hunter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH1 X3d
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [Js 9h 5c], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+redraw_hunter checks
+Turn [Js 9h 5c Td], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+redraw_hunter bets 8
+aggro_pressure calls
+River [Js 9h 5c Td 2c], redraw_hunter (16), aggro_pressure (16)
+aggro_pressure bets 16
+redraw_hunter calls
+redraw_hunter shows [Kc 4s]
+aggro_pressure shows [7h 7d]
+redraw_hunter awarded -32
+aggro_pressure awarded 32
+
+Round #2, aggro_pressure (32), redraw_hunter (-32)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9d Qc]
+redraw_hunter dealt [4h 7d]
+Redraw reveal for 1: WH0 X9d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #3, redraw_hunter (-34), aggro_pressure (34)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Kc Ad]
+aggro_pressure dealt [5h Qd]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X5h
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [Kc Ad]
+aggro_pressure shows [Ts Qd]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #4, aggro_pressure (434), redraw_hunter (-434)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [7h 7d]
+redraw_hunter dealt [7s Ks]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [As 8h Td], aggro_pressure (6), redraw_hunter (6)
+Redraw reveal for 0: WB1 X8h
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WB0 XAs
+aggro_pressure redraws board card 0 and bets 8
+redraw_hunter calls
+Turn [Qc 8c Td 5s], aggro_pressure (14), redraw_hunter (14)
+redraw_hunter checks
+aggro_pressure bets 18
+redraw_hunter calls
+River [Qc 8c Td 5s Js], aggro_pressure (32), redraw_hunter (32)
+redraw_hunter checks
+aggro_pressure checks
+aggro_pressure shows [7h 7d]
+redraw_hunter shows [7s Ks]
+aggro_pressure awarded 32
+redraw_hunter awarded -32
+
+Round #5, redraw_hunter (-466), aggro_pressure (466)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Qc 6s]
+aggro_pressure dealt [Kd Jd]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter calls
+Flop [Qh 4s Td], redraw_hunter (12), aggro_pressure (12)
+Redraw reveal for 0: WB1 X4s
+aggro_pressure redraws board card 1 and bets 16
+redraw_hunter calls
+Turn [Qh Kh Td 3s], redraw_hunter (28), aggro_pressure (28)
+aggro_pressure bets 44
+Redraw reveal for 1: WB1 XKh
+redraw_hunter redraws board card 1 and calls
+River [Qh 2h Td 3s 3c], redraw_hunter (72), aggro_pressure (72)
+aggro_pressure checks
+redraw_hunter bets 100
+aggro_pressure calls
+redraw_hunter shows [Qc 6s]
+aggro_pressure shows [Kd Jd]
+redraw_hunter awarded 172
+aggro_pressure awarded -172
+
+Round #6, aggro_pressure (294), redraw_hunter (-294)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [8d Jd]
+redraw_hunter dealt [2h 6c]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X2h
+redraw_hunter redraws hole card 0 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #7, redraw_hunter (-296), aggro_pressure (296)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [5d Ts]
+aggro_pressure dealt [2h 3c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X3c
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #8, aggro_pressure (301), redraw_hunter (-301)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ah Js]
+redraw_hunter dealt [7s Kd]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [8c 5d 8h], aggro_pressure (6), redraw_hunter (6)
+Redraw reveal for 0: WB2 X8h
+redraw_hunter redraws board card 2 and checks
+Redraw reveal for 1: WB0 X8c
+aggro_pressure redraws board card 0 and bets 8
+redraw_hunter calls
+Turn [4c 5d 4s Ts], aggro_pressure (14), redraw_hunter (14)
+redraw_hunter bets 11
+aggro_pressure raises to 31
+redraw_hunter calls
+River [4c 5d 4s Ts Th], aggro_pressure (45), redraw_hunter (45)
+redraw_hunter checks
+aggro_pressure bets 72
+redraw_hunter calls
+aggro_pressure shows [Ah Js]
+redraw_hunter shows [7s Kd]
+aggro_pressure awarded 117
+redraw_hunter awarded -117
+
+Round #9, redraw_hunter (-418), aggro_pressure (418)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Jc Qh]
+aggro_pressure dealt [3d 4s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X3d
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [Jc Qh]
+aggro_pressure shows [4d 4s]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #10, aggro_pressure (818), redraw_hunter (-818)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [7s As]
+redraw_hunter dealt [2c 6h]
+Redraw reveal for 1: WH0 X7s
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X2c
+redraw_hunter redraws hole card 0 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #11, redraw_hunter (-820), aggro_pressure (820)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Jc Ah]
+aggro_pressure dealt [8h 5h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5h
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [Jc Ah]
+aggro_pressure shows [8h Td]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #12, aggro_pressure (1220), redraw_hunter (-1220)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [4s 6h]
+redraw_hunter dealt [Jc 9s]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [Qs 5h 8h], aggro_pressure (6), redraw_hunter (6)
+Redraw reveal for 0: WB1 X5h
+redraw_hunter redraws board card 1 and checks
+Redraw reveal for 1: WH0 X4s
+aggro_pressure redraws hole card 0 and bets 8
+redraw_hunter calls
+Turn [Qs Jd 8h As], aggro_pressure (14), redraw_hunter (14)
+redraw_hunter bets 19
+aggro_pressure calls
+River [Qs Jd 8h As 8c], aggro_pressure (33), redraw_hunter (33)
+redraw_hunter bets 36
+aggro_pressure calls
+aggro_pressure shows [9h 6h]
+redraw_hunter shows [Jc 9s]
+aggro_pressure awarded -69
+redraw_hunter awarded 69
+
+Round #13, redraw_hunter (-1151), aggro_pressure (1151)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Jd 6d]
+aggro_pressure dealt [Js 2s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2s
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #14, aggro_pressure (1156), redraw_hunter (-1156)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9c 3d]
+redraw_hunter dealt [Ks 4s]
+Redraw reveal for 1: WH0 X9c
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [8d 7h Qd], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH1 X4s
+redraw_hunter redraws hole card 1 and checks
+aggro_pressure bets 5
+redraw_hunter calls
+Turn [8d 7h Qd 3h], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter checks
+aggro_pressure bets 14
+redraw_hunter calls
+River [8d 7h Qd 3h Ad], aggro_pressure (23), redraw_hunter (23)
+redraw_hunter checks
+aggro_pressure bets 36
+redraw_hunter calls
+aggro_pressure shows [Td 3d]
+redraw_hunter shows [Ks Jc]
+aggro_pressure awarded 59
+redraw_hunter awarded -59
+
+Round #15, redraw_hunter (-1215), aggro_pressure (1215)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Kd 6s]
+aggro_pressure dealt [Jh 3h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X3h
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [Ad 7h 9c], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 10
+Redraw reveal for 1: WB1 X7h
+redraw_hunter redraws board card 1 and calls
+Turn [Ad 7s 9c Ah], redraw_hunter (18), aggro_pressure (18)
+aggro_pressure bets 23
+redraw_hunter calls
+River [Ad 7s 9c Ah Qc], redraw_hunter (41), aggro_pressure (41)
+aggro_pressure checks
+redraw_hunter checks
+redraw_hunter shows [Kd 6s]
+aggro_pressure shows [Jh 3s]
+redraw_hunter awarded 41
+aggro_pressure awarded -41
+
+Round #16, aggro_pressure (1174), redraw_hunter (-1174)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Qd 6d]
+redraw_hunter dealt [7c As]
+Redraw reveal for 1: WH1 X6d
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [3c Ac 8s], aggro_pressure (4), redraw_hunter (4)
+redraw_hunter bets 5
+aggro_pressure raises to 10
+redraw_hunter raises to 23
+aggro_pressure raises to 42
+redraw_hunter raises to 81
+aggro_pressure raises to 146
+redraw_hunter raises to 269
+aggro_pressure raises to 396
+redraw_hunter calls
+aggro_pressure shows [Qd 5h]
+redraw_hunter shows [7c As]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #17, redraw_hunter (-774), aggro_pressure (774)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [3h 6c]
+aggro_pressure dealt [Tc Ts]
+Redraw reveal for 1: WH0 X3h
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+aggro_pressure awarded 1
+
+Round #18, aggro_pressure (775), redraw_hunter (-775)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Th 7h]
+redraw_hunter dealt [Ad 3c]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [6h 2h Kh], aggro_pressure (6), redraw_hunter (6)
+Redraw reveal for 0: WH1 X3c
+redraw_hunter redraws hole card 1 and bets 4
+aggro_pressure raises to 12
+redraw_hunter calls
+Turn [6h 2h Kh 8s], aggro_pressure (18), redraw_hunter (18)
+redraw_hunter checks
+aggro_pressure bets 28
+redraw_hunter calls
+River [6h 2h Kh 8s Jd], aggro_pressure (46), redraw_hunter (46)
+redraw_hunter checks
+aggro_pressure bets 73
+redraw_hunter calls
+aggro_pressure shows [Th 7h]
+redraw_hunter shows [Ad 7d]
+aggro_pressure awarded 119
+redraw_hunter awarded -119
+
+Round #19, redraw_hunter (-894), aggro_pressure (894)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [8c 3c]
+aggro_pressure dealt [8d 2c]
+Redraw reveal for 1: WH1 X3c
+redraw_hunter redraws hole card 1 and calls
+Redraw reveal for 0: WH0 X8d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter folds
+redraw_hunter awarded -2
+aggro_pressure awarded 2
+
+Round #20, aggro_pressure (896), redraw_hunter (-896)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [5d Qs]
+redraw_hunter dealt [4s 2d]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #21, redraw_hunter (-898), aggro_pressure (898)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [4s 7s]
+aggro_pressure dealt [5d Th]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter calls
+Flop [As Ac 3h], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+Redraw reveal for 1: WH0 X4s
+redraw_hunter redraws hole card 0 and checks
+Turn [As Ac 3h Ks], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+redraw_hunter checks
+River [As Ac 3h Ks Jh], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+redraw_hunter calls
+redraw_hunter shows [8s 7s]
+aggro_pressure shows [8d Th]
+redraw_hunter awarded -20
+aggro_pressure awarded 20
+
+Round #22, aggro_pressure (918), redraw_hunter (-918)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Tc 2s]
+redraw_hunter dealt [8d Th]
+Redraw reveal for 1: WH1 X2s
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [8c Kc Ah], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB1 XKc
+redraw_hunter redraws board card 1 and bets 5
+aggro_pressure raises to 10
+redraw_hunter calls
+Turn [8c 4h Ah 9h], aggro_pressure (14), redraw_hunter (14)
+redraw_hunter bets 19
+aggro_pressure calls
+River [8c 4h Ah 9h 6h], aggro_pressure (33), redraw_hunter (33)
+redraw_hunter bets 46
+aggro_pressure calls
+aggro_pressure shows [Tc 3h]
+redraw_hunter shows [8d Th]
+aggro_pressure awarded -79
+redraw_hunter awarded 79
+
+Round #23, redraw_hunter (-839), aggro_pressure (839)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Ah 5s]
+aggro_pressure dealt [4c 6h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [Ah 5s]
+aggro_pressure shows [9c 6h]
+redraw_hunter awarded 400
+aggro_pressure awarded -400
+
+Round #24, aggro_pressure (439), redraw_hunter (-439)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [7d 2c]
+redraw_hunter dealt [6c 7h]
+Redraw reveal for 1: WH1 X2c
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [2h Jh Ah], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH0 X6c
+redraw_hunter redraws hole card 0 and checks
+aggro_pressure bets 5
+redraw_hunter calls
+Turn [2h Jh Ah Qh], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter bets 12
+aggro_pressure calls
+River [2h Jh Ah Qh As], aggro_pressure (21), redraw_hunter (21)
+redraw_hunter bets 29
+aggro_pressure calls
+aggro_pressure shows [7d Tc]
+redraw_hunter shows [Th 7h]
+aggro_pressure awarded -50
+redraw_hunter awarded 50
+
+Round #25, redraw_hunter (-389), aggro_pressure (389)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [5c Ac]
+aggro_pressure dealt [6h 2s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2s
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [5c Ac]
+aggro_pressure shows [6h 7c]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #26, aggro_pressure (789), redraw_hunter (-789)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Tc Qs]
+redraw_hunter dealt [Qd Jd]
+Redraw reveal for 1: WH1 XQs
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [Kc 7s 8s], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB1 X7s
+redraw_hunter redraws board card 1 and checks
+aggro_pressure bets 5
+redraw_hunter calls
+Turn [Kc 9c 8s 6h], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter checks
+aggro_pressure bets 11
+redraw_hunter calls
+River [Kc 9c 8s 6h 5s], aggro_pressure (20), redraw_hunter (20)
+redraw_hunter checks
+aggro_pressure bets 26
+redraw_hunter folds
+aggro_pressure awarded 20
+redraw_hunter awarded -20
+
+Round #27, redraw_hunter (-809), aggro_pressure (809)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [9h 8h]
+aggro_pressure dealt [4d Jc]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X4d
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter calls
+Flop [Ks 2s Qc], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 10
+Redraw reveal for 1: WH1 X8h
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -8
+aggro_pressure awarded 8
+
+Round #28, aggro_pressure (817), redraw_hunter (-817)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ks Ts]
+redraw_hunter dealt [Jc 9d]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [7s Kd 2c], aggro_pressure (6), redraw_hunter (6)
+redraw_hunter checks
+Redraw reveal for 1: WB2 X2c
+aggro_pressure redraws board card 2 and bets 8
+redraw_hunter calls
+Turn [7s Kd Jd 8s], aggro_pressure (14), redraw_hunter (14)
+Redraw reveal for 0: WH1 X9d
+redraw_hunter redraws hole card 1 and bets 19
+aggro_pressure raises to 38
+redraw_hunter calls
+River [7s Kd Jd 8s 5s], aggro_pressure (52), redraw_hunter (52)
+redraw_hunter bets 72
+aggro_pressure raises to 144
+redraw_hunter calls
+aggro_pressure shows [Ks Ts]
+redraw_hunter shows [Jc 6h]
+aggro_pressure awarded 196
+redraw_hunter awarded -196
+
+Round #29, redraw_hunter (-1013), aggro_pressure (1013)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [5d 7s]
+aggro_pressure dealt [As 9c]
+redraw_hunter calls
+aggro_pressure raises to 8
+redraw_hunter folds
+redraw_hunter awarded -2
+aggro_pressure awarded 2
+
+Round #30, aggro_pressure (1015), redraw_hunter (-1015)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ac 7c]
+redraw_hunter dealt [7d 6c]
+Redraw reveal for 1: WH1 X7c
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #31, redraw_hunter (-1017), aggro_pressure (1017)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [4c Kc]
+aggro_pressure dealt [9d 5s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5s
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [Qd 9h Kd], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+Redraw reveal for 1: WB0 XQd
+redraw_hunter redraws board card 0 and calls
+Turn [Ad 9h Kd Td], redraw_hunter (20), aggro_pressure (20)
+aggro_pressure bets 32
+redraw_hunter calls
+River [Ad 9h Kd Td 6s], redraw_hunter (52), aggro_pressure (52)
+aggro_pressure bets 83
+redraw_hunter calls
+redraw_hunter shows [4c Kc]
+aggro_pressure shows [9d 3s]
+redraw_hunter awarded 135
+aggro_pressure awarded -135
+
+Round #32, aggro_pressure (882), redraw_hunter (-882)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [2c 2d]
+redraw_hunter dealt [Js 4h]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH1 X4h
+redraw_hunter redraws hole card 1 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #33, redraw_hunter (-884), aggro_pressure (884)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [3c 4c]
+aggro_pressure dealt [Ks Ad]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 XKs
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #34, aggro_pressure (889), redraw_hunter (-889)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9s 4s]
+redraw_hunter dealt [6h 9c]
+Redraw reveal for 1: WH1 X4s
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [Tc 4c 8c], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH0 X6h
+redraw_hunter redraws hole card 0 and bets 4
+aggro_pressure calls
+Turn [Tc 4c 8c Kh], aggro_pressure (8), redraw_hunter (8)
+redraw_hunter bets 8
+aggro_pressure calls
+River [Tc 4c 8c Kh 4h], aggro_pressure (16), redraw_hunter (16)
+redraw_hunter checks
+aggro_pressure bets 20
+redraw_hunter calls
+aggro_pressure shows [9s Ac]
+redraw_hunter shows [3d 9c]
+aggro_pressure awarded 36
+redraw_hunter awarded -36
+
+Round #35, redraw_hunter (-925), aggro_pressure (925)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [8h 2h]
+aggro_pressure dealt [Tc Jd]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #36, aggro_pressure (930), redraw_hunter (-930)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Jd 5d]
+redraw_hunter dealt [Kc 5s]
+Redraw reveal for 1: WH1 X5d
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [9s Td 9h], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH1 X5s
+redraw_hunter redraws hole card 1 and checks
+aggro_pressure bets 6
+redraw_hunter calls
+Turn [9s Td 9h Qc], aggro_pressure (10), redraw_hunter (10)
+redraw_hunter bets 11
+aggro_pressure raises to 24
+redraw_hunter calls
+River [9s Td 9h Qc 9c], aggro_pressure (34), redraw_hunter (34)
+redraw_hunter bets 37
+aggro_pressure raises to 84
+redraw_hunter calls
+aggro_pressure shows [Jd 5c]
+redraw_hunter shows [Kc 4h]
+aggro_pressure awarded -118
+redraw_hunter awarded 118
+
+Round #37, redraw_hunter (-812), aggro_pressure (812)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Ts 3d]
+aggro_pressure dealt [3s 8h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X8h
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #38, aggro_pressure (817), redraw_hunter (-817)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [5d 4d]
+redraw_hunter dealt [Qc Qs]
+Redraw reveal for 1: WH1 X4d
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter raises to 15
+aggro_pressure folds
+aggro_pressure awarded -4
+redraw_hunter awarded 4
+
+Round #39, redraw_hunter (-813), aggro_pressure (813)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [4d 8h]
+aggro_pressure dealt [2c 4s]
+Redraw reveal for 1: WH0 X4d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+aggro_pressure awarded 1
+
+Round #40, aggro_pressure (814), redraw_hunter (-814)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9h 4d]
+redraw_hunter dealt [5h Th]
+Redraw reveal for 1: WH1 X4d
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [Ad 4h 7d], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH0 X5h
+redraw_hunter redraws hole card 0 and bets 3
+aggro_pressure calls
+Turn [Ad 4h 7d Jh], aggro_pressure (7), redraw_hunter (7)
+redraw_hunter checks
+aggro_pressure bets 9
+redraw_hunter calls
+River [Ad 4h 7d Jh Qh], aggro_pressure (16), redraw_hunter (16)
+redraw_hunter bets 17
+aggro_pressure raises to 39
+redraw_hunter calls
+aggro_pressure shows [9h 6c]
+redraw_hunter shows [Js Th]
+aggro_pressure awarded -55
+redraw_hunter awarded 55
+
+Round #41, redraw_hunter (-759), aggro_pressure (759)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [9c 5h]
+aggro_pressure dealt [4c Js]
+Redraw reveal for 1: WH1 X5h
+redraw_hunter redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter calls
+Flop [Jh 5s 4s], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+redraw_hunter calls
+Turn [Jh 5s 4s 2d], redraw_hunter (20), aggro_pressure (20)
+aggro_pressure bets 32
+redraw_hunter calls
+River [Jh 5s 4s 2d Qc], redraw_hunter (52), aggro_pressure (52)
+aggro_pressure bets 83
+redraw_hunter calls
+redraw_hunter shows [9c 9d]
+aggro_pressure shows [Ts Js]
+redraw_hunter awarded -135
+aggro_pressure awarded 135
+
+Round #42, aggro_pressure (894), redraw_hunter (-894)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [6d Jd]
+redraw_hunter dealt [9s 8s]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [9d 7s 8h], aggro_pressure (6), redraw_hunter (6)
+redraw_hunter bets 7
+Redraw reveal for 1: WH1 XJd
+aggro_pressure redraws hole card 1 and raises to 14
+Redraw reveal for 0: WB1 X7s
+redraw_hunter redraws board card 1 and calls
+Turn [9d 9h 8h 3s], aggro_pressure (20), redraw_hunter (20)
+redraw_hunter bets 26
+aggro_pressure calls
+River [9d 9h 8h 3s Ks], aggro_pressure (46), redraw_hunter (46)
+redraw_hunter bets 59
+aggro_pressure calls
+aggro_pressure shows [6d 6h]
+redraw_hunter shows [9s 8s]
+aggro_pressure awarded -105
+redraw_hunter awarded 105
+
+Round #43, redraw_hunter (-789), aggro_pressure (789)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [3d Ah]
+aggro_pressure dealt [9s 3c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X9s
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [3d Ah]
+aggro_pressure shows [4d 3c]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #44, aggro_pressure (1189), redraw_hunter (-1189)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [5d Th]
+redraw_hunter dealt [Ah 9h]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter raises to 15
+aggro_pressure calls
+Flop [Kh Jc Js], aggro_pressure (15), redraw_hunter (15)
+redraw_hunter bets 16
+aggro_pressure raises to 36
+Redraw reveal for 0: WB1 XJc
+redraw_hunter redraws board card 1 and calls
+Turn [Kh Kd Js 4s], aggro_pressure (51), redraw_hunter (51)
+redraw_hunter checks
+aggro_pressure checks
+River [Kh Kd Js 4s Ks], aggro_pressure (51), redraw_hunter (51)
+redraw_hunter bets 56
+aggro_pressure raises to 126
+redraw_hunter calls
+aggro_pressure shows [8c Th]
+redraw_hunter shows [Ah 9h]
+aggro_pressure awarded -177
+redraw_hunter awarded 177
+
+Round #45, redraw_hunter (-1012), aggro_pressure (1012)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [3h Qh]
+aggro_pressure dealt [2s 6s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X2s
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter calls
+Flop [Js 6d Jd], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+Redraw reveal for 1: WH0 X3h
+redraw_hunter redraws hole card 0 and calls
+Turn [Js 6d Jd 7d], redraw_hunter (20), aggro_pressure (20)
+aggro_pressure bets 32
+redraw_hunter calls
+River [Js 6d Jd 7d 7h], redraw_hunter (52), aggro_pressure (52)
+aggro_pressure bets 52
+redraw_hunter calls
+redraw_hunter shows [9s Qh]
+aggro_pressure shows [5h 6s]
+redraw_hunter awarded 104
+aggro_pressure awarded -104
+
+Round #46, aggro_pressure (908), redraw_hunter (-908)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ac Jc]
+redraw_hunter dealt [7h 8s]
+Redraw reveal for 1: WH1 XJc
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [4s 2d 6d], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB1 X2d
+redraw_hunter redraws board card 1 and checks
+aggro_pressure bets 6
+redraw_hunter calls
+Turn [4s 9h 6d Th], aggro_pressure (10), redraw_hunter (10)
+redraw_hunter bets 13
+aggro_pressure raises to 26
+redraw_hunter raises to 60
+aggro_pressure calls
+River [4s 9h 6d Th 8h], aggro_pressure (70), redraw_hunter (70)
+redraw_hunter bets 91
+aggro_pressure calls
+aggro_pressure shows [Ac Ts]
+redraw_hunter shows [7h 8s]
+aggro_pressure awarded -161
+redraw_hunter awarded 161
+
+Round #47, redraw_hunter (-747), aggro_pressure (747)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [4c Td]
+aggro_pressure dealt [3c 3d]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #48, aggro_pressure (752), redraw_hunter (-752)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [7s 2c]
+redraw_hunter dealt [Kd 5d]
+Redraw reveal for 1: WH0 X7s
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [9s Kc 2h], aggro_pressure (4), redraw_hunter (4)
+redraw_hunter bets 5
+aggro_pressure raises to 10
+redraw_hunter raises to 23
+aggro_pressure raises to 42
+redraw_hunter calls
+Turn [9s Kc 2h 3d], aggro_pressure (46), redraw_hunter (46)
+Redraw reveal for 0: WH1 X5d
+redraw_hunter redraws hole card 1 and bets 64
+aggro_pressure raises to 128
+redraw_hunter raises to 291
+aggro_pressure raises to 354
+redraw_hunter calls
+aggro_pressure shows [8c 2c]
+redraw_hunter shows [Kd 9h]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #49, redraw_hunter (-352), aggro_pressure (352)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [9s 5h]
+aggro_pressure dealt [Js Kh]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 XJs
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #50, aggro_pressure (357), redraw_hunter (-357)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [2c 8h]
+redraw_hunter dealt [Jc 5h]
+Redraw reveal for 1: WH0 X2c
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [5c 6d Tc], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB1 X6d
+redraw_hunter redraws board card 1 and bets 4
+aggro_pressure raises to 9
+redraw_hunter calls
+Turn [5c 9h Tc 8s], aggro_pressure (13), redraw_hunter (13)
+redraw_hunter bets 14
+aggro_pressure raises to 32
+redraw_hunter calls
+River [5c 9h Tc 8s 8d], aggro_pressure (45), redraw_hunter (45)
+redraw_hunter bets 49
+aggro_pressure raises to 111
+redraw_hunter calls
+aggro_pressure shows [Qs 8h]
+redraw_hunter shows [Jc 5h]
+aggro_pressure awarded 156
+redraw_hunter awarded -156
+
+Round #51, redraw_hunter (-513), aggro_pressure (513)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [3d Kd]
+aggro_pressure dealt [Tc Ts]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter calls
+Flop [7d Qs 5s], redraw_hunter (12), aggro_pressure (12)
+aggro_pressure bets 19
+Redraw reveal for 1: WB1 XQs
+redraw_hunter redraws board card 1 and calls
+Turn [7d 8d 5s Js], redraw_hunter (31), aggro_pressure (31)
+Redraw reveal for 0: WB1 X8d
+aggro_pressure redraws board card 1 and bets 43
+redraw_hunter calls
+River [7d 7s 5s Js 5d], redraw_hunter (74), aggro_pressure (74)
+aggro_pressure bets 118
+redraw_hunter calls
+redraw_hunter shows [3d Kd]
+aggro_pressure shows [Tc Ts]
+redraw_hunter awarded -192
+aggro_pressure awarded 192
+
+Round #52, aggro_pressure (705), redraw_hunter (-705)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Jc 8h]
+redraw_hunter dealt [5h 4d]
+Redraw reveal for 1: WH1 X8h
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #53, redraw_hunter (-707), aggro_pressure (707)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Tc 7c]
+aggro_pressure dealt [4s 7d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X4s
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter calls
+Flop [8c Kd 5d], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+Redraw reveal for 1: WB1 XKd
+redraw_hunter redraws board card 1 and checks
+Turn [8c 9s 5d Jc], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 10
+redraw_hunter raises to 20
+aggro_pressure raises to 46
+redraw_hunter raises to 85
+aggro_pressure raises to 163
+redraw_hunter raises to 296
+aggro_pressure raises to 392
+redraw_hunter calls
+redraw_hunter shows [Tc 7c]
+aggro_pressure shows [Kh 7d]
+redraw_hunter awarded 400
+aggro_pressure awarded -400
+
+Round #54, aggro_pressure (307), redraw_hunter (-307)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [6h 7d]
+redraw_hunter dealt [2d Jc]
+Redraw reveal for 1: WH1 X7d
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH0 X2d
+redraw_hunter redraws hole card 0 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #55, redraw_hunter (-309), aggro_pressure (309)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Jd 2s]
+aggro_pressure dealt [Qd Qh]
+Redraw reveal for 1: WH1 X2s
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -1
+aggro_pressure awarded 1
+
+Round #56, aggro_pressure (310), redraw_hunter (-310)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [6s 8c]
+redraw_hunter dealt [Td 7d]
+Redraw reveal for 1: WH0 X6s
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [9h 5d 4h], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH1 X7d
+redraw_hunter redraws hole card 1 and checks
+aggro_pressure bets 5
+redraw_hunter calls
+Turn [9h 5d 4h 5s], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter checks
+aggro_pressure checks
+River [9h 5d 4h 5s 4s], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter checks
+aggro_pressure bets 9
+redraw_hunter calls
+aggro_pressure shows [9c 8c]
+redraw_hunter shows [Td Qh]
+aggro_pressure awarded 18
+redraw_hunter awarded -18
+
+Round #57, redraw_hunter (-328), aggro_pressure (328)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [6d 4d]
+aggro_pressure dealt [9d 2d]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X2d
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #58, aggro_pressure (333), redraw_hunter (-333)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Jc Qd]
+redraw_hunter dealt [6h 8s]
+aggro_pressure raises to 6
+redraw_hunter calls
+Flop [2h 4c Kh], aggro_pressure (6), redraw_hunter (6)
+Redraw reveal for 0: WH1 X8s
+redraw_hunter redraws hole card 1 and checks
+Redraw reveal for 1: WB0 X2h
+aggro_pressure redraws board card 0 and bets 8
+redraw_hunter calls
+Turn [2c 4c Kh 5d], aggro_pressure (14), redraw_hunter (14)
+redraw_hunter checks
+aggro_pressure bets 14
+redraw_hunter calls
+River [2c 4c Kh 5d 5s], aggro_pressure (28), redraw_hunter (28)
+redraw_hunter checks
+aggro_pressure bets 36
+redraw_hunter calls
+aggro_pressure shows [Jc Qd]
+redraw_hunter shows [6h Qh]
+aggro_pressure awarded 64
+redraw_hunter awarded -64
+
+Round #59, redraw_hunter (-397), aggro_pressure (397)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [2d 9s]
+aggro_pressure dealt [8h 3s]
+Redraw reveal for 1: WH0 X2d
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -1
+aggro_pressure awarded 1
+
+Round #60, aggro_pressure (398), redraw_hunter (-398)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Kc Jc]
+redraw_hunter dealt [Ad As]
+aggro_pressure raises to 6
+redraw_hunter raises to 24
+aggro_pressure raises to 400
+redraw_hunter calls
+aggro_pressure shows [Kc Jc]
+redraw_hunter shows [Ad As]
+aggro_pressure awarded 400
+redraw_hunter awarded -400
+
+Round #61, redraw_hunter (-798), aggro_pressure (798)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [7d 6h]
+aggro_pressure dealt [6c Qs]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X6c
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #62, aggro_pressure (803), redraw_hunter (-803)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [6h Kh]
+redraw_hunter dealt [Tc Ac]
+aggro_pressure raises to 6
+redraw_hunter raises to 24
+Redraw reveal for 1: WH0 X6h
+aggro_pressure redraws hole card 0 and raises to 42
+redraw_hunter raises to 153
+aggro_pressure raises to 400
+redraw_hunter calls
+aggro_pressure shows [7d Kh]
+redraw_hunter shows [Tc Ac]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #63, redraw_hunter (-403), aggro_pressure (403)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [7h 4s]
+aggro_pressure dealt [Js Tc]
+redraw_hunter raises to 5
+aggro_pressure calls
+Flop [5d 9c 6s], redraw_hunter (5), aggro_pressure (5)
+Redraw reveal for 0: WB2 X6s
+aggro_pressure redraws board card 2 and bets 7
+Redraw reveal for 1: WH0 X7h
+redraw_hunter redraws hole card 0 and folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #64, aggro_pressure (408), redraw_hunter (-408)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ad 5c]
+redraw_hunter dealt [5s 5h]
+aggro_pressure raises to 6
+redraw_hunter raises to 24
+aggro_pressure raises to 400
+redraw_hunter calls
+aggro_pressure shows [Ad 5c]
+redraw_hunter shows [5s 5h]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #65, redraw_hunter (-8), aggro_pressure (8)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [9d Js]
+aggro_pressure dealt [6h 5s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5s
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [9c 9h 5d], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 10
+redraw_hunter raises to 20
+aggro_pressure raises to 46
+redraw_hunter raises to 85
+aggro_pressure raises to 163
+redraw_hunter raises to 296
+aggro_pressure raises to 392
+redraw_hunter calls
+redraw_hunter shows [9d Js]
+aggro_pressure shows [6h Kh]
+redraw_hunter awarded 400
+aggro_pressure awarded -400
+
+Round #66, aggro_pressure (-392), redraw_hunter (392)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [7d As]
+redraw_hunter dealt [2h 5d]
+Redraw reveal for 1: WH0 X7d
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH1 X5d
+redraw_hunter redraws hole card 1 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #67, redraw_hunter (390), aggro_pressure (-390)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [8c 2s]
+aggro_pressure dealt [6s 6d]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+Redraw reveal for 1: WH1 X2s
+redraw_hunter redraws hole card 1 and folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #68, aggro_pressure (-385), redraw_hunter (385)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [8d Jh]
+redraw_hunter dealt [3d Ks]
+Redraw reveal for 1: WH0 X8d
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X3d
+redraw_hunter redraws hole card 0 and calls
+Flop [Th 4h Jd], aggro_pressure (4), redraw_hunter (4)
+redraw_hunter checks
+aggro_pressure bets 6
+redraw_hunter calls
+Turn [Th 4h Jd Ah], aggro_pressure (10), redraw_hunter (10)
+redraw_hunter bets 11
+aggro_pressure raises to 24
+redraw_hunter calls
+River [Th 4h Jd Ah 9s], aggro_pressure (34), redraw_hunter (34)
+redraw_hunter checks
+aggro_pressure bets 54
+redraw_hunter calls
+aggro_pressure shows [3s Jh]
+redraw_hunter shows [3h Ks]
+aggro_pressure awarded 88
+redraw_hunter awarded -88
+
+Round #69, redraw_hunter (297), aggro_pressure (-297)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [4s Th]
+aggro_pressure dealt [Qd 2s]
+Redraw reveal for 1: WH0 X4s
+redraw_hunter redraws hole card 0 and calls
+Redraw reveal for 0: WH1 X2s
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [Qc 5d Ts], redraw_hunter (4), aggro_pressure (4)
+aggro_pressure bets 6
+redraw_hunter calls
+Turn [Qc 5d Ts 8s], redraw_hunter (10), aggro_pressure (10)
+aggro_pressure bets 16
+redraw_hunter calls
+River [Qc 5d Ts 8s Tc], redraw_hunter (26), aggro_pressure (26)
+aggro_pressure bets 41
+redraw_hunter raises to 82
+aggro_pressure raises to 181
+redraw_hunter raises to 334
+aggro_pressure raises to 374
+redraw_hunter calls
+redraw_hunter shows [4c Th]
+aggro_pressure shows [Qd Kc]
+redraw_hunter awarded 400
+aggro_pressure awarded -400
+
+Round #70, aggro_pressure (-697), redraw_hunter (697)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [3d 6c]
+redraw_hunter dealt [9d 5d]
+Redraw reveal for 1: WH0 X3d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [7d 6d 9c], aggro_pressure (4), redraw_hunter (4)
+redraw_hunter bets 5
+aggro_pressure raises to 10
+redraw_hunter calls
+Turn [7d 6d 9c Qs], aggro_pressure (14), redraw_hunter (14)
+Redraw reveal for 0: WB3 XQs
+redraw_hunter redraws board card 3 and bets 19
+aggro_pressure raises to 38
+redraw_hunter calls
+River [7d 6d 9c 2s 8d], aggro_pressure (52), redraw_hunter (52)
+redraw_hunter bets 72
+aggro_pressure calls
+aggro_pressure shows [4c 6c]
+redraw_hunter shows [9d 5d]
+aggro_pressure awarded -124
+redraw_hunter awarded 124
+
+Round #71, redraw_hunter (821), aggro_pressure (-821)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Qc Js]
+aggro_pressure dealt [9s 7h]
+redraw_hunter raises to 5
+aggro_pressure calls
+Flop [9d 4d 7d], redraw_hunter (5), aggro_pressure (5)
+Redraw reveal for 0: WB1 X4d
+aggro_pressure redraws board card 1 and bets 7
+Redraw reveal for 1: WB2 X7d
+redraw_hunter redraws board card 2 and calls
+Turn [9d Qh 7s 7c], redraw_hunter (12), aggro_pressure (12)
+aggro_pressure bets 19
+redraw_hunter calls
+River [9d Qh 7s 7c 9h], redraw_hunter (31), aggro_pressure (31)
+aggro_pressure bets 49
+redraw_hunter calls
+redraw_hunter shows [Qc Js]
+aggro_pressure shows [9s 7h]
+redraw_hunter awarded -80
+aggro_pressure awarded 80
+
+Round #72, aggro_pressure (-741), redraw_hunter (741)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [7s Tc]
+redraw_hunter dealt [4h 2c]
+aggro_pressure raises to 6
+redraw_hunter folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #73, redraw_hunter (739), aggro_pressure (-739)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Kc Jc]
+aggro_pressure dealt [7s Ac]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter raises to 400
+Redraw reveal for 0: WH0 X7s
+aggro_pressure redraws hole card 0 and calls
+redraw_hunter shows [Kc Jc]
+aggro_pressure shows [4d Ac]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #74, aggro_pressure (-339), redraw_hunter (339)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [5d Ks]
+redraw_hunter dealt [5c 7h]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH0 X5c
+redraw_hunter redraws hole card 0 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #75, redraw_hunter (337), aggro_pressure (-337)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Ah 7c]
+aggro_pressure dealt [Jd Qc]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter calls
+Flop [8c 3s 5s], redraw_hunter (12), aggro_pressure (12)
+Redraw reveal for 0: WH1 XQc
+aggro_pressure redraws hole card 1 and bets 16
+Redraw reveal for 1: WH1 X7c
+redraw_hunter redraws hole card 1 and calls
+Turn [8c 3s 5s Jh], redraw_hunter (28), aggro_pressure (28)
+aggro_pressure bets 44
+redraw_hunter calls
+River [8c 3s 5s Jh Qs], redraw_hunter (72), aggro_pressure (72)
+aggro_pressure bets 115
+redraw_hunter calls
+redraw_hunter shows [Ah 6c]
+aggro_pressure shows [Jd Ks]
+redraw_hunter awarded -187
+aggro_pressure awarded 187
+
+Round #76, aggro_pressure (-150), redraw_hunter (150)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ah Kc]
+redraw_hunter dealt [4d 9d]
+aggro_pressure raises to 6
+Redraw reveal for 0: WH0 X4d
+redraw_hunter redraws hole card 0 and calls
+Flop [As Ts 2c], aggro_pressure (6), redraw_hunter (6)
+redraw_hunter checks
+Redraw reveal for 1: WH1 XKc
+aggro_pressure redraws hole card 1 and bets 8
+redraw_hunter calls
+Turn [As Ts 2c 4s], aggro_pressure (14), redraw_hunter (14)
+redraw_hunter checks
+aggro_pressure bets 22
+redraw_hunter calls
+River [As Ts 2c 4s Js], aggro_pressure (36), redraw_hunter (36)
+redraw_hunter checks
+aggro_pressure bets 57
+redraw_hunter folds
+aggro_pressure awarded 36
+redraw_hunter awarded -36
+
+Round #77, redraw_hunter (114), aggro_pressure (-114)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Ks 3c]
+aggro_pressure dealt [9h 7c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X7c
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH1 X3c
+redraw_hunter redraws hole card 1 and calls
+Flop [As 7h 8d], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+redraw_hunter checks
+Turn [As 7h 8d 4d], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 10
+redraw_hunter calls
+River [As 7h 8d 4d 2c], redraw_hunter (18), aggro_pressure (18)
+aggro_pressure checks
+redraw_hunter checks
+redraw_hunter shows [Ks Qs]
+aggro_pressure shows [9h Ad]
+redraw_hunter awarded -18
+aggro_pressure awarded 18
+
+Round #78, aggro_pressure (-96), redraw_hunter (96)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [5h As]
+redraw_hunter dealt [2s 5d]
+Redraw reveal for 1: WH0 X5h
+aggro_pressure redraws hole card 0 and raises to 4
+Redraw reveal for 0: WH1 X5d
+redraw_hunter redraws hole card 1 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #79, redraw_hunter (94), aggro_pressure (-94)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Ad Qs]
+aggro_pressure dealt [Jc 3s]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 XJc
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [Ad Qs]
+aggro_pressure shows [Kc 3s]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #80, aggro_pressure (306), redraw_hunter (-306)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [5d 3d]
+redraw_hunter dealt [3s Js]
+Redraw reveal for 1: WH0 X5d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [5h Ks 2c], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH1 XJs
+redraw_hunter redraws hole card 1 and checks
+aggro_pressure checks
+Turn [5h Ks 2c 4c], aggro_pressure (4), redraw_hunter (4)
+redraw_hunter bets 4
+aggro_pressure raises to 9
+redraw_hunter calls
+River [5h Ks 2c 4c 5s], aggro_pressure (13), redraw_hunter (13)
+redraw_hunter checks
+aggro_pressure checks
+aggro_pressure shows [6d 3d]
+redraw_hunter shows [3s 8c]
+aggro_pressure awarded 13
+redraw_hunter awarded -13
+
+Round #81, redraw_hunter (-319), aggro_pressure (319)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [7s 6s]
+aggro_pressure dealt [8d Jh]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #82, aggro_pressure (324), redraw_hunter (-324)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Jc 9h]
+redraw_hunter dealt [2s 6d]
+Redraw reveal for 1: WH1 X9h
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH0 X2s
+redraw_hunter redraws hole card 0 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #83, redraw_hunter (-326), aggro_pressure (326)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Qs 6h]
+aggro_pressure dealt [3c Js]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter calls
+Flop [6s 4c 9s], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure checks
+redraw_hunter bets 11
+aggro_pressure calls
+Turn [6s 4c 9s 8h], redraw_hunter (19), aggro_pressure (19)
+aggro_pressure bets 24
+Redraw reveal for 1: WB3 X8h
+redraw_hunter redraws board card 3 and calls
+River [6s 4c 9s 5h Tc], redraw_hunter (43), aggro_pressure (43)
+aggro_pressure bets 43
+redraw_hunter calls
+redraw_hunter shows [Qs 6h]
+aggro_pressure shows [2d Js]
+redraw_hunter awarded 86
+aggro_pressure awarded -86
+
+Round #84, aggro_pressure (240), redraw_hunter (-240)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [3c 2d]
+redraw_hunter dealt [4c 8c]
+Redraw reveal for 1: WH1 X2d
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [2c Th 4s], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB1 XTh
+redraw_hunter redraws board card 1 and bets 4
+aggro_pressure raises to 9
+redraw_hunter calls
+Turn [2c Kc 4s 2s], aggro_pressure (13), redraw_hunter (13)
+redraw_hunter bets 18
+aggro_pressure calls
+River [2c Kc 4s 2s 3h], aggro_pressure (31), redraw_hunter (31)
+redraw_hunter bets 43
+aggro_pressure raises to 86
+redraw_hunter calls
+aggro_pressure shows [3c Tc]
+redraw_hunter shows [4c 8c]
+aggro_pressure awarded -117
+redraw_hunter awarded 117
+
+Round #85, redraw_hunter (-123), aggro_pressure (123)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Jc 8c]
+aggro_pressure dealt [Kh 5c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5c
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [Tc 5s Kd], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+Redraw reveal for 1: WB2 XKd
+redraw_hunter redraws board card 2 and calls
+Turn [Tc 5s Qs As], redraw_hunter (20), aggro_pressure (20)
+aggro_pressure checks
+redraw_hunter checks
+River [Tc 5s Qs As 9d], redraw_hunter (20), aggro_pressure (20)
+aggro_pressure bets 26
+redraw_hunter raises to 52
+aggro_pressure raises to 120
+redraw_hunter raises to 221
+aggro_pressure raises to 380
+redraw_hunter calls
+redraw_hunter shows [Jc 8c]
+aggro_pressure shows [Kh 8h]
+redraw_hunter awarded 400
+aggro_pressure awarded -400
+
+Round #86, aggro_pressure (-277), redraw_hunter (277)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [6h 2s]
+redraw_hunter dealt [8s Jh]
+Redraw reveal for 1: WH0 X6h
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [8h Ad Th], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB1 XAd
+redraw_hunter redraws board card 1 and bets 5
+aggro_pressure calls
+Turn [8h 9d Th 4d], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter bets 9
+aggro_pressure calls
+River [8h 9d Th 4d Qs], aggro_pressure (18), redraw_hunter (18)
+redraw_hunter bets 25
+aggro_pressure calls
+aggro_pressure shows [7c 2s]
+redraw_hunter shows [8s Jh]
+aggro_pressure awarded -43
+redraw_hunter awarded 43
+
+Round #87, redraw_hunter (320), aggro_pressure (-320)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Kd As]
+aggro_pressure dealt [2c 9h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH0 X2c
+aggro_pressure redraws hole card 0 and raises to 8
+redraw_hunter raises to 400
+aggro_pressure calls
+redraw_hunter shows [Kd As]
+aggro_pressure shows [3d 9h]
+redraw_hunter awarded -400
+aggro_pressure awarded 400
+
+Round #88, aggro_pressure (80), redraw_hunter (-80)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Ad 7d]
+redraw_hunter dealt [Qh Tc]
+aggro_pressure raises to 6
+redraw_hunter raises to 24
+aggro_pressure raises to 400
+redraw_hunter calls
+aggro_pressure shows [Ad 7d]
+redraw_hunter shows [Qh Tc]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #89, redraw_hunter (320), aggro_pressure (-320)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [9c Js]
+aggro_pressure dealt [7d Ac]
+redraw_hunter raises to 5
+aggro_pressure raises to 12
+redraw_hunter calls
+Flop [6d Qc 2h], redraw_hunter (12), aggro_pressure (12)
+Redraw reveal for 0: WH0 X7d
+aggro_pressure redraws hole card 0 and bets 16
+Redraw reveal for 1: WB2 X2h
+redraw_hunter redraws board card 2 and calls
+Turn [6d Qc 3s Jc], redraw_hunter (28), aggro_pressure (28)
+aggro_pressure bets 36
+redraw_hunter calls
+River [6d Qc 3s Jc 4s], redraw_hunter (64), aggro_pressure (64)
+aggro_pressure bets 83
+redraw_hunter calls
+redraw_hunter shows [9c Js]
+aggro_pressure shows [5s Ac]
+redraw_hunter awarded 147
+aggro_pressure awarded -147
+
+Round #90, aggro_pressure (-467), redraw_hunter (467)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9d 6s]
+redraw_hunter dealt [5h Qd]
+Redraw reveal for 1: WH1 X6s
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter calls
+Flop [6h 8d 5d], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WB0 X6h
+redraw_hunter redraws board card 0 and bets 4
+aggro_pressure raises to 9
+redraw_hunter calls
+Turn [Ts 8d 5d 4h], aggro_pressure (13), redraw_hunter (13)
+redraw_hunter bets 14
+aggro_pressure calls
+River [Ts 8d 5d 4h 2h], aggro_pressure (27), redraw_hunter (27)
+redraw_hunter bets 29
+aggro_pressure calls
+aggro_pressure shows [9d 5s]
+redraw_hunter shows [5h Qd]
+aggro_pressure awarded -56
+redraw_hunter awarded 56
+
+Round #91, redraw_hunter (523), aggro_pressure (-523)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Ac 3c]
+aggro_pressure dealt [Qd 5h]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X5h
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [Ah 7s Ad], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+redraw_hunter raises to 24
+aggro_pressure raises to 53
+redraw_hunter raises to 98
+aggro_pressure raises to 186
+redraw_hunter raises to 338
+aggro_pressure raises to 392
+redraw_hunter calls
+redraw_hunter shows [Ac 3c]
+aggro_pressure shows [Qd Jd]
+redraw_hunter awarded 400
+aggro_pressure awarded -400
+
+Round #92, aggro_pressure (-923), redraw_hunter (923)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9h 3h]
+redraw_hunter dealt [Ac 7d]
+Redraw reveal for 1: WH1 X3h
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter raises to 15
+aggro_pressure calls
+Flop [Kd Ts As], aggro_pressure (15), redraw_hunter (15)
+Redraw reveal for 0: WB1 XTs
+redraw_hunter redraws board card 1 and bets 21
+aggro_pressure calls
+Turn [Kd 7c As Ad], aggro_pressure (36), redraw_hunter (36)
+redraw_hunter bets 50
+aggro_pressure calls
+River [Kd 7c As Ad Ks], aggro_pressure (86), redraw_hunter (86)
+redraw_hunter bets 120
+aggro_pressure raises to 240
+redraw_hunter raises to 314
+aggro_pressure calls
+aggro_pressure shows [9h 3c]
+redraw_hunter shows [Ac 7d]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #93, redraw_hunter (1323), aggro_pressure (-1323)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [9d 3s]
+aggro_pressure dealt [Jd 9c]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 X9c
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter folds
+redraw_hunter awarded -5
+aggro_pressure awarded 5
+
+Round #94, aggro_pressure (-1318), redraw_hunter (1318)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [9h 5d]
+redraw_hunter dealt [7s As]
+Redraw reveal for 1: WH1 X5d
+aggro_pressure redraws hole card 1 and raises to 4
+redraw_hunter raises to 15
+aggro_pressure calls
+Flop [4h 4s Ah], aggro_pressure (15), redraw_hunter (15)
+redraw_hunter bets 21
+aggro_pressure raises to 42
+Redraw reveal for 0: WH0 X7s
+redraw_hunter redraws hole card 0 and raises to 95
+aggro_pressure raises to 175
+redraw_hunter raises to 335
+aggro_pressure raises to 385
+redraw_hunter calls
+aggro_pressure shows [9h 2d]
+redraw_hunter shows [2h As]
+aggro_pressure awarded -400
+redraw_hunter awarded 400
+
+Round #95, redraw_hunter (1718), aggro_pressure (-1718)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [3s Tc]
+aggro_pressure dealt [4c Qc]
+Redraw reveal for 1: WH0 X3s
+redraw_hunter redraws hole card 0 and calls
+Redraw reveal for 0: WH0 X4c
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [6s Qh 8d], redraw_hunter (4), aggro_pressure (4)
+aggro_pressure bets 6
+redraw_hunter calls
+Turn [6s Qh 8d 2c], redraw_hunter (10), aggro_pressure (10)
+aggro_pressure bets 16
+redraw_hunter calls
+River [6s Qh 8d 2c 4d], redraw_hunter (26), aggro_pressure (26)
+aggro_pressure bets 41
+redraw_hunter folds
+redraw_hunter awarded -26
+aggro_pressure awarded 26
+
+Round #96, aggro_pressure (-1692), redraw_hunter (1692)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [Qc 2c]
+redraw_hunter dealt [5s Tc]
+Redraw reveal for 1: WH1 X2c
+aggro_pressure redraws hole card 1 and raises to 4
+Redraw reveal for 0: WH0 X5s
+redraw_hunter redraws hole card 0 and folds
+aggro_pressure awarded 2
+redraw_hunter awarded -2
+
+Round #97, redraw_hunter (1690), aggro_pressure (-1690)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Qs 7h]
+aggro_pressure dealt [Qd Th]
+redraw_hunter raises to 5
+Redraw reveal for 0: WH1 XTh
+aggro_pressure redraws hole card 1 and raises to 8
+redraw_hunter calls
+Flop [6c Jh 6s], redraw_hunter (8), aggro_pressure (8)
+aggro_pressure bets 12
+Redraw reveal for 1: WH1 X7h
+redraw_hunter redraws hole card 1 and calls
+Turn [6c Jh 6s Kc], redraw_hunter (20), aggro_pressure (20)
+aggro_pressure bets 26
+redraw_hunter calls
+River [6c Jh 6s Kc 9h], redraw_hunter (46), aggro_pressure (46)
+aggro_pressure checks
+redraw_hunter bets 46
+aggro_pressure raises to 110
+redraw_hunter calls
+redraw_hunter shows [Qs 2s]
+aggro_pressure shows [Qd 4d]
+redraw_hunter awarded 0
+aggro_pressure awarded 0
+
+Round #98, aggro_pressure (-1690), redraw_hunter (1690)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [3c Qc]
+redraw_hunter dealt [6s Kc]
+Redraw reveal for 1: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter calls
+Flop [3d 4d 5h], aggro_pressure (4), redraw_hunter (4)
+Redraw reveal for 0: WH1 XKc
+redraw_hunter redraws hole card 1 and checks
+aggro_pressure bets 5
+redraw_hunter calls
+Turn [3d 4d 5h 3h], aggro_pressure (9), redraw_hunter (9)
+redraw_hunter bets 9
+aggro_pressure calls
+River [3d 4d 5h 3h 9c], aggro_pressure (18), redraw_hunter (18)
+redraw_hunter checks
+aggro_pressure checks
+aggro_pressure shows [Qh Qc]
+redraw_hunter shows [6s 2h]
+aggro_pressure awarded -18
+redraw_hunter awarded 18
+
+Round #99, redraw_hunter (1708), aggro_pressure (-1708)
+redraw_hunter posts blind 1
+aggro_pressure posts blind 2
+redraw_hunter dealt [Qs 5d]
+aggro_pressure dealt [8c 8s]
+Redraw reveal for 1: WH1 X5d
+redraw_hunter redraws hole card 1 and raises to 5
+aggro_pressure raises to 12
+redraw_hunter calls
+Flop [2h 8h 9h], redraw_hunter (12), aggro_pressure (12)
+Redraw reveal for 0: WB2 X9h
+aggro_pressure redraws board card 2 and bets 16
+redraw_hunter calls
+Turn [2h 8h 7s 5c], redraw_hunter (28), aggro_pressure (28)
+aggro_pressure bets 44
+redraw_hunter calls
+River [2h 8h 7s 5c 2d], redraw_hunter (72), aggro_pressure (72)
+aggro_pressure bets 115
+redraw_hunter calls
+redraw_hunter shows [Qs Jc]
+aggro_pressure shows [8c 8s]
+redraw_hunter awarded -187
+aggro_pressure awarded 187
+
+Round #100, aggro_pressure (-1521), redraw_hunter (1521)
+aggro_pressure posts blind 1
+redraw_hunter posts blind 2
+aggro_pressure dealt [3d 6s]
+redraw_hunter dealt [9s 9c]
+Redraw reveal for 1: WH0 X3d
+aggro_pressure redraws hole card 0 and raises to 4
+redraw_hunter raises to 15
+aggro_pressure calls
+Flop [Js 4c As], aggro_pressure (15), redraw_hunter (15)
+Redraw reveal for 0: WB2 XAs
+redraw_hunter redraws board card 2 and bets 16
+aggro_pressure calls
+Turn [Js 4c 6d Tc], aggro_pressure (31), redraw_hunter (31)
+redraw_hunter bets 43
+aggro_pressure raises to 86
+redraw_hunter calls
+River [Js 4c 6d Tc 2s], aggro_pressure (117), redraw_hunter (117)
+redraw_hunter bets 163
+aggro_pressure raises to 283
+redraw_hunter calls
+aggro_pressure shows [2h 6s]
+redraw_hunter shows [9s 9c]
+aggro_pressure awarded 400
+redraw_hunter awarded -400
+
+Final, redraw_hunter (1121), aggro_pressure (-1121)

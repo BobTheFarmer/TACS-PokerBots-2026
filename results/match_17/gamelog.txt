@@ -1,0 +1,1007 @@
+TACS Pokerbots - aggro_pressure vs mc_equity
+
+Round #1, aggro_pressure (0), mc_equity (0)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Jd 6d]
+mc_equity dealt [6c 3c]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #2, mc_equity (-2), aggro_pressure (2)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6c 7h]
+aggro_pressure dealt [5s 4h]
+mc_equity raises to 5
+Redraw reveal for 0: WH1 X4h
+aggro_pressure redraws hole card 1 and raises to 8
+mc_equity folds
+mc_equity awarded -5
+aggro_pressure awarded 5
+
+Round #3, aggro_pressure (7), mc_equity (-7)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [3d Td]
+mc_equity dealt [4d Ks]
+Redraw reveal for 1: WH0 X3d
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity calls
+Flop [Qc 6c 5d], aggro_pressure (4), mc_equity (4)
+Redraw reveal for 0: WB0 XQc
+mc_equity redraws board card 0 and checks
+aggro_pressure checks
+Turn [8c 6c 5d 4h], aggro_pressure (4), mc_equity (4)
+mc_equity checks
+aggro_pressure bets 5
+mc_equity calls
+River [8c 6c 5d 4h Ts], aggro_pressure (9), mc_equity (9)
+mc_equity checks
+aggro_pressure bets 14
+mc_equity calls
+aggro_pressure shows [Qh Td]
+mc_equity shows [4d Ks]
+aggro_pressure awarded 23
+mc_equity awarded -23
+
+Round #4, mc_equity (-30), aggro_pressure (30)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [8c Jd]
+aggro_pressure dealt [As Tc]
+mc_equity raises to 5
+aggro_pressure raises to 12
+mc_equity raises to 400
+aggro_pressure calls
+mc_equity shows [8c Jd]
+aggro_pressure shows [As Tc]
+mc_equity awarded -400
+aggro_pressure awarded 400
+
+Round #5, aggro_pressure (430), mc_equity (-430)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [7s Kd]
+mc_equity dealt [6h 6d]
+Redraw reveal for 1: WH0 X7s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity calls
+Flop [8h Qh 4c], aggro_pressure (4), mc_equity (4)
+Redraw reveal for 0: WB2 X4c
+mc_equity redraws board card 2 and checks
+aggro_pressure bets 5
+mc_equity response misformatted: 
+mc_equity folds
+aggro_pressure awarded 4
+mc_equity awarded -4
+mc_equity response misformatted: 
+
+Round #6, mc_equity (-434), aggro_pressure (434)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Qd Kc]
+aggro_pressure dealt [6s Ah]
+mc_equity disconnected
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #7, aggro_pressure (435), mc_equity (-435)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [7s Qc]
+mc_equity dealt [2h 9s]
+Redraw reveal for 1: WH0 X7s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #8, mc_equity (-437), aggro_pressure (437)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Ks 3d]
+aggro_pressure dealt [9d Jc]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #9, aggro_pressure (438), mc_equity (-438)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Ts 7d]
+mc_equity dealt [7h Tc]
+Redraw reveal for 1: WH1 X7d
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #10, mc_equity (-440), aggro_pressure (440)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [As 8s]
+aggro_pressure dealt [Ad 3s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #11, aggro_pressure (441), mc_equity (-441)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [3c 6s]
+mc_equity dealt [5d Kd]
+Redraw reveal for 1: WH0 X3c
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #12, mc_equity (-443), aggro_pressure (443)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6c Kh]
+aggro_pressure dealt [2c 8c]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #13, aggro_pressure (444), mc_equity (-444)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [8d 2c]
+mc_equity dealt [Qh Qs]
+Redraw reveal for 1: WH1 X2c
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #14, mc_equity (-446), aggro_pressure (446)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Td 7s]
+aggro_pressure dealt [Kd Qd]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #15, aggro_pressure (447), mc_equity (-447)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [7h Tc]
+mc_equity dealt [Kh 4c]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #16, mc_equity (-449), aggro_pressure (449)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [9d 9s]
+aggro_pressure dealt [Qd 9h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #17, aggro_pressure (450), mc_equity (-450)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [As 6d]
+mc_equity dealt [4d Td]
+Redraw reveal for 1: WH1 X6d
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #18, mc_equity (-452), aggro_pressure (452)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [5h 6h]
+aggro_pressure dealt [Ad 5s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #19, aggro_pressure (453), mc_equity (-453)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Qh Ks]
+mc_equity dealt [2h Qs]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #20, mc_equity (-455), aggro_pressure (455)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6h 7c]
+aggro_pressure dealt [Qh 4h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #21, aggro_pressure (456), mc_equity (-456)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [9c 2s]
+mc_equity dealt [2d 6d]
+Redraw reveal for 1: WH1 X2s
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #22, mc_equity (-458), aggro_pressure (458)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Ts 2d]
+aggro_pressure dealt [Qs Qh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #23, aggro_pressure (459), mc_equity (-459)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [7c Ac]
+mc_equity dealt [Qd Ah]
+Redraw reveal for 1: WH0 X7c
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #24, mc_equity (-461), aggro_pressure (461)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Qs Ah]
+aggro_pressure dealt [8h 6c]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #25, aggro_pressure (462), mc_equity (-462)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [2d Qh]
+mc_equity dealt [5d Ts]
+Redraw reveal for 1: WH0 X2d
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #26, mc_equity (-464), aggro_pressure (464)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Ad Ks]
+aggro_pressure dealt [As 7s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #27, aggro_pressure (465), mc_equity (-465)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [8c 7c]
+mc_equity dealt [3c Ks]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #28, mc_equity (-467), aggro_pressure (467)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [8c Ac]
+aggro_pressure dealt [4d Jh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #29, aggro_pressure (468), mc_equity (-468)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [5d 5c]
+mc_equity dealt [Ks 8c]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #30, mc_equity (-470), aggro_pressure (470)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6d 5s]
+aggro_pressure dealt [7h 3d]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #31, aggro_pressure (471), mc_equity (-471)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Qs Qd]
+mc_equity dealt [Kh 2s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #32, mc_equity (-473), aggro_pressure (473)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Kd Jc]
+aggro_pressure dealt [4h 9c]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #33, aggro_pressure (474), mc_equity (-474)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [2s 5h]
+mc_equity dealt [3c 6d]
+Redraw reveal for 1: WH0 X2s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #34, mc_equity (-476), aggro_pressure (476)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [9h Tc]
+aggro_pressure dealt [6d 7h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #35, aggro_pressure (477), mc_equity (-477)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Jc 6s]
+mc_equity dealt [4s Kc]
+Redraw reveal for 1: WH1 X6s
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #36, mc_equity (-479), aggro_pressure (479)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6s 9d]
+aggro_pressure dealt [Jh 8s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #37, aggro_pressure (480), mc_equity (-480)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [9d 4d]
+mc_equity dealt [6h 3d]
+Redraw reveal for 1: WH1 X4d
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #38, mc_equity (-482), aggro_pressure (482)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [5s Th]
+aggro_pressure dealt [3d 9h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #39, aggro_pressure (483), mc_equity (-483)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [9c Qh]
+mc_equity dealt [8c 2d]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #40, mc_equity (-485), aggro_pressure (485)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [7c 2d]
+aggro_pressure dealt [Ks Qh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #41, aggro_pressure (486), mc_equity (-486)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Tc Ah]
+mc_equity dealt [Jh 4d]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #42, mc_equity (-488), aggro_pressure (488)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [9c Tc]
+aggro_pressure dealt [7d Js]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #43, aggro_pressure (489), mc_equity (-489)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [5d 3c]
+mc_equity dealt [7s Kc]
+Redraw reveal for 1: WH1 X3c
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #44, mc_equity (-491), aggro_pressure (491)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [4s Jc]
+aggro_pressure dealt [6s 6h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #45, aggro_pressure (492), mc_equity (-492)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Ac 7h]
+mc_equity dealt [8d Qc]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #46, mc_equity (-494), aggro_pressure (494)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [4s 2d]
+aggro_pressure dealt [Qc 6d]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #47, aggro_pressure (495), mc_equity (-495)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Td 7c]
+mc_equity dealt [8d 7s]
+Redraw reveal for 1: WH1 X7c
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #48, mc_equity (-497), aggro_pressure (497)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [4s 2c]
+aggro_pressure dealt [2d Ah]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #49, aggro_pressure (498), mc_equity (-498)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [2s 8c]
+mc_equity dealt [Kd Kh]
+Redraw reveal for 1: WH1 X8c
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #50, mc_equity (-500), aggro_pressure (500)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Js 6h]
+aggro_pressure dealt [8s Kd]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #51, aggro_pressure (501), mc_equity (-501)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Qh 6s]
+mc_equity dealt [Qc 8s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #52, mc_equity (-503), aggro_pressure (503)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [7c 8d]
+aggro_pressure dealt [Jh Kd]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #53, aggro_pressure (504), mc_equity (-504)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [5c 4d]
+mc_equity dealt [8h 3s]
+Redraw reveal for 1: WH0 X5c
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #54, mc_equity (-506), aggro_pressure (506)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [2d 6s]
+aggro_pressure dealt [Tc 4h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #55, aggro_pressure (507), mc_equity (-507)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [8d Qd]
+mc_equity dealt [3c Js]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #56, mc_equity (-509), aggro_pressure (509)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [8s 6c]
+aggro_pressure dealt [Ah Kh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #57, aggro_pressure (510), mc_equity (-510)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [3h 4h]
+mc_equity dealt [Js 5h]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #58, mc_equity (-512), aggro_pressure (512)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6d 8d]
+aggro_pressure dealt [2s 3s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #59, aggro_pressure (513), mc_equity (-513)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [8c Ad]
+mc_equity dealt [Ac 9h]
+Redraw reveal for 1: WH0 X8c
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #60, mc_equity (-515), aggro_pressure (515)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [2d 2h]
+aggro_pressure dealt [Js 4d]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #61, aggro_pressure (516), mc_equity (-516)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Jd Kh]
+mc_equity dealt [8d 7h]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #62, mc_equity (-518), aggro_pressure (518)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Kh Qd]
+aggro_pressure dealt [9s 7h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #63, aggro_pressure (519), mc_equity (-519)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [6c 6h]
+mc_equity dealt [Jc 9c]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #64, mc_equity (-521), aggro_pressure (521)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [3c 4s]
+aggro_pressure dealt [Ac Kd]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #65, aggro_pressure (522), mc_equity (-522)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [7s Jh]
+mc_equity dealt [4s 8c]
+Redraw reveal for 1: WH0 X7s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #66, mc_equity (-524), aggro_pressure (524)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6c 2d]
+aggro_pressure dealt [Jc 7s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #67, aggro_pressure (525), mc_equity (-525)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Qd 8d]
+mc_equity dealt [Jc 9h]
+Redraw reveal for 1: WH1 X8d
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #68, mc_equity (-527), aggro_pressure (527)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [7s 4c]
+aggro_pressure dealt [4d 3d]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #69, aggro_pressure (528), mc_equity (-528)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Ah Jd]
+mc_equity dealt [Ts 2s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #70, mc_equity (-530), aggro_pressure (530)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [7c Kd]
+aggro_pressure dealt [8d 8s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #71, aggro_pressure (531), mc_equity (-531)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Ad Ts]
+mc_equity dealt [Qh 5c]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #72, mc_equity (-533), aggro_pressure (533)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [Ad Th]
+aggro_pressure dealt [7d Ts]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #73, aggro_pressure (534), mc_equity (-534)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Th Ah]
+mc_equity dealt [8h Qc]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #74, mc_equity (-536), aggro_pressure (536)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [3s Qc]
+aggro_pressure dealt [2s Kh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #75, aggro_pressure (537), mc_equity (-537)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [9h Ad]
+mc_equity dealt [9c 6d]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #76, mc_equity (-539), aggro_pressure (539)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [5s 6h]
+aggro_pressure dealt [Jd Kc]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #77, aggro_pressure (540), mc_equity (-540)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [4s 9s]
+mc_equity dealt [Td Kh]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #78, mc_equity (-542), aggro_pressure (542)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [2h 8c]
+aggro_pressure dealt [6h Tc]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #79, aggro_pressure (543), mc_equity (-543)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [8d Td]
+mc_equity dealt [Qh 4s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #80, mc_equity (-545), aggro_pressure (545)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [5c Qd]
+aggro_pressure dealt [8s 5s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #81, aggro_pressure (546), mc_equity (-546)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [5h Ts]
+mc_equity dealt [3c 5s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #82, mc_equity (-548), aggro_pressure (548)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [3d 3s]
+aggro_pressure dealt [Qd Kc]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #83, aggro_pressure (549), mc_equity (-549)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Kd Ac]
+mc_equity dealt [6s Kc]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #84, mc_equity (-551), aggro_pressure (551)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [6h 2d]
+aggro_pressure dealt [Ah Kc]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #85, aggro_pressure (552), mc_equity (-552)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [5s Ac]
+mc_equity dealt [Tc 9h]
+Redraw reveal for 1: WH0 X5s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #86, mc_equity (-554), aggro_pressure (554)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [3s 2d]
+aggro_pressure dealt [4d Jh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #87, aggro_pressure (555), mc_equity (-555)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [6d Jc]
+mc_equity dealt [3c Th]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #88, mc_equity (-557), aggro_pressure (557)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [7h Ad]
+aggro_pressure dealt [6h As]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #89, aggro_pressure (558), mc_equity (-558)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [3s Ac]
+mc_equity dealt [Th 9h]
+Redraw reveal for 1: WH0 X3s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #90, mc_equity (-560), aggro_pressure (560)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [3d 3h]
+aggro_pressure dealt [5d Th]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #91, aggro_pressure (561), mc_equity (-561)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Qc 4h]
+mc_equity dealt [5c 8s]
+Redraw reveal for 1: WH1 X4h
+aggro_pressure redraws hole card 1 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #92, mc_equity (-563), aggro_pressure (563)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [4c 7d]
+aggro_pressure dealt [9h Kh]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #93, aggro_pressure (564), mc_equity (-564)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [Qs 8s]
+mc_equity dealt [As 6s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #94, mc_equity (-566), aggro_pressure (566)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [2h 2d]
+aggro_pressure dealt [4d Ts]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #95, aggro_pressure (567), mc_equity (-567)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [5c Ah]
+mc_equity dealt [2c Th]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #96, mc_equity (-569), aggro_pressure (569)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [5c Ah]
+aggro_pressure dealt [Kc 9s]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #97, aggro_pressure (570), mc_equity (-570)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [8h 9h]
+mc_equity dealt [7c 9s]
+aggro_pressure raises to 6
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #98, mc_equity (-572), aggro_pressure (572)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [3c 2h]
+aggro_pressure dealt [6d Ad]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Round #99, aggro_pressure (573), mc_equity (-573)
+aggro_pressure posts blind 1
+mc_equity posts blind 2
+aggro_pressure dealt [7s As]
+mc_equity dealt [2h Ad]
+Redraw reveal for 1: WH0 X7s
+aggro_pressure redraws hole card 0 and raises to 4
+mc_equity folds
+aggro_pressure awarded 2
+mc_equity awarded -2
+
+Round #100, mc_equity (-575), aggro_pressure (575)
+mc_equity posts blind 1
+aggro_pressure posts blind 2
+mc_equity dealt [2d 2h]
+aggro_pressure dealt [Tc 8h]
+mc_equity folds
+mc_equity awarded -1
+aggro_pressure awarded 1
+
+Final, aggro_pressure (576), mc_equity (-576)

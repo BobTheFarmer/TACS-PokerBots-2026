@@ -1,0 +1,1003 @@
+TACS Pokerbots - gto_balanced vs aggro_pressure
+
+Round #1, gto_balanced (0), aggro_pressure (0)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Kd 5d]
+aggro_pressure dealt [Jc 6h]
+gto_balanced raises to 5
+Redraw reveal for 0: WH1 X6h
+aggro_pressure redraws hole card 1 and raises to 8
+Redraw reveal for 1: WH1 X5d
+gto_balanced redraws hole card 1 and calls
+Flop [Kc 5s 2d], gto_balanced (8), aggro_pressure (8)
+aggro_pressure bets 10
+gto_balanced raises to 25
+aggro_pressure raises to 50
+gto_balanced calls
+Turn [Kc 5s 2d 4d], gto_balanced (58), aggro_pressure (58)
+aggro_pressure bets 75
+gto_balanced raises to 187
+aggro_pressure calls
+River [Kc 5s 2d 4d As], gto_balanced (245), aggro_pressure (245)
+aggro_pressure bets 155
+gto_balanced calls
+gto_balanced shows [Kd Th]
+aggro_pressure shows [Jc Ac]
+gto_balanced awarded -400
+aggro_pressure awarded 400
+
+Round #2, aggro_pressure (400), gto_balanced (-400)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [6s 3h]
+gto_balanced dealt [9s Th]
+Redraw reveal for 1: WH1 X3h
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced calls
+Flop [7d 7h Qh], aggro_pressure (4), gto_balanced (4)
+Redraw reveal for 0: WB1 X7h
+gto_balanced redraws board card 1 and checks
+aggro_pressure bets 5
+gto_balanced response misformatted: 
+gto_balanced folds
+aggro_pressure awarded 4
+gto_balanced awarded -4
+gto_balanced response misformatted: 
+
+Round #3, gto_balanced (-404), aggro_pressure (404)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ad 2h]
+aggro_pressure dealt [2c Qh]
+gto_balanced disconnected
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #4, aggro_pressure (405), gto_balanced (-405)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [9c 5c]
+gto_balanced dealt [Qd 5h]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #5, gto_balanced (-407), aggro_pressure (407)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Qc 2d]
+aggro_pressure dealt [3s 5s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #6, aggro_pressure (408), gto_balanced (-408)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [5c 6s]
+gto_balanced dealt [Th Qs]
+Redraw reveal for 1: WH0 X5c
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #7, gto_balanced (-410), aggro_pressure (410)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [6d 8h]
+aggro_pressure dealt [Jd Ad]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #8, aggro_pressure (411), gto_balanced (-411)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [2h Qh]
+gto_balanced dealt [Ts Qc]
+Redraw reveal for 1: WH0 X2h
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #9, gto_balanced (-413), aggro_pressure (413)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Qc Kd]
+aggro_pressure dealt [9h 2c]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #10, aggro_pressure (414), gto_balanced (-414)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [9s 8c]
+gto_balanced dealt [Jd Qh]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #11, gto_balanced (-416), aggro_pressure (416)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ad 4s]
+aggro_pressure dealt [Kh 6s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #12, aggro_pressure (417), gto_balanced (-417)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [5d Kd]
+gto_balanced dealt [Ah Js]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #13, gto_balanced (-419), aggro_pressure (419)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Qh 6c]
+aggro_pressure dealt [5h 9h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #14, aggro_pressure (420), gto_balanced (-420)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [9h 8s]
+gto_balanced dealt [3s Td]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #15, gto_balanced (-422), aggro_pressure (422)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [4c Qd]
+aggro_pressure dealt [Kh 7h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #16, aggro_pressure (423), gto_balanced (-423)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [8c Ad]
+gto_balanced dealt [4s Ks]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #17, gto_balanced (-425), aggro_pressure (425)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Kc 4h]
+aggro_pressure dealt [Kd Kh]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #18, aggro_pressure (426), gto_balanced (-426)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [2d 6h]
+gto_balanced dealt [8h 7s]
+Redraw reveal for 1: WH1 X6h
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #19, gto_balanced (-428), aggro_pressure (428)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Jc 4h]
+aggro_pressure dealt [Jh Qh]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #20, aggro_pressure (429), gto_balanced (-429)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Th Td]
+gto_balanced dealt [Qd Js]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #21, gto_balanced (-431), aggro_pressure (431)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [3h 7s]
+aggro_pressure dealt [5h Js]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #22, aggro_pressure (432), gto_balanced (-432)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Jc Ts]
+gto_balanced dealt [Ks 7c]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #23, gto_balanced (-434), aggro_pressure (434)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ks Ac]
+aggro_pressure dealt [Jh 7s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #24, aggro_pressure (435), gto_balanced (-435)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [8d 5c]
+gto_balanced dealt [2s 7h]
+Redraw reveal for 1: WH0 X8d
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #25, gto_balanced (-437), aggro_pressure (437)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Td 9h]
+aggro_pressure dealt [6d 9c]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #26, aggro_pressure (438), gto_balanced (-438)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [6s 4s]
+gto_balanced dealt [Th 6d]
+Redraw reveal for 1: WH0 X6s
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #27, gto_balanced (-440), aggro_pressure (440)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Jd Th]
+aggro_pressure dealt [7d Kd]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #28, aggro_pressure (441), gto_balanced (-441)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Js 6h]
+gto_balanced dealt [8c 5s]
+Redraw reveal for 1: WH1 X6h
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #29, gto_balanced (-443), aggro_pressure (443)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [3d 8d]
+aggro_pressure dealt [Jh 6c]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #30, aggro_pressure (444), gto_balanced (-444)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [6h 2c]
+gto_balanced dealt [6d 4s]
+Redraw reveal for 1: WH1 X2c
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #31, gto_balanced (-446), aggro_pressure (446)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [2h Ah]
+aggro_pressure dealt [4s 3s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #32, aggro_pressure (447), gto_balanced (-447)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [9s 8d]
+gto_balanced dealt [8c Tc]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #33, gto_balanced (-449), aggro_pressure (449)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ah 5d]
+aggro_pressure dealt [8c Js]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #34, aggro_pressure (450), gto_balanced (-450)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Jc 3h]
+gto_balanced dealt [3d 3c]
+Redraw reveal for 1: WH1 X3h
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #35, gto_balanced (-452), aggro_pressure (452)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Jh Jc]
+aggro_pressure dealt [5d 7s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #36, aggro_pressure (453), gto_balanced (-453)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Kd 4d]
+gto_balanced dealt [7c Js]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #37, gto_balanced (-455), aggro_pressure (455)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [8h 3d]
+aggro_pressure dealt [5s 5d]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #38, aggro_pressure (456), gto_balanced (-456)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Ts 7d]
+gto_balanced dealt [6h Jc]
+Redraw reveal for 1: WH0 XTs
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #39, gto_balanced (-458), aggro_pressure (458)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [9h 3h]
+aggro_pressure dealt [3c 2c]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #40, aggro_pressure (459), gto_balanced (-459)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Jh Kd]
+gto_balanced dealt [3h Js]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #41, gto_balanced (-461), aggro_pressure (461)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ks 7h]
+aggro_pressure dealt [Ah Kh]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #42, aggro_pressure (462), gto_balanced (-462)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [5s Qd]
+gto_balanced dealt [9s 3d]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #43, gto_balanced (-464), aggro_pressure (464)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [2h Th]
+aggro_pressure dealt [3h Ac]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #44, aggro_pressure (465), gto_balanced (-465)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [8c Tc]
+gto_balanced dealt [8d 5d]
+Redraw reveal for 1: WH0 X8c
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #45, gto_balanced (-467), aggro_pressure (467)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Kc 3h]
+aggro_pressure dealt [Td 8h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #46, aggro_pressure (468), gto_balanced (-468)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Ks 2d]
+gto_balanced dealt [Jd 9d]
+Redraw reveal for 1: WH1 X2d
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #47, gto_balanced (-470), aggro_pressure (470)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ks 4d]
+aggro_pressure dealt [6s 5s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #48, aggro_pressure (471), gto_balanced (-471)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [5d 4d]
+gto_balanced dealt [Ah Qh]
+Redraw reveal for 1: WH1 X4d
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #49, gto_balanced (-473), aggro_pressure (473)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Jh 6c]
+aggro_pressure dealt [3c 8d]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #50, aggro_pressure (474), gto_balanced (-474)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Qs 8d]
+gto_balanced dealt [6s 2s]
+Redraw reveal for 1: WH1 X8d
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #51, gto_balanced (-476), aggro_pressure (476)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [7c Qc]
+aggro_pressure dealt [Jc 9d]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #52, aggro_pressure (477), gto_balanced (-477)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [4d Jd]
+gto_balanced dealt [2s Ts]
+Redraw reveal for 1: WH0 X4d
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #53, gto_balanced (-479), aggro_pressure (479)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Qs Tc]
+aggro_pressure dealt [4s Jh]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #54, aggro_pressure (480), gto_balanced (-480)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Qc Ac]
+gto_balanced dealt [5d Jd]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #55, gto_balanced (-482), aggro_pressure (482)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Jd Js]
+aggro_pressure dealt [3d Td]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #56, aggro_pressure (483), gto_balanced (-483)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Jc 2c]
+gto_balanced dealt [7c 6d]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #57, gto_balanced (-485), aggro_pressure (485)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Qd 6c]
+aggro_pressure dealt [5d 6h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #58, aggro_pressure (486), gto_balanced (-486)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [5h Qc]
+gto_balanced dealt [Qs Ad]
+Redraw reveal for 1: WH0 X5h
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #59, gto_balanced (-488), aggro_pressure (488)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ac 8s]
+aggro_pressure dealt [Td 3s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #60, aggro_pressure (489), gto_balanced (-489)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [6d Qd]
+gto_balanced dealt [Jd 4c]
+Redraw reveal for 1: WH0 X6d
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #61, gto_balanced (-491), aggro_pressure (491)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [4s 5s]
+aggro_pressure dealt [5h 6c]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #62, aggro_pressure (492), gto_balanced (-492)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [7c Js]
+gto_balanced dealt [5s 3d]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #63, gto_balanced (-494), aggro_pressure (494)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [9h Kc]
+aggro_pressure dealt [6d 8d]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #64, aggro_pressure (495), gto_balanced (-495)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [6s 4s]
+gto_balanced dealt [Jd 3c]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #65, gto_balanced (-497), aggro_pressure (497)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [3s 7c]
+aggro_pressure dealt [Ah Js]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #66, aggro_pressure (498), gto_balanced (-498)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [7s Qs]
+gto_balanced dealt [Td Kh]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #67, gto_balanced (-500), aggro_pressure (500)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [4s 2c]
+aggro_pressure dealt [Jc Ts]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #68, aggro_pressure (501), gto_balanced (-501)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Ks Qh]
+gto_balanced dealt [Qd 8h]
+Redraw reveal for 1: WH1 XQh
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #69, gto_balanced (-503), aggro_pressure (503)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [7c 3h]
+aggro_pressure dealt [7h Ah]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #70, aggro_pressure (504), gto_balanced (-504)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [6d 4d]
+gto_balanced dealt [Ac 6c]
+Redraw reveal for 1: WH1 X4d
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #71, gto_balanced (-506), aggro_pressure (506)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Kd 3s]
+aggro_pressure dealt [6h Jd]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #72, aggro_pressure (507), gto_balanced (-507)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Qc Qd]
+gto_balanced dealt [Kc Qs]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #73, gto_balanced (-509), aggro_pressure (509)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [As 7h]
+aggro_pressure dealt [9h 2s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #74, aggro_pressure (510), gto_balanced (-510)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Ad Qc]
+gto_balanced dealt [As 8s]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #75, gto_balanced (-512), aggro_pressure (512)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Qd 8c]
+aggro_pressure dealt [Js Ah]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #76, aggro_pressure (513), gto_balanced (-513)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Qd Ac]
+gto_balanced dealt [2s 7d]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #77, gto_balanced (-515), aggro_pressure (515)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [4s 5d]
+aggro_pressure dealt [Qc 8h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #78, aggro_pressure (516), gto_balanced (-516)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Qs 8s]
+gto_balanced dealt [Tc As]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #79, gto_balanced (-518), aggro_pressure (518)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [2d 5c]
+aggro_pressure dealt [5s Qh]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #80, aggro_pressure (519), gto_balanced (-519)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [7c Kc]
+gto_balanced dealt [7s 3s]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #81, gto_balanced (-521), aggro_pressure (521)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [9c Js]
+aggro_pressure dealt [Qs 8d]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #82, aggro_pressure (522), gto_balanced (-522)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Ts 3d]
+gto_balanced dealt [8h As]
+Redraw reveal for 1: WH1 X3d
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #83, gto_balanced (-524), aggro_pressure (524)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [7c Td]
+aggro_pressure dealt [4s Qc]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #84, aggro_pressure (525), gto_balanced (-525)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Kd Td]
+gto_balanced dealt [9c 6h]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #85, gto_balanced (-527), aggro_pressure (527)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [7c 3h]
+aggro_pressure dealt [8h 7h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #86, aggro_pressure (528), gto_balanced (-528)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [7c 3d]
+gto_balanced dealt [2s 8s]
+Redraw reveal for 1: WH1 X3d
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #87, gto_balanced (-530), aggro_pressure (530)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [3d 2s]
+aggro_pressure dealt [4h Js]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #88, aggro_pressure (531), gto_balanced (-531)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [8d 8s]
+gto_balanced dealt [6s Qh]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #89, gto_balanced (-533), aggro_pressure (533)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [6c Ad]
+aggro_pressure dealt [3h 4c]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #90, aggro_pressure (534), gto_balanced (-534)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [3h 6s]
+gto_balanced dealt [2s Ks]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #91, gto_balanced (-536), aggro_pressure (536)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [6s 2c]
+aggro_pressure dealt [Ad 4h]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #92, aggro_pressure (537), gto_balanced (-537)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [8c 3h]
+gto_balanced dealt [Js 6d]
+Redraw reveal for 1: WH1 X3h
+aggro_pressure redraws hole card 1 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #93, gto_balanced (-539), aggro_pressure (539)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [4h 7h]
+aggro_pressure dealt [Jh Ks]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #94, aggro_pressure (540), gto_balanced (-540)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [4d 5c]
+gto_balanced dealt [6d 4s]
+Redraw reveal for 1: WH0 X4d
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #95, gto_balanced (-542), aggro_pressure (542)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [Ks Ts]
+aggro_pressure dealt [7s Qh]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #96, aggro_pressure (543), gto_balanced (-543)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Ac 7s]
+gto_balanced dealt [6d 5c]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #97, gto_balanced (-545), aggro_pressure (545)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [6d 4h]
+aggro_pressure dealt [Ts 3d]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #98, aggro_pressure (546), gto_balanced (-546)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [Th Jh]
+gto_balanced dealt [4c 3d]
+aggro_pressure raises to 6
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Round #99, gto_balanced (-548), aggro_pressure (548)
+gto_balanced posts blind 1
+aggro_pressure posts blind 2
+gto_balanced dealt [As 3c]
+aggro_pressure dealt [5c 2s]
+gto_balanced folds
+gto_balanced awarded -1
+aggro_pressure awarded 1
+
+Round #100, aggro_pressure (549), gto_balanced (-549)
+aggro_pressure posts blind 1
+gto_balanced posts blind 2
+aggro_pressure dealt [3h 7s]
+gto_balanced dealt [2h 3d]
+Redraw reveal for 1: WH0 X3h
+aggro_pressure redraws hole card 0 and raises to 4
+gto_balanced folds
+aggro_pressure awarded 2
+gto_balanced awarded -2
+
+Final, gto_balanced (-551), aggro_pressure (551)

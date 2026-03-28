@@ -1,0 +1,31 @@
+[tight_aggressive] hand=1 outcome=loss delta=-2 bankroll=0
+[tight_aggressive] hand=2 outcome=loss delta=-6 bankroll=-2
+[tight_aggressive] hand=3 outcome=loss delta=-9 bankroll=-8
+[tight_aggressive] hand=4 outcome=win delta=2 bankroll=-17
+[tight_aggressive] hand=5 outcome=loss delta=-2 bankroll=-15
+[tight_aggressive] hand=6 outcome=loss delta=-1 bankroll=-17
+[tight_aggressive] hand=7 outcome=loss delta=-2 bankroll=-18
+Traceback (most recent call last):
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/player.py", line 245, in <module>
+    run_bot_enhanced(Player(), parse_args())
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/player.py", line 116, in run_bot_enhanced
+    EnhancedRunner(pokerbot, socketfile).run()
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/skeleton/runner.py", line 167, in run
+    action = self.pokerbot.get_action(game_state, round_state, active)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/player.py", line 226, in get_action
+    current_eq = mc_equity(my_cards, board, excluded_extra=dead, n_sims=400 if street > 0 else 250)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/player.py", line 37, in mc_equity
+    my_score = pkrbot.evaluate(my_full + full_board)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/pkrbot.py", line 37, in evaluate
+    s = _score5(combo)
+        ^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/pkrbot.py", line 44, in _score5
+    ranks = sorted([_RANK_VAL[c[0]] for c in cards], reverse=True)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/TACS-PokerBots-2026/bot_tight_aggressive/pkrbot.py", line 44, in <listcomp>
+    ranks = sorted([_RANK_VAL[c[0]] for c in cards], reverse=True)
+                    ~~~~~~~~~^^^^^^
+KeyError: '?'

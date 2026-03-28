@@ -1,0 +1,978 @@
+TACS Pokerbots - mc_equity vs gto_balanced
+
+Round #1, mc_equity (0), gto_balanced (0)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [5c 5h]
+gto_balanced dealt [Qd Jd]
+mc_equity raises to 5
+gto_balanced calls
+Flop [Js 7d Tc], mc_equity (5), gto_balanced (5)
+Redraw reveal for 0: WB2 XTc
+gto_balanced redraws board card 2 and bets 7
+mc_equity response misformatted: 
+mc_equity folds
+mc_equity awarded -5
+gto_balanced awarded 5
+mc_equity response misformatted: 
+
+Round #2, gto_balanced (5), mc_equity (-5)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [6c 3s]
+mc_equity dealt [6h 4s]
+Redraw reveal for 1: WH1 X3s
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity disconnected
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #3, mc_equity (-7), gto_balanced (7)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ah Qc]
+gto_balanced dealt [7c Jh]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #4, gto_balanced (8), mc_equity (-8)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Jd 6s]
+mc_equity dealt [2d 5d]
+Redraw reveal for 1: WH1 X6s
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #5, mc_equity (-7), gto_balanced (7)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [8d 7d]
+gto_balanced dealt [5h Ah]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #6, gto_balanced (8), mc_equity (-8)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2d 6h]
+mc_equity dealt [Qc 7d]
+Redraw reveal for 1: WH0 X2d
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #7, mc_equity (-10), gto_balanced (10)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ad 2s]
+gto_balanced dealt [4s Ac]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #8, gto_balanced (11), mc_equity (-11)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [5d As]
+mc_equity dealt [2h Kd]
+Redraw reveal for 1: WH0 X5d
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #9, mc_equity (-13), gto_balanced (13)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [9d 3s]
+gto_balanced dealt [Js 2h]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #10, gto_balanced (14), mc_equity (-14)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [8d 4c]
+mc_equity dealt [5d Td]
+Redraw reveal for 1: WH1 X4c
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #11, mc_equity (-13), gto_balanced (13)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [2h 4d]
+gto_balanced dealt [9s 4h]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #12, gto_balanced (14), mc_equity (-14)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Qd Ac]
+mc_equity dealt [9s 8h]
+Redraw reveal for 1: WH0 XQd
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #13, mc_equity (-16), gto_balanced (16)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [9d 5d]
+gto_balanced dealt [7s Qs]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #14, gto_balanced (17), mc_equity (-17)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Ad Td]
+mc_equity dealt [Js Ks]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #15, mc_equity (-19), gto_balanced (19)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4s 6h]
+gto_balanced dealt [4d 9d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #16, gto_balanced (20), mc_equity (-20)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Jc Kh]
+mc_equity dealt [9h 6d]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #17, mc_equity (-22), gto_balanced (22)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ac Kd]
+gto_balanced dealt [4c 9c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #18, gto_balanced (23), mc_equity (-23)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [7c Th]
+mc_equity dealt [6s Qs]
+Redraw reveal for 1: WH0 X7c
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #19, mc_equity (-25), gto_balanced (25)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [7s 3d]
+gto_balanced dealt [Jh 3c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #20, gto_balanced (26), mc_equity (-26)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2c Qs]
+mc_equity dealt [Jd 3d]
+Redraw reveal for 1: WH0 X2c
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #21, mc_equity (-28), gto_balanced (28)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [5h Ad]
+gto_balanced dealt [Qs Th]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #22, gto_balanced (29), mc_equity (-29)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4s 9s]
+mc_equity dealt [Qh Js]
+Redraw reveal for 1: WH0 X4s
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #23, mc_equity (-31), gto_balanced (31)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [9c 5s]
+gto_balanced dealt [Jd 8s]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #24, gto_balanced (32), mc_equity (-32)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Kh Td]
+mc_equity dealt [2s Jh]
+Redraw reveal for 1: WH1 XTd
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #25, mc_equity (-34), gto_balanced (34)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Js 3d]
+gto_balanced dealt [Qh Qs]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #26, gto_balanced (35), mc_equity (-35)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Qs 4c]
+mc_equity dealt [Ah 4h]
+Redraw reveal for 1: WH1 X4c
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #27, mc_equity (-37), gto_balanced (37)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [8d 6s]
+gto_balanced dealt [4s 6c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #28, gto_balanced (38), mc_equity (-38)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [6h Td]
+mc_equity dealt [Qd Jd]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #29, mc_equity (-40), gto_balanced (40)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Qh 8d]
+gto_balanced dealt [7d 3h]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #30, gto_balanced (41), mc_equity (-41)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [6d Th]
+mc_equity dealt [2c 5s]
+Redraw reveal for 1: WH0 X6d
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #31, mc_equity (-40), gto_balanced (40)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [9s 5h]
+gto_balanced dealt [Ac Qd]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #32, gto_balanced (41), mc_equity (-41)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Kd Js]
+mc_equity dealt [Ah 7s]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #33, mc_equity (-43), gto_balanced (43)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Th 7c]
+gto_balanced dealt [Ac As]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #34, gto_balanced (44), mc_equity (-44)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [7h 5h]
+mc_equity dealt [Kd 7d]
+gto_balanced folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #35, mc_equity (-43), gto_balanced (43)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [8h 5c]
+gto_balanced dealt [5s 8c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #36, gto_balanced (44), mc_equity (-44)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [8d 2c]
+mc_equity dealt [Jc 5c]
+Redraw reveal for 1: WH1 X2c
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #37, mc_equity (-43), gto_balanced (43)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [8d Ac]
+gto_balanced dealt [6c 4s]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #38, gto_balanced (44), mc_equity (-44)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Jd Qs]
+mc_equity dealt [8d Ac]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #39, mc_equity (-46), gto_balanced (46)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [2h 3d]
+gto_balanced dealt [8s 2d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #40, gto_balanced (47), mc_equity (-47)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4c Th]
+mc_equity dealt [9c Qs]
+Redraw reveal for 1: WH0 X4c
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #41, mc_equity (-49), gto_balanced (49)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Qd 9c]
+gto_balanced dealt [5d Js]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #42, gto_balanced (50), mc_equity (-50)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2h Kh]
+mc_equity dealt [As 7s]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #43, mc_equity (-52), gto_balanced (52)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ks Qh]
+gto_balanced dealt [Kd Qs]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #44, gto_balanced (53), mc_equity (-53)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Jh 7d]
+mc_equity dealt [6d 9d]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #45, mc_equity (-55), gto_balanced (55)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ts 7c]
+gto_balanced dealt [2h 6d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #46, gto_balanced (56), mc_equity (-56)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [3c 7d]
+mc_equity dealt [Kh 7c]
+Redraw reveal for 1: WH0 X3c
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #47, mc_equity (-58), gto_balanced (58)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ac Qh]
+gto_balanced dealt [4d 8h]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #48, gto_balanced (59), mc_equity (-59)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Th Ts]
+mc_equity dealt [6s 8h]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #49, mc_equity (-61), gto_balanced (61)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [3s 2d]
+gto_balanced dealt [8c 9c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #50, gto_balanced (62), mc_equity (-62)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Kh 9c]
+mc_equity dealt [7d 6h]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #51, mc_equity (-64), gto_balanced (64)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [9c 7c]
+gto_balanced dealt [9s 3s]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #52, gto_balanced (65), mc_equity (-65)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Qh Kc]
+mc_equity dealt [Js 6d]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #53, mc_equity (-67), gto_balanced (67)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4c Td]
+gto_balanced dealt [6s 7c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #54, gto_balanced (68), mc_equity (-68)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Ts Jh]
+mc_equity dealt [7d 5h]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #55, mc_equity (-70), gto_balanced (70)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ac Qs]
+gto_balanced dealt [Th Qc]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #56, gto_balanced (71), mc_equity (-71)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [9s 2s]
+mc_equity dealt [Qc 8h]
+gto_balanced folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #57, mc_equity (-70), gto_balanced (70)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [7d Qh]
+gto_balanced dealt [Qd 4s]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #58, gto_balanced (71), mc_equity (-71)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [7h 2s]
+mc_equity dealt [4d 9d]
+Redraw reveal for 1: WH1 X2s
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #59, mc_equity (-70), gto_balanced (70)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4h 2d]
+gto_balanced dealt [4s Ks]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #60, gto_balanced (71), mc_equity (-71)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Td Ad]
+mc_equity dealt [Jc 2h]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #61, mc_equity (-73), gto_balanced (73)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4c 5d]
+gto_balanced dealt [Qs 6c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #62, gto_balanced (74), mc_equity (-74)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [5s 2c]
+mc_equity dealt [Tc Kh]
+Redraw reveal for 1: WH1 X2c
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #63, mc_equity (-76), gto_balanced (76)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4d 5d]
+gto_balanced dealt [As 6c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #64, gto_balanced (77), mc_equity (-77)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Ts 3s]
+mc_equity dealt [2s Qs]
+Redraw reveal for 1: WH1 X3s
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #65, mc_equity (-76), gto_balanced (76)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [9h 7s]
+gto_balanced dealt [7d Qd]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #66, gto_balanced (77), mc_equity (-77)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2h Tc]
+mc_equity dealt [5d Qd]
+Redraw reveal for 1: WH0 X2h
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #67, mc_equity (-76), gto_balanced (76)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [7d Jd]
+gto_balanced dealt [8s 9s]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #68, gto_balanced (77), mc_equity (-77)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2d 7s]
+mc_equity dealt [3s 5h]
+Redraw reveal for 1: WH0 X2d
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #69, mc_equity (-79), gto_balanced (79)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Ad 5d]
+gto_balanced dealt [Tc Kd]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #70, gto_balanced (80), mc_equity (-80)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [9c 7d]
+mc_equity dealt [5s 7c]
+gto_balanced folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #71, mc_equity (-79), gto_balanced (79)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4h 3c]
+gto_balanced dealt [Qd Jh]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #72, gto_balanced (80), mc_equity (-80)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2c 8c]
+mc_equity dealt [Th Qd]
+Redraw reveal for 1: WH0 X2c
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #73, mc_equity (-79), gto_balanced (79)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [8s 8d]
+gto_balanced dealt [Kc 5d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #74, gto_balanced (80), mc_equity (-80)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4c Qd]
+mc_equity dealt [5c 5d]
+Redraw reveal for 1: WH0 X4c
+gto_balanced redraws hole card 0 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #75, mc_equity (-79), gto_balanced (79)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Td Kc]
+gto_balanced dealt [6s Ac]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #76, gto_balanced (80), mc_equity (-80)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4h Tc]
+mc_equity dealt [6d 7c]
+Redraw reveal for 1: WH0 X4h
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #77, mc_equity (-82), gto_balanced (82)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [6d Ks]
+gto_balanced dealt [Jd 5h]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #78, gto_balanced (83), mc_equity (-83)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Ac Kd]
+mc_equity dealt [Qh 4d]
+Redraw reveal for 1: WH1 XKd
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #79, mc_equity (-85), gto_balanced (85)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4s 6s]
+gto_balanced dealt [4c 8s]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #80, gto_balanced (86), mc_equity (-86)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4s Jd]
+mc_equity dealt [7s 9s]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #81, mc_equity (-88), gto_balanced (88)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4d Tc]
+gto_balanced dealt [2d 7d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #82, gto_balanced (89), mc_equity (-89)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Td Kh]
+mc_equity dealt [Qs 7h]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #83, mc_equity (-91), gto_balanced (91)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [7d 3c]
+gto_balanced dealt [Kc Jh]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #84, gto_balanced (92), mc_equity (-92)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Jh 2c]
+mc_equity dealt [Td 9d]
+Redraw reveal for 1: WH1 X2c
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #85, mc_equity (-94), gto_balanced (94)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Tc Ts]
+gto_balanced dealt [6h Qs]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #86, gto_balanced (95), mc_equity (-95)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [2h 3s]
+mc_equity dealt [7s 9d]
+Redraw reveal for 1: WH1 X3s
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #87, mc_equity (-94), gto_balanced (94)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Jd 4d]
+gto_balanced dealt [7d Jc]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #88, gto_balanced (95), mc_equity (-95)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Kh 4d]
+mc_equity dealt [Tc 6h]
+Redraw reveal for 1: WH1 X4d
+gto_balanced redraws hole card 1 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #89, mc_equity (-97), gto_balanced (97)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Tc 9h]
+gto_balanced dealt [2d 7d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #90, gto_balanced (98), mc_equity (-98)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4c 2c]
+mc_equity dealt [Qd 4h]
+Redraw reveal for 1: WH0 X4c
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #91, mc_equity (-100), gto_balanced (100)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [3s 8h]
+gto_balanced dealt [Ks Th]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #92, gto_balanced (101), mc_equity (-101)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [8h 4d]
+mc_equity dealt [Jh 7s]
+Redraw reveal for 1: WH1 X4d
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+mc_equity awarded 1
+
+Round #93, mc_equity (-100), gto_balanced (100)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Kd 7d]
+gto_balanced dealt [4s 2d]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #94, gto_balanced (101), mc_equity (-101)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [Ks 8h]
+mc_equity dealt [6s Jc]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #95, mc_equity (-103), gto_balanced (103)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [8s Td]
+gto_balanced dealt [6c Qd]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #96, gto_balanced (104), mc_equity (-104)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [8d 4h]
+mc_equity dealt [Jh 4s]
+Redraw reveal for 1: WH0 X8d
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #97, mc_equity (-106), gto_balanced (106)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [Qd 2d]
+gto_balanced dealt [Th 8c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #98, gto_balanced (107), mc_equity (-107)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [9d Jh]
+mc_equity dealt [5c 8h]
+gto_balanced raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Round #99, mc_equity (-109), gto_balanced (109)
+mc_equity posts blind 1
+gto_balanced posts blind 2
+mc_equity dealt [4s 4d]
+gto_balanced dealt [7c 4c]
+mc_equity folds
+mc_equity awarded -1
+gto_balanced awarded 1
+
+Round #100, gto_balanced (110), mc_equity (-110)
+gto_balanced posts blind 1
+mc_equity posts blind 2
+gto_balanced dealt [4c 8c]
+mc_equity dealt [2s Kd]
+Redraw reveal for 1: WH0 X4c
+gto_balanced redraws hole card 0 and raises to 5
+mc_equity folds
+gto_balanced awarded 2
+mc_equity awarded -2
+
+Final, mc_equity (-112), gto_balanced (112)

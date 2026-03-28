@@ -1,0 +1,5 @@
+[aggro_pressure] round=1 delta=9 bankroll=0
+[aggro_pressure] round=2 delta=10 bankroll=9
+[aggro_pressure] round=3 delta=9 bankroll=19
+[aggro_pressure] round=4 delta=9 bankroll=28
+[aggro_pressure] round=5 delta=10 bankroll=37

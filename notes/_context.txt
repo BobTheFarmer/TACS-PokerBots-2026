@@ -1,0 +1,113 @@
+_context.txt — internal notes for Claude
+Last updated: 2026-03-28
+================================================================================
+
+CURRENT STATE
+-------------
+Repo: /workspace/TACS-PokerBots-2026 (not a personal git repo, forked from MIT PokerBots)
+Working tree: untouched — no bot written yet
+Submission: python_skeleton/ folder → zip and submit
+
+WHAT THIS IS
+------------
+Build4Good PokerBots 2026, a TACS (Texas A&M) competition sponsored by Jane Street
+and Hudson River Trading. Competitors write autonomous Python poker bots.
+Bots play head-to-head in a single-elimination tournament bracket.
+
+GAME FORMAT
+-----------
+- No-limit Texas Hold'em + REDRAW twist
+- 2 players, 300 hands per match, 400 chips/hand (chips reset each hand)
+- Blinds: SB=1, BB=2
+- Streets: 0=preflop, 3=flop, 4=turn, 5=river (note: no 1 or 2)
+- Redraw: once per hand, before river (street < 5), you can swap:
+    - one of your hole cards ('hole', index 0 or 1), OR
+    - one revealed board card ('board', index 0–2 on flop, 0–3 on turn)
+  The old card is revealed to the opponent
+- Redraw is combined with a betting action in a single RedrawAction(target_type, target_index, action)
+- Total time per match: 180s (skeleton config says 60s — may differ in tournament)
+
+SCORING
+-------
+- Chip wins/losses per hand are summed over 300 hands
+- Higher cumulative chips = winner
+- Single-elimination bracket
+
+THE UNIQUE CHALLENGE
+--------------------
+The redraw mechanic is the interesting strategic layer:
+- You reveal information when you redraw (opponent sees the discarded card)
+- The redraw gives partial information about your hand strength
+- Opponent can infer weakness if you redraw a hole card postflop
+- Strategic uses: improve a weak hand, manipulate board texture, bluff via redraw timing
+- Key decision: is the information you give up worth the card improvement?
+
+API / WHAT TO IMPLEMENT
+-----------------------
+File to edit: python_skeleton/player.py (implement Player class extending Bot)
+Three methods:
+  - handle_new_round(game_state, round_state, active) → nothing
+  - handle_round_over(game_state, terminal_state, active) → nothing
+  - get_action(game_state, round_state, active) → action
+
+Actions available:
+  FoldAction()
+  CallAction()
+  CheckAction()
+  RaiseAction(amount)
+  RedrawAction(target_type, target_index, action)  ← wraps a betting action
+
+State available at get_action:
+  game_state.bankroll      → cumulative chip delta so far
+  game_state.game_clock    → seconds remaining
+  game_state.round_num     → current hand number
+  round_state.street       → 0/3/4/5
+  round_state.hands[active]   → your 2 hole cards (strings like "Ah", "Td")
+  round_state.board        → community cards
+  round_state.pips[active]    → chips you've put in this street
+  round_state.stacks[active]  → chips you have left
+  round_state.redraws_used[active] → bool, whether you've used your redraw
+  round_state.legal_actions() → set of legal action types
+  round_state.raise_bounds()  → (min_raise, max_raise) total amounts
+
+Card format: 'Ah' = Ace of hearts, 'Td' = Ten of diamonds
+Suits: h/d/s/c, Ranks: 2-9, T, J, Q, K, A
+
+EXAMPLE BOTS IN REPO
+---------------------
+check_call_bot/player.py — passive: check/call up to 8 chips, fold otherwise
+                           also redraws weakest hole card (rank ≤ 7) on flop/turn
+player_chatbot/player.py — interactive: human input or GPT-4 (old game variant, ignore)
+
+ALLOWED LIBRARIES
+-----------------
+numpy, numba, cython, pkrbot — that's it (no sklearn, scipy, etc.)
+
+KEY FILES
+---------
+python_skeleton/player.py          — YOUR bot goes here
+python_skeleton/skeleton/bot.py    — base class (do not modify)
+python_skeleton/skeleton/states.py — RoundState, GameState, TerminalState
+python_skeleton/skeleton/actions.py — action types
+config.py                          — local match config (set PLAYER_1_PATH/PLAYER_2_PATH)
+engine.py                          — run with: python3 engine.py
+
+LOCAL DEV
+---------
+- Setup: python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
+- Run match: python3 engine.py (uses config.py)
+- To test your bot: set PLAYER_1_PATH = "./python_skeleton" in config.py
+- To test vs check_call_bot: PLAYER_2_PATH = "./check_call_bot"
+
+NEXT STEP
+---------
+Nothing started yet. First decision: strategy approach.
+Options: rule-based (hand strength + pot odds), Monte Carlo equity estimation,
+or more advanced (CFR-based if time allows).
+The redraw decision is the novel piece to think through carefully.
+
+DO NOT TOUCH
+------------
+- python_skeleton/skeleton/*.py — do not modify (engine depends on exact signatures)
+- Submission is python_skeleton/ folder zipped — do not restructure
+================================================================================

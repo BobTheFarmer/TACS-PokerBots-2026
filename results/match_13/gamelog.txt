@@ -1,0 +1,1072 @@
+TACS Pokerbots - exploiter vs gto_balanced
+
+Round #1, exploiter (0), gto_balanced (0)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [5d Qd]
+gto_balanced dealt [Jh Ac]
+Redraw reveal for 1: WH0 X5d
+exploiter redraws hole card 0 and raises to 5
+gto_balanced raises to 17
+exploiter calls
+Flop [2c Qc 3c], exploiter (17), gto_balanced (17)
+Redraw reveal for 0: WH0 XJh
+gto_balanced redraws hole card 0 and bets 25
+exploiter calls
+Turn [2c Qc 3c 3h], exploiter (42), gto_balanced (42)
+gto_balanced bets 63
+exploiter calls
+River [2c Qc 3c 3h 7h], exploiter (105), gto_balanced (105)
+gto_balanced bets 147
+exploiter calls
+exploiter shows [6d Qd]
+gto_balanced shows [7s Ac]
+exploiter awarded 252
+gto_balanced awarded -252
+
+Round #2, gto_balanced (-252), exploiter (252)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [7s 6h]
+exploiter dealt [7h Ah]
+Redraw reveal for 1: WH0 X7s
+gto_balanced redraws hole card 0 and raises to 5
+exploiter raises to 17
+gto_balanced folds
+gto_balanced awarded -5
+exploiter awarded 5
+
+Round #3, exploiter (257), gto_balanced (-257)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9d 5h]
+gto_balanced dealt [Jc 6s]
+exploiter raises to 5
+Redraw reveal for 0: WH1 X6s
+gto_balanced redraws hole card 1 and folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #4, gto_balanced (-259), exploiter (259)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [9h Th]
+exploiter dealt [Jd 6h]
+gto_balanced raises to 5
+exploiter raises to 17
+gto_balanced calls
+Flop [Kh 3d 9c], gto_balanced (17), exploiter (17)
+Redraw reveal for 0: WH1 X6h
+exploiter redraws hole card 1 and checks
+Redraw reveal for 1: WH1 XTh
+gto_balanced redraws hole card 1 and bets 26
+exploiter calls
+Turn [Kh 3d 9c 3h], gto_balanced (43), exploiter (43)
+exploiter checks
+gto_balanced bets 56
+exploiter calls
+River [Kh 3d 9c 3h Ts], gto_balanced (99), exploiter (99)
+exploiter checks
+gto_balanced bets 134
+exploiter calls
+gto_balanced shows [9h 7s]
+exploiter shows [Jd 8c]
+gto_balanced awarded 233
+exploiter awarded -233
+
+Round #5, exploiter (26), gto_balanced (-26)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ks 6s]
+gto_balanced dealt [6d Qc]
+exploiter raises to 5
+Redraw reveal for 0: WH0 X6d
+gto_balanced redraws hole card 0 and calls
+Flop [7h 3d 5h], exploiter (5), gto_balanced (5)
+gto_balanced checks
+Redraw reveal for 1: WH0 XKs
+exploiter redraws hole card 0 and checks
+Turn [7h 3d 5h 9c], exploiter (5), gto_balanced (5)
+gto_balanced checks
+exploiter bets 5
+gto_balanced calls
+River [7h 3d 5h 9c Kc], exploiter (10), gto_balanced (10)
+gto_balanced checks
+exploiter checks
+exploiter shows [Js 6s]
+gto_balanced shows [2d Qc]
+exploiter awarded -10
+gto_balanced awarded 10
+
+Round #6, gto_balanced (-16), exploiter (16)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Ah 9d]
+exploiter dealt [3c 2h]
+Redraw reveal for 1: WH1 X9d
+gto_balanced redraws hole card 1 and raises to 5
+Redraw reveal for 0: WH0 X3c
+exploiter redraws hole card 0 and folds
+gto_balanced awarded 2
+exploiter awarded -2
+
+Round #7, exploiter (14), gto_balanced (-14)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ah Td]
+gto_balanced dealt [7s Qc]
+exploiter raises to 5
+gto_balanced calls
+Flop [3s 4d Th], exploiter (5), gto_balanced (5)
+Redraw reveal for 0: WH0 X7s
+gto_balanced redraws hole card 0 and checks
+Redraw reveal for 1: WH0 XAh
+exploiter redraws hole card 0 and bets 6
+gto_balanced calls
+Turn [3s 4d Th 8s], exploiter (11), gto_balanced (11)
+gto_balanced checks
+exploiter bets 14
+gto_balanced calls
+River [3s 4d Th 8s 3d], exploiter (25), gto_balanced (25)
+gto_balanced checks
+exploiter bets 32
+gto_balanced calls
+exploiter shows [Kh Td]
+gto_balanced shows [Jd Qc]
+exploiter awarded 57
+gto_balanced awarded -57
+
+Round #8, gto_balanced (-71), exploiter (71)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [2s Ah]
+exploiter dealt [6s 8d]
+Redraw reveal for 1: WH0 X2s
+gto_balanced redraws hole card 0 and raises to 5
+Redraw reveal for 0: WH0 X6s
+exploiter redraws hole card 0 and calls
+Flop [9h Jh 2c], gto_balanced (5), exploiter (5)
+exploiter checks
+gto_balanced checks
+Turn [9h Jh 2c 5c], gto_balanced (5), exploiter (5)
+exploiter checks
+gto_balanced bets 4
+exploiter calls
+River [9h Jh 2c 5c 8s], gto_balanced (9), exploiter (9)
+exploiter bets 11
+gto_balanced calls
+gto_balanced shows [4d Ah]
+exploiter shows [7c 8d]
+gto_balanced awarded -20
+exploiter awarded 20
+
+Round #9, exploiter (91), gto_balanced (-91)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Qd 9h]
+gto_balanced dealt [4h 8c]
+Redraw reveal for 1: WH1 X9h
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #10, gto_balanced (-93), exploiter (93)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [5h Js]
+exploiter dealt [7s 2s]
+gto_balanced raises to 5
+Redraw reveal for 0: WH1 X2s
+exploiter redraws hole card 1 and folds
+gto_balanced awarded 2
+exploiter awarded -2
+
+Round #11, exploiter (91), gto_balanced (-91)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [3d 6d]
+gto_balanced dealt [7d 5h]
+Redraw reveal for 1: WH0 X3d
+exploiter redraws hole card 0 and folds
+exploiter awarded -1
+gto_balanced awarded 1
+
+Round #12, gto_balanced (-90), exploiter (90)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [9s 4d]
+exploiter dealt [5d Qd]
+Redraw reveal for 1: WH1 X4d
+gto_balanced redraws hole card 1 and folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #13, exploiter (91), gto_balanced (-91)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [As Ac]
+gto_balanced dealt [Js Ts]
+exploiter raises to 5
+Redraw reveal for 0: WH0 XJs
+gto_balanced redraws hole card 0 and calls
+Flop [2h 6h 4h], exploiter (5), gto_balanced (5)
+gto_balanced checks
+Redraw reveal for 1: WB0 X2h
+exploiter redraws board card 0 and bets 6
+gto_balanced response misformatted: 
+gto_balanced folds
+exploiter awarded 5
+gto_balanced awarded -5
+gto_balanced response misformatted: 
+
+Round #14, gto_balanced (-96), exploiter (96)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [6c Td]
+exploiter dealt [Js Qd]
+gto_balanced disconnected
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #15, exploiter (97), gto_balanced (-97)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9h 2c]
+gto_balanced dealt [5d 6h]
+Redraw reveal for 1: WH1 X2c
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #16, gto_balanced (-99), exploiter (99)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [6d 4h]
+exploiter dealt [6c 9h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #17, exploiter (100), gto_balanced (-100)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Jh 8h]
+gto_balanced dealt [8c Qc]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #18, gto_balanced (-102), exploiter (102)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Js 2c]
+exploiter dealt [5c 9s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #19, exploiter (103), gto_balanced (-103)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ts 4h]
+gto_balanced dealt [4c 3c]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #20, gto_balanced (-105), exploiter (105)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [8c 7c]
+exploiter dealt [2s 6h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #21, exploiter (106), gto_balanced (-106)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [8s Kc]
+gto_balanced dealt [Qs Ac]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #22, gto_balanced (-108), exploiter (108)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Ah Ts]
+exploiter dealt [4s Ac]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #23, exploiter (109), gto_balanced (-109)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9h Qc]
+gto_balanced dealt [4d Qd]
+Redraw reveal for 1: WH0 X9h
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #24, gto_balanced (-111), exploiter (111)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [8h Qh]
+exploiter dealt [Qd Kc]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #25, exploiter (112), gto_balanced (-112)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ks 7h]
+gto_balanced dealt [5d Qh]
+Redraw reveal for 1: WH1 X7h
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #26, gto_balanced (-114), exploiter (114)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [3c 5h]
+exploiter dealt [Ah Ks]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #27, exploiter (115), gto_balanced (-115)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Qc 9h]
+gto_balanced dealt [5c Qs]
+Redraw reveal for 1: WH1 X9h
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #28, gto_balanced (-117), exploiter (117)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [4h 8c]
+exploiter dealt [Qc 8d]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #29, exploiter (118), gto_balanced (-118)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ks 6d]
+gto_balanced dealt [Ts 7s]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #30, gto_balanced (-120), exploiter (120)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [6h 6d]
+exploiter dealt [Jc 9d]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #31, exploiter (121), gto_balanced (-121)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [7h 3d]
+gto_balanced dealt [Jd Kh]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+gto_balanced awarded 1
+
+Round #32, gto_balanced (-120), exploiter (120)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Ad As]
+exploiter dealt [Kh 3s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #33, exploiter (121), gto_balanced (-121)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9s 5s]
+gto_balanced dealt [Ah 3d]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #34, gto_balanced (-123), exploiter (123)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [2s 7d]
+exploiter dealt [2d Th]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #35, exploiter (124), gto_balanced (-124)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9c 7c]
+gto_balanced dealt [5d 8s]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #36, gto_balanced (-126), exploiter (126)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [9s 5c]
+exploiter dealt [6d 3s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #37, exploiter (127), gto_balanced (-127)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [3s 7h]
+gto_balanced dealt [Kh 7s]
+Redraw reveal for 1: WH1 X7h
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #38, gto_balanced (-129), exploiter (129)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Ks 5c]
+exploiter dealt [Jd 2c]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #39, exploiter (130), gto_balanced (-130)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [6s 9c]
+gto_balanced dealt [7h Qh]
+Redraw reveal for 1: WH0 X6s
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #40, gto_balanced (-132), exploiter (132)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Ad Kd]
+exploiter dealt [7h Qd]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #41, exploiter (133), gto_balanced (-133)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Kh Qc]
+gto_balanced dealt [7h 9h]
+Redraw reveal for 1: WH0 XKh
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #42, gto_balanced (-135), exploiter (135)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [3c Js]
+exploiter dealt [Tc Ks]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #43, exploiter (136), gto_balanced (-136)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [6s 6d]
+gto_balanced dealt [2h 5h]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #44, gto_balanced (-138), exploiter (138)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jh 6s]
+exploiter dealt [2s 2d]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #45, exploiter (139), gto_balanced (-139)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9h Jd]
+gto_balanced dealt [6s Ts]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #46, gto_balanced (-141), exploiter (141)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [5h 4d]
+exploiter dealt [7c 8s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #47, exploiter (142), gto_balanced (-142)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Qd 5c]
+gto_balanced dealt [Jh Qs]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #48, gto_balanced (-144), exploiter (144)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jc Ad]
+exploiter dealt [Qh 8c]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #49, exploiter (145), gto_balanced (-145)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [6h 8d]
+gto_balanced dealt [Ac Jc]
+Redraw reveal for 1: WH0 X6h
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #50, gto_balanced (-147), exploiter (147)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jc Ks]
+exploiter dealt [8h Ts]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #51, exploiter (148), gto_balanced (-148)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ts 4c]
+gto_balanced dealt [Kd 4d]
+Redraw reveal for 1: WH1 X4c
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #52, gto_balanced (-150), exploiter (150)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Tc 2h]
+exploiter dealt [9s Jh]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #53, exploiter (151), gto_balanced (-151)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Jd Jc]
+gto_balanced dealt [Td 4s]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #54, gto_balanced (-153), exploiter (153)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [4d 6h]
+exploiter dealt [Th 4h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #55, exploiter (154), gto_balanced (-154)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Tc Qs]
+gto_balanced dealt [6c 5c]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #56, gto_balanced (-156), exploiter (156)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jd Qd]
+exploiter dealt [4d 2s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #57, exploiter (157), gto_balanced (-157)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Qc 6c]
+gto_balanced dealt [7c 5c]
+Redraw reveal for 1: WH1 X6c
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #58, gto_balanced (-159), exploiter (159)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [4s 2s]
+exploiter dealt [Tc 5c]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #59, exploiter (160), gto_balanced (-160)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Qc Ac]
+gto_balanced dealt [Th Jh]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #60, gto_balanced (-162), exploiter (162)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [6d 6h]
+exploiter dealt [5s Js]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #61, exploiter (163), gto_balanced (-163)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Ks Js]
+gto_balanced dealt [9d 7h]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #62, gto_balanced (-165), exploiter (165)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [9h 7h]
+exploiter dealt [Qs Tc]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #63, exploiter (166), gto_balanced (-166)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [6d 7d]
+gto_balanced dealt [Qc Th]
+Redraw reveal for 1: WH1 X7d
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #64, gto_balanced (-168), exploiter (168)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jc Qs]
+exploiter dealt [Qc Jh]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #65, exploiter (169), gto_balanced (-169)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Jh 5c]
+gto_balanced dealt [Ad 7s]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #66, gto_balanced (-171), exploiter (171)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [2c Qc]
+exploiter dealt [Qh Ac]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #67, exploiter (172), gto_balanced (-172)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9c Qd]
+gto_balanced dealt [Kc 9s]
+Redraw reveal for 1: WH0 X9c
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #68, gto_balanced (-174), exploiter (174)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [5c Qd]
+exploiter dealt [8c 6h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #69, exploiter (175), gto_balanced (-175)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [7c Js]
+gto_balanced dealt [3s Ts]
+Redraw reveal for 1: WH0 X7c
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #70, gto_balanced (-177), exploiter (177)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Ah Ks]
+exploiter dealt [8h Js]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #71, exploiter (178), gto_balanced (-178)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [6c 2c]
+gto_balanced dealt [6h Kc]
+Redraw reveal for 1: WH1 X2c
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #72, gto_balanced (-180), exploiter (180)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [7d Ts]
+exploiter dealt [7s Qh]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #73, exploiter (181), gto_balanced (-181)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Jh 6c]
+gto_balanced dealt [3h 4c]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #74, gto_balanced (-183), exploiter (183)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [8c As]
+exploiter dealt [Th 8h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #75, exploiter (184), gto_balanced (-184)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9c 3s]
+gto_balanced dealt [Qs 8s]
+Redraw reveal for 1: WH1 X3s
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #76, gto_balanced (-186), exploiter (186)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jc 8c]
+exploiter dealt [Jd Qc]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #77, exploiter (187), gto_balanced (-187)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [5s 3d]
+gto_balanced dealt [Ad 3h]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #78, gto_balanced (-189), exploiter (189)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [7c 3h]
+exploiter dealt [4c 8c]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #79, exploiter (190), gto_balanced (-190)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [3h 7h]
+gto_balanced dealt [9s Jh]
+Redraw reveal for 1: WH1 X7h
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #80, gto_balanced (-192), exploiter (192)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [As 7c]
+exploiter dealt [4s Qh]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #81, exploiter (193), gto_balanced (-193)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Th Kd]
+gto_balanced dealt [3h 8s]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #82, gto_balanced (-195), exploiter (195)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [8c 5h]
+exploiter dealt [2d Js]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #83, exploiter (196), gto_balanced (-196)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Kh Kd]
+gto_balanced dealt [8c 4s]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #84, gto_balanced (-198), exploiter (198)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Kc 9d]
+exploiter dealt [4s As]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #85, exploiter (199), gto_balanced (-199)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9c 7h]
+gto_balanced dealt [Jh Ac]
+Redraw reveal for 1: WH1 X7h
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #86, gto_balanced (-201), exploiter (201)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Jd Ts]
+exploiter dealt [9c 3s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #87, exploiter (202), gto_balanced (-202)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [4h 7h]
+gto_balanced dealt [Kh 4d]
+Redraw reveal for 1: WH0 X4h
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #88, gto_balanced (-204), exploiter (204)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Qd 3d]
+exploiter dealt [As 6h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #89, exploiter (205), gto_balanced (-205)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [9c 6c]
+gto_balanced dealt [Jd Jc]
+Redraw reveal for 1: WH1 X6c
+exploiter redraws hole card 1 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #90, gto_balanced (-207), exploiter (207)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [5s 3d]
+exploiter dealt [Kc Ad]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #91, exploiter (208), gto_balanced (-208)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [3d Ad]
+gto_balanced dealt [5h 8d]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #92, gto_balanced (-210), exploiter (210)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Kd 6d]
+exploiter dealt [Kh 6s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #93, exploiter (211), gto_balanced (-211)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [7c Jd]
+gto_balanced dealt [8h Th]
+Redraw reveal for 1: WH0 X7c
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #94, gto_balanced (-213), exploiter (213)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [7c 3h]
+exploiter dealt [Ah 7s]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #95, exploiter (214), gto_balanced (-214)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [4s Ac]
+gto_balanced dealt [7s 3d]
+Redraw reveal for 1: WH0 X4s
+exploiter redraws hole card 0 and raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #96, gto_balanced (-216), exploiter (216)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [Th Ah]
+exploiter dealt [6s 5h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #97, exploiter (217), gto_balanced (-217)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Tc 6h]
+gto_balanced dealt [Jh 4h]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #98, gto_balanced (-219), exploiter (219)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [7h Js]
+exploiter dealt [3c Jc]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Round #99, exploiter (220), gto_balanced (-220)
+exploiter posts blind 1
+gto_balanced posts blind 2
+exploiter dealt [Qh 7s]
+gto_balanced dealt [4c 2c]
+exploiter raises to 5
+gto_balanced folds
+exploiter awarded 2
+gto_balanced awarded -2
+
+Round #100, gto_balanced (-222), exploiter (222)
+gto_balanced posts blind 1
+exploiter posts blind 2
+gto_balanced dealt [8c 6c]
+exploiter dealt [9s 4h]
+gto_balanced folds
+gto_balanced awarded -1
+exploiter awarded 1
+
+Final, exploiter (223), gto_balanced (-223)

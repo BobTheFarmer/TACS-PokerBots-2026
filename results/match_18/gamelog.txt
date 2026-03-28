@@ -1,0 +1,1041 @@
+TACS Pokerbots - exploiter vs mc_equity
+
+Round #1, exploiter (0), mc_equity (0)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Js Qd]
+mc_equity dealt [Qc Kd]
+Redraw reveal for 1: WH0 XJs
+exploiter redraws hole card 0 and raises to 5
+mc_equity calls
+Flop [6s 6d 3s], exploiter (5), mc_equity (5)
+Redraw reveal for 0: WB2 X3s
+mc_equity redraws board card 2 and checks
+exploiter checks
+Turn [6s 6d 8c 3c], exploiter (5), mc_equity (5)
+mc_equity checks
+exploiter checks
+River [6s 6d 8c 3c Ac], exploiter (5), mc_equity (5)
+mc_equity checks
+exploiter checks
+exploiter shows [6h Qd]
+mc_equity shows [Qc Kd]
+exploiter awarded 5
+mc_equity awarded -5
+
+Round #2, mc_equity (-5), exploiter (5)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [4c 3h]
+exploiter dealt [Kh 9c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #3, exploiter (6), mc_equity (-6)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [3s Th]
+mc_equity dealt [7s 6d]
+Redraw reveal for 1: WH0 X3s
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #4, mc_equity (-8), exploiter (8)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Js Ad]
+exploiter dealt [8d Kc]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X8d
+exploiter redraws hole card 0 and calls
+Flop [9s 6h 5c], mc_equity (5), exploiter (5)
+exploiter checks
+Redraw reveal for 1: WB1 X6h
+mc_equity redraws board card 1 and checks
+Turn [9s 7d 5c 4h], mc_equity (5), exploiter (5)
+exploiter checks
+mc_equity bets 4
+exploiter calls
+River [9s 7d 5c 4h Ts], mc_equity (9), exploiter (9)
+exploiter checks
+mc_equity checks
+mc_equity shows [Js Ad]
+exploiter shows [7h Kc]
+mc_equity awarded -9
+exploiter awarded 9
+
+Round #5, exploiter (17), mc_equity (-17)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [5h 4c]
+mc_equity dealt [2s 6c]
+Redraw reveal for 1: WH1 X4c
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #6, mc_equity (-19), exploiter (19)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Jh Ah]
+exploiter dealt [9d As]
+mc_equity raises to 5
+exploiter raises to 17
+mc_equity raises to 400
+exploiter calls
+mc_equity shows [Jh Ah]
+exploiter shows [9d As]
+mc_equity awarded 400
+exploiter awarded -400
+
+Round #7, exploiter (-381), mc_equity (381)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Kd 8d]
+mc_equity dealt [8h 2s]
+Redraw reveal for 1: WH1 X8d
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #8, mc_equity (379), exploiter (-379)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [5c Kh]
+exploiter dealt [7d Td]
+mc_equity raises to 5
+Redraw reveal for 0: WH0 X7d
+exploiter redraws hole card 0 and raises to 17
+mc_equity raises to 400
+exploiter calls
+mc_equity shows [5c Kh]
+exploiter shows [6d Td]
+mc_equity awarded 400
+exploiter awarded -400
+
+Round #9, exploiter (-779), mc_equity (779)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [2s 2c]
+mc_equity dealt [3d Jd]
+exploiter raises to 5
+mc_equity calls
+Flop [9d Ah 8s], exploiter (5), mc_equity (5)
+Redraw reveal for 0: WB2 X8s
+mc_equity redraws board card 2 and checks
+exploiter checks
+Turn [9d Ah 4h 5c], exploiter (5), mc_equity (5)
+mc_equity checks
+exploiter checks
+River [9d Ah 4h 5c 6h], exploiter (5), mc_equity (5)
+mc_equity checks
+exploiter bets 4
+mc_equity folds
+exploiter awarded 5
+mc_equity awarded -5
+
+Round #10, mc_equity (774), exploiter (-774)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [2c 7d]
+exploiter dealt [3s Ad]
+mc_equity raises to 5
+exploiter raises to 17
+mc_equity folds
+mc_equity awarded -5
+exploiter awarded 5
+
+Round #11, exploiter (-769), mc_equity (769)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Qc 4s]
+mc_equity dealt [As Ac]
+Redraw reveal for 1: WH1 X4s
+exploiter redraws hole card 1 and raises to 5
+mc_equity raises to 17
+exploiter calls
+Flop [6h 7c 8c], exploiter (17), mc_equity (17)
+Redraw reveal for 0: WB0 X6h
+mc_equity redraws board card 0 and checks
+exploiter bets 17
+mc_equity response misformatted: 
+mc_equity folds
+exploiter awarded 17
+mc_equity awarded -17
+mc_equity response misformatted: 
+
+Round #12, mc_equity (752), exploiter (-752)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [2s Qd]
+exploiter dealt [2c 3d]
+mc_equity disconnected
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #13, exploiter (-751), mc_equity (751)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Ah 5h]
+mc_equity dealt [7h 9h]
+Redraw reveal for 1: WH1 X5h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #14, mc_equity (749), exploiter (-749)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [8h 2h]
+exploiter dealt [2s 6s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #15, exploiter (-748), mc_equity (748)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [6s 5c]
+mc_equity dealt [Ac 4d]
+Redraw reveal for 1: WH0 X6s
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #16, mc_equity (746), exploiter (-746)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Tc 8h]
+exploiter dealt [Qd 6d]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #17, exploiter (-745), mc_equity (745)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [7s 2h]
+mc_equity dealt [9s Qs]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #18, mc_equity (743), exploiter (-743)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [9c 8h]
+exploiter dealt [Ah 5c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #19, exploiter (-742), mc_equity (742)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Th Kc]
+mc_equity dealt [Ts Ah]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #20, mc_equity (740), exploiter (-740)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [9s 7d]
+exploiter dealt [Ks Ad]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #21, exploiter (-739), mc_equity (739)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Ah 6h]
+mc_equity dealt [Jd 5d]
+Redraw reveal for 1: WH1 X6h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #22, mc_equity (737), exploiter (-737)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Td Ks]
+exploiter dealt [Jc Kd]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #23, exploiter (-736), mc_equity (736)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [2s 9h]
+mc_equity dealt [6s Td]
+Redraw reveal for 1: WH0 X2s
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #24, mc_equity (734), exploiter (-734)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [4d 9d]
+exploiter dealt [Jh 7s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #25, exploiter (-733), mc_equity (733)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Jh Tc]
+mc_equity dealt [8h 4d]
+Redraw reveal for 1: WH0 XJh
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #26, mc_equity (731), exploiter (-731)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [5h 4s]
+exploiter dealt [Ac Qh]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #27, exploiter (-730), mc_equity (730)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [5h 3h]
+mc_equity dealt [6h 6c]
+Redraw reveal for 1: WH1 X3h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #28, mc_equity (728), exploiter (-728)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [4s 3h]
+exploiter dealt [Th 6c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #29, exploiter (-727), mc_equity (727)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Qs 8c]
+mc_equity dealt [Qc Ac]
+Redraw reveal for 1: WH1 X8c
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #30, mc_equity (725), exploiter (-725)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Kc 4d]
+exploiter dealt [Ac Js]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #31, exploiter (-724), mc_equity (724)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Ah Qs]
+mc_equity dealt [Jd Ks]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #32, mc_equity (722), exploiter (-722)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [3c 7d]
+exploiter dealt [Kc 5s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #33, exploiter (-721), mc_equity (721)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [6c 3d]
+mc_equity dealt [7h As]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #34, mc_equity (719), exploiter (-719)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Qh 2s]
+exploiter dealt [Th Ks]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #35, exploiter (-718), mc_equity (718)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Ts 8h]
+mc_equity dealt [Ah 9c]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #36, mc_equity (716), exploiter (-716)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [3s 2c]
+exploiter dealt [Ad Ks]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #37, exploiter (-715), mc_equity (715)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Kh Jh]
+mc_equity dealt [Ac 9d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #38, mc_equity (713), exploiter (-713)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [8c 9c]
+exploiter dealt [9d Kd]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #39, exploiter (-712), mc_equity (712)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [3c As]
+mc_equity dealt [4d 8d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #40, mc_equity (710), exploiter (-710)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [6d Ts]
+exploiter dealt [Ks Qh]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #41, exploiter (-709), mc_equity (709)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [6h Kd]
+mc_equity dealt [Jh 7d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #42, mc_equity (707), exploiter (-707)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [6d Kc]
+exploiter dealt [Qs 3c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #43, exploiter (-706), mc_equity (706)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [3d 6d]
+mc_equity dealt [5d Td]
+Redraw reveal for 1: WH0 X3d
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #44, mc_equity (704), exploiter (-704)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [4h 3s]
+exploiter dealt [8c 9c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #45, exploiter (-703), mc_equity (703)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [4c Jc]
+mc_equity dealt [5d As]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #46, mc_equity (701), exploiter (-701)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Kd Kh]
+exploiter dealt [Js 4h]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #47, exploiter (-700), mc_equity (700)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Td 8d]
+mc_equity dealt [8c Tc]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #48, mc_equity (698), exploiter (-698)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [7c 2s]
+exploiter dealt [8c Jc]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #49, exploiter (-697), mc_equity (697)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9h 3d]
+mc_equity dealt [5s Ac]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #50, mc_equity (695), exploiter (-695)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Qh Jh]
+exploiter dealt [6s 3s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #51, exploiter (-694), mc_equity (694)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [7h 7c]
+mc_equity dealt [Ad 7d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #52, mc_equity (692), exploiter (-692)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [9h Qs]
+exploiter dealt [Kh 5s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #53, exploiter (-691), mc_equity (691)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Th 9d]
+mc_equity dealt [Qs 6h]
+Redraw reveal for 1: WH1 X9d
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #54, mc_equity (689), exploiter (-689)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [8c Th]
+exploiter dealt [2h Js]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #55, exploiter (-688), mc_equity (688)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Qs 4s]
+mc_equity dealt [Js 2d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #56, mc_equity (686), exploiter (-686)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [3h 9c]
+exploiter dealt [Kh 7h]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #57, exploiter (-685), mc_equity (685)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9s 9c]
+mc_equity dealt [5s 5h]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #58, mc_equity (683), exploiter (-683)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [7h 9c]
+exploiter dealt [6d Tc]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #59, exploiter (-682), mc_equity (682)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9c 3d]
+mc_equity dealt [8h 6c]
+Redraw reveal for 1: WH1 X3d
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #60, mc_equity (680), exploiter (-680)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Kd 2d]
+exploiter dealt [5d 3h]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #61, exploiter (-679), mc_equity (679)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Ks 2s]
+mc_equity dealt [8d Ah]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #62, mc_equity (677), exploiter (-677)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [6d Td]
+exploiter dealt [3d Kh]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #63, exploiter (-676), mc_equity (676)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [7d 2h]
+mc_equity dealt [6c Td]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #64, mc_equity (674), exploiter (-674)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Jd 8d]
+exploiter dealt [Js 7s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #65, exploiter (-673), mc_equity (673)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [4s 6h]
+mc_equity dealt [5d Jc]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #66, mc_equity (671), exploiter (-671)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [3s Js]
+exploiter dealt [Th Ad]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #67, exploiter (-670), mc_equity (670)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Kd 9h]
+mc_equity dealt [Qs Kc]
+Redraw reveal for 1: WH1 X9h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #68, mc_equity (668), exploiter (-668)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Ac 7d]
+exploiter dealt [Jh 6s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #69, exploiter (-667), mc_equity (667)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Th Js]
+mc_equity dealt [8c 8h]
+Redraw reveal for 1: WH1 XJs
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #70, mc_equity (665), exploiter (-665)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Ks Qh]
+exploiter dealt [Jc 3s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #71, exploiter (-664), mc_equity (664)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Jc 2h]
+mc_equity dealt [Jd 3h]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #72, mc_equity (662), exploiter (-662)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [4d Jd]
+exploiter dealt [9h 9s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #73, exploiter (-661), mc_equity (661)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [6d 8d]
+mc_equity dealt [7d Jc]
+Redraw reveal for 1: WH0 X6d
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #74, mc_equity (659), exploiter (-659)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [6c 3s]
+exploiter dealt [5d 5s]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #75, exploiter (-658), mc_equity (658)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9s 2h]
+mc_equity dealt [6d Th]
+Redraw reveal for 1: WH1 X2h
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #76, mc_equity (656), exploiter (-656)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [5c Ks]
+exploiter dealt [Kh Th]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #77, exploiter (-655), mc_equity (655)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9d 9c]
+mc_equity dealt [Ac 3d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #78, mc_equity (653), exploiter (-653)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [9c 2s]
+exploiter dealt [4s Tc]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #79, exploiter (-652), mc_equity (652)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [8c 9c]
+mc_equity dealt [2s 4c]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #80, mc_equity (650), exploiter (-650)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Qs 7d]
+exploiter dealt [3c 3d]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #81, exploiter (-649), mc_equity (649)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9s 8s]
+mc_equity dealt [Ts 3d]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #82, mc_equity (647), exploiter (-647)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [2s 4c]
+exploiter dealt [4d 6c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #83, exploiter (-646), mc_equity (646)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [9c Td]
+mc_equity dealt [8h Js]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #84, mc_equity (644), exploiter (-644)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [As Th]
+exploiter dealt [9s 8h]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #85, exploiter (-643), mc_equity (643)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [8s 7h]
+mc_equity dealt [2h Ah]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #86, mc_equity (641), exploiter (-641)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [Jh Ac]
+exploiter dealt [7h 6h]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #87, exploiter (-640), mc_equity (640)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [2c 7d]
+mc_equity dealt [8d 7h]
+Redraw reveal for 1: WH0 X2c
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #88, mc_equity (638), exploiter (-638)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [4h 6c]
+exploiter dealt [5s Jh]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #89, exploiter (-637), mc_equity (637)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Ks 3s]
+mc_equity dealt [6c 2s]
+Redraw reveal for 1: WH1 X3s
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #90, mc_equity (635), exploiter (-635)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [2d 9c]
+exploiter dealt [8c 9h]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #91, exploiter (-634), mc_equity (634)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Qc Jc]
+mc_equity dealt [7c 4c]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #92, mc_equity (632), exploiter (-632)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [8c 9c]
+exploiter dealt [6h 8d]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #93, exploiter (-631), mc_equity (631)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [2c 5h]
+mc_equity dealt [7c 3s]
+Redraw reveal for 1: WH1 X5h
+exploiter redraws hole card 1 and folds
+exploiter awarded -1
+mc_equity awarded 1
+
+Round #94, mc_equity (632), exploiter (-632)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [2s 4d]
+exploiter dealt [Jd 6d]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #95, exploiter (-631), mc_equity (631)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [3d Jd]
+mc_equity dealt [2d 8c]
+Redraw reveal for 1: WH0 X3d
+exploiter redraws hole card 0 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #96, mc_equity (629), exploiter (-629)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [2s 9s]
+exploiter dealt [8h 8d]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #97, exploiter (-628), mc_equity (628)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Td 3s]
+mc_equity dealt [5h Ah]
+Redraw reveal for 1: WH1 X3s
+exploiter redraws hole card 1 and raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #98, mc_equity (626), exploiter (-626)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [6s 6c]
+exploiter dealt [8s 8c]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Round #99, exploiter (-625), mc_equity (625)
+exploiter posts blind 1
+mc_equity posts blind 2
+exploiter dealt [Jc 3h]
+mc_equity dealt [7c Kc]
+exploiter raises to 5
+mc_equity folds
+exploiter awarded 2
+mc_equity awarded -2
+
+Round #100, mc_equity (623), exploiter (-623)
+mc_equity posts blind 1
+exploiter posts blind 2
+mc_equity dealt [5s 7h]
+exploiter dealt [Kh 4d]
+mc_equity folds
+mc_equity awarded -1
+exploiter awarded 1
+
+Final, exploiter (-622), mc_equity (622)
