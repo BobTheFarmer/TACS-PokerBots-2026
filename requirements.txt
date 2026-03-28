@@ -1,0 +1,6 @@
+pkrbot
+cython
+numpy
+numba
+pytest
+pytest-timeout
